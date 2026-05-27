@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1792989677613359253",
+    "created_at": "2024-05-22T05:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T06:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793147751045406765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsEpiphany1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793147751045406765",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792989677613359253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsEpiphany1 谷歌翻譯魅力時刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1792989677613359253",
+        "created_at": "2024-05-22T05:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T06:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793147751045406765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793147751045406765",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792989677613359253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsEpiphany1 谷歌翻譯魅力時刻"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792989671787532288",
+            "3_1792989671800164353"
+          ]
+        },
+        "author_id": "1126154089216262145",
+        "conversation_id": "1792989677613359253",
+        "created_at": "2024-05-21T18:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T19:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792989677613359253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sZwuHoxcCk",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ArtsEpiphany1/status/1792989677613359253/photo/1",
+              "media_key": "3_1792989671787532288",
+              "start": 25,
+              "url": "https://t.co/sZwuHoxcCk"
+            },
+            {
+              "display_url": "pic.twitter.com/sZwuHoxcCk",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ArtsEpiphany1/status/1792989677613359253/photo/1",
+              "media_key": "3_1792989671800164353",
+              "start": 25,
+              "url": "https://t.co/sZwuHoxcCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792989677613359253",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7770,
+          "like_count": 71,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "浪漫的感觉：\n\n德国小蠊征服了世界 是大家的伴侣 https://t.co/sZwuHoxcCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 83,
+          "like_count": 158,
+          "listed_count": 1,
+          "tweet_count": 319
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "Slime-Type. Traveller. Computer Architect. HPC/AI System Designer. Women in Technology supporter.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQW4ny"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu スライム 史莱姆",
+        "pinned_tweet_id": "1781400578649665987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762607657993605120/wGP4KyGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9481,
+          "following_count": 1271,
+          "like_count": 72354,
+          "listed_count": 49,
+          "tweet_count": 16413
+        },
+        "url": "https://t.co/Xo0VOQW4ny",
+        "username": "ArtsEpiphany1",
+        "verified": true
+      }
+    ]
+  }
+}

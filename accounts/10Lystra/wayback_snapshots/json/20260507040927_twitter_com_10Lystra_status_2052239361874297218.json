@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2051927206830739738",
+    "created_at": "2026-05-07T04:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052239361874297218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244598266173378561",
+          "start": 0,
+          "username": "april93965386"
+        },
+        {
+          "end": 28,
+          "id": "1296742363109511168",
+          "start": 15,
+          "username": "xiaoyang0822"
+        },
+        {
+          "end": 44,
+          "id": "1600148543125090305",
+          "start": 29,
+          "username": "NakaharaBulbel"
+        },
+        {
+          "end": 57,
+          "id": "2030131697212346370",
+          "start": 45,
+          "username": "nekostar114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052239361874297218",
+    "in_reply_to_user_id": "1244598266173378561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052237078105366657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@april93965386 @xiaoyang0822 @NakaharaBulbel @nekostar114 小鱼干死了四任对象了，没看出哪万劫不复，倒是珠芽自己家里真万劫不复了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2051927206830739738",
+        "created_at": "2026-05-07T04:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052239361874297218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244598266173378561",
+              "start": 0,
+              "username": "april93965386"
+            },
+            {
+              "end": 28,
+              "id": "1296742363109511168",
+              "start": 15,
+              "username": "xiaoyang0822"
+            },
+            {
+              "end": 44,
+              "id": "1600148543125090305",
+              "start": 29,
+              "username": "NakaharaBulbel"
+            },
+            {
+              "end": 57,
+              "id": "2030131697212346370",
+              "start": 45,
+              "username": "nekostar114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052239361874297218",
+        "in_reply_to_user_id": "1244598266173378561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052237078105366657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@april93965386 @xiaoyang0822 @NakaharaBulbel @nekostar114 小鱼干死了四任对象了，没看出哪万劫不复，倒是珠芽自己家里真万劫不复了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244598266173378561",
+        "conversation_id": "2051927206830739738",
+        "created_at": "2026-05-07T04:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052237078105366657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 23,
+              "id": "1296742363109511168",
+              "start": 10,
+              "username": "xiaoyang0822"
+            },
+            {
+              "end": 39,
+              "id": "1600148543125090305",
+              "start": 24,
+              "username": "NakaharaBulbel"
+            },
+            {
+              "end": 52,
+              "id": "2030131697212346370",
+              "start": 40,
+              "username": "nekostar114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052237078105366657",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052198829659975892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @xiaoyang0822 @NakaharaBulbel @nekostar114 个中真相如何，我们不得而知，毕竟不会有人到处诉说不堪的真相。\n所以，\n正如同自己的死亡是逃避自己的苦难与绝望，他人的死亡其目的也是断绝对方的一切美好和幸福。\n\n让我们说的直白一点，用自己的生命为代价，换取对方的万劫不复，这是最好的解决办法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 894,
+          "like_count": 2336,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 7237
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T12:12:08.000Z",
+        "description": "我与你们不同的是，\n我认定自己无可救药，我配不上这个世界。\n\n而你则认定这个世界无可救药，配不上你。\n想想你喜欢、你羡慕、你嫉妒的一切，这一切都说明你只是一个可悲的家伙。\n一个无可救药却拒绝承认的烂货。\n【活在众所皆知时，死在默默无闻处】",
+        "id": "1244598266173378561",
+        "name": "四月十四",
+        "pinned_tweet_id": "1828071154260861362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855741666742702080/_FrulLY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 672,
+          "like_count": 5334,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 8103
+        },
+        "url": "",
+        "username": "april93965386",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T09:34:15.000Z",
+        "description": "是个好人！enfp-T.2007/8.22事个xyn互fo滴滴  欢迎喜欢我的人贴贴🇯🇵日本留学今年7月生美术生 目前在广州开音游窝雀庄——是个赌狗",
+        "id": "1296742363109511168",
+        "location": "北京",
+        "name": "小羊",
+        "pinned_tweet_id": "1851550218711666858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032029079793471490/popE-Mdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3417,
+          "following_count": 329,
+          "like_count": 607,
+          "listed_count": 9,
+          "media_count": 211,
+          "tweet_count": 1170
+        },
+        "url": "",
+        "username": "xiaoyang0822",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "正在向崩溃发展，急需要爱，坐标安徽蚌埠。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nakaharabulbel",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nakaharabulbel",
+                "start": 0,
+                "url": "https://t.co/KC6nMpv3E2"
+              }
+            ]
+          }
+        },
+        "id": "1600148543125090305",
+        "location": "🚪38u，但是我很废",
+        "name": "珠芽（已死亡）",
+        "pinned_tweet_id": "2051451108481286387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041074958781272064/hww1YOFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 416,
+          "like_count": 10059,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/KC6nMpv3E2",
+        "username": "NakaharaBulbel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T04:01:39.000Z",
+        "description": "男娘/已成年/🚪88/本账号完全自愿且完全遵守x规则/互推咪",
+        "id": "2030131697212346370",
+        "name": "nekostar（互推",
+        "pinned_tweet_id": "2044792377467187482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030131798064386051/LzhzxGAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 211,
+          "like_count": 2756,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "nekostar114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1805540897800503529",
+    "created_at": "2024-06-25T09:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T10:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805540897800503529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677252589182943232",
+          "start": 3,
+          "username": "Hikari2304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805540897800503529",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805532610841690174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hikari2304: 高考成绩出来了，休学根本没高考\n跳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1805540897800503529",
+        "created_at": "2024-06-25T09:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T10:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805540897800503529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677252589182943232",
+              "start": 3,
+              "username": "Hikari2304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805540897800503529",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805532610841690174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hikari2304: 高考成绩出来了，休学根本没高考\n跳了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1677252589182943232",
+        "conversation_id": "1805532610841690174",
+        "created_at": "2024-06-25T09:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T10:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805532610841690174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805532610841690174",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "高考成绩出来了，休学根本没高考\n跳了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 263,
+          "like_count": 1116,
+          "listed_count": 3,
+          "tweet_count": 2033
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "一个飞舞",
+        "id": "1677252589182943232",
+        "name": ".",
+        "pinned_tweet_id": "1788856385775849606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787009372402642944/UMAFm3QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 601,
+          "like_count": 23582,
+          "listed_count": 6,
+          "tweet_count": 5554
+        },
+        "username": "Hikari2304",
+        "verified": false
+      }
+    ]
+  }
+}

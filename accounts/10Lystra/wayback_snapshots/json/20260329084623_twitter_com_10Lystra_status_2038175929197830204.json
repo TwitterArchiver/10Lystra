@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038175914538745856"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038175929197830204",
+    "created_at": "2026-03-29T08:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038175929197830204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXylNMVQSI",
+          "end": 32,
+          "expanded_url": "https://x.com/10Lystra/status/2038175929197830204/photo/1",
+          "media_key": "3_2038175914538745856",
+          "start": 9,
+          "url": "https://t.co/vXylNMVQSI"
+        },
+        {
+          "display_url": "x.com/10lystra/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/10lystra/status/2021810607675285895",
+          "start": 33,
+          "url": "https://t.co/8VU0nyRhyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038175929197830204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021810607675285895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "面霜并不好用TT https://t.co/vXylNMVQSI https://t.co/8VU0nyRhyr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2038175914538745856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkOMg_WwAAMLKi.jpg",
+        "width": 1205
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021810595310510080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7qBkCaoAATPeC.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2021810595289542656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7qBj9asAASTms.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038175914538745856"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038175929197830204",
+        "created_at": "2026-03-29T08:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038175929197830204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXylNMVQSI",
+              "end": 32,
+              "expanded_url": "https://x.com/10Lystra/status/2038175929197830204/photo/1",
+              "media_key": "3_2038175914538745856",
+              "start": 9,
+              "url": "https://t.co/vXylNMVQSI"
+            },
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/10lystra/status/2021810607675285895",
+              "start": 33,
+              "url": "https://t.co/8VU0nyRhyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038175929197830204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021810607675285895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "面霜并不好用TT https://t.co/vXylNMVQSI https://t.co/8VU0nyRhyr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021810595310510080",
+            "3_2021810595289542656"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021810607675285895",
+        "created_at": "2026-02-12T04:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021810607675285895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824324977379905537",
+              "start": 2,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1GHIMLJow",
+              "end": 51,
+              "expanded_url": "https://x.com/10Lystra/status/2021810607675285895/photo/1",
+              "media_key": "3_2021810595310510080",
+              "start": 28,
+              "url": "https://t.co/k1GHIMLJow"
+            },
+            {
+              "display_url": "pic.x.com/k1GHIMLJow",
+              "end": 51,
+              "expanded_url": "https://x.com/10Lystra/status/2021810607675285895/photo/1",
+              "media_key": "3_2021810595289542656",
+              "start": 28,
+              "url": "https://t.co/k1GHIMLJow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021810607675285895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "购自@siyu060910 的面霜（不是\n等我试用一下 https://t.co/k1GHIMLJow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 879,
+          "like_count": 2285,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6616
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

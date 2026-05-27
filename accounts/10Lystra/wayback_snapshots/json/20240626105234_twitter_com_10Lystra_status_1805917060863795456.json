@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1805914418510954529",
+    "created_at": "2024-06-26T10:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T11:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805917060863795456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666349943836250113",
+          "start": 0,
+          "username": "gomu1735919"
+        },
+        {
+          "end": 27,
+          "id": "1429829081684537345",
+          "start": 13,
+          "username": "Rabbubble550W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805917060863795456",
+    "in_reply_to_user_id": "1666349943836250113",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805916147352735810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gomu1735919 @Rabbubble550W ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1805914418510954529",
+        "created_at": "2024-06-26T10:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T11:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805917060863795456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666349943836250113",
+              "start": 0,
+              "username": "gomu1735919"
+            },
+            {
+              "end": 27,
+              "id": "1429829081684537345",
+              "start": 13,
+              "username": "Rabbubble550W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805917060863795456",
+        "in_reply_to_user_id": "1666349943836250113",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805916147352735810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gomu1735919 @Rabbubble550W ！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805916133536796672"
+          ]
+        },
+        "author_id": "1666349943836250113",
+        "conversation_id": "1805914418510954529",
+        "created_at": "2024-06-26T10:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T11:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805916147352735810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429829081684537345",
+              "start": 0,
+              "username": "Rabbubble550W"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/161AsbsMgo",
+              "end": 38,
+              "expanded_url": "https://twitter.com/gomu1735919/status/1805916147352735810/photo/1",
+              "media_key": "3_1805916133536796672",
+              "start": 15,
+              "url": "https://t.co/161AsbsMgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805916147352735810",
+        "in_reply_to_user_id": "1429829081684537345",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805914418510954529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbubble550W https://t.co/161AsbsMgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 264,
+          "like_count": 1139,
+          "listed_count": 3,
+          "tweet_count": 2090
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T07:43:21.000Z",
+        "description": "乐乐乐乐乐乐乐乐乐乐乐乐子",
+        "id": "1666349943836250113",
+        "name": "安金枭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695103101764796416/cPbmj4r2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 1306,
+          "like_count": 18081,
+          "listed_count": 1,
+          "tweet_count": 922
+        },
+        "username": "gomu1735919",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "回fo不了到上限了只能以后慢慢回了请见谅 转推不代表本人的意见  最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "Guangdong",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1765394077435281726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748554253072003072/fMXc918b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6826,
+          "following_count": 6519,
+          "like_count": 70176,
+          "listed_count": 27,
+          "tweet_count": 57574
+        },
+        "username": "Rabbubble550W",
+        "verified": true
+      }
+    ]
+  }
+}

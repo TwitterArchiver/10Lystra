@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1800522806364619102",
+    "created_at": "2024-06-11T16:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T17:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800573396734119990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694437145035816960",
+          "start": 0,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800573396734119990",
+    "in_reply_to_user_id": "1694437145035816960",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800522806364619102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theLostCypress 咪呜咪呜咪？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1800522806364619102",
+        "created_at": "2024-06-11T16:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T17:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800573396734119990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694437145035816960",
+              "start": 0,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800573396734119990",
+        "in_reply_to_user_id": "1694437145035816960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800522806364619102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress 咪呜咪呜咪？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1694437145035816960",
+        "conversation_id": "1800522806364619102",
+        "created_at": "2024-06-11T13:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T14:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800522806364619102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800522806364619102",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到的人每人可以问我一个问题，问什么都可以\n当然类似你妈什么时候死这种带有侮辱性的我拒绝回答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 125,
+          "like_count": 452,
+          "listed_count": 1,
+          "tweet_count": 878
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T19:51:33.000Z",
+        "description": "取关请双取谢谢|They/them中文用“他”即可|Schizophrenic&Asperger|INFJ-T 5w6-tritype593-sp/so|无性别＆无性恋人士|精神障碍患者脑子有病|基本不键政|默认友好|欢迎理性讨论别来犯贱|第二人格@theDarkCypress|EN: @Cypress_Albert",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 124,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "Cypress_Albert"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cypress_Albert",
+                "end": 23,
+                "expanded_url": "https://t.me/Cypress_Albert",
+                "start": 0,
+                "url": "https://t.co/JSs8D59zTY"
+              }
+            ]
+          }
+        },
+        "id": "1694437145035816960",
+        "location": "我才知道星期八的真名叫作schizophrenia",
+        "name": "住在星期八的柏树🏳‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1796901169941590175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767246062312386560/lPNw_-Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1136,
+          "like_count": 13983,
+          "listed_count": 2,
+          "tweet_count": 4126
+        },
+        "url": "https://t.co/JSs8D59zTY",
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

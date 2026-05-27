@@ -1,0 +1,200 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1806241537585795200",
+    "created_at": "2024-06-27T08:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T09:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806249799173423543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576027985098203136",
+          "start": 0,
+          "username": "Zhizhizi_Osward"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806249799173423543",
+    "in_reply_to_user_id": "1576027985098203136",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806241537585795200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhizhizi_Osward 7.1以后再o进医院就进局子啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1806241537585795200",
+        "created_at": "2024-06-27T08:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T09:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806249799173423543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576027985098203136",
+              "start": 0,
+              "username": "Zhizhizi_Osward"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806249799173423543",
+        "in_reply_to_user_id": "1576027985098203136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806241537585795200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhizhizi_Osward 7.1以后再o进医院就进局子啦"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806241436599529473",
+            "3_1806241436599488512"
+          ]
+        },
+        "author_id": "1576027985098203136",
+        "conversation_id": "1806241537585795200",
+        "created_at": "2024-06-27T08:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T09:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806241537585795200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3b9QubUybW",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Zhizhizi_Osward/status/1806241537585795200/photo/1",
+              "media_key": "3_1806241436599529473",
+              "start": 3,
+              "url": "https://t.co/3b9QubUybW"
+            },
+            {
+              "display_url": "pic.twitter.com/3b9QubUybW",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Zhizhizi_Osward/status/1806241537585795200/photo/1",
+              "media_key": "3_1806241436599488512",
+              "start": 3,
+              "url": "https://t.co/3b9QubUybW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806241537585795200",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈 https://t.co/3b9QubUybW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」有需要的话可以当免费树洞⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 265,
+          "like_count": 1169,
+          "listed_count": 3,
+          "tweet_count": 2132
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T01:55:37.000Z",
+        "description": "07infp/國際高中/不登校/重抑重焦/mtx無性別/三無病弱/負面希死/地雷割手/⚠️雙性戀/喜歡擁抱 /如果能跟我分享文學就太好啦/互fo大歡迎！/三无号退散/郅郅子永遠16歲！",
+        "id": "1576027985098203136",
+        "location": "白色天幕的盡頭",
+        "name": "郅郅子巧克力奶油蛋糕🍥",
+        "pinned_tweet_id": "1797816542467617244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800353330734194688/KHxUPoQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 295,
+          "like_count": 590,
+          "listed_count": 0,
+          "tweet_count": 1209
+        },
+        "username": "Zhizhizi_Osward",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2036715512890261883",
+    "created_at": "2026-03-25T11:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T12:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036769106301448599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036769106301448599",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036715512890261883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 捆绑只是个人爱好（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2036715512890261883",
+        "created_at": "2026-03-25T11:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036769106301448599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036769106301448599",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036715512890261883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 捆绑只是个人爱好（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2036715512890261883",
+        "created_at": "2026-03-25T08:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036715512890261883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kumiko_love7/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/kumiko_love7/status/2036405400438808667",
+              "start": 19,
+              "url": "https://t.co/fUFx1e2eo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036715512890261883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 818,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036405400438808667",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你stalk amber有什么目的？ https://t.co/fUFx1e2eo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 879,
+          "like_count": 2280,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 6526
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22259,
+          "following_count": 197,
+          "like_count": 707,
+          "listed_count": 70,
+          "media_count": 102,
+          "tweet_count": 22746
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

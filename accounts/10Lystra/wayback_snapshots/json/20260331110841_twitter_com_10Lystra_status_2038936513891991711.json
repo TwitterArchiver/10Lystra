@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038844158639796559",
+    "created_at": "2026-03-31T11:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038936513891991711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 28,
+          "id": "1408751443360710662",
+          "start": 12,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038936513891991711",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038935654600696057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 @Jellyfi77885103 是的我一直也没有那个意思，只不过我想的是如果人死在机构里就再也没法发声也再也没办法过自己想要的人生了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038844158639796559",
+        "created_at": "2026-03-31T11:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038936513891991711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 28,
+              "id": "1408751443360710662",
+              "start": 12,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038936513891991711",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038935654600696057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 @Jellyfi77885103 是的我一直也没有那个意思，只不过我想的是如果人死在机构里就再也没法发声也再也没办法过自己想要的人生了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2038844158639796559",
+        "created_at": "2026-03-31T11:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038935654600696057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            },
+            {
+              "end": 26,
+              "id": "1692075579850563584",
+              "start": 17,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038935654600696057",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038934665730597130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 @10Lystra 我从来不反对别人选择坚持认同，但是如果把救助者逼走就是不给人留隐瞒认同获取帮助的选项了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 886,
+          "like_count": 2296,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6764
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5047,
+          "following_count": 2013,
+          "like_count": 120391,
+          "listed_count": 21,
+          "media_count": 247,
+          "tweet_count": 17354
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "为什么世界上有那么多水母\n\n小红书https://t.co/zw3IwFNWyN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/2m8xweaDpgX",
+                "end": 40,
+                "expanded_url": "https://xhslink.com/m/2m8xweaDpgX",
+                "start": 17,
+                "url": "https://t.co/zw3IwFNWyN"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "name": "Jellyfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408751578396258305/13hH-iJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 109,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 373
+        },
+        "username": "Jellyfi77885103",
+        "verified": false
+      }
+    ]
+  }
+}

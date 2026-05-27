@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2057064899868827834",
+    "created_at": "2026-05-20T14:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057102986455732684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1854224109011664896",
+          "start": 0,
+          "username": "A5Tr41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057102986455732684",
+    "in_reply_to_user_id": "1854224109011664896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057064899868827834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5Tr41 这谁绷得住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2057064899868827834",
+        "created_at": "2026-05-20T14:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057102986455732684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057102986455732684",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057064899868827834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 这谁绷得住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854224109011664896",
+        "conversation_id": "2057064899868827834",
+        "created_at": "2026-05-20T11:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057064899868827834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/10lystra/status/2057055498143212005",
+              "start": 5,
+              "url": "https://t.co/lg3XHeKtPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057064899868827834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057055498143212005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑成区了 https://t.co/lg3XHeKtPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 903,
+          "like_count": 2378,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 7543
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "✨痛苦是存在的证明吗✨  @sayoricat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "sayoricat8964"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "☁️🪼",
+        "pinned_tweet_id": "1985437363196346747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989485324633006080/rC_z4dd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 104,
+          "like_count": 873,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3375
+        },
+        "username": "A5Tr41",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2052929013425766411",
+    "created_at": "2026-05-09T01:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052929013425766411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052929013425766411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052317126250381407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 瑞典曾将同性恋归类成疾病，因此人们开始打电话给工作单位，说自己“太gay而无法工作”\n\n在那次抗议之后，于1979年撤销了这一分类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2052929013425766411",
+        "created_at": "2026-05-09T01:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052929013425766411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052929013425766411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052317126250381407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 瑞典曾将同性恋归类成疾病，因此人们开始打电话给工作单位，说自己“太gay而无法工作”\n\n在那次抗议之后，于1979年撤销了这一分类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2052317126250381407",
+        "created_at": "2026-05-07T09:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052317126250381407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052317126250381407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 214671,
+          "like_count": 3395,
+          "quote_count": 13,
+          "reply_count": 182,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "瑞典曾将同性恋归类成疾病，因此人们开始打电话给工作单位，说自己“太gay而无法工作”\n\n在那次抗议之后，于1979年撤销了这一分类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 895,
+          "like_count": 2342,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 7284
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "45_206io"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 116,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 93,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2051226633504509987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 498,
+          "like_count": 34488,
+          "listed_count": 1,
+          "media_count": 699,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2056210896888963093",
+    "created_at": "2026-05-18T04:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056231614032539857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056231614032539857",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056210896888963093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 我有个朋友破防了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2056210896888963093",
+        "created_at": "2026-05-18T04:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056231614032539857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056231614032539857",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056210896888963093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 我有个朋友破防了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2056210896888963093",
+        "created_at": "2026-05-18T03:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056210896888963093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056210896888963093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 524,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据我对身边打乌蒙的朋友的研究发现，运动对于减肥的效果很有限。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 903,
+          "like_count": 2371,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7494
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22814,
+          "following_count": 199,
+          "like_count": 714,
+          "listed_count": 73,
+          "media_count": 103,
+          "tweet_count": 23424
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

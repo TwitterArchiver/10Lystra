@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055135765798027747",
+    "created_at": "2026-05-15T05:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055151215705465160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854621992348987415",
+          "start": 0,
+          "username": "veracite_desir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055151215705465160",
+    "in_reply_to_user_id": "1854621992348987415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055135765798027747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@veracite_desir 乌乌不要死掉🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055135765798027747",
+        "created_at": "2026-05-15T05:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055151215705465160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854621992348987415",
+              "start": 0,
+              "username": "veracite_desir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055151215705465160",
+        "in_reply_to_user_id": "1854621992348987415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055135765798027747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veracite_desir 乌乌不要死掉🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854621992348987415",
+        "conversation_id": "2055135765798027747",
+        "created_at": "2026-05-15T03:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055135765798027747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Greenfish_111/…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Greenfish_111/status/2054774355046093174",
+              "start": 64,
+              "url": "https://t.co/QDlFv7cUL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055135765798027747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 248,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054774355046093174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ed人确实很适合当电子宠物，一堆小骷髅每天萎靡不振的脑子里除了吃的完全空空，虽然脾气很差但行动更差什么都做不到，养着养着就没了 https://t.co/QDlFv7cUL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 895,
+          "like_count": 2361,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 7430
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T20:28:47.000Z",
+        "description": "多伦多A姓女子\n175cm/56kg/75a",
+        "id": "1854621992348987415",
+        "name": "🪼",
+        "pinned_tweet_id": "2049587569147441505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052275519425486852/wlKDFWz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 82,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "username": "veracite_desir",
+        "verified": true
+      }
+    ]
+  }
+}

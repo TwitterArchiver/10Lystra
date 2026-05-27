@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2053513325091373469",
+    "created_at": "2026-05-11T01:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053655133863526855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964265669362667520",
+          "start": 0,
+          "username": "zuiaiyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053655133863526855",
+    "in_reply_to_user_id": "1964265669362667520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053513325091373469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuiaiyiyi 群组不一定全是德国留子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_2053513308612046848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-LeWVbsAAcm5_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2053513325091373469",
+        "created_at": "2026-05-11T01:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053655133863526855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964265669362667520",
+              "start": 0,
+              "username": "zuiaiyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053655133863526855",
+        "in_reply_to_user_id": "1964265669362667520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053513325091373469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuiaiyiyi 群组不一定全是德国留子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053513308612046848"
+          ]
+        },
+        "author_id": "1964265669362667520",
+        "conversation_id": "2053513325091373469",
+        "created_at": "2026-05-10T16:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053513325091373469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dg1xbacpsw",
+              "end": 80,
+              "expanded_url": "https://x.com/zuiaiyiyi/status/2053513325091373469/photo/1",
+              "media_key": "3_2053513308612046848",
+              "start": 57,
+              "url": "https://t.co/dg1xbacpsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053513325091373469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 30288,
+          "like_count": 167,
+          "quote_count": 2,
+          "reply_count": 72,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不是洗白强奸犯，我的意思是说，德国知道自己有五到十万中国留学生吗😅😅\n全德国带把的中国留学生也就两万刚出头啊😅😅 https://t.co/dg1xbacpsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 893,
+          "like_count": 2344,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 7317
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T09:53:43.000Z",
+        "description": "止于推，只聊天。\n如果关注我，我很开心。\n回复看心情没礼貌我不回。\n标签纯引流，当真的那你这辈子有了。我会用ai修图，介意勿烦我。\n不加墙内联系方式，没有门槛，给一百万也不加vq\nx唯一亲友@羊奇羊https://t.co/uLfKv4PlwH\n纯擦着玩，🈚️收费内容，说菩萨可以，说我是福利姬死老冯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cuteyangqi",
+                "end": 122,
+                "expanded_url": "https://x.com/cuteyangqi",
+                "start": 99,
+                "url": "https://t.co/uLfKv4PlwH"
+              }
+            ]
+          }
+        },
+        "id": "1964265669362667520",
+        "location": "亚特兰蒂斯",
+        "name": "熠熠舞",
+        "pinned_tweet_id": "2049070365826228308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004200904413925379/m3cu8rDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22121,
+          "following_count": 12,
+          "like_count": 21,
+          "listed_count": 52,
+          "media_count": 233,
+          "tweet_count": 1187
+        },
+        "username": "zuiaiyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

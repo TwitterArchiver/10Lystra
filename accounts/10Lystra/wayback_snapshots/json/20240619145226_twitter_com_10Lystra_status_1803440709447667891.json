@@ -1,0 +1,237 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803432618324795518",
+    "created_at": "2024-06-19T14:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T15:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803440709447667891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1481891300366557184",
+          "start": 0,
+          "username": "Rentable_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803440709447667891",
+    "in_reply_to_user_id": "1481891300366557184",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803432618324795518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rentable_A 别啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803432618324795518",
+        "created_at": "2024-06-19T14:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T15:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803440709447667891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1481891300366557184",
+              "start": 0,
+              "username": "Rentable_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803440709447667891",
+        "in_reply_to_user_id": "1481891300366557184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803432618324795518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rentable_A 别啊…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803432604919791616",
+            "3_1803432606077485056"
+          ]
+        },
+        "author_id": "1481891300366557184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1803432618324795518",
+        "created_at": "2024-06-19T14:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T15:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803432618324795518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6r5uNEY0k7",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Rentable_A/status/1803432618324795518/photo/1",
+              "media_key": "3_1803432604919791616",
+              "start": 8,
+              "url": "https://t.co/6r5uNEY0k7"
+            },
+            {
+              "display_url": "pic.twitter.com/6r5uNEY0k7",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Rentable_A/status/1803432618324795518/photo/1",
+              "media_key": "3_1803432606077485056",
+              "start": 8,
+              "url": "https://t.co/6r5uNEY0k7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803432618324795518",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 383,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠\n晚安 https://t.co/6r5uNEY0k7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 213,
+          "like_count": 740,
+          "listed_count": 1,
+          "tweet_count": 1489
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T07:30:36.000Z",
+        "description": "MTF/生日2006-6-24/2024.1.28小证含糖🍥 /计算机爱好者 /不发表立场没有观点/私信回fo/主动向/欢迎交友/QQ33397772\n/挚爱 @Sanyia_Neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Sanyia_Neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanyia.top",
+                "end": 23,
+                "expanded_url": "http://sanyia.top",
+                "start": 0,
+                "url": "https://t.co/r47X4U14yT"
+              }
+            ]
+          }
+        },
+        "id": "1481891300366557184",
+        "location": "500m内",
+        "name": "Rentable🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1755586204911964360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782419067732938752/KX94rY7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 677,
+          "like_count": 696,
+          "listed_count": 2,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/r47X4U14yT",
+        "username": "Rentable_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055133343185093078",
+    "created_at": "2026-05-15T05:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055151405992648771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055151405992648771",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055133343185093078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 这文案小时候抱过我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2055133332497965056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVM4JmbIAAW_Zg.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055133343185093078",
+        "created_at": "2026-05-15T05:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055151405992648771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055151405992648771",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055133343185093078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 这文案小时候抱过我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055133332497965056"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "2055133343185093078",
+        "created_at": "2026-05-15T03:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055133343185093078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezscuaSf5j",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/2055133343185093078/photo/1",
+              "media_key": "3_2055133332497965056",
+              "start": 0,
+              "url": "https://t.co/ezscuaSf5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055133343185093078",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7535,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ezscuaSf5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 895,
+          "like_count": 2361,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 7431
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/不做任何验证/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300868,
+          "following_count": 530,
+          "like_count": 478,
+          "listed_count": 352,
+          "media_count": 12036,
+          "tweet_count": 17339
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

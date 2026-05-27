@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054500894398726506",
+    "created_at": "2026-05-14T11:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054882403793981719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054882403793981719",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054881445563494743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 哦傻逼那你上街去和别人说一句我操死你然后录个视频发给我看看别人会不会觉得你是在夸人家🤣其实你自己都明白自己多贱吧还在这硬洗，被人戳一句就跳脚挂人彰显低能本色开始自我介绍，你自己看看自己招不招笑呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054500894398726506",
+        "created_at": "2026-05-14T11:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054882403793981719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054882403793981719",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054881445563494743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 哦傻逼那你上街去和别人说一句我操死你然后录个视频发给我看看别人会不会觉得你是在夸人家🤣其实你自己都明白自己多贱吧还在这硬洗，被人戳一句就跳脚挂人彰显低能本色开始自我介绍，你自己看看自己招不招笑呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986136179721240576",
+        "conversation_id": "2054500894398726506",
+        "created_at": "2026-05-14T11:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054881445563494743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054881445563494743",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054878500323049757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 那说你爸屌/妈逼呢，直接说我操人不就得了，这条评论说的是我没有网暴，眼睛当屁眼用了脑子里面消化信息的是肛门吗😂😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 894,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 7389
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "说好话，做好事",
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 239,
+          "like_count": 9149,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 2209
+        },
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

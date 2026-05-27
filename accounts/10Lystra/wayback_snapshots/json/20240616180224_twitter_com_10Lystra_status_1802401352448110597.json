@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1801979304236158976"
+      ],
+      "media_source_tweet_id": [
+        "1801979390819180622"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802401352448110597",
+    "created_at": "2024-06-16T18:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T19:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802401352448110597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1451408516699201552",
+          "start": 3,
+          "username": "TargaryenLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ZDPp2x9FMR",
+          "end": 48,
+          "expanded_url": "https://twitter.com/TargaryenLiu/status/1801979390819180622/video/1",
+          "media_key": "7_1801979304236158976",
+          "start": 25,
+          "url": "https://t.co/ZDPp2x9FMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802401352448110597",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801979390819180622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TargaryenLiu: 父亲节快到了 https://t.co/ZDPp2x9FMR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1802401352448110597].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1802401352448110597",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1802401352448110597"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29821,
+        "height": 1162,
+        "media_key": "7_1801979304236158976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1801979304236158976/pu/img/PAVMar1gdDo_lcLW.jpg",
+        "public_metrics": {
+          "view_count": 378
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801979304236158976/pu/vid/avc1/320x516/b2oj-v_Imm7adLG9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801979304236158976/pu/vid/avc1/480x774/2qmSE8RdojGrYqmS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1801979304236158976/pu/vid/avc1/720x1162/cdWoJVrI36CTN30e.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1801979304236158976/pu/pl/SGJDUJys02MpcbEq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801979304236158976"
+          ]
+        },
+        "author_id": "1451408516699201552",
+        "conversation_id": "1801979390819180622",
+        "created_at": "2024-06-15T14:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T15:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801979390819180622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZDPp2x9FMR",
+              "end": 30,
+              "expanded_url": "https://twitter.com/TargaryenLiu/status/1801979390819180622/video/1",
+              "media_key": "7_1801979304236158976",
+              "start": 7,
+              "url": "https://t.co/ZDPp2x9FMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801979390819180622",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1993,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "父亲节快到了 https://t.co/ZDPp2x9FMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 151,
+          "like_count": 572,
+          "listed_count": 1,
+          "tweet_count": 1146
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T04:42:22.000Z",
+        "description": "Student /Furry /INFP-T /Sapiosexual /Electric Engineering /English⭕️ Chinese ⭕️ /psychology /UAV /Bimmer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "targaryenliu.com",
+                "end": 23,
+                "expanded_url": "http://targaryenliu.com",
+                "start": 0,
+                "url": "https://t.co/TBdcJnRtY0"
+              }
+            ]
+          }
+        },
+        "id": "1451408516699201552",
+        "location": "Nanking",
+        "name": "Gary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800474270390476800/8xVd7FLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 1489,
+          "like_count": 13122,
+          "listed_count": 6,
+          "tweet_count": 4831
+        },
+        "url": "https://t.co/TBdcJnRtY0",
+        "username": "TargaryenLiu",
+        "verified": false
+      }
+    ]
+  }
+}

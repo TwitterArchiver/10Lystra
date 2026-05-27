@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035033347664076878",
+    "created_at": "2026-03-21T03:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T04:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035190903082713559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1397850509323554817",
+          "start": 0,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035190903082713559",
+    "in_reply_to_user_id": "1397850509323554817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035033347664076878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noaayoyaoaya 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035033347664076878",
+        "created_at": "2026-03-21T03:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035190903082713559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1397850509323554817",
+              "start": 0,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035190903082713559",
+        "in_reply_to_user_id": "1397850509323554817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035033347664076878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noaayoyaoaya 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2035033347664076878",
+        "created_at": "2026-03-20T16:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035033347664076878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035033347664076878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3159,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得谈恋爱就不存在什么回避型焦虑型，只有不会聊天沟通只会逃避问题型。焦虑就是只会着急痛苦乱做事假装自己在想办法，回避就是承认自己逃避但也不敢尝试直接摆烂\n这两种人这么吸引对方是因为其它真的能解决问题的安全型一般都懒得理他们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 873,
+          "like_count": 2271,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6371
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由//小号 @noaayoyaoaya1//自己的频道https://t.co/AqilBn0S8E",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "noaayoyaoaya1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 56,
+                "expanded_url": "https://t.me/+Hp2U0Rck9wU5OGY0//",
+                "start": 33,
+                "url": "https://t.co/AqilBn0S8E"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20230,
+          "following_count": 785,
+          "like_count": 10594,
+          "listed_count": 32,
+          "media_count": 104,
+          "tweet_count": 5045
+        },
+        "username": "noaayoyaoaya",
+        "verified": false
+      }
+    ]
+  }
+}

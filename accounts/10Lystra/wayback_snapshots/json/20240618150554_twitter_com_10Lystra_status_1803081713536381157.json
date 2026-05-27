@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803076295884239087",
+    "created_at": "2024-06-18T15:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T16:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803081713536381157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717434951497629696",
+          "start": 0,
+          "username": "GongShi22101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803081713536381157",
+    "in_reply_to_user_id": "1717434951497629696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803079255884185994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GongShi22101 ADHD特有的点开图片从上到下看一遍（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803076295884239087",
+        "created_at": "2024-06-18T15:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T16:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803081713536381157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717434951497629696",
+              "start": 0,
+              "username": "GongShi22101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803081713536381157",
+        "in_reply_to_user_id": "1717434951497629696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803079255884185994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GongShi22101 ADHD特有的点开图片从上到下看一遍（"
+      },
+      {
+        "attachments": {},
+        "author_id": "1717434951497629696",
+        "conversation_id": "1803076295884239087",
+        "created_at": "2024-06-18T14:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T15:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803079255884185994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803079255884185994",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803077817502249268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 你眼好细😨震惊了 买来配右美吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 173,
+          "like_count": 642,
+          "listed_count": 1,
+          "tweet_count": 1370
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T06:56:23.000Z",
+        "description": "愛 しているのに 😿",
+        "id": "1717434951497629696",
+        "name": "叶藏Escitalopram",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801042697609994240/R1nuWnSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 39,
+          "like_count": 42,
+          "listed_count": 0,
+          "tweet_count": 43
+        },
+        "username": "GongShi22101",
+        "verified": false
+      }
+    ]
+  }
+}

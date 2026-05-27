@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804028684757799260",
+    "created_at": "2024-06-21T14:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T15:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804160860283396160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1464141041008017408",
+          "start": 0,
+          "username": "isako_huyutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804160860283396160",
+    "in_reply_to_user_id": "1464141041008017408",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804160373324718337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isako_huyutsuki 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804028684757799260",
+        "created_at": "2024-06-21T14:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T15:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804160860283396160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1464141041008017408",
+              "start": 0,
+              "username": "isako_huyutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804160860283396160",
+        "in_reply_to_user_id": "1464141041008017408",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804160373324718337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isako_huyutsuki 🥰🥰🥰"
+      },
+      {
+        "attachments": {},
+        "author_id": "1464141041008017408",
+        "conversation_id": "1804028684757799260",
+        "created_at": "2024-06-21T14:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T15:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804160373324718337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804160373324718337",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804028684757799260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 遇到的第一个能让我点❤的暴论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 245,
+          "like_count": 914,
+          "listed_count": 2,
+          "tweet_count": 1731
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T07:56:55.000Z",
+        "description": "有害甜度～( '-' )ノ)`-' )丨似乎又断开了与世界的连接丨非常喜欢Lolita，然后是jk(～￣▽￣)～",
+        "id": "1464141041008017408",
+        "location": "St.Freya",
+        "name": "兔兔不可爱了",
+        "pinned_tweet_id": "1653918981785518081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755807859361853440/ph5MPAsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 118,
+          "like_count": 11348,
+          "listed_count": 1,
+          "tweet_count": 1988
+        },
+        "username": "isako_huyutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

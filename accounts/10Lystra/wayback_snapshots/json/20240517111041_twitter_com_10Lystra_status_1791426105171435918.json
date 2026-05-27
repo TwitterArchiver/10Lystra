@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1791138350570823737",
+    "created_at": "2024-05-17T11:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T12:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791426105171435918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557253790088466432",
+          "start": 0,
+          "username": "misakiyugan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791426105171435918",
+    "in_reply_to_user_id": "1557253790088466432",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791138350570823737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakiyugan 抱抱抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1791138350570823737",
+        "created_at": "2024-05-17T11:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T12:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791426105171435918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557253790088466432",
+              "start": 0,
+              "username": "misakiyugan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791426105171435918",
+        "in_reply_to_user_id": "1557253790088466432",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791138350570823737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakiyugan 抱抱抱抱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1557253790088466432",
+        "conversation_id": "1791138350570823737",
+        "created_at": "2024-05-16T16:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T17:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791138350570823737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791138350570823737",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1944,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对，我和你认识了这么久你现在对我的方式就是我不听你的你就删我，你就一点都不能尊重我，你也一点都不会帮我，只会按照你的想法来，然后说是为我好，那你去当你的老中家长去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 64,
+          "like_count": 85,
+          "listed_count": 0,
+          "tweet_count": 207
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T06:33:43.000Z",
+        "description": "三崎，可爱，单推 本体是🐟\n接单/od/涩涩/游戏/男娘/LGBT/自闭/攻击性强/缺钱\n日雌400一盒，梦想成为互联网小天使\n 三崎小号，只限信任的互关 @misakimizukibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "misakimizukibot"
+              }
+            ]
+          }
+        },
+        "id": "1557253790088466432",
+        "location": "银趴现场",
+        "name": "三崎（卖日雌版",
+        "pinned_tweet_id": "1790999615715815808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577330082313797633/jf3sQU7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6208,
+          "following_count": 1802,
+          "like_count": 117743,
+          "listed_count": 20,
+          "tweet_count": 14452
+        },
+        "username": "misakiyugan",
+        "verified": false
+      }
+    ]
+  }
+}

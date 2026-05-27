@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804028684757799260",
+    "created_at": "2024-06-21T06:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T07:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804034864964145253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366512947015520259",
+          "start": 0,
+          "username": "gsjzyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804034864964145253",
+    "in_reply_to_user_id": "1366512947015520259",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804033762147320294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsjzyyy 药物滥用终究也只是饮鸩止渴\n国内会一批一批往下禁的\n然后非自杀性自伤怎么记得有调查报告说是增加自杀风险？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804028684757799260",
+        "created_at": "2024-06-21T06:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T07:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804034864964145253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366512947015520259",
+              "start": 0,
+              "username": "gsjzyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804034864964145253",
+        "in_reply_to_user_id": "1366512947015520259",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804033762147320294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsjzyyy 药物滥用终究也只是饮鸩止渴\n国内会一批一批往下禁的\n然后非自杀性自伤怎么记得有调查报告说是增加自杀风险？🤔"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804033735379329024"
+          ]
+        },
+        "author_id": "1366512947015520259",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1804028684757799260",
+        "created_at": "2024-06-21T06:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T07:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804033762147320294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/WU4Hf5RRCh",
+              "end": 112,
+              "expanded_url": "https://twitter.com/gsjzyyy/status/1804033762147320294/photo/1",
+              "media_key": "3_1804033735379329024",
+              "start": 89,
+              "url": "https://t.co/WU4Hf5RRCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804033762147320294",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804031414905770104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 我也确实想过这个问题，我找一下白兔bron的一张图，我记得紫餐是可以促进内啡肽，从而缓解心情，所以我觉得像是一种风险对冲，即：冒着感染的风险，缓解紫砂的情绪 https://t.co/WU4Hf5RRCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 238,
+          "like_count": 872,
+          "listed_count": 2,
+          "tweet_count": 1667
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "02/身高193米😎/紫餐od🈶\n\n无政府君主主义💜🏴",
+        "id": "1366512947015520259",
+        "location": "距离您的位置50米",
+        "name": "♦️焚蒿♣️【❄️胧月雪华斩🗡】",
+        "pinned_tweet_id": "1801305049077006593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631676230721478657/8uGwcERH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 1943,
+          "like_count": 79154,
+          "listed_count": 6,
+          "tweet_count": 15343
+        },
+        "username": "gsjzyyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802740397187518936",
+    "created_at": "2024-06-17T17:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T18:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802755786822865034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774807840039088128",
+          "start": 0,
+          "username": "omootoTETO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802755786822865034",
+    "in_reply_to_user_id": "1774807840039088128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802740397187518936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omootoTETO 不是一个有趣的搭配！\npsywiki显示这两种药物混用具有潜在不良影响"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802740397187518936",
+        "created_at": "2024-06-17T17:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T18:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802755786822865034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774807840039088128",
+              "start": 0,
+              "username": "omootoTETO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802755786822865034",
+        "in_reply_to_user_id": "1774807840039088128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802740397187518936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omootoTETO 不是一个有趣的搭配！\npsywiki显示这两种药物混用具有潜在不良影响"
+      },
+      {
+        "attachments": {},
+        "author_id": "1774807840039088128",
+        "conversation_id": "1802740397187518936",
+        "created_at": "2024-06-17T16:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T17:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802740397187518936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802740397187518936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美与苯二氮卓联用会有什么效果呢…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 166,
+          "like_count": 611,
+          "listed_count": 1,
+          "tweet_count": 1247
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T14:35:59.000Z",
+        "description": "你对我的态度也是我对你的态度",
+        "id": "1774807840039088128",
+        "location": "宛平南路600号",
+        "name": "雨夜空中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800951105632993282/mCXNRcPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 67,
+          "like_count": 221,
+          "listed_count": 0,
+          "tweet_count": 94
+        },
+        "username": "omootoTETO",
+        "verified": false
+      }
+    ]
+  }
+}

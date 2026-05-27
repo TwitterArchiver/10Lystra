@@ -1,0 +1,167 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803326339795263540",
+    "created_at": "2024-06-19T08:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T09:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803347242759393554"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1803347242759393554",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803326339795263540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "16：39 轻微头晕，预计不会有后续体验了\n本次测试剂量偏低，后续将进行二次实验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803326339795263540",
+        "created_at": "2024-06-19T08:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T09:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803347242759393554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803347242759393554",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803326339795263540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16：39 轻微头晕，预计不会有后续体验了\n本次测试剂量偏低，后续将进行二次实验"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803326328785244160"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803326339795263540",
+        "created_at": "2024-06-19T07:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803326339795263540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eYorac6A4j",
+              "end": 50,
+              "expanded_url": "https://twitter.com/10Lystra/status/1803326339795263540/photo/1",
+              "media_key": "3_1803326328785244160",
+              "start": 27,
+              "url": "https://t.co/eYorac6A4j"
+            },
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/10lystra/status/1803320171391754425",
+              "start": 51,
+              "url": "https://t.co/Au4CowpVDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803326339795263540",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 254,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803320171391754425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "15：16白开水送服未知剂量自制所谓「盐酸右美沙芬」 https://t.co/eYorac6A4j https://t.co/Au4CowpVDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 197,
+          "like_count": 693,
+          "listed_count": 1,
+          "tweet_count": 1460
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

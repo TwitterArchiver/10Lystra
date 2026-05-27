@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1801742186209546275",
+    "created_at": "2024-06-16T02:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T03:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802162019023601901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557253790088466432",
+          "start": 0,
+          "username": "misakiyugan"
+        },
+        {
+          "end": 23,
+          "id": "1527308255927492609",
+          "start": 13,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802162019023601901",
+    "in_reply_to_user_id": "1557253790088466432",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802083857908531456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakiyugan @love1027w *在三崎腿上踩奶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1802083857908531456].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1802083857908531456",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1802083857908531456"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1801742186209546275",
+        "created_at": "2024-06-16T02:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T03:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802162019023601901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557253790088466432",
+              "start": 0,
+              "username": "misakiyugan"
+            },
+            {
+              "end": 23,
+              "id": "1527308255927492609",
+              "start": 13,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802162019023601901",
+        "in_reply_to_user_id": "1557253790088466432",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802083857908531456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakiyugan @love1027w *在三崎腿上踩奶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 140,
+          "like_count": 542,
+          "listed_count": 1,
+          "tweet_count": 1067
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T06:33:43.000Z",
+        "description": "三崎，可爱，单推 本是🐟\n日雌400一盒，白兔100一盒，梦想成为互联网小天使，我迟早要实现，至少在od圈我还能做一个月天使\n 三崎小号，只限信任的互关 @misakimizukibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "misakimizukibot"
+              }
+            ]
+          }
+        },
+        "id": "1557253790088466432",
+        "location": "银趴现场",
+        "name": "三崎（卖日雌版",
+        "pinned_tweet_id": "1795816951132143977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577330082313797633/jf3sQU7g_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6196,
+          "following_count": 1912,
+          "like_count": 121950,
+          "listed_count": 20,
+          "tweet_count": 15837
+        },
+        "username": "misakiyugan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "⚠️无敏感血图/OD/负能量，注意避雷，善用屏蔽，谨慎关注🏳️‍⚧️非二元 性别流动（ta/他/她）😈其实我是萌宠/美食/拉屎推👉被误ban可联系@Yuzumi0211",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Yuzumi0211"
+              }
+            ]
+          }
+        },
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "臣妾要告发兮贵妃私通，秽乱后宫，罪不容诛",
+        "pinned_tweet_id": "1789964631575851270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9194,
+          "following_count": 667,
+          "like_count": 34363,
+          "listed_count": 12,
+          "tweet_count": 19048
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054878025297105216",
+    "created_at": "2026-05-14T12:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054895329674179020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036071254873276416",
+          "start": 0,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054895329674179020",
+    "in_reply_to_user_id": "2036071254873276416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054878025297105216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renyue105 你涂这个干什么，好好的男孩子把自己搞成这个样子丢不丢脸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054878025297105216",
+        "created_at": "2026-05-14T12:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054895329674179020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054895329674179020",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054878025297105216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 你涂这个干什么，好好的男孩子把自己搞成这个样子丢不丢脸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2054878025297105216",
+        "created_at": "2026-05-14T10:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054878025297105216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054878025297105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么把凝胶运回房间是个问题，上次能带回房间纯属运气好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 894,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 7391
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "任世事浮沉，成心之所向，轩宇之下，月与星光同归.",
+        "id": "2036071254873276416",
+        "location": "中国 江西",
+        "name": "任成轩",
+        "pinned_tweet_id": "2046413472829731201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054822427612594176/bUfaF6wG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 0,
+          "like_count": 3089,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2809
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

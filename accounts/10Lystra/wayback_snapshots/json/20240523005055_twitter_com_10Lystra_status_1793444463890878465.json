@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793416284245463461",
+    "created_at": "2024-05-23T00:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T01:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793444463890878465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793444463890878465",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793416284245463461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 马来西亚没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793416284245463461",
+        "created_at": "2024-05-23T00:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T01:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793444463890878465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793444463890878465",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793416284245463461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 马来西亚没绷住"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793416278683873280"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1793416284245463461",
+        "created_at": "2024-05-22T22:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T23:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793416284245463461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ah7kozbxnw",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yqua_/status/1793416284245463461/photo/1",
+              "media_key": "3_1793416278683873280",
+              "start": 12,
+              "url": "https://t.co/ah7kozbxnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793416284245463461",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 449,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每个医生都是中译中好手 https://t.co/ah7kozbxnw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 182,
+          "listed_count": 1,
+          "tweet_count": 354
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "本体活跃于天津｜家暴党MtX🏳️‍⚧️｜INFP｜高二物化地｜金融｜网络｜｜She/He｜主人❤️@jingjiangbie79｜日本語/PUBGM内容：@ryq59｜无立场｜社媒或IM请看链接｜查成分回fo｜可能回污染tl｜工商实战 #小药娘网络科技｜社長：@Saikin_Xijun",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 119,
+                "tag": "小药娘网络科技"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "jingjiangbie79"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "username": "ryq59"
+              },
+              {
+                "end": 144,
+                "start": 131,
+                "username": "Saikin_Xijun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…lIIIIlllIIIIllIIlIIlIIlllIII.llIlI.lI",
+                "end": 23,
+                "expanded_url": "http://lIIIlIIIIlllIIIIllIIlIIlIIlllIII.llIlI.lI",
+                "start": 0,
+                "url": "https://t.co/vTWKZuP46p"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "江別の懐中",
+        "name": "銓醬🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771030556639432704/KIV_RhEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175,
+          "following_count": 2875,
+          "like_count": 131210,
+          "listed_count": 25,
+          "tweet_count": 12635
+        },
+        "url": "https://t.co/vTWKZuP46p",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804429521170633086",
+    "created_at": "2024-06-22T08:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T09:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804429521170633086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1527874203395198977",
+          "start": 3,
+          "username": "IX_6174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804429521170633086",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804402475937730662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IX_6174: 觉得lgbt有特权你为什么不去当？🤡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804429521170633086",
+        "created_at": "2024-06-22T08:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T09:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804429521170633086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1527874203395198977",
+              "start": 3,
+              "username": "IX_6174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804429521170633086",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804402475937730662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IX_6174: 觉得lgbt有特权你为什么不去当？🤡"
+      },
+      {
+        "attachments": {},
+        "author_id": "1527874203395198977",
+        "conversation_id": "1804402475937730662",
+        "created_at": "2024-06-22T06:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T07:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804402475937730662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804402475937730662",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "觉得lgbt有特权你为什么不去当？🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 253,
+          "like_count": 972,
+          "listed_count": 2,
+          "tweet_count": 1846
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T04:49:38.000Z",
+        "description": "peace&love.｜he/him/il｜EN➡️@frixel_dtm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "frixel_dtm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.soundcloud.com/frixel-09",
+                "end": 23,
+                "expanded_url": "https://m.soundcloud.com/frixel-09",
+                "start": 0,
+                "url": "https://t.co/SUD4ExHHp5"
+              }
+            ]
+          }
+        },
+        "id": "1527874203395198977",
+        "location": "Fukuoka-ken, Japan",
+        "name": "𝔽𝕣𝕚𝕩𝕖𝕝_𝕀𝕏",
+        "pinned_tweet_id": "1760169644428497375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775318690336055297/xuabCp9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 588,
+          "like_count": 4554,
+          "listed_count": 0,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/SUD4ExHHp5",
+        "username": "IX_6174",
+        "verified": false
+      }
+    ]
+  }
+}

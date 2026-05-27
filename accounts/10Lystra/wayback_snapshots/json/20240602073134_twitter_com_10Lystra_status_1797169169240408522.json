@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1796850220879556726",
+    "created_at": "2024-06-02T07:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T08:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797169169240408522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797169169240408522",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796850220879556726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 但是鸽子很可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1796850220879556726",
+        "created_at": "2024-06-02T07:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T08:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797169169240408522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797169169240408522",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796850220879556726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 但是鸽子很可爱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796850211714912256"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1796850220879556726",
+        "created_at": "2024-06-01T10:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T11:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796850220879556726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gQY4Yz6MVC",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Cldeop/status/1796850220879556726/photo/1",
+              "media_key": "3_1796850211714912256",
+              "start": 16,
+              "url": "https://t.co/gQY4Yz6MVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796850220879556726",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 331965,
+          "like_count": 4481,
+          "quote_count": 13,
+          "reply_count": 69,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "以前的空调 vs 现在的空调： https://t.co/gQY4Yz6MVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 103,
+          "like_count": 251,
+          "listed_count": 1,
+          "tweet_count": 492
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "推特见证每一种生物\n页首手绘来自@tabo127238\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "tabo127238"
+              },
+              {
+                "end": 39,
+                "start": 32,
+                "username": "ACldJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/oRLDNvSezp"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1778043673403625765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17594,
+          "following_count": 422,
+          "like_count": 13400,
+          "listed_count": 85,
+          "tweet_count": 4982
+        },
+        "url": "https://t.co/oRLDNvSezp",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

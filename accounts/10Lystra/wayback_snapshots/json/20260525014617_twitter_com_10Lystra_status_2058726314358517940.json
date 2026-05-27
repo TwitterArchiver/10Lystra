@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2058507939187773619",
+    "created_at": "2026-05-25T01:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058726314358517940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058726314358517940",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058507939187773619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 坏了以后不敢加好友上来就出糖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058507926818693120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFKDZFaoAAjyO9.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058507926810267648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFKDZDaEAACw3c.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2058507939187773619",
+        "created_at": "2026-05-25T01:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058726314358517940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058726314358517940",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058507939187773619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 坏了以后不敢加好友上来就出糖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058507926818693120",
+            "3_2058507926810267648"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058507939187773619",
+        "created_at": "2026-05-24T11:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058507939187773619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7IxhDxXpQ",
+              "end": 32,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2058507939187773619/photo/1",
+              "media_key": "3_2058507926818693120",
+              "start": 9,
+              "url": "https://t.co/Z7IxhDxXpQ"
+            },
+            {
+              "display_url": "pic.x.com/Z7IxhDxXpQ",
+              "end": 32,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2058507939187773619/photo/1",
+              "media_key": "3_2058507926810267648",
+              "start": 9,
+              "url": "https://t.co/Z7IxhDxXpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058507939187773619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2259,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "李保兴又开始了（ https://t.co/Z7IxhDxXpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 912,
+          "like_count": 2397,
+          "listed_count": 4,
+          "media_count": 309,
+          "tweet_count": 7677
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 3568,
+          "like_count": 25517,
+          "listed_count": 11,
+          "media_count": 1345,
+          "tweet_count": 5279
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

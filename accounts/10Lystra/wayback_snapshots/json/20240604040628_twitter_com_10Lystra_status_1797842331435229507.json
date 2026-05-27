@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797842331435229507",
+    "created_at": "2024-06-04T04:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T05:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797842331435229507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735363934889361409",
+          "start": 3,
+          "username": "xia_shu13688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797842331435229507",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797665512366997646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xia_shu13688: 别割了妹子 缠绕人生的痛苦和不幸是割不断的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797842331435229507",
+        "created_at": "2024-06-04T04:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T05:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797842331435229507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735363934889361409",
+              "start": 3,
+              "username": "xia_shu13688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797842331435229507",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797665512366997646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xia_shu13688: 别割了妹子 缠绕人生的痛苦和不幸是割不断的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1735363934889361409",
+        "conversation_id": "1797665512366997646",
+        "created_at": "2024-06-03T16:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T17:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797665512366997646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797665512366997646",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5214,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "别割了妹子 缠绕人生的痛苦和不幸是割不断的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 112,
+          "like_count": 310,
+          "listed_count": 1,
+          "tweet_count": 572
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T18:19:49.000Z",
+        "description": "臭看动漫的",
+        "id": "1735363934889361409",
+        "name": "美咲",
+        "pinned_tweet_id": "1793263029154709980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795482552146292736/FzVeCNi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 1811,
+          "like_count": 12201,
+          "listed_count": 1,
+          "tweet_count": 5874
+        },
+        "username": "xia_shu13688",
+        "verified": false
+      }
+    ]
+  }
+}

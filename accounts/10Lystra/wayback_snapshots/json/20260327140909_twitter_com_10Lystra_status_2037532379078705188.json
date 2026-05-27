@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2037396456282390911",
+    "created_at": "2026-03-27T14:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037532379078705188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1854224109011664896",
+          "start": 0,
+          "username": "A5Tr41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037532379078705188",
+    "in_reply_to_user_id": "1854224109011664896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037446766023610645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5Tr41 对象都被草晕了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037446766023610645].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037446766023610645",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037446766023610645"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2037396456282390911",
+        "created_at": "2026-03-27T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037532379078705188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037532379078705188",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037446766023610645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 对象都被草晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 882,
+          "like_count": 2284,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 6587
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "✨痛苦是存在的证明吗✨  @sayoricat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "sayoricat8964"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "☁️🪼",
+        "pinned_tweet_id": "1985437363196346747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989485324633006080/rC_z4dd8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 76,
+          "like_count": 662,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 2692
+        },
+        "username": "A5Tr41",
+        "verified": true
+      }
+    ]
+  }
+}

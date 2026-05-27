@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802366136908214652",
+    "created_at": "2024-06-16T16:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T17:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802370762785034504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802370762785034504",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802366136908214652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 &lt;(。_。)&gt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802366136908214652",
+        "created_at": "2024-06-16T16:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T17:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802370762785034504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802370762785034504",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802366136908214652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 &lt;(。_。)&gt;"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1802366136908214652",
+        "created_at": "2024-06-16T15:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T16:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802366136908214652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1802365327285870944",
+              "start": 20,
+              "url": "https://t.co/xYADiQC7mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802366136908214652",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802365327285870944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来在鸡巴上加了条虚线，「沿此线剪开」 https://t.co/xYADiQC7mi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 148,
+          "like_count": 563,
+          "listed_count": 1,
+          "tweet_count": 1125
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4422,
+          "following_count": 95,
+          "like_count": 73,
+          "listed_count": 13,
+          "tweet_count": 2946
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

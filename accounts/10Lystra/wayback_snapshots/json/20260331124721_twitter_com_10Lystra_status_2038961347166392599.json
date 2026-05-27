@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038663131027878019",
+    "created_at": "2026-03-31T12:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038961347166392599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1489919689996206081",
+          "start": 0,
+          "username": "bin_x_13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038961347166392599",
+    "in_reply_to_user_id": "1489919689996206081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038663131027878019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bin_x_13 是，毕竟他自己没x账号以前压根接触不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038663131027878019",
+        "created_at": "2026-03-31T12:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038961347166392599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1489919689996206081",
+              "start": 0,
+              "username": "bin_x_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038961347166392599",
+        "in_reply_to_user_id": "1489919689996206081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038663131027878019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bin_x_13 是，毕竟他自己没x账号以前压根接触不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489919689996206081",
+        "conversation_id": "2038663131027878019",
+        "created_at": "2026-03-30T17:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038663131027878019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038663131027878019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为温柔团队的让步是两个因素促成的。内在因素是他们内部有需要友跨的理由。外在因素是跨性别充分地表达出了自己的诉求。\n是的，事情就是这样干的。如果自己不为自己发声，从善意的角度说，难道还要让不了解你的好人 枉费精力来猜测你心里的想法？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 887,
+          "like_count": 2296,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6791
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T11:12:39.000Z",
+        "description": "@Rippin_C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Rippin_C"
+              }
+            ]
+          }
+        },
+        "id": "1489919689996206081",
+        "location": "✞（还没有）升天✞",
+        "name": "本账号不是望晞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700402167633592320/Uem2Ou6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 407,
+          "like_count": 32860,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 4677
+        },
+        "username": "bin_x_13",
+        "verified": false
+      }
+    ]
+  }
+}

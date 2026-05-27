@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038272842740191249",
+    "created_at": "2026-03-30T08:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038534808784003091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600148543125090305",
+          "start": 0,
+          "username": "NakaharaBulbel"
+        },
+        {
+          "end": 27,
+          "id": "1757616332240224256",
+          "start": 16,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038534808784003091",
+    "in_reply_to_user_id": "1600148543125090305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038534628169171202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakaharaBulbel @B_cat38324 这是你应得的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038272842740191249",
+        "created_at": "2026-03-30T08:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038534808784003091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600148543125090305",
+              "start": 0,
+              "username": "NakaharaBulbel"
+            },
+            {
+              "end": 27,
+              "id": "1757616332240224256",
+              "start": 16,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038534808784003091",
+        "in_reply_to_user_id": "1600148543125090305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038534628169171202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakaharaBulbel @B_cat38324 这是你应得的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600148543125090305",
+        "conversation_id": "2038272842740191249",
+        "created_at": "2026-03-30T08:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038534628169171202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 21,
+              "id": "1757616332240224256",
+              "start": 10,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038534628169171202",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038534527870468146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @B_cat38324 好多好多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 881,
+          "like_count": 2291,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6671
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "正在向崩溃发展，急需要爱，独占@nekostar114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "nekostar114"
+              }
+            ]
+          }
+        },
+        "id": "1600148543125090305",
+        "location": "🚪38，但是我很废",
+        "name": "珠芽（想涨fo中）",
+        "pinned_tweet_id": "2037789375308898658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037327865541517313/8G4OZpd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 404,
+          "like_count": 9349,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 1328
+        },
+        "username": "NakaharaBulbel",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22295,
+          "following_count": 196,
+          "like_count": 709,
+          "listed_count": 71,
+          "media_count": 102,
+          "tweet_count": 22814
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

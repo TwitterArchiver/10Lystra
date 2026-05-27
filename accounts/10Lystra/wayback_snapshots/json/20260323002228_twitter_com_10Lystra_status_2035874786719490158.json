@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035804006866718816",
+    "created_at": "2026-03-23T00:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T01:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035874786719490158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675081139684294656",
+          "start": 0,
+          "username": "phil0v0_bot"
+        },
+        {
+          "end": 20,
+          "id": "1545277694325116928",
+          "start": 13,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035874786719490158",
+    "in_reply_to_user_id": "1675081139684294656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035804006866718816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phil0v0_bot @BI3BXI 我受不了了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2035803991062552577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HECg8ZebIAE9ZIe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035804006866718816",
+        "created_at": "2026-03-23T00:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035874786719490158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675081139684294656",
+              "start": 0,
+              "username": "phil0v0_bot"
+            },
+            {
+              "end": 20,
+              "id": "1545277694325116928",
+              "start": 13,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035874786719490158",
+        "in_reply_to_user_id": "1675081139684294656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035804006866718816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phil0v0_bot @BI3BXI 我受不了了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035803991062552577"
+          ]
+        },
+        "author_id": "1675081139684294656",
+        "conversation_id": "2035804006866718816",
+        "created_at": "2026-03-22T19:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T20:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035804006866718816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOwrORdyyY",
+              "end": 42,
+              "expanded_url": "https://x.com/phil0v0_bot/status/2035804006866718816/photo/1",
+              "media_key": "3_2035803991062552577",
+              "start": 19,
+              "url": "https://t.co/dOwrORdyyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035804006866718816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "48000mg的pr 希望下辈子幸福 https://t.co/dOwrORdyyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 875,
+          "like_count": 2273,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6424
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "私たちの約束(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )",
+        "id": "1675081139684294656",
+        "location": "Tokyo-to, Japan",
+        "name": "Philosssss",
+        "pinned_tweet_id": "1995078214373589132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012796514825822209/-XNUyeLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 360,
+          "like_count": 4633,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1621
+        },
+        "username": "phil0v0_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "我们是冠军！@BilibiliGaming @BLGBinGe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "BilibiliGaming"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "BLGBinGe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8119,
+          "following_count": 3718,
+          "like_count": 35643,
+          "listed_count": 21,
+          "media_count": 2103,
+          "tweet_count": 7952
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

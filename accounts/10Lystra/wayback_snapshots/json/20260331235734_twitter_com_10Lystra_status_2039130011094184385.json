@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2039037248033968243",
+    "created_at": "2026-03-31T23:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T00:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039130011094184385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039130011094184385",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039037248033968243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 随身带着刀，尽量别进去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2039037248033968243",
+        "created_at": "2026-03-31T23:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T00:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039130011094184385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039130011094184385",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039037248033968243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 随身带着刀，尽量别进去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "2039037248033968243",
+        "created_at": "2026-03-31T17:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039037248033968243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2038988975092949239",
+              "start": 145,
+              "url": "https://t.co/aoyr50WRg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039037248033968243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038988975092949239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不重要\n一点都不重要\n重要的是把那些被强制绑进扭转机构的人救岀来\n而不是在TA三个月后\n让TA顶一个寸头，漆黑的皮肤，一身的伤痕淤青，对扭转PTSD后\n让你们喊她一声女孩\n不要再骂了\n不要再骂了\n\n我只希望下次我被抓进去戒网瘾机构的时候有人来救我，而不是都在争吵没人关心真正遭受苦难的人 https://t.co/aoyr50WRg5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 888,
+          "like_count": 2303,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6822
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜（我妈当我瞎说的）／不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995,
+          "following_count": 3108,
+          "like_count": 22002,
+          "listed_count": 12,
+          "media_count": 1240,
+          "tweet_count": 4563
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

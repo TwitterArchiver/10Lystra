@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055904840421715968"
+      ],
+      "media_source_tweet_id": [
+        "2055905943083167945"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Soccer action from the German Bundesliga.",
+          "id": "10039036407",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039215494",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226192859172864",
+          "name": "FC Bayern Munich"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226192859172864",
+          "name": "FC Bayern Munich"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2055971297948012649",
+    "created_at": "2026-05-17T11:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055971297948012649"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 98,
+          "tag": "IDAHOBIT"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "773069256",
+          "start": 3,
+          "username": "FCBayern"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7zaT8j83j",
+          "end": 131,
+          "expanded_url": "https://x.com/FCBayern/status/2055905943083167945/photo/1",
+          "media_key": "3_2055904840421715968",
+          "start": 108,
+          "url": "https://t.co/l7zaT8j83j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055971297948012649",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1399
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055905943083167945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @FCBayern: Heute und immer – gegen Homophobie und Ausgrenzung, für Toleranz und Vielfalt! 🏳️‍🌈 #IDAHOBIT https://t.co/l7zaT8j83j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2467,
+        "media_key": "3_2055904840421715968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgKj0lXsAAMXDK.jpg",
+        "width": 1974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055904840421715968"
+          ],
+          "media_source_tweet_id": [
+            "2055905943083167945"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Soccer action from the German Bundesliga.",
+              "id": "10039036407",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039215494",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2055971297948012649",
+        "created_at": "2026-05-17T11:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055971297948012649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 98,
+              "tag": "IDAHOBIT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "773069256",
+              "start": 3,
+              "username": "FCBayern"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7zaT8j83j",
+              "end": 131,
+              "expanded_url": "https://x.com/FCBayern/status/2055905943083167945/photo/1",
+              "media_key": "3_2055904840421715968",
+              "start": 108,
+              "url": "https://t.co/l7zaT8j83j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055971297948012649",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1399
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055905943083167945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @FCBayern: Heute und immer – gegen Homophobie und Ausgrenzung, für Toleranz und Vielfalt! 🏳️‍🌈 #IDAHOBIT https://t.co/l7zaT8j83j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055904840421715968"
+          ]
+        },
+        "author_id": "773069256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2055905943083167945",
+        "created_at": "2026-05-17T06:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055905943083167945"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 84,
+              "tag": "IDAHOBIT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7zaT8j83j",
+              "end": 117,
+              "expanded_url": "https://x.com/FCBayern/status/2055905943083167945/photo/1",
+              "media_key": "3_2055904840421715968",
+              "start": 94,
+              "url": "https://t.co/l7zaT8j83j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055905943083167945",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 313694,
+          "like_count": 13436,
+          "quote_count": 434,
+          "reply_count": 0,
+          "retweet_count": 1399
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Heute und immer – gegen Homophobie und Ausgrenzung, für Toleranz und Vielfalt! 🏳️‍🌈 #IDAHOBIT https://t.co/l7zaT8j83j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 900,
+          "like_count": 2367,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7480
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-22T07:10:46.000Z",
+        "description": "🗺 #FCBayern accounts: @FCBayernEN 🇬🇧 | @FCBayernES 🇪🇸 | @FCBayernUS 🇺🇸 | @FCBayernBR 🇧🇷 | @FCBayernAr AR | Women: @FCBfrauen | Youth: @FCBayernCampus",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 2,
+                "tag": "FCBayern"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "FCBayernEN"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "FCBayernES"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "FCBayernUS"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "FCBayernBR"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "FCBayernAr"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "FCBfrauen"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "FCBayernCampus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wonderl.ink/@fcbayern",
+                "end": 23,
+                "expanded_url": "https://wonderl.ink/@fcbayern",
+                "start": 0,
+                "url": "https://t.co/ZRMFaER6Su"
+              }
+            ]
+          }
+        },
+        "id": "773069256",
+        "location": "Säbener Straße 51-57, München",
+        "name": "FC Bayern München",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846096340326952960/HjecRodZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6542385,
+          "following_count": 41,
+          "like_count": 12635,
+          "listed_count": 8549,
+          "media_count": 67445,
+          "tweet_count": 105159
+        },
+        "url": "https://t.co/ZRMFaER6Su",
+        "username": "FCBayern",
+        "verified": true
+      }
+    ]
+  }
+}

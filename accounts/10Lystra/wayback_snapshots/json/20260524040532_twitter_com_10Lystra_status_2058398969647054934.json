@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2058381161143951378",
+    "created_at": "2026-05-24T04:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058398969647054934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1854224109011664896",
+          "start": 0,
+          "username": "A5Tr41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058398969647054934",
+    "in_reply_to_user_id": "1854224109011664896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058398889146044735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5Tr41 看过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2058381161143951378",
+        "created_at": "2026-05-24T04:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058398969647054934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058398969647054934",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058398889146044735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 看过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854224109011664896",
+        "conversation_id": "2058381161143951378",
+        "created_at": "2026-05-24T04:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058398889146044735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058398889146044735",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058381161143951378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 那我能看看你吗呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 911,
+          "like_count": 2391,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 7645
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "✨痛苦是存在的证明吗✨  @sayoricat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "sayoricat8964"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "☁️🪼",
+        "pinned_tweet_id": "1985437363196346747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989485324633006080/rC_z4dd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 102,
+          "like_count": 879,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3397
+        },
+        "username": "A5Tr41",
+        "verified": false
+      }
+    ]
+  }
+}

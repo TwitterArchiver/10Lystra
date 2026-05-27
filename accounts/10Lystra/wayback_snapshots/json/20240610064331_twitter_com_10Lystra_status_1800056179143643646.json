@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1799827224801185919",
+    "created_at": "2024-06-10T06:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T07:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800056179143643646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683809602671108098",
+          "start": 0,
+          "username": "nchinaresearch0"
+        },
+        {
+          "end": 25,
+          "id": "1337016565833805827",
+          "start": 17,
+          "username": "WSXJPDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800056179143643646",
+    "in_reply_to_user_id": "1683809602671108098",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799977464644657302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nchinaresearch0 @WSXJPDD 也可能是撞掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1799827224801185919",
+        "created_at": "2024-06-10T06:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T07:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800056179143643646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683809602671108098",
+              "start": 0,
+              "username": "nchinaresearch0"
+            },
+            {
+              "end": 25,
+              "id": "1337016565833805827",
+              "start": 17,
+              "username": "WSXJPDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800056179143643646",
+        "in_reply_to_user_id": "1683809602671108098",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799977464644657302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nchinaresearch0 @WSXJPDD 也可能是撞掉了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1683809602671108098",
+        "conversation_id": "1799827224801185919",
+        "created_at": "2024-06-10T01:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T02:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799977464644657302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1337016565833805827",
+              "start": 0,
+              "username": "WSXJPDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799977464644657302",
+        "in_reply_to_user_id": "1337016565833805827",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 57710,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799827224801185919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WSXJPDD 为什么有只手都烧不见了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 121,
+          "like_count": 416,
+          "listed_count": 1,
+          "tweet_count": 788
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T12:01:46.000Z",
+        "description": "反共更反华，在我看来正常人大于中国共产党大于绝大多数底层中国人，认同中国几千年文化造就了中共极权，文化孕育人民，人民诞生政党和领导",
+        "id": "1683809602671108098",
+        "location": "Los Angeles",
+        "name": "新中国人&中共研究院",
+        "pinned_tweet_id": "1799641044759527697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683811674145579009/uBaegq4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 131,
+          "like_count": 306,
+          "listed_count": 32,
+          "tweet_count": 3145
+        },
+        "username": "nchinaresearch0",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-10T12:49:35.000Z",
+        "description": "人呐，可以输一百次，但一定要赢最后一次！",
+        "id": "1337016565833805827",
+        "name": "罗刹国第一丑",
+        "pinned_tweet_id": "1774690694830981436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745573126409166848/WbMTaYJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24528,
+          "following_count": 2081,
+          "like_count": 12890,
+          "listed_count": 86,
+          "tweet_count": 10972
+        },
+        "username": "WSXJPDD",
+        "verified": true
+      }
+    ]
+  }
+}

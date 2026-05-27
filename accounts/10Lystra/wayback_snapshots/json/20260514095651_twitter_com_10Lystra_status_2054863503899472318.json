@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054556105582502158",
+    "created_at": "2026-05-14T09:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054863503899472318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311608169269923841",
+          "start": 0,
+          "username": "g60Yts1kvzO4g8q"
+        },
+        {
+          "end": 25,
+          "id": "1951538467240026112",
+          "start": 17,
+          "username": "wwb0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054863503899472318",
+    "in_reply_to_user_id": "1311608169269923841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054716646875672894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g60Yts1kvzO4g8q @wwb0820 哦不宝宝我来了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054556105582502158",
+        "created_at": "2026-05-14T09:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054863503899472318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311608169269923841",
+              "start": 0,
+              "username": "g60Yts1kvzO4g8q"
+            },
+            {
+              "end": 25,
+              "id": "1951538467240026112",
+              "start": 17,
+              "username": "wwb0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054863503899472318",
+        "in_reply_to_user_id": "1311608169269923841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054716646875672894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g60Yts1kvzO4g8q @wwb0820 哦不宝宝我来了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311608169269923841",
+        "conversation_id": "2054556105582502158",
+        "created_at": "2026-05-14T00:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054716646875672894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1951538467240026112",
+              "start": 0,
+              "username": "wwb0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054716646875672894",
+        "in_reply_to_user_id": "1951538467240026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054600200577327579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwb0820 其实只有我一个人（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 892,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 7379
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T10:05:45.000Z",
+        "description": "怜悯我此生的不幸 不紧要 约到明年来生~",
+        "id": "1311608169269923841",
+        "location": "Taiwan",
+        "name": "素桐桐桐",
+        "pinned_tweet_id": "2046500844645048431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050591608375300096/rN9OcqFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 515,
+          "like_count": 257,
+          "listed_count": 5,
+          "media_count": 62,
+          "tweet_count": 707
+        },
+        "username": "g60Yts1kvzO4g8q",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T07:00:08.000Z",
+        "description": "",
+        "id": "1951538467240026112",
+        "name": "热寂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951572599043194880/dexLYiG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "wwb0820",
+        "verified": false
+      }
+    ]
+  }
+}

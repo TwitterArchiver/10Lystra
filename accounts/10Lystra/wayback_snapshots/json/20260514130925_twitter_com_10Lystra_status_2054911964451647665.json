@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054911964451647665",
+    "created_at": "2026-05-14T13:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054911964451647665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726808702387449856",
+          "start": 3,
+          "username": "Nargiti"
+        },
+        {
+          "end": 26,
+          "id": "1597605170502062080",
+          "start": 13,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054911964451647665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054711873761874379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nargiti: @Ayanami_rin0 别人：hrt\n我：srs\n就很……😂😂😂你们懂吧\n（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054911964451647665",
+        "created_at": "2026-05-14T13:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054911964451647665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726808702387449856",
+              "start": 3,
+              "username": "Nargiti"
+            },
+            {
+              "end": 26,
+              "id": "1597605170502062080",
+              "start": 13,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054911964451647665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054711873761874379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nargiti: @Ayanami_rin0 别人：hrt\n我：srs\n就很……😂😂😂你们懂吧\n（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726808702387449856",
+        "conversation_id": "2054633993690402833",
+        "created_at": "2026-05-13T23:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054711873761874379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054711873761874379",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054633993690402833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 别人：hrt\n我：srs\n就很……😂😂😂你们懂吧\n（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 894,
+          "like_count": 2358,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 7406
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允。人随身死，精神永存\n\n我的私信好像一直有问题，老是刷不出来新消息，如果给我发了私信我一直没回的话可以随便在某个帖子底下告诉我一声。\n🚪52，听说加了门会有更多人来玩所以试试\n纯绿。（其实大概率不用门，找我玩直接私就行）",
+        "id": "1726808702387449856",
+        "name": "丌乐",
+        "pinned_tweet_id": "2053310793404588270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043402687564349440/_o9ITcv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 16,
+          "like_count": 6110,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 240
+        },
+        "username": "Nargiti",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常。水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人。长文糊涂话https://t.co/XI1iXwHXJ5\n#啊呀纳米相册  #小绫的诗歌日记本 #小绫饭店  #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 104,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 138,
+                "start": 130,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "tag": "aynm旅行日记"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ayanamirin0.substack.com",
+                "end": 103,
+                "expanded_url": "http://ayanamirin0.substack.com",
+                "start": 80,
+                "url": "https://t.co/XI1iXwHXJ5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 735,
+          "like_count": 16813,
+          "listed_count": 14,
+          "media_count": 1532,
+          "tweet_count": 9916
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

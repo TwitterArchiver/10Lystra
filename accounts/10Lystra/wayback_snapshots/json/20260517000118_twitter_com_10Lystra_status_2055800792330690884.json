@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055739406343155868",
+    "created_at": "2026-05-17T00:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055800792330690884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "878794367103676416",
+          "start": 0,
+          "username": "_NekoKage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055800792330690884",
+    "in_reply_to_user_id": "878794367103676416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055739406343155868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_NekoKage 抱抱🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2055739396121649152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HId0FsibYAAdlz0.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055739406343155868",
+        "created_at": "2026-05-17T00:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055800792330690884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "878794367103676416",
+              "start": 0,
+              "username": "_NekoKage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055800792330690884",
+        "in_reply_to_user_id": "878794367103676416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055739406343155868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_NekoKage 抱抱🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055739396121649152"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "2055739406343155868",
+        "created_at": "2026-05-16T19:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055739406343155868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3QAaGxveX",
+              "end": 63,
+              "expanded_url": "https://x.com/_NekoKage/status/2055739406343155868/photo/1",
+              "media_key": "3_2055739396121649152",
+              "start": 40,
+              "url": "https://t.co/c3QAaGxveX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055739406343155868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦好烦好烦好痛好痛好痛好痛好痛好痛要死了要死了要死了要死了要死了要死了好难受 https://t.co/c3QAaGxveX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 896,
+          "like_count": 2365,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7462
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病多病病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "_kagenone"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCpm0srU"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage📸",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8614,
+          "following_count": 6571,
+          "like_count": 15076,
+          "listed_count": 18,
+          "media_count": 2884,
+          "tweet_count": 21085
+        },
+        "url": "https://t.co/nHiCpm0srU",
+        "username": "_NekoKage",
+        "verified": false
+      }
+    ]
+  }
+}

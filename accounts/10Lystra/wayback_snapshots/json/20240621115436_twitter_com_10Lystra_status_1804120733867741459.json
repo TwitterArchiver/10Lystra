@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804111407690203385",
+    "created_at": "2024-06-21T11:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T12:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804120733867741459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1718399336118169600",
+          "start": 0,
+          "username": "MitsuoKaori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804120733867741459",
+    "in_reply_to_user_id": "1718399336118169600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804111407690203385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MitsuoKaori 好可爱的碎碎念…\n好像理解了呐ღ(✞╹◡╹✞)ற"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804111407690203385",
+        "created_at": "2024-06-21T11:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T12:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804120733867741459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1718399336118169600",
+              "start": 0,
+              "username": "MitsuoKaori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804120733867741459",
+        "in_reply_to_user_id": "1718399336118169600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804111407690203385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MitsuoKaori 好可爱的碎碎念…\n好像理解了呐ღ(✞╹◡╹✞)ற"
+      },
+      {
+        "attachments": {},
+        "author_id": "1718399336118169600",
+        "conversation_id": "1804111407690203385",
+        "created_at": "2024-06-21T11:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T12:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804111407690203385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10Lystra/statu…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/10Lystra/status/1804028684757799260",
+              "start": 108,
+              "url": "https://t.co/S9YQUrXUKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804111407690203385",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804028684757799260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单纯说你做了某些事就能好是很廉价的，大街上都能捡到的观点改变不了什么，反而会让人觉得你是复读机一点也不打算理解别人…但一味的安慰也是不重视对方的一种只是相比于打压更像是温水泡青蛙，时间长了就煮熟了出不去了（胡言乱语 https://t.co/S9YQUrXUKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 242,
+          "like_count": 895,
+          "listed_count": 2,
+          "tweet_count": 1707
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T22:48:34.000Z",
+        "description": "母狼",
+        "id": "1718399336118169600",
+        "name": "ベルタ•フォイアシュタイン",
+        "pinned_tweet_id": "1792962221531902313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797787469141934080/EPjC4g3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 95,
+          "like_count": 5173,
+          "listed_count": 0,
+          "tweet_count": 5836
+        },
+        "username": "MitsuoKaori",
+        "verified": false
+      }
+    ]
+  }
+}

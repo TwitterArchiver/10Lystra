@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2039037248033968243",
+    "created_at": "2026-04-01T09:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039269423387947135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886449401029140485",
+          "start": 0,
+          "username": "shuanghenru"
+        },
+        {
+          "end": 22,
+          "id": "1763577841588056064",
+          "start": 13,
+          "username": "yxrchina"
+        },
+        {
+          "end": 38,
+          "id": "1704469304077611008",
+          "start": 23,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039269423387947135",
+    "in_reply_to_user_id": "1886449401029140485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039268218821554218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuanghenru @yxrchina @jiaoyanboluooo 也是，不过我拿刀了大概得给自己来一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2039037248033968243",
+        "created_at": "2026-04-01T09:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039269423387947135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886449401029140485",
+              "start": 0,
+              "username": "shuanghenru"
+            },
+            {
+              "end": 22,
+              "id": "1763577841588056064",
+              "start": 13,
+              "username": "yxrchina"
+            },
+            {
+              "end": 38,
+              "id": "1704469304077611008",
+              "start": 23,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039269423387947135",
+        "in_reply_to_user_id": "1886449401029140485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039268218821554218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuanghenru @yxrchina @jiaoyanboluooo 也是，不过我拿刀了大概得给自己来一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886449401029140485",
+        "conversation_id": "2039037248033968243",
+        "created_at": "2026-04-01T09:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039268218821554218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 19,
+              "id": "1763577841588056064",
+              "start": 10,
+              "username": "yxrchina"
+            },
+            {
+              "end": 35,
+              "id": "1704469304077611008",
+              "start": 20,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039268218821554218",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039176578958266469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @yxrchina @jiaoyanboluooo 你觉得当过兵的怕刀啊 一般这种当兵的你不偷袭基本伤害不到他 尽量要有反侦察意识"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 891,
+          "like_count": 2307,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6863
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T16:19:29.000Z",
+        "description": "半个家长党 有小证 互fo   双相  09年\nmtf 友跨 her/she 被动式说话  \nHRT:5.9 2025\n日语在学中/英语/中文\n玩过的游戏有:アークナイツ lost light 泰拉瑞亚kards///作息时间 固定三小时睡眠///可以找我聊天",
+        "id": "1886449401029140485",
+        "location": "第五高原",
+        "name": "霜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952663751691255808/P0sBq0XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 739,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 444
+        },
+        "username": "shuanghenru",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| INFP / INFJ | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | 已扭转 25.11.30~26.03.04 | 已炸柜 | 已断糖 | 碎碎念or日常 @syyann2026 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Hefei Anhui",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 2435,
+          "like_count": 23875,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 6845
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜（我妈当我瞎说的）／不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3994,
+          "following_count": 3109,
+          "like_count": 22030,
+          "listed_count": 12,
+          "media_count": 1240,
+          "tweet_count": 4572
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

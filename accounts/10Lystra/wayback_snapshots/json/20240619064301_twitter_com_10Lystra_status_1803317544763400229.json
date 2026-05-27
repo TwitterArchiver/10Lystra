@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1803317544763400229",
+    "created_at": "2024-06-19T06:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T07:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803317544763400229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "808311771136036864",
+          "start": 3,
+          "username": "Na_Gredmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803317544763400229",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802963861164695960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Na_Gredmin: 你们知道为什么只有业余的数学丁真却没有化学丁真吗？\n因为业余喜欢化学的头都被能材炸飞了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1803317544763400229",
+        "created_at": "2024-06-19T06:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T07:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803317544763400229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "808311771136036864",
+              "start": 3,
+              "username": "Na_Gredmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803317544763400229",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802963861164695960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Na_Gredmin: 你们知道为什么只有业余的数学丁真却没有化学丁真吗？\n因为业余喜欢化学的头都被能材炸飞了。"
+      },
+      {
+        "attachments": {},
+        "author_id": "808311771136036864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1802963861164695960",
+        "created_at": "2024-06-18T07:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802963861164695960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802963861164695960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 85613,
+          "like_count": 370,
+          "quote_count": 8,
+          "reply_count": 45,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道为什么只有业余的数学丁真却没有化学丁真吗？\n因为业余喜欢化学的头都被能材炸飞了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 191,
+          "like_count": 675,
+          "listed_count": 1,
+          "tweet_count": 1441
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-12T14:05:18.000Z",
+        "description": "万道无常。",
+        "id": "808311771136036864",
+        "name": "💡",
+        "pinned_tweet_id": "1684078398220701698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781950016892080128/PfxMAIGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7150,
+          "following_count": 836,
+          "like_count": 7923,
+          "listed_count": 33,
+          "tweet_count": 3806
+        },
+        "username": "Na_Gredmin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804753489681350810",
+    "created_at": "2024-06-23T18:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T19:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804941300367823033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750067499096547328",
+          "start": 0,
+          "username": "Kzzzzo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804941300367823033",
+    "in_reply_to_user_id": "1750067499096547328",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804753489681350810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kzzzzo0 宝宝好棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804753489681350810",
+        "created_at": "2024-06-23T18:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T19:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804941300367823033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750067499096547328",
+              "start": 0,
+              "username": "Kzzzzo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804941300367823033",
+        "in_reply_to_user_id": "1750067499096547328",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804753489681350810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kzzzzo0 宝宝好棒"
+      },
+      {
+        "attachments": {},
+        "author_id": "1750067499096547328",
+        "conversation_id": "1804753489681350810",
+        "created_at": "2024-06-23T05:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T06:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804753489681350810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804753489681350810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6661,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经很久没割了你们能夸夸我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 256,
+          "like_count": 1043,
+          "listed_count": 2,
+          "tweet_count": 1916
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T08:06:42.000Z",
+        "description": "大家好我是小杜呀                                                              \n女宝互fo大欢迎！我想交好多好多朋友´꒳`",
+        "id": "1750067499096547328",
+        "location": "🛏️",
+        "name": "无人在意的我",
+        "pinned_tweet_id": "1795127359839817779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764973970779201536/sZBgXA8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 275,
+          "like_count": 3158,
+          "listed_count": 2,
+          "tweet_count": 851
+        },
+        "username": "Kzzzzo0",
+        "verified": false
+      }
+    ]
+  }
+}

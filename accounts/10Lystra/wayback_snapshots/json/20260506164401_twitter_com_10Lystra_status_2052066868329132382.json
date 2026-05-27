@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2052057013476278472",
+    "created_at": "2026-05-06T16:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052066868329132382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286250636502339584",
+          "start": 0,
+          "username": "LemPackageMain1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052066868329132382",
+    "in_reply_to_user_id": "1286250636502339584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052057013476278472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemPackageMain1 定妆喷雾？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2052057013476278472",
+        "created_at": "2026-05-06T16:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052066868329132382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286250636502339584",
+              "start": 0,
+              "username": "LemPackageMain1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052066868329132382",
+        "in_reply_to_user_id": "1286250636502339584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052057013476278472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemPackageMain1 定妆喷雾？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286250636502339584",
+        "conversation_id": "2052057013476278472",
+        "created_at": "2026-05-06T16:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052057013476278472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LemPackageMain…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/LemPackageMain1/status/2052018049537224789",
+              "start": 140,
+              "url": "https://t.co/4dJj2TfDXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052057013476278472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052018049537224789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉这个妆最恐怖的地方在它的底妆……六点多化的妆，到十一点半多几乎一点都没掉，我用手去摸手上也几乎没有沾，洗澡的时候用水洗了两遍脸也几乎没任何变化，用卸妆洗面奶洗才洗掉……我自己化的妆，花上就很显脏，而且会卡粉，一碰就掉……她这到底是怎么做到的啊，太恐怖了，明天我要去取取经😰 https://t.co/4dJj2TfDXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 893,
+          "like_count": 2337,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 7227
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:43:54.000Z",
+        "description": "Main包是人类，有时候可能会出错",
+        "id": "1286250636502339584",
+        "location": "Sonderland",
+        "name": "柠檬味的maiN包🍥（转生版）",
+        "pinned_tweet_id": "2049543128743580107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049543290421460992/TKEOg4Dw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 152,
+          "like_count": 19282,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 3313
+        },
+        "username": "LemPackageMain1",
+        "verified": false
+      }
+    ]
+  }
+}

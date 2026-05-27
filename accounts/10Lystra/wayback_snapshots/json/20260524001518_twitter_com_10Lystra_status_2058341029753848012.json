@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2058272860507161042",
+    "created_at": "2026-05-24T00:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058341029753848012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786464617031733248",
+          "start": 0,
+          "username": "QueerMasculism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058341029753848012",
+    "in_reply_to_user_id": "786464617031733248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058272860507161042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QueerMasculism 坏菜了，不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2058272860507161042",
+        "created_at": "2026-05-24T00:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058341029753848012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786464617031733248",
+              "start": 0,
+              "username": "QueerMasculism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058341029753848012",
+        "in_reply_to_user_id": "786464617031733248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058272860507161042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QueerMasculism 坏菜了，不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786464617031733248",
+        "conversation_id": "2058272860507161042",
+        "created_at": "2026-05-23T19:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058272860507161042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10Lystra/statu…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/10Lystra/status/2057939737818673433",
+              "start": 75,
+              "url": "https://t.co/VUv4cdhDwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058272860507161042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057939737818673433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假如有一天你的家人亲友，你所有在乎的人都跟你说，说他们可以接受你离开，死亡对你来说就是解脱，活在这个世界上确实很痛苦，他们能接受你解脱。你会幸福吗？ https://t.co/VUv4cdhDwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 910,
+          "like_count": 2387,
+          "listed_count": 4,
+          "media_count": 307,
+          "tweet_count": 7635
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T07:12:31.000Z",
+        "description": "左翼男性主义 | 酷儿男性主义 | 后女性主义 | 音羽中思想 | 实践-理论-实践 | 推翻女本位经济 | 在扬弃了女性主义的基础上走向未来 | 天然进步的amab | YGBTQA+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/454038240",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/454038240",
+                "start": 0,
+                "url": "https://t.co/T15vXo3Mib"
+              }
+            ]
+          }
+        },
+        "id": "786464617031733248",
+        "location": "驻马店",
+        "name": "音羽中导读（2.0）",
+        "pinned_tweet_id": "1968329547084186077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968328011276775424/doIwV-H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 2769,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/T15vXo3Mib",
+        "username": "QueerMasculism",
+        "verified": false
+      }
+    ]
+  }
+}

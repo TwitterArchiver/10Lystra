@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797150120527687801",
+    "created_at": "2024-06-03T14:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T15:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797639755926221135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "804343489",
+          "start": 0,
+          "username": "divrcrossurmind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797639755926221135",
+    "in_reply_to_user_id": "804343489",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797150120527687801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@divrcrossurmind 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797150120527687801",
+        "created_at": "2024-06-03T14:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T15:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797639755926221135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "804343489",
+              "start": 0,
+              "username": "divrcrossurmind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797639755926221135",
+        "in_reply_to_user_id": "804343489",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797150120527687801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@divrcrossurmind 笑死我了"
+      },
+      {
+        "attachments": {},
+        "author_id": "804343489",
+        "conversation_id": "1797150120527687801",
+        "created_at": "2024-06-02T06:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797150120527687801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797150120527687801",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 54780,
+          "like_count": 330,
+          "quote_count": 7,
+          "reply_count": 64,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你俩是在毕加索评论区认识的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 106,
+          "like_count": 282,
+          "listed_count": 1,
+          "tweet_count": 533
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-05T10:43:10.000Z",
+        "description": "求放过",
+        "id": "804343489",
+        "location": "🚪520绿聊无福利 ",
+        "name": "睡个好觉吧",
+        "pinned_tweet_id": "1794743850738897259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770353082364211201/VcC3653C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13579,
+          "following_count": 93,
+          "like_count": 5037,
+          "listed_count": 29,
+          "tweet_count": 8245
+        },
+        "username": "divrcrossurmind",
+        "verified": false
+      }
+    ]
+  }
+}

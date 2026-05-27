@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2057040733899567515",
+    "created_at": "2026-05-20T10:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057040733899567515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1477943682808664068",
+          "start": 3,
+          "username": "dreamdissolved"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057040733899567515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056723405349818643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dreamdissolved: 贴跨旗是为了鼓舞别人，不贴是为了保护自己。贴是想让人看到跨性别社群与其allies，而不是使自己柜门大开，增加各种风险。我要是顺性别肯定天天贴跨旗😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2057040733899567515",
+        "created_at": "2026-05-20T10:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057040733899567515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1477943682808664068",
+              "start": 3,
+              "username": "dreamdissolved"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057040733899567515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056723405349818643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dreamdissolved: 贴跨旗是为了鼓舞别人，不贴是为了保护自己。贴是想让人看到跨性别社群与其allies，而不是使自己柜门大开，增加各种风险。我要是顺性别肯定天天贴跨旗😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477943682808664068",
+        "conversation_id": "2056723405349818643",
+        "created_at": "2026-05-19T13:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056723405349818643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainchngshainn…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/rainchngshainn/status/2055777779019346338",
+              "start": 75,
+              "url": "https://t.co/cyo8C77YXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056723405349818643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 905,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055777779019346338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "贴跨旗是为了鼓舞别人，不贴是为了保护自己。贴是想让人看到跨性别社群与其allies，而不是使自己柜门大开，增加各种风险。我要是顺性别肯定天天贴跨旗😅 https://t.co/cyo8C77YXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 902,
+          "like_count": 2376,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 7530
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T10:03:36.000Z",
+        "description": "🦉男的|@HumanoidNO19|想像力豊かな人間になりたい|雑多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "HumanoidNO19"
+              }
+            ]
+          }
+        },
+        "id": "1477943682808664068",
+        "name": "Kagam⚨♂⚧",
+        "pinned_tweet_id": "2054506069804912956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018227224684675072/VrVKpuEI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 3369,
+          "like_count": 50961,
+          "listed_count": 5,
+          "media_count": 683,
+          "tweet_count": 8644
+        },
+        "username": "dreamdissolved",
+        "verified": false
+      }
+    ]
+  }
+}

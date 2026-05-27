@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2049737611007377875",
+    "created_at": "2026-04-30T09:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049779998765027821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669543422586421248",
+          "start": 0,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049779998765027821",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049737611007377875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Letana358121 不过在想如果哪个性别都不被所谓“压迫”会是怎么样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2049737611007377875",
+        "created_at": "2026-04-30T09:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049779998765027821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049779998765027821",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049737611007377875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 不过在想如果哪个性别都不被所谓“压迫”会是怎么样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2049737611007377875",
+        "created_at": "2026-04-30T06:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049737611007377875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049737611007377875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我说是支持女权实际上是支持平权哈，父权制对任何性别都存在压迫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 893,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 7144
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Hopefully you'll get used to my hugs meaning goodbye./ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039583664682737664/VEfAZpDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3201,
+          "following_count": 1438,
+          "like_count": 52297,
+          "listed_count": 8,
+          "media_count": 2258,
+          "tweet_count": 19684
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

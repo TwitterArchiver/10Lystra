@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2037426817595007377",
+    "created_at": "2026-03-28T07:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037792263179313505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037792263179313505",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037426817595007377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 不过如果因为这个去把5g基站拆了还是不好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2037426817595007377",
+        "created_at": "2026-03-28T07:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037792263179313505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037792263179313505",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037426817595007377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 不过如果因为这个去把5g基站拆了还是不好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2037426817595007377",
+        "created_at": "2026-03-27T07:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037426817595007377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037426817595007377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5480,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "有的健全人真的特恶心，刷到精分之类的患者发帖说觉得自己被组织盯上被脑控什么的\n评论区有的健全人就说要继续加大监控力度或者给他发送辐射什么的。\n这本来就是痛苦的精神疾病，患者没有自知力。故意恐吓来加重患者恐慌以此取乐到底好玩在哪里。说白了就是心理虐待还沾沾自喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 881,
+          "like_count": 2284,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 6600
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "希望一天睡24个小时",
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4450,
+          "following_count": 582,
+          "like_count": 12570,
+          "listed_count": 8,
+          "media_count": 1305,
+          "tweet_count": 13631
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

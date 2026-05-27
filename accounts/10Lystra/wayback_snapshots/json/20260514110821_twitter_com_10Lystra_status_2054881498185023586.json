@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054880774491603333",
+    "created_at": "2026-05-14T11:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054881498185023586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054881498185023586",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054880774491603333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 我说你傻逼也只能说明我素质低呀怎么就骂你了😂，这不就你自己的逻辑吗，第一次见到网暴自己的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054880756925886465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRnKURacAE-wlK.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054880756904919040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRnKUMagAANiVp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054880774491603333",
+        "created_at": "2026-05-14T11:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054881498185023586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054881498185023586",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054880774491603333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 我说你傻逼也只能说明我素质低呀怎么就骂你了😂，这不就你自己的逻辑吗，第一次见到网暴自己的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054880756925886465",
+            "3_2054880756904919040"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2054880774491603333",
+        "created_at": "2026-05-14T11:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054880774491603333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vBidEnrxm0",
+              "end": 116,
+              "expanded_url": "https://x.com/QwQIO3O/status/2054880774491603333/photo/1",
+              "media_key": "3_2054880756925886465",
+              "start": 93,
+              "url": "https://t.co/vBidEnrxm0"
+            },
+            {
+              "display_url": "pic.x.com/vBidEnrxm0",
+              "end": 116,
+              "expanded_url": "https://x.com/QwQIO3O/status/2054880774491603333/photo/1",
+              "media_key": "3_2054880756904919040",
+              "start": 93,
+              "url": "https://t.co/vBidEnrxm0"
+            },
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/10lystra/status/2054878500323049757",
+              "start": 117,
+              "url": "https://t.co/6gO6gqOmVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054880774491603333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054878500323049757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妹子你现生痛苦就别到处拉屎撒尿了好不🥰我就发一个小红书冰工厂的吐槽截图，还把我扣上网暴的帽子了呃呃呃呃，和你无冤无仇突然骂我傻逼何意味，感觉你全家死光了现在心情肯定差到不行所以故意挑刺 https://t.co/vBidEnrxm0 https://t.co/6gO6gqOmVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 894,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 7387
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "说好话，做好事",
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 239,
+          "like_count": 9148,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 2208
+        },
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2053023998221730061",
+    "created_at": "2026-05-11T03:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053672699998654475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946053707340410880",
+          "start": 0,
+          "username": "yanqi898666"
+        },
+        {
+          "end": 24,
+          "id": "1988510181542817795",
+          "start": 13,
+          "username": "xwi1157255"
+        },
+        {
+          "end": 37,
+          "id": "1655514709733302273",
+          "start": 25,
+          "username": "Destiny_26X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053672699998654475",
+    "in_reply_to_user_id": "1946053707340410880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053386345557762447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanqi898666 @xwi1157255 @Destiny_26X 为啥什么都得是个病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2053023998221730061",
+        "created_at": "2026-05-11T03:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053672699998654475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946053707340410880",
+              "start": 0,
+              "username": "yanqi898666"
+            },
+            {
+              "end": 24,
+              "id": "1988510181542817795",
+              "start": 13,
+              "username": "xwi1157255"
+            },
+            {
+              "end": 37,
+              "id": "1655514709733302273",
+              "start": 25,
+              "username": "Destiny_26X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053672699998654475",
+        "in_reply_to_user_id": "1946053707340410880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053386345557762447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanqi898666 @xwi1157255 @Destiny_26X 为啥什么都得是个病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946053707340410880",
+        "conversation_id": "2053023998221730061",
+        "created_at": "2026-05-10T08:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053386345557762447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988510181542817795",
+              "start": 0,
+              "username": "xwi1157255"
+            },
+            {
+              "end": 24,
+              "id": "1655514709733302273",
+              "start": 12,
+              "username": "Destiny_26X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053386345557762447",
+        "in_reply_to_user_id": "1988510181542817795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053329705689063723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwi1157255 @Destiny_26X 那怎么样是骑士病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 893,
+          "like_count": 2345,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 7320
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T03:45:50.000Z",
+        "description": "rack your brains",
+        "id": "1946053707340410880",
+        "name": "梨刀树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052635746192994304/nlbklslt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 174,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 429
+        },
+        "username": "yanqi898666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T07:33:39.000Z",
+        "description": "一条很长很长的时间线🧵\n草履虫 | 不要给我发私密照，谢谢",
+        "id": "1988510181542817795",
+        "location": "海底",
+        "name": "xixixixiway",
+        "pinned_tweet_id": "2028435647057539325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992138120150794240/I3Bm6mcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 85,
+          "like_count": 5108,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1561
+        },
+        "username": "xwi1157255",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T10:07:30.000Z",
+        "description": "🐱  intj   sw  brat，脾气不好，不回无意义私信，看不惯我你就去死，讨厌我那建议你自剜双目 (防走失@Wildcat_YRX)   提问箱https://t.co/PvT7Hhql2q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Wildcat_YRX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xueye",
+                "end": 99,
+                "expanded_url": "https://ngl.link/xueye",
+                "start": 76,
+                "url": "https://t.co/PvT7Hhql2q"
+              }
+            ]
+          }
+        },
+        "id": "1655514709733302273",
+        "location": "自由",
+        "name": "等雪夜",
+        "pinned_tweet_id": "2048098102998147323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025251643194015745/gdqD9fF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 132,
+          "like_count": 1404,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1202
+        },
+        "username": "Destiny_26X",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793255925752758648",
+    "created_at": "2024-05-22T17:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T18:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793325960730714509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642609342800338944",
+          "start": 0,
+          "username": "gotouhitori2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793325960730714509",
+    "in_reply_to_user_id": "1642609342800338944",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793255925752758648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gotouhitori2 解离干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793255925752758648",
+        "created_at": "2024-05-22T17:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T18:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793325960730714509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642609342800338944",
+              "start": 0,
+              "username": "gotouhitori2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793325960730714509",
+        "in_reply_to_user_id": "1642609342800338944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793255925752758648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gotouhitori2 解离干的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1642609342800338944",
+        "conversation_id": "1793255925752758648",
+        "created_at": "2024-05-22T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793255925752758648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793255925752758648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 831,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看不清手机了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 85,
+          "like_count": 182,
+          "listed_count": 1,
+          "tweet_count": 349
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T19:26:12.000Z",
+        "description": "",
+        "id": "1642609342800338944",
+        "location": "參宿四",
+        "name": "後藤一理",
+        "pinned_tweet_id": "1780416675009151282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736674719519453184/744CYmNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 2537,
+          "like_count": 45751,
+          "listed_count": 6,
+          "tweet_count": 9549
+        },
+        "username": "gotouhitori2",
+        "verified": false
+      }
+    ]
+  }
+}

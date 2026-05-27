@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2039501184608952560",
+    "created_at": "2026-04-02T01:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T02:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039514652137357391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039514652137357391",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039501184608952560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 走出精分困境"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2039501174098026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3Dgxka4AAqzsC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2039501184608952560",
+        "created_at": "2026-04-02T01:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039514652137357391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039514652137357391",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039501184608952560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 走出精分困境"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039501174098026496"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "2039501184608952560",
+        "created_at": "2026-04-02T00:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039501184608952560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2IvG47fjn",
+              "end": 28,
+              "expanded_url": "https://x.com/yqua_/status/2039501184608952560/photo/1",
+              "media_key": "3_2039501174098026496",
+              "start": 5,
+              "url": "https://t.co/H2IvG47fjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039501184608952560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿到了。 https://t.co/H2IvG47fjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 892,
+          "like_count": 2307,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 6874
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "本垢@BI3BXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "BI3BXI"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "你是要气死铨酱么🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013607388050272257/50GECfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 701,
+          "like_count": 10755,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 393
+        },
+        "username": "yqua_",
+        "verified": false
+      }
+    ]
+  }
+}

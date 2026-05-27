@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2058345144861028454",
+    "created_at": "2026-05-24T00:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058345144861028454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jujubeandpapay…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jujubeandpapaya/status/2058239902584807559",
+          "start": 5,
+          "url": "https://t.co/ithikffJLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058345144861028454",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058239902584807559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噢我草🥹 https://t.co/ithikffJLF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2058345144861028454",
+        "created_at": "2026-05-24T00:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058345144861028454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jujubeandpapay…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jujubeandpapaya/status/2058239902584807559",
+              "start": 5,
+              "url": "https://t.co/ithikffJLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058345144861028454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058239902584807559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噢我草🥹 https://t.co/ithikffJLF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637732697790627840",
+        "conversation_id": "2058239902584807559",
+        "created_at": "2026-05-23T17:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058239902584807559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058239902584807559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 49687,
+          "like_count": 253,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "在东南亚\n想象被坏人控制 被逼拍照裸贷，然后护照收走，当作性奴卖掉\n蒙上头套被带走，狠狠虐玩一顿，被灌下药物，身体里被塞入东西\n对方人狠话少  下手毫不怜惜\n在恐惧和痛苦中扭动挣扎，被他告知要被砍断四肢做成人彘\n灯亮起  看到买下自己的人是曾经的主人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 911,
+          "like_count": 2387,
+          "listed_count": 4,
+          "media_count": 307,
+          "tweet_count": 7639
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T08:28:13.000Z",
+        "description": "Did You Know That There's A Tunnel Under Ocean Blvd\n性癖糟糕 精神健康/不开私信 别骚扰/乱七八糟的碎碎念",
+        "id": "1637732697790627840",
+        "location": "Canada",
+        "name": "❄️🌲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726787374279970821/fmO1R1Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 418,
+          "like_count": 20813,
+          "listed_count": 10,
+          "media_count": 34,
+          "tweet_count": 874
+        },
+        "username": "jujubeandpapaya",
+        "verified": false
+      }
+    ]
+  }
+}

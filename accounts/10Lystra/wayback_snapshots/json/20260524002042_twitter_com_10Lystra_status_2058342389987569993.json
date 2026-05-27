@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2058259299558985968",
+    "created_at": "2026-05-24T00:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058342389987569993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058342389987569993",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058259299558985968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 为啥要吧二元放在两个区间端点上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_2058259291325497344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBn65sagAAX-ld.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2058259299558985968",
+        "created_at": "2026-05-24T00:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058342389987569993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058342389987569993",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058259299558985968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 为啥要吧二元放在两个区间端点上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058259291325497344"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2058259299558985968",
+        "created_at": "2026-05-23T18:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058259299558985968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rx9CVrbFJv",
+              "end": 27,
+              "expanded_url": "https://x.com/smiroyama/status/2058259299558985968/photo/1",
+              "media_key": "3_2058259291325497344",
+              "start": 4,
+              "url": "https://t.co/rx9CVrbFJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058259299558985968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10642,
+          "like_count": 133,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好方法 https://t.co/rx9CVrbFJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 910,
+          "like_count": 2387,
+          "listed_count": 4,
+          "media_count": 307,
+          "tweet_count": 7637
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5633,
+          "following_count": 2300,
+          "like_count": 11808,
+          "listed_count": 19,
+          "media_count": 1779,
+          "tweet_count": 6911
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

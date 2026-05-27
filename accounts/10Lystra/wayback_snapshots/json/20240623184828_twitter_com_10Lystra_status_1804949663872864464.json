@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804745827576877512",
+    "created_at": "2024-06-23T18:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T19:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804949663872864464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705414209432064000",
+          "start": 0,
+          "username": "hung1623120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804949663872864464",
+    "in_reply_to_user_id": "1705414209432064000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804745827576877512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hung1623120 看到图歌就开始响😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804745827576877512",
+        "created_at": "2024-06-23T18:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T19:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804949663872864464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705414209432064000",
+              "start": 0,
+              "username": "hung1623120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804949663872864464",
+        "in_reply_to_user_id": "1705414209432064000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804745827576877512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hung1623120 看到图歌就开始响😅"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804745815878967296",
+            "3_1804745823919448065"
+          ]
+        },
+        "author_id": "1705414209432064000",
+        "conversation_id": "1804745827576877512",
+        "created_at": "2024-06-23T05:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T06:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804745827576877512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7gAOcXUfwk",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hung1623120/status/1804745827576877512/photo/1",
+              "media_key": "3_1804745815878967296",
+              "start": 6,
+              "url": "https://t.co/7gAOcXUfwk"
+            },
+            {
+              "display_url": "pic.twitter.com/7gAOcXUfwk",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hung1623120/status/1804745827576877512/photo/1",
+              "media_key": "3_1804745823919448065",
+              "start": 6,
+              "url": "https://t.co/7gAOcXUfwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804745827576877512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 20928,
+          "like_count": 368,
+          "quote_count": 3,
+          "reply_count": 44,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "史诗级对决 https://t.co/7gAOcXUfwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 256,
+          "like_count": 1047,
+          "listed_count": 2,
+          "tweet_count": 1917
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T02:50:29.000Z",
+        "description": "本人王洪文，1935年出生在长春，早年参加过朝鲜战争，1951年入党，战争结束后在国棉十七厂保卫科担任科事部，1966年成立工总司并担任总司令，1973年在中共十大当选为副主席，在随后的几年里成功当选为主席",
+        "id": "1705414209432064000",
+        "location": "中南海",
+        "name": "王洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214483579916288/AOfFqC95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3454,
+          "following_count": 309,
+          "like_count": 3494,
+          "listed_count": 21,
+          "tweet_count": 5067
+        },
+        "username": "hung1623120",
+        "verified": false
+      }
+    ]
+  }
+}

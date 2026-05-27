@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054829967452553271",
+    "created_at": "2026-05-14T09:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054862708047007864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747064134490066944",
+          "start": 0,
+          "username": "JiaRanToday"
+        },
+        {
+          "end": 23,
+          "id": "2036071254873276416",
+          "start": 13,
+          "username": "renyue105"
+        },
+        {
+          "end": 36,
+          "id": "1999000813856043008",
+          "start": 24,
+          "username": "tetesasa013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054862708047007864",
+    "in_reply_to_user_id": "1747064134490066944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054855206010265862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaRanToday @renyue105 @tetesasa013 绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054829967452553271",
+        "created_at": "2026-05-14T09:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054862708047007864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747064134490066944",
+              "start": 0,
+              "username": "JiaRanToday"
+            },
+            {
+              "end": 23,
+              "id": "2036071254873276416",
+              "start": 13,
+              "username": "renyue105"
+            },
+            {
+              "end": 36,
+              "id": "1999000813856043008",
+              "start": 24,
+              "username": "tetesasa013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054862708047007864",
+        "in_reply_to_user_id": "1747064134490066944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054855206010265862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaRanToday @renyue105 @tetesasa013 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747064134490066944",
+        "conversation_id": "2054829967452553271",
+        "created_at": "2026-05-14T09:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054855206010265862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            },
+            {
+              "end": 23,
+              "id": "1999000813856043008",
+              "start": 11,
+              "username": "tetesasa013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054855206010265862",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054847598997971195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 @tetesasa013 你有点精分了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 892,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 7378
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T01:12:21.000Z",
+        "description": "📦 𝙋𝙞𝙣𝙠𝙍𝙤𝙗𝙤𝙩\n\n┣ 👾 v2012s｜视觉系・挂壁 //初始化\n┣ 💊 v2018s｜MTF・抽象表达 \n┣ 🌃 v2024s｜Linux・AI・赛博朋克\n┗ 🤖💗 v4.0｜粉色可爱机器人 //上线版本\n\n𝙎𝙩𝙚𝙖𝙢 常驻\n🏳️‍⚧️ 表达永续\n✨ 神经持续编译中",
+        "id": "1747064134490066944",
+        "location": "成都/🚪加好友",
+        "name": "𝙿𝚒𝚗𝚔𝚁𝚘𝚋𝚘𝚝_v4.0.1.exe",
+        "pinned_tweet_id": "2049508588864024951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049503080597917697/69QkTC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 538,
+          "like_count": 851,
+          "listed_count": 10,
+          "media_count": 102,
+          "tweet_count": 1086
+        },
+        "username": "JiaRanToday",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "任世事浮沉，成心之所向，轩宇之下，月与星光同归.",
+        "id": "2036071254873276416",
+        "location": "中国 江西",
+        "name": "任成轩",
+        "pinned_tweet_id": "2046413472829731201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054822427612594176/bUfaF6wG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 0,
+          "like_count": 3089,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 2804
+        },
+        "username": "renyue105",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:18:51.000Z",
+        "description": "我已经蜕去了人类的形态，升华成神了！「失眠の咒」                                             新世界の卡密/黑暗の支配者/混世の大魔王",
+        "id": "1999000813856043008",
+        "location": "我无处不在👁️",
+        "name": "kelar 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036378276378320896/Amq7vubD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 154,
+          "like_count": 259,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 86
+        },
+        "username": "tetesasa013",
+        "verified": false
+      }
+    ]
+  }
+}

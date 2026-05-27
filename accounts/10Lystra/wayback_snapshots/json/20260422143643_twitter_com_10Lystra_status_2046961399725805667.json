@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046961377009401856"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2046961399725805667",
+    "created_at": "2026-04-22T14:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046961399725805667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Ja09y3lyy",
+          "end": 30,
+          "expanded_url": "https://x.com/10Lystra/status/2046961399725805667/photo/1",
+          "media_key": "3_2046961377009401856",
+          "start": 7,
+          "url": "https://t.co/5Ja09y3lyy"
+        },
+        {
+          "display_url": "x.com/dandelion6238/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/dandelion6238/status/2046941557765414949",
+          "start": 31,
+          "url": "https://t.co/JaXBm62yDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046961399725805667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046941557765414949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真没你割的好 https://t.co/5Ja09y3lyy https://t.co/JaXBm62yDS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046961399725805667].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046961399725805667",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046961399725805667"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2046961377009401856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhEhvGXAAAWGqQ.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1851,
+        "media_key": "3_2046941474336415744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgybP3WIAASJzO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046941474336415744"
+          ]
+        },
+        "author_id": "1739437517772926976",
+        "conversation_id": "2046941557765414949",
+        "created_at": "2026-04-22T13:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046941557765414949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mzFCvTrUj",
+              "end": 29,
+              "expanded_url": "https://x.com/Dandelion6238/status/2046941557765414949/photo/1",
+              "media_key": "3_2046941474336415744",
+              "start": 6,
+              "url": "https://t.co/6mzFCvTrUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046941557765414949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割都割不好 https://t.co/6mzFCvTrUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n忮忌让人面目全非",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 889,
+          "like_count": 2328,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 7069
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947812887247880192/aj2p1OnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1001,
+          "like_count": 7153,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 932
+        },
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

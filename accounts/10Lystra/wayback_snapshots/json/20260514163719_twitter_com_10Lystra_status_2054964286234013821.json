@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054948028260528381",
+    "created_at": "2026-05-14T16:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054964286234013821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1358666452945965057",
+          "start": 0,
+          "username": "luoaa_072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054964286234013821",
+    "in_reply_to_user_id": "1358666452945965057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054948028260528381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoaa_072 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29424,
+        "height": 720,
+        "media_key": "7_2054947931778949120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054947931778949120/pu/img/0qqKuUiGNlvxS0gH.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054947931778949120/pu/vid/avc1/480x270/j8xJ52DU0SPHGYcb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054947931778949120/pu/vid/avc1/640x360/sVufiVFBkTNMELzX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054947931778949120/pu/vid/avc1/1280x720/ll7b4lQm8wCcWx7Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054947931778949120/pu/pl/YkCHIsFmA_1cpnLL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054948028260528381",
+        "created_at": "2026-05-14T16:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054964286234013821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1358666452945965057",
+              "start": 0,
+              "username": "luoaa_072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054964286234013821",
+        "in_reply_to_user_id": "1358666452945965057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054948028260528381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoaa_072 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054947931778949120"
+          ]
+        },
+        "author_id": "1358666452945965057",
+        "conversation_id": "2054948028260528381",
+        "created_at": "2026-05-14T15:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054948028260528381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3afyOGdkV",
+              "end": 36,
+              "expanded_url": "https://x.com/luoaa_072/status/2054948028260528381/video/1",
+              "media_key": "7_2054947931778949120",
+              "start": 13,
+              "url": "https://t.co/l3afyOGdkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054948028260528381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在人森里给珠芽过了生日！ https://t.co/l3afyOGdkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 894,
+          "like_count": 2358,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 7410
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T06:38:23.000Z",
+        "description": "18↑｜2%药物和98%酒精构成",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/luoaa0723",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/luoaa0723",
+                "start": 0,
+                "url": "https://t.co/lYSdLqiNfy"
+              }
+            ]
+          }
+        },
+        "id": "1358666452945965057",
+        "name": "点点O3O",
+        "pinned_tweet_id": "2051555691006234849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021891596166533120/vhvmZmEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 500,
+          "like_count": 12692,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 2877
+        },
+        "url": "https://t.co/lYSdLqiNfy",
+        "username": "luoaa_072",
+        "verified": false
+      }
+    ]
+  }
+}

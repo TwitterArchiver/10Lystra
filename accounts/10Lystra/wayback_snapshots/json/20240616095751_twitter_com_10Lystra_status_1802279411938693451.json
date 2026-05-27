@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802214643269779548",
+    "created_at": "2024-06-16T09:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T10:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802279411938693451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1509483683782152192",
+          "start": 0,
+          "username": "YamijaMasso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802279411938693451",
+    "in_reply_to_user_id": "1509483683782152192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802278374276231387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YamijaMasso 怎么你了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802214643269779548",
+        "created_at": "2024-06-16T09:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T10:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802279411938693451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1509483683782152192",
+              "start": 0,
+              "username": "YamijaMasso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802279411938693451",
+        "in_reply_to_user_id": "1509483683782152192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802278374276231387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YamijaMasso 怎么你了🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1509483683782152192",
+        "conversation_id": "1802214643269779548",
+        "created_at": "2024-06-16T09:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T10:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802278374276231387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802278374276231387",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802214643269779548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 搓洗衣机搓的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 146,
+          "like_count": 559,
+          "listed_count": 1,
+          "tweet_count": 1113
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T10:52:21.000Z",
+        "description": "戦夢芸欺",
+        "id": "1509483683782152192",
+        "location": "崖縁",
+        "name": "Yamija Masso",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656656765013098496/xYJR-bGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 60,
+          "like_count": 230,
+          "listed_count": 0,
+          "tweet_count": 153
+        },
+        "username": "YamijaMasso",
+        "verified": false
+      }
+    ]
+  }
+}

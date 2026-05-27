@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054225982874153101",
+    "created_at": "2026-05-12T15:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054226627593117716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054226627593117716",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054225982874153101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 致死率最高的精神疾病之一这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054225982874153101",
+        "created_at": "2026-05-12T15:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054226627593117716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054226627593117716",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054225982874153101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 致死率最高的精神疾病之一这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054225982874153101",
+        "created_at": "2026-05-12T15:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054225982874153101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054225982874153101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求求大家不要在不了解什么是进食障碍的情况下随便给进食障碍患者提饮食建议 真的会出危险的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 895,
+          "like_count": 2349,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 7349
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "退推，联系我私信那由 @noaayoyaoaya\n\n📣 https://t.co/9vOZUHGmYQ\n💬 https://t.co/Mu7nsgFwYi\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 51,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 28,
+                "url": "https://t.co/9vOZUHGmYQ"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 77,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 54,
+                "url": "https://t.co/Mu7nsgFwYi"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 104,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 81,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 108,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 310
+        },
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

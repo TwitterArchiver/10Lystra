@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1799408785540477267",
+    "created_at": "2024-06-08T12:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T13:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799421251888533897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468163720195239938",
+          "start": 0,
+          "username": "xijinpingdiguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799421251888533897",
+    "in_reply_to_user_id": "1468163720195239938",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799408785540477267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinpingdiguo 没看懂骂的什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1799408785540477267",
+        "created_at": "2024-06-08T12:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T13:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799421251888533897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468163720195239938",
+              "start": 0,
+              "username": "xijinpingdiguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799421251888533897",
+        "in_reply_to_user_id": "1468163720195239938",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799408785540477267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinpingdiguo 没看懂骂的什么"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799408775419588608"
+          ]
+        },
+        "author_id": "1468163720195239938",
+        "conversation_id": "1799408785540477267",
+        "created_at": "2024-06-08T11:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T12:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799408785540477267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4xYZr30eMQ",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xijinpingdiguo/status/1799408785540477267/photo/1",
+              "media_key": "3_1799408775419588608",
+              "start": 13,
+              "url": "https://t.co/4xYZr30eMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799408785540477267",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7795,
+          "like_count": 205,
+          "quote_count": 6,
+          "reply_count": 47,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "原地无能狂怒吗🤣🤣🤣🤣🤣 https://t.co/4xYZr30eMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 119,
+          "like_count": 370,
+          "listed_count": 1,
+          "tweet_count": 709
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T10:22:07.000Z",
+        "description": "兔友ptsd疗养院/日本网络警察/蜘蛛分类专家/兔友无害化处理专门机构/滞日蜘蛛防治研究所/战螂出道事务部/君子居必择乡、遊必就士、所以防邪僻而近中正也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCpK6b…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCpK6b7YCSlU4aN_tPdP4Daw",
+                "start": 0,
+                "url": "https://t.co/vvlVA1CzKz"
+              }
+            ]
+          }
+        },
+        "id": "1468163720195239938",
+        "location": "神奈 横浜市 神奈川区",
+        "name": "大西 近平",
+        "pinned_tweet_id": "1587718622927257600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784008374310596608/F7d25Zp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76519,
+          "following_count": 773,
+          "like_count": 34302,
+          "listed_count": 348,
+          "tweet_count": 10070
+        },
+        "url": "https://t.co/vvlVA1CzKz",
+        "username": "xijinpingdiguo",
+        "verified": true
+      }
+    ]
+  }
+}

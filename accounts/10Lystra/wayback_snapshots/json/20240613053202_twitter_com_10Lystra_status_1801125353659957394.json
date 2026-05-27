@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1801104443074871404",
+    "created_at": "2024-06-13T05:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T06:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801125353659957394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1582160749648285697",
+          "start": 0,
+          "username": "Dangdangpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801125353659957394",
+    "in_reply_to_user_id": "1582160749648285697",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801125127855427783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dangdangpi (๑ơ ₃ ơ)ﻌﻌﻌ♥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1801104443074871404",
+        "created_at": "2024-06-13T05:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T06:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801125353659957394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1582160749648285697",
+              "start": 0,
+              "username": "Dangdangpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801125353659957394",
+        "in_reply_to_user_id": "1582160749648285697",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801125127855427783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dangdangpi (๑ơ ₃ ơ)ﻌﻌﻌ♥"
+      },
+      {
+        "attachments": {},
+        "author_id": "1582160749648285697",
+        "conversation_id": "1801104443074871404",
+        "created_at": "2024-06-13T05:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T06:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801125127855427783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801125127855427783",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801104443074871404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 把宝宝关起来，宝宝要一直属于我哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」反人類罪",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 131,
+          "like_count": 505,
+          "listed_count": 1,
+          "tweet_count": 966
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T00:05:01.000Z",
+        "description": "休学中|( ๑ŏ ﹏ ŏ๑ ) |08|舞萌痴|喜欢玩烤|od|割手|遇fo即回 希望能有个朋友w 很喜欢头像的这个风格，头像AI致歉",
+        "id": "1582160749648285697",
+        "location": "空无一人的世界",
+        "name": "铛铛（",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788602441010970624/cPD2YB3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 104,
+          "like_count": 452,
+          "listed_count": 0,
+          "tweet_count": 180
+        },
+        "username": "Dangdangpi",
+        "verified": false
+      }
+    ]
+  }
+}

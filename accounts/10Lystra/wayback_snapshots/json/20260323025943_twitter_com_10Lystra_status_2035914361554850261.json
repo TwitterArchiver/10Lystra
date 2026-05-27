@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035914361554850261",
+    "created_at": "2026-03-23T02:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035914361554850261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279242635341729792",
+          "start": 3,
+          "username": "maigomaigoHH"
+        },
+        {
+          "end": 28,
+          "id": "4778984492",
+          "start": 18,
+          "username": "l10270921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035914361554850261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035707797132939586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigomaigoHH: @l10270921 这个事情本来也不是性别的问题，单纯就是人文关怀的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035914361554850261",
+        "created_at": "2026-03-23T02:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035914361554850261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279242635341729792",
+              "start": 3,
+              "username": "maigomaigoHH"
+            },
+            {
+              "end": 28,
+              "id": "4778984492",
+              "start": 18,
+              "username": "l10270921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035914361554850261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035707797132939586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigomaigoHH: @l10270921 这个事情本来也不是性别的问题，单纯就是人文关怀的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279242635341729792",
+        "conversation_id": "2035678779415171576",
+        "created_at": "2026-03-22T13:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035707797132939586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4778984492",
+              "start": 0,
+              "username": "l10270921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035707797132939586",
+        "in_reply_to_user_id": "4778984492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1389,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035705154901844051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l10270921 这个事情本来也不是性别的问题，单纯就是人文关怀的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 877,
+          "like_count": 2275,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6435
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5901,
+          "following_count": 868,
+          "like_count": 24568,
+          "listed_count": 32,
+          "media_count": 1476,
+          "tweet_count": 19895
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-18T15:56:47.000Z",
+        "description": "不做人民，做自己/健身新手，还很弱小",
+        "id": "4778984492",
+        "location": "Tokyo-tou",
+        "name": "李友辰 Li Youchen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112512239074893824/TNP_kdYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 238,
+          "like_count": 10343,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2610
+        },
+        "username": "l10270921",
+        "verified": false
+      }
+    ]
+  }
+}

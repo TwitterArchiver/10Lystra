@@ -1,0 +1,287 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802727575435022521",
+    "created_at": "2024-06-17T17:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T18:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802750378204885466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557253790088466432",
+          "start": 0,
+          "username": "misakiyugan"
+        },
+        {
+          "end": 27,
+          "id": "1747138924450029568",
+          "start": 13,
+          "username": "OVERDOSE_Wiki"
+        },
+        {
+          "end": 39,
+          "id": "906892094953762816",
+          "start": 28,
+          "username": "ychsrblves"
+        },
+        {
+          "end": 52,
+          "id": "1583422861099692032",
+          "start": 40,
+          "username": "kanade_taka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802750378204885466",
+    "in_reply_to_user_id": "1557253790088466432",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802749950369075548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakiyugan @OVERDOSE_Wiki @ychsrblves @kanade_taka 好耶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1802749950369075548].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1802749950369075548",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1802749950369075548"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802727575435022521",
+        "created_at": "2024-06-17T17:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T18:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802750378204885466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557253790088466432",
+              "start": 0,
+              "username": "misakiyugan"
+            },
+            {
+              "end": 27,
+              "id": "1747138924450029568",
+              "start": 13,
+              "username": "OVERDOSE_Wiki"
+            },
+            {
+              "end": 39,
+              "id": "906892094953762816",
+              "start": 28,
+              "username": "ychsrblves"
+            },
+            {
+              "end": 52,
+              "id": "1583422861099692032",
+              "start": 40,
+              "username": "kanade_taka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802750378204885466",
+        "in_reply_to_user_id": "1557253790088466432",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802749950369075548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakiyugan @OVERDOSE_Wiki @ychsrblves @kanade_taka 好耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 164,
+          "like_count": 608,
+          "listed_count": 1,
+          "tweet_count": 1233
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T06:33:43.000Z",
+        "description": "三崎，可爱，单推 本是🐟\n日雌400一盒，白兔100一盒，梦想成为互联网小天使，我迟早要实现，至少在od圈我还能做一个月天使\n 三崎小号，只限信任的互关 @misakimizukibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "misakimizukibot"
+              }
+            ]
+          }
+        },
+        "id": "1557253790088466432",
+        "location": "银趴现场",
+        "name": "三崎（卖日雌版",
+        "pinned_tweet_id": "1795816951132143977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577330082313797633/jf3sQU7g_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6157,
+          "following_count": 1912,
+          "like_count": 122413,
+          "listed_count": 20,
+          "tweet_count": 15953
+        },
+        "username": "misakiyugan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "这里是odwiki官号，目前由wiki主与后藤与一个人而运营\nwiki主比较nb，会乱关注人，会乱向别人发私信，请见谅\n该账号由多名人员运营，有些东西是wiki主发的，有些东西是后藤发的，请仔细鉴别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/UVKr7EgL3R"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "✝️天国✝️",
+        "name": "Overdose Wiki（维护中）",
+        "pinned_tweet_id": "1796780832750989603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786914046882516992/r_sKIFUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5259,
+          "following_count": 2743,
+          "like_count": 1629,
+          "listed_count": 4,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/UVKr7EgL3R",
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Gender Nihilist 🏳️‍🌈🎸 | Satanist | 是百合厨，也是电灯泡 | 没有生活的社畜 ｜下头chaser | 习近平去广告",
+        "id": "906892094953762816",
+        "location": "锅炉房",
+        "name": "Chaser Blues @🥺",
+        "pinned_tweet_id": "1801673698853982601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774465554121953281/K7I_3xcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 356,
+          "like_count": 211117,
+          "listed_count": 8,
+          "tweet_count": 29862
+        },
+        "username": "ychsrblves",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 5823,
+          "like_count": 391722,
+          "listed_count": 32,
+          "tweet_count": 14161
+        },
+        "username": "kanade_taka",
+        "verified": false
+      }
+    ]
+  }
+}

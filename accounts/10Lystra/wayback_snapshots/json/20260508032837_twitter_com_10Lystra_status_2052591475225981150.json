@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2052400432585035917",
+    "created_at": "2026-05-08T03:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052591475225981150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767691817456476160",
+          "start": 0,
+          "username": "whereisyourc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052591475225981150",
+    "in_reply_to_user_id": "1767691817456476160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052400432585035917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whereisyourc 其实违章检测是用人工智能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2052400432585035917",
+        "created_at": "2026-05-08T03:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052591475225981150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767691817456476160",
+              "start": 0,
+              "username": "whereisyourc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052591475225981150",
+        "in_reply_to_user_id": "1767691817456476160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052400432585035917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whereisyourc 其实违章检测是用人工智能的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767691817456476160",
+        "conversation_id": "2052400432585035917",
+        "created_at": "2026-05-07T14:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052400432585035917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052400432585035917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7309,
+          "like_count": 582,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "什么意思呢。劝人不要在公共场所吸烟被裸检，女性写黄文被关牢里十年，男的拐卖强奸女性几十年不被判刑。满是监控的街道能拍到汽车违章，却拍不到失踪的孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 894,
+          "like_count": 2338,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 7252
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T23:19:18.000Z",
+        "description": "绝不忧虑之人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/where98094",
+                "end": 23,
+                "expanded_url": "https://ngl.link/where98094",
+                "start": 0,
+                "url": "https://t.co/cogZdpPajU"
+              }
+            ]
+          }
+        },
+        "id": "1767691817456476160",
+        "location": "匿名箱➡️",
+        "name": "星期七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008533709834661889/CJy3RQCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 489,
+          "like_count": 950,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/cogZdpPajU",
+        "username": "whereisyourc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2034905379797442845",
+    "created_at": "2026-03-21T01:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T02:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035173917581877402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1892604185348329472",
+          "start": 0,
+          "username": "v1mgzm"
+        },
+        {
+          "end": 20,
+          "id": "822715997081583618",
+          "start": 8,
+          "username": "yinchao_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035173917581877402",
+    "in_reply_to_user_id": "1892604185348329472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034991311565344778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@v1mgzm @yinchao_qaq 那为啥不叫吊厕和逼厕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2034905379797442845",
+        "created_at": "2026-03-21T01:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T02:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035173917581877402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1892604185348329472",
+              "start": 0,
+              "username": "v1mgzm"
+            },
+            {
+              "end": 20,
+              "id": "822715997081583618",
+              "start": 8,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035173917581877402",
+        "in_reply_to_user_id": "1892604185348329472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034991311565344778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v1mgzm @yinchao_qaq 那为啥不叫吊厕和逼厕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892604185348329472",
+        "conversation_id": "2034905379797442845",
+        "created_at": "2026-03-20T13:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034991311565344778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822715997081583618",
+              "start": 0,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034991311565344778",
+        "in_reply_to_user_id": "822715997081583618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034905379797442845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinchao_qaq 有屌去男厕，无屌去女厕，就这么简单，不接受反驳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 872,
+          "like_count": 2271,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6357
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:56:29.000Z",
+        "description": "",
+        "id": "1892604185348329472",
+        "name": "椎名まゆり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892604334287835137/LoWQ5IwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 143,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 906
+        },
+        "username": "v1mgzm",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "杭州/不要键政/she/her/残忍变性女巫｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "name": "隐潮🏳️‍🌈",
+        "pinned_tweet_id": "1761674699715862697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000589626520768512/XofHS_Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4923,
+          "following_count": 1200,
+          "like_count": 10363,
+          "listed_count": 10,
+          "media_count": 1106,
+          "tweet_count": 7720
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

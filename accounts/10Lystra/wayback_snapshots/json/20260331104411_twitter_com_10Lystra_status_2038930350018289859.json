@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038924682364096825",
+    "created_at": "2026-03-31T10:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038930350018289859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018268636180529152",
+          "start": 0,
+          "username": "yoyo936713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038930350018289859",
+    "in_reply_to_user_id": "2018268636180529152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038930134065881185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyo936713 主要发不出来😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038924682364096825",
+        "created_at": "2026-03-31T10:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038930350018289859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018268636180529152",
+              "start": 0,
+              "username": "yoyo936713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038930350018289859",
+        "in_reply_to_user_id": "2018268636180529152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038930134065881185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyo936713 主要发不出来😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018268636180529152",
+        "conversation_id": "2038924682364096825",
+        "created_at": "2026-03-31T10:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038930134065881185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038930134065881185",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038928619263934468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 支持发，也支持反戒网瘾学校，我没说过我反对这个吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 886,
+          "like_count": 2295,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6758
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T10:22:12.000Z",
+        "description": "😣",
+        "id": "2018268636180529152",
+        "name": "yoyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 173,
+          "like_count": 2563,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 213
+        },
+        "username": "yoyo936713",
+        "verified": false
+      }
+    ]
+  }
+}

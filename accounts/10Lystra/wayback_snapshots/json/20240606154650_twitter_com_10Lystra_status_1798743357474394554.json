@@ -1,0 +1,218 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1798195436769210542",
+    "created_at": "2024-06-06T15:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T16:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798743357474394554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798743357474394554",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798195436769210542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos 营销号妈炸了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1798195436769210542",
+        "created_at": "2024-06-06T15:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T16:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798743357474394554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798743357474394554",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798195436769210542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 营销号妈炸了吧"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798195427415883776"
+          ]
+        },
+        "author_id": "1502654786453204994",
+        "conversation_id": "1798195436769210542",
+        "created_at": "2024-06-05T03:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T04:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798195436769210542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/X0cHcs5Ymt",
+              "end": 114,
+              "expanded_url": "https://twitter.com/uranus_chaos/status/1798195436769210542/photo/1",
+              "media_key": "3_1798195427415883776",
+              "start": 91,
+              "url": "https://t.co/X0cHcs5Ymt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798195436769210542",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 32738,
+          "like_count": 151,
+          "quote_count": 7,
+          "reply_count": 44,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜你们，你们的参宿四爆炸了😋\n\n相比之下我在想另一个问题“超新星爆发后的辐射扫到人类导致人类13岁以上的人都患上了不治之症，只剩几十天生命”\n（这个科幻故事应该很多人都看过吧）🤔 https://t.co/X0cHcs5Ymt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 116,
+          "like_count": 341,
+          "listed_count": 1,
+          "tweet_count": 627
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。弟弟：@glassflowers13 ‖ 伴星：@usaginekome ‖药学毕业/医学生/护理学毕业/心理学二专‖单恋@gozZoazYckXOXcW 猫猫@misakiyugan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "glassflowers13"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "usaginekome"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "gozZoazYckXOXcW"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "misakiyugan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYIIS"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "小诺喵🍥🏴🏳️‍🌈【学术推】【南河三】【cn夢見猫】",
+        "pinned_tweet_id": "1738293074215026803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770688626776752128/wJvCr3Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 234,
+          "like_count": 17845,
+          "listed_count": 0,
+          "tweet_count": 5165
+        },
+        "url": "https://t.co/ResOORYIIS",
+        "username": "uranus_chaos",
+        "verified": false
+      }
+    ]
+  }
+}

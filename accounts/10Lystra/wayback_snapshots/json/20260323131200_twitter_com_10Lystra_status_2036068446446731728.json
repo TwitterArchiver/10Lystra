@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2036010217339789770",
+    "created_at": "2026-03-23T13:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036068446446731728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271295081144696833",
+          "start": 0,
+          "username": "Hyperglycemia26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036068446446731728",
+    "in_reply_to_user_id": "1271295081144696833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036010217339789770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hyperglycemia26 发质不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_2036010207713873920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFcfyXa0AAJxNM.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1097,
+        "media_key": "3_2036010207697162241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFcfyTb0AE8JME.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1160,
+        "media_key": "3_2036010207688663040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFcfyRaIAA-lXD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2036010217339789770",
+        "created_at": "2026-03-23T13:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036068446446731728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271295081144696833",
+              "start": 0,
+              "username": "Hyperglycemia26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036068446446731728",
+        "in_reply_to_user_id": "1271295081144696833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036010217339789770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hyperglycemia26 发质不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036010207713873920",
+            "3_2036010207697162241",
+            "3_2036010207688663040"
+          ]
+        },
+        "author_id": "1271295081144696833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2036010217339789770",
+        "created_at": "2026-03-23T09:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036010217339789770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DclOWhrp1x",
+              "end": 115,
+              "expanded_url": "https://x.com/Hyperglycemia26/status/2036010217339789770/photo/1",
+              "media_key": "3_2036010207713873920",
+              "start": 92,
+              "url": "https://t.co/DclOWhrp1x"
+            },
+            {
+              "display_url": "pic.x.com/DclOWhrp1x",
+              "end": 115,
+              "expanded_url": "https://x.com/Hyperglycemia26/status/2036010217339789770/photo/1",
+              "media_key": "3_2036010207697162241",
+              "start": 92,
+              "url": "https://t.co/DclOWhrp1x"
+            },
+            {
+              "display_url": "pic.x.com/DclOWhrp1x",
+              "end": 115,
+              "expanded_url": "https://x.com/Hyperglycemia26/status/2036010217339789770/photo/1",
+              "media_key": "3_2036010207688663040",
+              "start": 92,
+              "url": "https://t.co/DclOWhrp1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036010217339789770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3174,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日轶事之被这位“姐妹”评论为一眼男\n首先，我是友跨顺男，你攻击不到我。\n姐们儿，我无意攻击你的长相，但是是你先开始攻击别人的，那我也就如此吧。\n相机直出，苹果原相机截屏，也不开美颜 https://t.co/DclOWhrp1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 878,
+          "like_count": 2278,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6474
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T04:15:49.000Z",
+        "description": "批判性使用雌激素的友跨顺男 hrt2023.11.28 117.5kg→65kg→83kg→80kg减肥中。 不踩雷的都会回fo哟 ❤@Hosiren1999 2024.7.8 日本語オッケー👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "Hosiren1999"
+              }
+            ]
+          }
+        },
+        "id": "1271295081144696833",
+        "location": "宛平南路600号",
+        "name": "Shizumi",
+        "pinned_tweet_id": "1993298323793756186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001932115953512448/5RUN53t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 1539,
+          "like_count": 5039,
+          "listed_count": 7,
+          "media_count": 1151,
+          "tweet_count": 4567
+        },
+        "username": "Hyperglycemia26",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1800726673077547331",
+    "created_at": "2024-06-12T04:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T05:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800743225856229522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1574668085314965504",
+          "start": 0,
+          "username": "Meer19002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800743225856229522",
+    "in_reply_to_user_id": "1574668085314965504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800726673077547331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meer19002 为什么要掏你东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1800726673077547331",
+        "created_at": "2024-06-12T04:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T05:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800743225856229522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1574668085314965504",
+              "start": 0,
+              "username": "Meer19002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800743225856229522",
+        "in_reply_to_user_id": "1574668085314965504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800726673077547331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meer19002 为什么要掏你东西"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800726628601036800"
+          ]
+        },
+        "author_id": "1574668085314965504",
+        "conversation_id": "1800726673077547331",
+        "created_at": "2024-06-12T03:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T04:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800726673077547331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wifydkL5V6",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Meer19002/status/1800726673077547331/photo/1",
+              "media_key": "3_1800726628601036800",
+              "start": 34,
+              "url": "https://t.co/wifydkL5V6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800726673077547331",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被我亲戚掏出来了，她也没问这是干啥的，就这样摆在外面跟可乐放在一起 https://t.co/wifydkL5V6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」反人類罪",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 126,
+          "like_count": 458,
+          "listed_count": 1,
+          "tweet_count": 884
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "生欲与死欲的争斗，ftx泛性恋，精神分裂，焦虑抑郁neet。阿斯伯格。废话推一个。偶尔💊od，右佐依赖，漫长戒断。正准备开网店，不知道能不能活下去。理想是写网文和做唱见。xp是二三四爱。",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1798672796392083564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798684740490518528/SjWgcTTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 629,
+          "like_count": 7656,
+          "listed_count": 2,
+          "tweet_count": 8049
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793623500554658151",
+    "created_at": "2024-05-23T12:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T13:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793623500554658151"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Taiwan",
+          "probability": 0.9699,
+          "start": 26,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "Taiwan"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1153459165756624896",
+          "start": 3,
+          "username": "fkeverycountry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793623500554658151",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1643270029046333441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fkeverycountry: Fuck #Taiwan."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793623500554658151",
+        "created_at": "2024-05-23T12:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T13:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793623500554658151"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Taiwan",
+              "probability": 0.9699,
+              "start": 26,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "Taiwan"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1153459165756624896",
+              "start": 3,
+              "username": "fkeverycountry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793623500554658151",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1643270029046333441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fkeverycountry: Fuck #Taiwan."
+      },
+      {
+        "attachments": {},
+        "author_id": "1153459165756624896",
+        "conversation_id": "1643270029046333441",
+        "created_at": "2023-04-04T15:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-04T15:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1643270029046333441"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Taiwan",
+              "probability": 0.9773,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "Taiwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1643270029046333441",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 118696,
+          "like_count": 858,
+          "quote_count": 60,
+          "reply_count": 80,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "Fuck #Taiwan."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 192,
+          "listed_count": 1,
+          "tweet_count": 379
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-23T00:17:50.000Z",
+        "description": "Fuck every country in the world.",
+        "id": "1153459165756624896",
+        "location": "World",
+        "name": "Fuck Every Country",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154956217552445440/TUXZiv7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48668,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 36,
+          "tweet_count": 17729
+        },
+        "username": "fkeverycountry",
+        "verified": false
+      }
+    ]
+  }
+}

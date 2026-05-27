@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038149256104534112",
+    "created_at": "2026-03-29T07:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038149256104534112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1585339869445779456",
+          "start": 3,
+          "username": "mikawaifusuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038149256104534112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038052579930788148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikawaifusuki: 好想操药娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038149256104534112",
+        "created_at": "2026-03-29T07:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038149256104534112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1585339869445779456",
+              "start": 3,
+              "username": "mikawaifusuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038149256104534112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038052579930788148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikawaifusuki: 好想操药娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585339869445779456",
+        "conversation_id": "2038052579930788148",
+        "created_at": "2026-03-29T00:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038052579930788148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038052579930788148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6060,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想操药娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 879,
+          "like_count": 2285,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 6611
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T18:37:43.000Z",
+        "description": "主页置顶转发原神动态抽奖 | 下体人 | 正在视奸：母狗@xinxinUnique 骚狗@dviolettchan 贱狗@Vo1dLight 暗恋了很久的女孩子@A1sakuQAQ 小可爱@lidangzzz | 万达广场附近",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "xinxinUnique"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "dviolettchan"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Vo1dLight"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "A1sakuQAQ"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "lidangzzz"
+              }
+            ]
+          }
+        },
+        "id": "1585339869445779456",
+        "location": "IP属地：河南 ",
+        "name": "小鸟游星野💈",
+        "pinned_tweet_id": "1973893927108542625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748095987724201984/Af1IOmbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 104,
+          "like_count": 39075,
+          "listed_count": 21,
+          "media_count": 732,
+          "tweet_count": 10175
+        },
+        "username": "mikawaifusuki",
+        "verified": true
+      }
+    ]
+  }
+}

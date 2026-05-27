@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038883526175772721",
+    "created_at": "2026-03-31T11:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038942412085833993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546075741430751232",
+          "start": 0,
+          "username": "0GaS_Pr0toc0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038942412085833993",
+    "in_reply_to_user_id": "1546075741430751232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038941621111414827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0GaS_Pr0toc0l 绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038883526175772721",
+        "created_at": "2026-03-31T11:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038942412085833993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546075741430751232",
+              "start": 0,
+              "username": "0GaS_Pr0toc0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038942412085833993",
+        "in_reply_to_user_id": "1546075741430751232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038941621111414827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0GaS_Pr0toc0l 绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546075741430751232",
+        "conversation_id": "2038883526175772721",
+        "created_at": "2026-03-31T11:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038941621111414827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038941621111414827",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038934858492428324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 那我還是希望他能別干了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 886,
+          "like_count": 2296,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6768
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "🌈 Pansexual | Humanist | 🌏 Pan-Asianism 拒絕宏大敘事，相信 Liberté, égalité, fraternité。 獅子山下精神常在 （Sony！）AI說國家工團主義和人文社會主義矛盾但我就這樣，還有民主社會主義呢。",
+        "id": "1546075741430751232",
+        "location": "Jurong West, Singapore",
+        "name": "6Ж1П-ЕВ 🇲🇾🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "2018777162527146375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018773427046539264/L2oVMaOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1732,
+          "like_count": 18949,
+          "listed_count": 11,
+          "media_count": 680,
+          "tweet_count": 13013
+        },
+        "username": "0GaS_Pr0toc0l",
+        "verified": false
+      }
+    ]
+  }
+}

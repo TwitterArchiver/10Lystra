@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797627562388234435",
+    "created_at": "2024-06-03T15:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T16:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797658785944879576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664988013406089217",
+          "start": 0,
+          "username": "SUKI_2023wasted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797658785944879576",
+    "in_reply_to_user_id": "1664988013406089217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797627562388234435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUKI_2023wasted 金刚烷胺吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797627562388234435",
+        "created_at": "2024-06-03T15:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T16:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797658785944879576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664988013406089217",
+              "start": 0,
+              "username": "SUKI_2023wasted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797658785944879576",
+        "in_reply_to_user_id": "1664988013406089217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797627562388234435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUKI_2023wasted 金刚烷胺吗"
+      },
+      {
+        "attachments": {},
+        "author_id": "1664988013406089217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1797627562388234435",
+        "created_at": "2024-06-03T13:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T14:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797627562388234435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797627562388234435",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定吃点健康养胃的食物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 108,
+          "like_count": 293,
+          "listed_count": 1,
+          "tweet_count": 552
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "ftx🏳️‍⚧️｜泛｜20⬆️｜0.5switch ｜妹妹：@EwayYii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "EwayYii"
+              }
+            ]
+          }
+        },
+        "id": "1664988013406089217",
+        "name": "SUKI-2.0｜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796051320518086657/cbvtCnnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 331,
+          "like_count": 10918,
+          "listed_count": 0,
+          "tweet_count": 2545
+        },
+        "username": "SUKI_2023wasted",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793102688252809310",
+    "created_at": "2024-05-22T05:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T06:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793146478426538259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793146478426538259",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793102688252809310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 解离干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793102688252809310",
+        "created_at": "2024-05-22T05:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T06:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793146478426538259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793146478426538259",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793102688252809310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 解离干的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1764820595387305984",
+        "conversation_id": "1793102688252809310",
+        "created_at": "2024-05-22T02:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T03:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793102688252809310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shudesu00/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/shudesu00/status/1792921798700314671",
+              "start": 45,
+              "url": "https://t.co/ZzB3jCL9kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793102688252809310",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792921798700314671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解离时的那种感觉，就是进入了那种感觉，那种体验几乎和解离一模一样，就好像我已经解离了一样 https://t.co/ZzB3jCL9kn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 83,
+          "like_count": 157,
+          "listed_count": 1,
+          "tweet_count": 318
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 文案配图还不成熟│07年/休学ing/抑+焦/双相/酷儿含糖ing🏳‍⚧️/割手？/偶尔涩涩/互fo/ overdose💊/厌世负能/请多指教～\n门槛🚪30￥可接定制\n愿神明保佑世人✙",
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁♡🏳‍⚧（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 1395,
+          "like_count": 9630,
+          "listed_count": 5,
+          "tweet_count": 3298
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

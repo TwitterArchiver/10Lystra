@@ -1,0 +1,249 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802302320929038760",
+    "created_at": "2024-06-17T07:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T08:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802605770271584615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1574790472652005376",
+          "start": 0,
+          "username": "balqies_Q"
+        },
+        {
+          "end": 24,
+          "id": "1678117449508753408",
+          "start": 11,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802605770271584615",
+    "in_reply_to_user_id": "1574790472652005376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802302320929038760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@balqies_Q @Chunliang2nd 我要这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802302320929038760",
+        "created_at": "2024-06-17T07:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T08:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802605770271584615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1574790472652005376",
+              "start": 0,
+              "username": "balqies_Q"
+            },
+            {
+              "end": 24,
+              "id": "1678117449508753408",
+              "start": 11,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802605770271584615",
+        "in_reply_to_user_id": "1574790472652005376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802302320929038760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@balqies_Q @Chunliang2nd 我要这个"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801997022934761472"
+          ],
+          "media_source_tweet_id": [
+            "1801997285842194582"
+          ]
+        },
+        "author_id": "1574790472652005376",
+        "conversation_id": "1802302320929038760",
+        "created_at": "2024-06-16T11:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T12:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802302320929038760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9VsY2LUgg2",
+              "end": 84,
+              "expanded_url": "https://twitter.com/unique_asmer/status/1801997285842194582/video/1",
+              "media_key": "7_1801997022934761472",
+              "start": 61,
+              "url": "https://t.co/9VsY2LUgg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802302320929038760",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2106,
+          "impression_count": 1069412,
+          "like_count": 4562,
+          "quote_count": 227,
+          "reply_count": 355,
+          "retweet_count": 666
+        },
+        "reply_settings": "everyone",
+        "text": "I speak on behalf of every Woman when I say Bye Bye to Men 🙈 https://t.co/9VsY2LUgg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 155,
+          "like_count": 582,
+          "listed_count": 1,
+          "tweet_count": 1171
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T15:58:22.000Z",
+        "description": "Parody account",
+        "id": "1574790472652005376",
+        "location": "Earth",
+        "name": "queen 👑",
+        "pinned_tweet_id": "1802383704330842246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778740618157547523/UFArHbHf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194122,
+          "following_count": 0,
+          "like_count": 10230,
+          "listed_count": 155,
+          "tweet_count": 10904
+        },
+        "username": "balqies_Q",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "IP: 127.0.0.1 恐怖分子 MtX 不顺也不直 爱好是杀人 数码 不键政/ADHD+ASD+重抑/技术宅 no rioters only tyranny\nhttps://t.co/UV0WDw6qEr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+QBqAeDU7EIs1N…",
+                "end": 105,
+                "expanded_url": "https://t.me/+QBqAeDU7EIs1N2Fl",
+                "start": 82,
+                "url": "https://t.co/UV0WDw6qEr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "localhost",
+        "name": "利姆露Tempest_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787409857160859649/erLDuYak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 515,
+          "like_count": 3673,
+          "listed_count": 1,
+          "tweet_count": 4932
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

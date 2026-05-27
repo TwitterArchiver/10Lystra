@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047320182444457984"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2047320203877388288",
+    "created_at": "2026-04-23T14:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047320203877388288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hNrnhA2boJ",
+          "end": 34,
+          "expanded_url": "https://x.com/10Lystra/status/2047320203877388288/photo/1",
+          "media_key": "3_2047320182444457984",
+          "start": 11,
+          "url": "https://t.co/hNrnhA2boJ"
+        },
+        {
+          "display_url": "x.com/sz954425368233…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/sz9544253682330/status/2047241972004585897",
+          "start": 35,
+          "url": "https://t.co/3mWAitf8Yv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047320203877388288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047241972004585897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很奇异搞笑你知道吗😂 https://t.co/hNrnhA2boJ https://t.co/3mWAitf8Yv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047320182444457984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmK29gXAAAsUEJ.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047320182444457984"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2047320203877388288",
+        "created_at": "2026-04-23T14:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047320203877388288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNrnhA2boJ",
+              "end": 34,
+              "expanded_url": "https://x.com/10Lystra/status/2047320203877388288/photo/1",
+              "media_key": "3_2047320182444457984",
+              "start": 11,
+              "url": "https://t.co/hNrnhA2boJ"
+            },
+            {
+              "display_url": "x.com/sz954425368233…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/sz9544253682330/status/2047241972004585897",
+              "start": 35,
+              "url": "https://t.co/3mWAitf8Yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047320203877388288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047241972004585897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很奇异搞笑你知道吗😂 https://t.co/hNrnhA2boJ https://t.co/3mWAitf8Yv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830990382810963968",
+        "conversation_id": "2040679395686600957",
+        "created_at": "2026-04-23T09:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047241972004585897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 22,
+              "id": "2009949837278826497",
+              "start": 10,
+              "username": "More_loveai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047241972004585897",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047182249943044561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @More_loveai 傻逼男同能不能快点被车创死，网上笑笑算了真有傻B喜欢男娘啊，司马男同不看滚出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n忮忌让人面目全非",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 891,
+          "like_count": 2333,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 7092
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T15:25:21.000Z",
+        "description": "",
+        "id": "1830990382810963968",
+        "name": "苍生竟何罪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832967296635346944/BwvK5ZV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "sz9544253682330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802595462677246306",
+    "created_at": "2024-06-17T13:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T14:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802701318462861476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661305257966665729",
+          "start": 0,
+          "username": "MTF0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802701318462861476",
+    "in_reply_to_user_id": "1661305257966665729",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802595462677246306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTF0615 傻逼这是，别做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802595462677246306",
+        "created_at": "2024-06-17T13:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T14:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802701318462861476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661305257966665729",
+              "start": 0,
+              "username": "MTF0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802701318462861476",
+        "in_reply_to_user_id": "1661305257966665729",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802595462677246306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTF0615 傻逼这是，别做"
+      },
+      {
+        "attachments": {},
+        "author_id": "1661305257966665729",
+        "conversation_id": "1802595462677246306",
+        "created_at": "2024-06-17T06:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T07:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802595462677246306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802595462677246306",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有谁做过电休克（MECT）的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 161,
+          "like_count": 592,
+          "listed_count": 1,
+          "tweet_count": 1196
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T09:37:11.000Z",
+        "description": "某个08年出生的自切MTF跨女🏳️‍⚧️社会自由主义，我的精神状态极差可能会发消极内容请见谅｜有事请联系Line ID：ts1989abc",
+        "id": "1661305257966665729",
+        "location": "Earth",
+        "name": "槿彧🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801672899524206592/s2uNCLu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 126,
+          "like_count": 3804,
+          "listed_count": 6,
+          "tweet_count": 1733
+        },
+        "username": "MTF0615",
+        "verified": false
+      }
+    ]
+  }
+}

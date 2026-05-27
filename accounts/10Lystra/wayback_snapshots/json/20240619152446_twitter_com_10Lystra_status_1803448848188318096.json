@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803448848188318096",
+    "created_at": "2024-06-19T15:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T16:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803448848188318096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10lystra/statu…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/10lystra/status/1803320171391754425",
+          "start": 42,
+          "url": "https://t.co/Au4CowpVDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803448848188318096",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803320171391754425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱今晚改进下反应流程提提产率捏\n明天再试一次\n吃不死就好，还有活到七月份给大家开奖 https://t.co/Au4CowpVDF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803448848188318096",
+        "created_at": "2024-06-19T15:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T16:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803448848188318096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/10lystra/status/1803320171391754425",
+              "start": 42,
+              "url": "https://t.co/Au4CowpVDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803448848188318096",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803320171391754425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱今晚改进下反应流程提提产率捏\n明天再试一次\n吃不死就好，还有活到七月份给大家开奖 https://t.co/Au4CowpVDF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803320163355545600"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803320171391754425",
+        "created_at": "2024-06-19T06:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T07:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803320171391754425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CMcXKfIGDK",
+              "end": 32,
+              "expanded_url": "https://twitter.com/10Lystra/status/1803320171391754425/photo/1",
+              "media_key": "3_1803320163355545600",
+              "start": 9,
+              "url": "https://t.co/CMcXKfIGDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803320171391754425",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1494,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结晶初步完成（？ https://t.co/CMcXKfIGDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 214,
+          "like_count": 753,
+          "listed_count": 1,
+          "tweet_count": 1499
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

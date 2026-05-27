@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2039152999310692678",
+    "created_at": "2026-04-01T02:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039171006330228926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 20,
+          "id": "901687537281982464",
+          "start": 8,
+          "username": "Luxferre223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039171006330228926",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039170756127736107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI @Luxferre223 因为善用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2039152999310692678",
+        "created_at": "2026-04-01T02:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039171006330228926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 20,
+              "id": "901687537281982464",
+              "start": 8,
+              "username": "Luxferre223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039171006330228926",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039170756127736107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @Luxferre223 因为善用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2039152999310692678",
+        "created_at": "2026-04-01T02:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039170756127736107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 22,
+              "id": "901687537281982464",
+              "start": 10,
+              "username": "Luxferre223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039170756127736107",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039170566460948688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @Luxferre223 所以为什么我会被block😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 888,
+          "like_count": 2305,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6835
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Enby🏳️‍⚧️｜（？）@Show5560｜本垢@yqua_｜Sister @Tennoujinyano｜嘴替@10Lystra｜@BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Show5560"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "username": "yqua_"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "10Lystra"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8291,
+          "following_count": 3849,
+          "like_count": 38396,
+          "listed_count": 21,
+          "media_count": 2278,
+          "tweet_count": 8948
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-27T06:07:16.000Z",
+        "description": "对我这种很难相信别人也没什么社交需求的人来说简介似乎没必要？       硬要有的话，可以叫我狐狸或者lux, intp，给我分享地狱笑话，或者夸夸我的桃宝会让我很开心",
+        "id": "901687537281982464",
+        "location": "Moon",
+        "name": "小蘑菇的饲养狐",
+        "pinned_tweet_id": "1675176177693261825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671008597323681797/jApYecyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 238,
+          "like_count": 18344,
+          "listed_count": 3,
+          "media_count": 1293,
+          "tweet_count": 12288
+        },
+        "username": "Luxferre223",
+        "verified": false
+      }
+    ]
+  }
+}

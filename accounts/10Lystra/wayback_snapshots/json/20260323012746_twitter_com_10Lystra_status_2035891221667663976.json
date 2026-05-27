@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035693683761156427",
+    "created_at": "2026-03-23T01:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035891221667663976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811967853580681216",
+          "start": 0,
+          "username": "Fgjjkks43676"
+        },
+        {
+          "end": 27,
+          "id": "1424779836938022913",
+          "start": 14,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035891221667663976",
+    "in_reply_to_user_id": "1811967853580681216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035739524332949971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fgjjkks43676 @amber_toffee 依旧反对共产主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035693683761156427",
+        "created_at": "2026-03-23T01:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035891221667663976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811967853580681216",
+              "start": 0,
+              "username": "Fgjjkks43676"
+            },
+            {
+              "end": 27,
+              "id": "1424779836938022913",
+              "start": 14,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035891221667663976",
+        "in_reply_to_user_id": "1811967853580681216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035739524332949971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fgjjkks43676 @amber_toffee 依旧反对共产主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811967853580681216",
+        "conversation_id": "2035693683761156427",
+        "created_at": "2026-03-22T15:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035739524332949971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035739524332949971",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 897,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035693683761156427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 空调不免费是对南方人的剥削，暖气费不免费是对北方人的剥削，眼镜不免费是对近视/老花眼的人的剥削"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 877,
+          "like_count": 2273,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6433
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T03:36:45.000Z",
+        "description": "",
+        "id": "1811967853580681216",
+        "name": "Fg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015462096503197696/ojxmUBlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 2,
+          "like_count": 2237,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 945
+        },
+        "username": "Fgjjkks43676",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZonB0"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "圣丽安学院",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23573,
+          "following_count": 2699,
+          "like_count": 39048,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 20892
+        },
+        "url": "https://t.co/P9msNZonB0",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

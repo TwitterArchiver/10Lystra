@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2036858591286878371",
+    "created_at": "2026-03-26T08:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037087737845592371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753470997422878720",
+          "start": 0,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037087737845592371",
+    "in_reply_to_user_id": "1753470997422878720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036858593518256515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404nocoriander 男同为什么要约女生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2036858591286878371",
+        "created_at": "2026-03-26T08:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037087737845592371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753470997422878720",
+              "start": 0,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037087737845592371",
+        "in_reply_to_user_id": "1753470997422878720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036858593518256515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404nocoriander 男同为什么要约女生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753470997422878720",
+        "conversation_id": "2036858591286878371",
+        "created_at": "2026-03-25T17:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036858593518256515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036858593518256515",
+        "in_reply_to_user_id": "1753470997422878720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6339,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036858591286878371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怪不得br0总觉得只要和女生独处就能得吃…原来是在以己度人…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 880,
+          "like_count": 2283,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 6564
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "与其被定义 不如自定义",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "精神卫生中心菜医生",
+        "pinned_tweet_id": "2006779245671100515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997698629545713664/6A_5O8o1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 331,
+          "like_count": 16818,
+          "listed_count": 12,
+          "media_count": 349,
+          "tweet_count": 9868
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793283338712850563",
+    "created_at": "2024-05-24T13:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T14:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793994641421090871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        },
+        {
+          "end": 28,
+          "id": "1747138924450029568",
+          "start": 14,
+          "username": "OVERDOSE_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793994641421090871",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793994484956741919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd @OVERDOSE_Wiki 解离干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793283338712850563",
+        "created_at": "2024-05-24T13:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T14:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793994641421090871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            },
+            {
+              "end": 28,
+              "id": "1747138924450029568",
+              "start": 14,
+              "username": "OVERDOSE_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793994641421090871",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793994484956741919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd @OVERDOSE_Wiki 解离干的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1678117449508753408",
+        "conversation_id": "1793283338712850563",
+        "created_at": "2024-05-24T13:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T14:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793994484956741919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "OVERDOSE_Wiki"
+            },
+            {
+              "end": 24,
+              "id": "1692075579850563584",
+              "start": 15,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793994484956741919",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793283338712850563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVERDOSE_Wiki @10Lystra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 90,
+          "like_count": 217,
+          "listed_count": 1,
+          "tweet_count": 414
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "IP: 127.0.0.1 恐怖分子 MtX 不顺也不直 爱好是杀人 数码 不键政/ADHD+ASD+重抑/技术宅 no rioters only tyranny\nhttps://t.co/UV0WDw6qEr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+QBqAeDU7EIs1N…",
+                "end": 105,
+                "expanded_url": "https://t.me/+QBqAeDU7EIs1N2Fl",
+                "start": 82,
+                "url": "https://t.co/UV0WDw6qEr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "localhost",
+        "name": "利姆露Tempest_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787409857160859649/erLDuYak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 437,
+          "like_count": 2233,
+          "listed_count": 1,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "欢迎来到 overdose维基！\n这里是或许可以给予帮助的地方...\nhttps://t.co/Se3CfE5xNq 致力于成为一个免费且持续更新的入门参考od 知识整合站点\n\nwiki主比较nb会乱关注人，请见谅\n截止2024.03.03.03:50，该账号由多名人员运营",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 58,
+                "expanded_url": "http://overdose.wiki",
+                "start": 35,
+                "url": "https://t.co/Se3CfE5xNq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/UVKr7EgL3R"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "✝️天国✝️",
+        "name": "Overdose Wiki",
+        "pinned_tweet_id": "1785300794444808375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786914046882516992/r_sKIFUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 2052,
+          "like_count": 1102,
+          "listed_count": 3,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/UVKr7EgL3R",
+        "username": "OVERDOSE_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

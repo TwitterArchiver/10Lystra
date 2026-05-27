@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2056206753906458624",
+    "created_at": "2026-05-18T03:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056208790765076960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1884523559546191872",
+          "start": 0,
+          "username": "chnyngxn777912"
+        },
+        {
+          "end": 27,
+          "id": "1824324977379905537",
+          "start": 16,
+          "username": "siyu060910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056208790765076960",
+    "in_reply_to_user_id": "1884523559546191872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056208243006099939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnyngxn777912 @siyu060910 那这下老中高中也显得好起来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056208236668440576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkefzra0AA9WiA.jpg",
+        "width": 225
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2056206753906458624",
+        "created_at": "2026-05-18T03:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056208790765076960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884523559546191872",
+              "start": 0,
+              "username": "chnyngxn777912"
+            },
+            {
+              "end": 27,
+              "id": "1824324977379905537",
+              "start": 16,
+              "username": "siyu060910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056208790765076960",
+        "in_reply_to_user_id": "1884523559546191872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056208243006099939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnyngxn777912 @siyu060910 那这下老中高中也显得好起来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056208236668440576"
+          ]
+        },
+        "author_id": "1884523559546191872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056206753906458624",
+        "created_at": "2026-05-18T03:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056208243006099939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824324977379905537",
+              "start": 0,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpfedvhHqD",
+              "end": 79,
+              "expanded_url": "https://x.com/chnyngxn777912/status/2056208243006099939/photo/1",
+              "media_key": "3_2056208236668440576",
+              "start": 56,
+              "url": "https://t.co/mpfedvhHqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056208243006099939",
+        "in_reply_to_user_id": "1824324977379905537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056206753906458624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyu060910 有钱做六项，没钱还我钱，还成天说老中垃圾高中，幻想润去日本，只能说，可怜人必有可恨之处 https://t.co/mpfedvhHqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 902,
+          "like_count": 2371,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7491
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T08:47:02.000Z",
+        "description": "放弃助人情节，尊重他人命运",
+        "id": "1884523559546191872",
+        "name": "香草青丘酱🍥",
+        "pinned_tweet_id": "2030184984238248229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026275741973856256/Yu75WtPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 67,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 178
+        },
+        "username": "chnyngxn777912",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2049167214830559716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7499,
+          "following_count": 83,
+          "like_count": 530,
+          "listed_count": 12,
+          "media_count": 281,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

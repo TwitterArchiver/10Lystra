@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2053162694346231918",
+    "created_at": "2026-05-09T17:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053162694346231918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1917093346956460032",
+          "start": 3,
+          "username": "Readyt01ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053162694346231918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 545
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052659593902543323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Readyt01ove: 我换位思考过了 全他妈是你的错￼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2053162694346231918",
+        "created_at": "2026-05-09T17:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053162694346231918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1917093346956460032",
+              "start": 3,
+              "username": "Readyt01ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053162694346231918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 545
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052659593902543323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Readyt01ove: 我换位思考过了 全他妈是你的错￼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917093346956460032",
+        "conversation_id": "2052659593902543323",
+        "created_at": "2026-05-08T07:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052659593902543323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052659593902543323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 95772,
+          "like_count": 3277,
+          "quote_count": 46,
+          "reply_count": 91,
+          "retweet_count": 545
+        },
+        "reply_settings": "everyone",
+        "text": "我换位思考过了 全他妈是你的错￼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 895,
+          "like_count": 2342,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 7288
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T05:47:38.000Z",
+        "description": "痛苦的時候逃避就好了",
+        "id": "1917093346956460032",
+        "name": "痕迹器官",
+        "pinned_tweet_id": "1917199874963177557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995014843167117312/-xOFx6eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 156,
+          "like_count": 6787,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 69
+        },
+        "username": "Readyt01ove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797259878890959023",
+    "created_at": "2024-06-03T11:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T12:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797589951544201610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1217439608654270464",
+          "start": 0,
+          "username": "StrawberryC208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797589951544201610",
+    "in_reply_to_user_id": "1217439608654270464",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797259878890959023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawberryC208 小测药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797259878890959023",
+        "created_at": "2024-06-03T11:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T12:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797589951544201610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1217439608654270464",
+              "start": 0,
+              "username": "StrawberryC208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797589951544201610",
+        "in_reply_to_user_id": "1217439608654270464",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797259878890959023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawberryC208 小测药"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797259872133849088"
+          ]
+        },
+        "author_id": "1217439608654270464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1797259878890959023",
+        "created_at": "2024-06-02T13:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T14:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797259878890959023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/h4FZ5CNYvl",
+              "end": 39,
+              "expanded_url": "https://twitter.com/StrawberryC208/status/1797259878890959023/photo/1",
+              "media_key": "3_1797259872133849088",
+              "start": 16,
+              "url": "https://t.co/h4FZ5CNYvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797259878890959023",
+        "lang": "de",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 82,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Diphenhydramine https://t.co/h4FZ5CNYvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 105,
+          "like_count": 275,
+          "listed_count": 1,
+          "tweet_count": 522
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-15T13:33:27.000Z",
+        "description": "Halloooo i do arts!!! 17 / Eng&CN / Feb8th / Bi / Im catgender she/they/meow pronous / 互联网赛博小猫咪 -w-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "strawberryc208.carrd.co",
+                "end": 23,
+                "expanded_url": "https://strawberryc208.carrd.co",
+                "start": 0,
+                "url": "https://t.co/9u4MJBvs4m"
+              }
+            ]
+          }
+        },
+        "id": "1217439608654270464",
+        "location": "C-208",
+        "name": "StrawberryC-208",
+        "pinned_tweet_id": "1777258221616664734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690961344076623873/oYCuKrOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 950,
+          "like_count": 3556,
+          "listed_count": 5,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/9u4MJBvs4m",
+        "username": "StrawberryC208",
+        "verified": false
+      }
+    ]
+  }
+}

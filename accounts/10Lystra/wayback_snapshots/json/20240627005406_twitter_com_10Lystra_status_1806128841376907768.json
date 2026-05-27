@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1806118536303239382",
+    "created_at": "2024-06-27T00:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T01:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806128841376907768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "Arcee__RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806128841376907768",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806118536303239382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arcee__RC 也祝我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1806118536303239382",
+        "created_at": "2024-06-27T00:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T01:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806128841376907768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "Arcee__RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806128841376907768",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806118536303239382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcee__RC 也祝我"
+      },
+      {
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1806118536303239382",
+        "created_at": "2024-06-27T00:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T01:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806118536303239382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806118536303239382",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意外死亡就好了啊 这样就不是我自己选择自杀 没人在我死后还要指责我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」有需要的话可以当免费树洞⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 264,
+          "like_count": 1153,
+          "listed_count": 3,
+          "tweet_count": 2118
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "自我毁灭者的垂死挣扎\n药娘\n妆教私信（偶尔掺杂点血图进来） “入此门者当放弃一切希望。”",
+        "id": "1109080684419670017",
+        "location": "🚪88",
+        "name": "阿尔茜",
+        "pinned_tweet_id": "1791798919518883890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805542188925042691/51j-7kaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6983,
+          "following_count": 972,
+          "like_count": 15666,
+          "listed_count": 18,
+          "tweet_count": 10280
+        },
+        "username": "Arcee__RC",
+        "verified": false
+      }
+    ]
+  }
+}

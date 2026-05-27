@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038847456230903829",
+    "created_at": "2026-03-31T10:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038929256487796783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937079095852158976",
+          "start": 0,
+          "username": "Chizuru_arch"
+        },
+        {
+          "end": 28,
+          "id": "2003468394604228608",
+          "start": 14,
+          "username": "pinxowosofure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038929256487796783",
+    "in_reply_to_user_id": "1937079095852158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038847456230903829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chizuru_arch @pinxowosofure 和王宇航汴京一开始压根就没意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038847456230903829",
+        "created_at": "2026-03-31T10:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038929256487796783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937079095852158976",
+              "start": 0,
+              "username": "Chizuru_arch"
+            },
+            {
+              "end": 28,
+              "id": "2003468394604228608",
+              "start": 14,
+              "username": "pinxowosofure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038929256487796783",
+        "in_reply_to_user_id": "1937079095852158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038847456230903829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chizuru_arch @pinxowosofure 和王宇航汴京一开始压根就没意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937079095852158976",
+        "conversation_id": "2038847456230903829",
+        "created_at": "2026-03-31T05:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038847456230903829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038847456230903829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1108,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一开始就是你主动激化矛盾把一个简单的代词问题上升到对救助群体的抹黑\n大帽子可就扣上来了\n后来又搞了个投票二选一，真正的非黑即白。\n最后投票不符合你的期望又选择退出，出尔反尔。\n从始至终你一直拿着上位者的角色俯瞰这场争论，一点尊重都没有。你这不是把救助群体和平常人对立，是把跨和顺对立👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 886,
+          "like_count": 2295,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6757
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:23:58.000Z",
+        "description": "𒂼𒅈𒄄，发音为Ama-ar-gi₄，在苏美尔语和阿卡德语里代表着自由。",
+        "id": "1937079095852158976",
+        "name": "子芊木🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998445949686046720/xpRehX_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 96,
+          "like_count": 9465,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 973
+        },
+        "username": "Chizuru_arch",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T14:11:20.000Z",
+        "description": "首先 愿所有人有美好的一天\n本号有键政内容 言论蛮激进\n讨厌男权制 顺直正统主义 违背现实的“自然”二元性别论及刻板印象及其扩大化 资产阶级专政 语言文化帝国主义 民族沙文主义 文明-野蛮叙事 殖民 华夷秩序 东方主义 极端/低智民族主义 小激激女 三好非顺直\n我谙倒都晓得我是哪个了\n好事物绝缘体ver.\n无为以避有害",
+        "id": "2003468394604228608",
+        "name": "落猫儿散晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709335646666754/F6wCyvYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 318,
+          "like_count": 13423,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 4853
+        },
+        "username": "pinxowosofure",
+        "verified": false
+      }
+    ]
+  }
+}

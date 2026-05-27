@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1852697229913735339",
+    "created_at": "2024-11-03T01:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T02:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852878859630530863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "848523479238418432",
+          "start": 0,
+          "username": "c0r1eone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852878859630530863",
+    "in_reply_to_user_id": "848523479238418432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852697229913735339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c0r1eone 别骂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1852697229913735339",
+        "created_at": "2024-11-03T01:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T02:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852878859630530863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "848523479238418432",
+              "start": 0,
+              "username": "c0r1eone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852878859630530863",
+        "in_reply_to_user_id": "848523479238418432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852697229913735339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c0r1eone 别骂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848523479238418432",
+        "conversation_id": "1852697229913735339",
+        "created_at": "2024-11-02T13:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T14:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852697229913735339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852697229913735339",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 651,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好\n高大威猛 洁身自好的四川人\n诚实守信 彬彬有礼的东北人\n善良富足 儒雅随和的河北人\n拾井不昧 遵纪守法的河南人\n不攀关系 爱护妻子的山东人\n夜不闭户 和谐稳定的新疆人\n听党指挥 思想先进的西藏人\n民风淳朴 爱护环境的山西人\n破除迷信 相信科学的宁夏人\n豪爽大方 敢做敢当的上海人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "珠芽重度依赖@yaiikawa hrt始于2024.10.3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1807824248838447239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852277709348732928/DFMoRY2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 457,
+          "like_count": 2162,
+          "listed_count": 2,
+          "tweet_count": 4165
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-02T13:12:17.000Z",
+        "description": "生活已经够累了 点进这里希望你能开心一点",
+        "id": "848523479238418432",
+        "location": "宝宝巴士",
+        "name": "江壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851379760410370048/4gyVM_Sv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 516,
+          "like_count": 8635,
+          "listed_count": 15,
+          "tweet_count": 7569
+        },
+        "username": "c0r1eone",
+        "verified": false
+      }
+    ]
+  }
+}

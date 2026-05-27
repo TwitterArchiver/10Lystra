@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055701593325240787",
+    "created_at": "2026-05-17T11:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055972191489941607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394784939216818179",
+          "start": 0,
+          "username": "Tequila_SUNRlSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055972191489941607",
+    "in_reply_to_user_id": "1394784939216818179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055971475967078730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tequila_SUNRlSE 不以为耻，反以为荣，希望所有人都通过食物给他口😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055701593325240787",
+        "created_at": "2026-05-17T11:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055972191489941607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394784939216818179",
+              "start": 0,
+              "username": "Tequila_SUNRlSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055972191489941607",
+        "in_reply_to_user_id": "1394784939216818179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055971475967078730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tequila_SUNRlSE 不以为耻，反以为荣，希望所有人都通过食物给他口😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394784939216818179",
+        "conversation_id": "2055701593325240787",
+        "created_at": "2026-05-17T11:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055971475967078730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055971475967078730",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055971161150747113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 咋能这么理直气壮 生怕别人不知道他不洗手呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 900,
+          "like_count": 2367,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7481
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T22:40:41.000Z",
+        "description": "互联网光屁教教主/废话推主/bi/同居热恋中/喜欢我请给我打钱 自用蜂鸟vpn：https://t.co/DpgTecV1tM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ulYN1VK2",
+                "start": 40,
+                "url": "https://t.co/DpgTecV1tM"
+              }
+            ]
+          }
+        },
+        "id": "1394784939216818179",
+        "location": "6.8km  ",
+        "name": "八十荣",
+        "pinned_tweet_id": "1776820462062100614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410274938737414151/pFNLQOX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30868,
+          "following_count": 494,
+          "like_count": 4612,
+          "listed_count": 60,
+          "media_count": 1748,
+          "tweet_count": 15866
+        },
+        "username": "Tequila_SUNRlSE",
+        "verified": false
+      }
+    ]
+  }
+}

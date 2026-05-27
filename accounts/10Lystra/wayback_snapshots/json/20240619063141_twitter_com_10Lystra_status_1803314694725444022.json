@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803193390743589019",
+    "created_at": "2024-06-19T06:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T07:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803314694725444022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580050860498771968",
+          "start": 0,
+          "username": "hilu88776232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803314694725444022",
+    "in_reply_to_user_id": "1580050860498771968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803193390743589019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hilu88776232 膜数竞佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803193390743589019",
+        "created_at": "2024-06-19T06:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T07:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803314694725444022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580050860498771968",
+              "start": 0,
+              "username": "hilu88776232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803314694725444022",
+        "in_reply_to_user_id": "1580050860498771968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803193390743589019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hilu88776232 膜数竞佬"
+      },
+      {
+        "attachments": {},
+        "author_id": "1580050860498771968",
+        "conversation_id": "1803193390743589019",
+        "created_at": "2024-06-18T22:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T23:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803193390743589019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803193390743589019",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备搞波大的，关于姜萍最近全国数学竞赛造假事件，我准备尝试一下理解一下试题的难度。作为一个高三刚毕业的学生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 191,
+          "like_count": 676,
+          "listed_count": 1,
+          "tweet_count": 1434
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T04:21:01.000Z",
+        "description": "顺男友跨🏳️‍⚧️/是个音游人/疑似AS，冒犯到你提前抱歉/可以叫我昼/需要回fo请私信/准大学生/羡慕每一个会做饭的人/🚪1000r，别问为什么这么贵，过了你就知道了",
+        "id": "1580050860498771968",
+        "name": "ひる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763180266330492928/-z9GzXST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 303,
+          "like_count": 4049,
+          "listed_count": 2,
+          "tweet_count": 1925
+        },
+        "username": "hilu88776232",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793213766638989470",
+    "created_at": "2024-05-22T11:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T12:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793239333857862127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1678769453654511617",
+          "start": 0,
+          "username": "McMyonly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793239333857862127",
+    "in_reply_to_user_id": "1678769453654511617",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793213766638989470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McMyonly 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793213766638989470",
+        "created_at": "2024-05-22T11:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T12:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793239333857862127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1678769453654511617",
+              "start": 0,
+              "username": "McMyonly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793239333857862127",
+        "in_reply_to_user_id": "1678769453654511617",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793213766638989470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McMyonly 点了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1678769453654511617",
+        "conversation_id": "1793213766638989470",
+        "created_at": "2024-05-22T09:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T10:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793213766638989470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793213766638989470",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5781,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "可以滚吗？这里是让大家发牢骚的地方，不是在不是让你在这里分享你的美好生活的，没人想看，谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 83,
+          "like_count": 161,
+          "listed_count": 1,
+          "tweet_count": 322
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T14:13:34.000Z",
+        "description": "🚪388 除萌坎不回私信，不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kugou4.cloud/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kugou4.cloud/#/register?code=zMMqItfI",
+                "start": 0,
+                "url": "https://t.co/KTFEUfslxU"
+              }
+            ]
+          }
+        },
+        "id": "1678769453654511617",
+        "location": "VPN🪜自用➡️",
+        "name": "麦恩莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789501352332148737/qbSRfv-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35284,
+          "following_count": 489,
+          "like_count": 13809,
+          "listed_count": 135,
+          "tweet_count": 7339
+        },
+        "url": "https://t.co/KTFEUfslxU",
+        "username": "McMyonly",
+        "verified": false
+      }
+    ]
+  }
+}

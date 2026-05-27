@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1799062283550945637",
+    "created_at": "2024-06-07T17:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T18:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799124673617338451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769380729409130496",
+          "start": 0,
+          "username": "MaoTseTung93"
+        },
+        {
+          "end": 26,
+          "id": "1614958034781863939",
+          "start": 14,
+          "username": "ShiningKira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799124673617338451",
+    "in_reply_to_user_id": "1769380729409130496",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799121575196917860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoTseTung93 @ShiningKira 笑死我了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1799062283550945637",
+        "created_at": "2024-06-07T17:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T18:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799124673617338451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769380729409130496",
+              "start": 0,
+              "username": "MaoTseTung93"
+            },
+            {
+              "end": 26,
+              "id": "1614958034781863939",
+              "start": 14,
+              "username": "ShiningKira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799124673617338451",
+        "in_reply_to_user_id": "1769380729409130496",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799121575196917860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoTseTung93 @ShiningKira 笑死我了。。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1769380729409130496",
+        "conversation_id": "1799062283550945637",
+        "created_at": "2024-06-07T16:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T17:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799121575196917860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614958034781863939",
+              "start": 0,
+              "username": "ShiningKira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799121575196917860",
+        "in_reply_to_user_id": "1614958034781863939",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799062283550945637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiningKira 不想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 118,
+          "like_count": 362,
+          "listed_count": 1,
+          "tweet_count": 672
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T15:10:23.000Z",
+        "description": "人民萬歲 ！戰無不勝的毛澤東思想萬歲！世界反帝反殖力量萬歲！無產階級文化大革命萬歲!无罪有理！ Long Live the People！Long Live the Maoism ! Long Live the GPCR! Serve the People！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzdbl.com",
+                "end": 23,
+                "expanded_url": "http://mzdbl.com",
+                "start": 0,
+                "url": "https://t.co/VaniW3kxSp"
+              }
+            ]
+          }
+        },
+        "id": "1769380729409130496",
+        "location": "不滅的物質存在於世間",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1797645116561383596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797251707061116928/uBZ1-9VV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 205,
+          "like_count": 1465,
+          "listed_count": 3,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/VaniW3kxSp",
+        "username": "MaoTseTung93",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T12:09:46.000Z",
+        "description": "妓女日记",
+        "id": "1614958034781863939",
+        "name": "坂下キラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795648135513231360/3Ox7BPI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 1659,
+          "like_count": 54349,
+          "listed_count": 12,
+          "tweet_count": 14056
+        },
+        "username": "ShiningKira",
+        "verified": false
+      }
+    ]
+  }
+}

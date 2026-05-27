@@ -1,0 +1,264 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803670925755191588",
+    "created_at": "2024-06-20T06:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T07:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803676042672087211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        },
+        {
+          "end": 24,
+          "id": "1629373997539561473",
+          "start": 14,
+          "username": "LuRucheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803676042672087211",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803675927383249102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd @LuRucheng OTC能有麻黄碱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803670925755191588",
+        "created_at": "2024-06-20T06:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T07:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803676042672087211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            },
+            {
+              "end": 24,
+              "id": "1629373997539561473",
+              "start": 14,
+              "username": "LuRucheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803676042672087211",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803675927383249102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd @LuRucheng OTC能有麻黄碱？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1678117449508753408",
+        "conversation_id": "1803670925755191588",
+        "created_at": "2024-06-20T06:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T07:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803675927383249102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 20,
+              "id": "1629373997539561473",
+              "start": 10,
+              "username": "LuRucheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803675927383249102",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803673403087528413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @LuRucheng 没麻黄碱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 230,
+          "like_count": 830,
+          "listed_count": 2,
+          "tweet_count": 1567
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "IP: 127.0.0.1 精神原神玩家 MtX 不顺也不直 数码 不键政/ADHD+ASD+重抑/技术宅 no rioters only tyranny\nhttps://t.co/UV0WDw6qEr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+QBqAeDU7EIs1N…",
+                "end": 101,
+                "expanded_url": "https://t.me/+QBqAeDU7EIs1N2Fl",
+                "start": 78,
+                "url": "https://t.co/UV0WDw6qEr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "localhost",
+        "name": "利姆露Tempest_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787409857160859649/erLDuYak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 547,
+          "like_count": 4093,
+          "listed_count": 1,
+          "tweet_count": 5438
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T06:53:44.000Z",
+        "description": "主营各类非处方、处方药、注射剂、医疗器械、保健品。日常经营品规一万多种，支持1件发货。普瑞、可待因、复方甘草、舍曲林、艾地苯醌、金刚烷胺……https://t.co/OGsCOY4AqE有疑问可以进群蹲蹲",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MTXYYGS",
+                "end": 93,
+                "expanded_url": "https://t.me/MTXYYGS",
+                "start": 70,
+                "url": "https://t.co/OGsCOY4AqE"
+              }
+            ]
+          }
+        },
+        "id": "1629373997539561473",
+        "name": "满天星（华源医药公司）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798256597132808192/3RCwzext_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 134,
+          "like_count": 72,
+          "listed_count": 0,
+          "tweet_count": 241
+        },
+        "username": "LuRucheng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2052585322945388889",
+    "created_at": "2026-05-09T01:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052917549759639791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580121151359320065",
+          "start": 0,
+          "username": "Kuronekoqwq2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052917549759639791",
+    "in_reply_to_user_id": "1580121151359320065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052585322945388889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuronekoqwq2 a米这招太狠了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 186,
+        "media_key": "3_2052585167147892740",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw_VZ8WAAQHmwg.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2052585322945388889",
+        "created_at": "2026-05-09T01:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052917549759639791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580121151359320065",
+              "start": 0,
+              "username": "Kuronekoqwq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052917549759639791",
+        "in_reply_to_user_id": "1580121151359320065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052585322945388889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuronekoqwq2 a米这招太狠了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052585167147892740"
+          ]
+        },
+        "author_id": "1580121151359320065",
+        "conversation_id": "2052585322945388889",
+        "created_at": "2026-05-08T03:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052585322945388889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yj6bBDuiqQ",
+              "end": 52,
+              "expanded_url": "https://x.com/Kuronekoqwq2/status/2052585322945388889/photo/1",
+              "media_key": "3_2052585167147892740",
+              "start": 29,
+              "url": "https://t.co/yj6bBDuiqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052585322945388889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6741,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "离岸爱国还打算phd毕业回国的室友真正回国时belike https://t.co/yj6bBDuiqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 895,
+          "like_count": 2341,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 7279
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T09:00:23.000Z",
+        "description": "我现在已经没有了梦想，但还活在人世上；因此风尘三侠逃出了洛阳城，故事还远没有结束。",
+        "id": "1580121151359320065",
+        "location": "Neverland",
+        "name": "廖雨时",
+        "pinned_tweet_id": "1809031319168635024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772987094090358784/Q_cROAQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 344,
+          "like_count": 8728,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2254
+        },
+        "username": "Kuronekoqwq2",
+        "verified": false
+      }
+    ]
+  }
+}

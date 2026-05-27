@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1805477442695610483",
+    "created_at": "2024-06-26T09:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T10:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805891113158631574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1109080684419670017",
+          "start": 0,
+          "username": "Arcee__RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805891113158631574",
+    "in_reply_to_user_id": "1109080684419670017",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805890824582099166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arcee__RC 合理🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1805477442695610483",
+        "created_at": "2024-06-26T09:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T10:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805891113158631574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1109080684419670017",
+              "start": 0,
+              "username": "Arcee__RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805891113158631574",
+        "in_reply_to_user_id": "1109080684419670017",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805890824582099166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcee__RC 合理🥹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1805477442695610483",
+        "created_at": "2024-06-26T09:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T10:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805890824582099166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805890824582099166",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805477442695610483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 不是 我只是出门踩死了只蚂蚁都会觉得 哇 这么大一事 得和网友分享一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 264,
+          "like_count": 1138,
+          "listed_count": 3,
+          "tweet_count": 2085
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "自我毁灭者的垂死挣扎\n药娘\n妆教私信（偶尔掺杂点血图进来） “入此门者当放弃一切希望。”",
+        "id": "1109080684419670017",
+        "location": "🚪88",
+        "name": "阿尔茜",
+        "pinned_tweet_id": "1791798919518883890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805542188925042691/51j-7kaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6685,
+          "following_count": 964,
+          "like_count": 15667,
+          "listed_count": 18,
+          "tweet_count": 10253
+        },
+        "username": "Arcee__RC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2049450444586733954",
+    "created_at": "2026-04-29T23:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049629745839534488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746469344325021697",
+          "start": 0,
+          "username": "suzumiyasuzume"
+        },
+        {
+          "end": 29,
+          "id": "2042621548180234240",
+          "start": 16,
+          "username": "keyalice1919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049629745839534488",
+    "in_reply_to_user_id": "1746469344325021697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049496939713163686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzumiyasuzume @keyalice1919 孙笑川不日本天皇吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2049450444586733954",
+        "created_at": "2026-04-29T23:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049629745839534488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746469344325021697",
+              "start": 0,
+              "username": "suzumiyasuzume"
+            },
+            {
+              "end": 29,
+              "id": "2042621548180234240",
+              "start": 16,
+              "username": "keyalice1919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049629745839534488",
+        "in_reply_to_user_id": "1746469344325021697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049496939713163686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzumiyasuzume @keyalice1919 孙笑川不日本天皇吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746469344325021697",
+        "conversation_id": "2049450444586733954",
+        "created_at": "2026-04-29T14:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049496939713163686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042621548180234240",
+              "start": 0,
+              "username": "keyalice1919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049496939713163686",
+        "in_reply_to_user_id": "2042621548180234240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3968,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049450444586733954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keyalice1919 你成孙笑川日本分川了是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 893,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 7128
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13425,
+          "following_count": 928,
+          "like_count": 2134,
+          "listed_count": 23,
+          "media_count": 130,
+          "tweet_count": 1047
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T15:11:59.000Z",
+        "description": "模型、美少女プラモが大好きな中国人オタクです！どうぞよろしくお願いいたします。",
+        "id": "2042621548180234240",
+        "location": "鋼鉄大陸",
+        "name": "ケイ/模型好きの留学生",
+        "pinned_tweet_id": "2049513331514569109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042621624906629120/9e1YoCJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 37,
+          "like_count": 420,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 291
+        },
+        "username": "keyalice1919",
+        "verified": false
+      }
+    ]
+  }
+}

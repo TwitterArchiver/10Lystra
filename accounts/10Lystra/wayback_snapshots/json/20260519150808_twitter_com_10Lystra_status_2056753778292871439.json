@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2056734078913933584",
+    "created_at": "2026-05-19T15:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056753778292871439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1854224109011664896",
+          "start": 0,
+          "username": "A5Tr41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056753778292871439",
+    "in_reply_to_user_id": "1854224109011664896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056734078913933584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5Tr41 好愤怒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2056734078913933584",
+        "created_at": "2026-05-19T15:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056753778292871439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056753778292871439",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056734078913933584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 好愤怒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854224109011664896",
+        "conversation_id": "2056734078913933584",
+        "created_at": "2026-05-19T13:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056734078913933584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056734078913933584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我会觉得死掉丢下所有人是一件非常浪漫的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 904,
+          "like_count": 2375,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 7509
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "✨痛苦是存在的证明吗✨  @sayoricat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "sayoricat8964"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "☁️🪼",
+        "pinned_tweet_id": "1985437363196346747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989485324633006080/rC_z4dd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 104,
+          "like_count": 872,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 3360
+        },
+        "username": "A5Tr41",
+        "verified": false
+      }
+    ]
+  }
+}

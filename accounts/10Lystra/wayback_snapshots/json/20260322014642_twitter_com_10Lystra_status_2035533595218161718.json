@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035386451660300373",
+    "created_at": "2026-03-22T01:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035533595218161718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247769753097101318",
+          "start": 0,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035533595218161718",
+    "in_reply_to_user_id": "1247769753097101318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035386451660300373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X09COTCC 大脚开薯片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035386451660300373",
+        "created_at": "2026-03-22T01:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035533595218161718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247769753097101318",
+              "start": 0,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035533595218161718",
+        "in_reply_to_user_id": "1247769753097101318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035386451660300373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X09COTCC 大脚开薯片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "2035386451660300373",
+        "created_at": "2026-03-21T16:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T17:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035386451660300373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035386451660300373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1200,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下床的时候摸黑不小心一脚踩开了一包薯片那现在不得不吃了。。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 875,
+          "like_count": 2273,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6414
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "x w x",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1842967681949106335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033550124962742272/tFY1z7Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7943,
+          "following_count": 1840,
+          "like_count": 171559,
+          "listed_count": 20,
+          "media_count": 1380,
+          "tweet_count": 47643
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

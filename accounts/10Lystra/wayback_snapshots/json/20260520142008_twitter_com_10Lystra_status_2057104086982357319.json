@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2057065078273589699",
+    "created_at": "2026-05-20T14:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057104086982357319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057104086982357319",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057065078273589699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 👍 🌈 🌺 🎈 🌈🌈🌈\n🍒\n🍵\n❤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2057065078273589699",
+        "created_at": "2026-05-20T14:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057104086982357319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057104086982357319",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057065078273589699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 👍 🌈 🌺 🎈 🌈🌈🌈\n🍒\n🍵\n❤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2057065078273589699",
+        "created_at": "2026-05-20T11:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057065078273589699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057065078273589699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 517,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们不会忘记\n这个世界对我们的恶意：\n\n布里安娜·吉案\n武汉天街事件\n格温·阿劳霍案\n郑州人民公园打人事件\n奥兰多脉动夜店枪击案\n马修·谢泼德案\n阿利雷扎·法泽利·蒙法雷德案\n大卫·卡托案\n艾哈迈德·阿布·马希亚案\n哈梅德·萨布里案\n\n我们存在，便是对恶意的反抗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 903,
+          "like_count": 2379,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 7547
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 2096,
+          "like_count": 10496,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

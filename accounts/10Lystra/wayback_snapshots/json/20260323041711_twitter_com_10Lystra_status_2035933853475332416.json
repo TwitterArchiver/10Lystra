@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035914446002917821",
+    "created_at": "2026-03-23T04:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035933853475332416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035933853475332416",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035914446002917821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 比如何同学和tim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 594,
+        "media_key": "3_2031683067304460288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH8_ELbwAAkqLK.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035914446002917821",
+        "created_at": "2026-03-23T04:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035933853475332416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035933853475332416",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035914446002917821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 比如何同学和tim"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031683067304460288"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2035914446002917821",
+        "created_at": "2026-03-23T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035914446002917821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4OKAsbPVS",
+              "end": 36,
+              "expanded_url": "https://x.com/BI3BXI/status/2035914446002917821/photo/1",
+              "media_key": "3_2031683067304460288",
+              "start": 13,
+              "url": "https://t.co/q4OKAsbPVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035914446002917821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1890,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发现错的离谱➡️取消关注 https://t.co/q4OKAsbPVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 877,
+          "like_count": 2276,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6453
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "我们是冠军！@BilibiliGaming @BLGBinGe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "BilibiliGaming"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "BLGBinGe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8124,
+          "following_count": 3721,
+          "like_count": 35734,
+          "listed_count": 21,
+          "media_count": 2107,
+          "tweet_count": 7984
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

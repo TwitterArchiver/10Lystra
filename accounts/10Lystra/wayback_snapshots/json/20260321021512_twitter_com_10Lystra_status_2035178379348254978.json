@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035046336274555373",
+    "created_at": "2026-03-21T02:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T03:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035178379348254978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 18,
+          "id": "1982449259774656512",
+          "start": 8,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035178379348254978",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035128760916484476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI @smiroyama 妈妈踩我🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035046336274555373",
+        "created_at": "2026-03-21T02:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T03:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035178379348254978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 18,
+              "id": "1982449259774656512",
+              "start": 8,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035178379348254978",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035128760916484476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @smiroyama 妈妈踩我🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "2035046336274555373",
+        "created_at": "2026-03-20T22:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T23:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035128760916484476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035128760916484476",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035046336274555373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 羡慕\n我觉得接下来得有人要滥用踩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 872,
+          "like_count": 2271,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6368
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "状态下行期｜在中中国人（CBC）｜挖坑＞填坑｜一个正在靠收益化来HRT的Enby🏳️‍⚧️｜活人｜Sister @Tennoujinyano",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8070,
+          "following_count": 3677,
+          "like_count": 34985,
+          "listed_count": 21,
+          "media_count": 2064,
+          "tweet_count": 7687
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |One of the developer of @HRTtracker 🍥|  User | 🐱 Lover | BFF 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676727314784256/fnOZrjWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 958,
+          "like_count": 4768,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

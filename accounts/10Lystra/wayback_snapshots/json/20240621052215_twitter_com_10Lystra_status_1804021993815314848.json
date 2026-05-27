@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804021993815314848",
+    "created_at": "2024-06-21T05:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T06:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804021993815314848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1509059596773646337",
+          "start": 3,
+          "username": "Tang_Dou_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804021993815314848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804014461285732457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tang_Dou_: 后天24:00前100fo发吃鸡巴视频🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804021993815314848",
+        "created_at": "2024-06-21T05:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T06:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804021993815314848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1509059596773646337",
+              "start": 3,
+              "username": "Tang_Dou_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804021993815314848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804014461285732457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tang_Dou_: 后天24:00前100fo发吃鸡巴视频🥵"
+      },
+      {
+        "attachments": {},
+        "author_id": "1509059596773646337",
+        "conversation_id": "1804014461285732457",
+        "created_at": "2024-06-21T04:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T05:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804014461285732457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804014461285732457",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "后天24:00前100fo发吃鸡巴视频🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 238,
+          "like_count": 869,
+          "listed_count": 2,
+          "tweet_count": 1649
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T06:47:07.000Z",
+        "description": "这里是烫斗呀（不是熨斗😡）可能有的时候会键政，政见不同可以合理讨论，但别人身攻击。 里推指路➡️@Tang__Dou，熟人会过，不熟的话看心情过，有npy，但是他不介意我在外面发病🤧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Tang__Dou"
+              }
+            ]
+          }
+        },
+        "id": "1509059596773646337",
+        "location": "江西",
+        "name": "烫斗",
+        "pinned_tweet_id": "1803942192542851541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803071796142624769/pkyETuR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 318,
+          "like_count": 1308,
+          "listed_count": 0,
+          "tweet_count": 1152
+        },
+        "username": "Tang_Dou_",
+        "verified": false
+      }
+    ]
+  }
+}

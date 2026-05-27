@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2049428308153278850",
+    "created_at": "2026-04-30T08:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049770437555409079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "994208371040337921",
+          "start": 0,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049770437555409079",
+    "in_reply_to_user_id": "994208371040337921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049428308153278850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litztsong 美乃滋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2049428308153278850",
+        "created_at": "2026-04-30T08:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049770437555409079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "994208371040337921",
+              "start": 0,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049770437555409079",
+        "in_reply_to_user_id": "994208371040337921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049428308153278850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litztsong 美乃滋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "2049428308153278850",
+        "created_at": "2026-04-29T09:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049428308153278850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bayrakmedya/st…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/bayrakmedya/status/2049339893869158678",
+              "start": 72,
+              "url": "https://t.co/T9HSoeH5Xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049428308153278850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3006,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049339893869158678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以，最好不要跳楼\n万一变成这样子会不好的\n但是，这个样子的话，整个泌尿系统，盆骨和生殖系统都没了\n嗯，死后不容易通过残留的组织简单判断性别了 https://t.co/T9HSoeH5Xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 893,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 7139
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/@misncandy/个人群 https://t.co/16lZFMylhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 151,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 128,
+                "url": "https://t.co/16lZFMylhh"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2044756700625035470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 2071,
+          "like_count": 3597,
+          "listed_count": 17,
+          "media_count": 1641,
+          "tweet_count": 14141
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

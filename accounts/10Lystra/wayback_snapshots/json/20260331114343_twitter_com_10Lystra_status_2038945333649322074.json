@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038944049869283674",
+    "created_at": "2026-03-31T11:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038945333649322074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786464617031733248",
+          "start": 0,
+          "username": "QueerMasculism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038945333649322074",
+    "in_reply_to_user_id": "786464617031733248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038944049869283674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QueerMasculism 其实我没看懂你在指谁。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038944049869283674",
+        "created_at": "2026-03-31T11:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038945333649322074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786464617031733248",
+              "start": 0,
+              "username": "QueerMasculism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038945333649322074",
+        "in_reply_to_user_id": "786464617031733248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038944049869283674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QueerMasculism 其实我没看懂你在指谁。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786464617031733248",
+        "conversation_id": "2038944049869283674",
+        "created_at": "2026-03-31T11:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038944049869283674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10Lystra/statu…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/10Lystra/status/2038844158639796559",
+              "start": 131,
+              "url": "https://t.co/ILS8TOFlvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038944049869283674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038844158639796559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宣布配得感低的人不配在网上发言😇既然热衷被训，那训你的人为什么不能是我呢？社会环境这么恶劣你就不能一辈子深柜吗？自己先扭转自己不就不会进扭转了？\n配得感太高的确不是好事，一盘散沙干点啥都麻烦。但配得感太低哪怕只是许愿能“好好死掉”也别指望愿望能实现。\n1/2 https://t.co/ILS8TOFlvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 886,
+          "like_count": 2296,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6770
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T07:12:31.000Z",
+        "description": "左翼男性主义 | 酷儿男性主义 | 后女性主义 | 音羽中思想 | 实践-理论-实践 | 推翻女本位经济 | 在扬弃了女性主义的基础上走向未来 | 天然进步的amab | YGBTQA+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/454038240",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/454038240",
+                "start": 0,
+                "url": "https://t.co/T15vXo3Mib"
+              }
+            ]
+          }
+        },
+        "id": "786464617031733248",
+        "location": "驻马店",
+        "name": "音羽中导读（2.0）",
+        "pinned_tweet_id": "1968329547084186077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968328011276775424/doIwV-H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 2508,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/T15vXo3Mib",
+        "username": "QueerMasculism",
+        "verified": true
+      }
+    ]
+  }
+}

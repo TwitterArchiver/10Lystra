@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2047263473047155175",
+    "created_at": "2026-04-23T14:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047323266574926089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047323266574926089",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047263473047155175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@maoxian1527 我单脚跳不止一米二"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2047263473047155175",
+        "created_at": "2026-04-23T14:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047323266574926089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047323266574926089",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047263473047155175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxian1527 我单脚跳不止一米二"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2047263473047155175",
+        "created_at": "2026-04-23T10:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047263473047155175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047263473047155175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 699,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我半年没有锻炼过了，这是我的中考体育成绩🥲\n\n162cm(脱鞋），69.5kg，50米10.7s，800米5min13s，立定跳远1.22米，仰卧起坐30个，肺活量3760（满分3050）\n\n好开心我从80kg减到69kg🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n忮忌让人面目全非",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 891,
+          "like_count": 2333,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 7096
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 诡秘@zqtlovekris99 | 白虚@Acmduemsks | 姐姐@OuO_QwQg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Acmduemsks"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "OuO_QwQg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "距离你5.2km",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2041434241335230626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 270,
+          "like_count": 3791,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      }
+    ]
+  }
+}

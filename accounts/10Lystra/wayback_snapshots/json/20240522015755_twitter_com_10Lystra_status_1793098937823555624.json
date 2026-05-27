@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1792910387400347877",
+    "created_at": "2024-05-22T01:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T02:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793098937823555624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714510407006851072",
+          "start": 0,
+          "username": "hhhhhhhhhh68887"
+        },
+        {
+          "end": 31,
+          "id": "1743271247746879488",
+          "start": 17,
+          "username": "ujjkujjk74898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793098937823555624",
+    "in_reply_to_user_id": "1714510407006851072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793093297499750859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhh68887 @ujjkujjk74898 ？你再看看🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1792910387400347877",
+        "created_at": "2024-05-22T01:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T02:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793098937823555624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            },
+            {
+              "end": 31,
+              "id": "1743271247746879488",
+              "start": 17,
+              "username": "ujjkujjk74898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793098937823555624",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793093297499750859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 @ujjkujjk74898 ？你再看看🤔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1714510407006851072",
+        "conversation_id": "1792910387400347877",
+        "created_at": "2024-05-22T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793093297499750859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743271247746879488",
+              "start": 0,
+              "username": "ujjkujjk74898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793093297499750859",
+        "in_reply_to_user_id": "1743271247746879488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792910387400347877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ujjkujjk74898 这一看就是山东人🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 79,
+          "like_count": 148,
+          "listed_count": 1,
+          "tweet_count": 295
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "法国诗人、演员、戏剧理论家、法兰西大护国公以及先锋主义阵线主席\n\ncoslplay标签：加速主义/未来主义者/meme图/梗图大师\n\n（绝对中立，友所有政见，理性交流）",
+        "id": "1714510407006851072",
+        "location": "法国“太阳”",
+        "name": "赛博阿尔托能完成电子复仇吗🇫🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791632152951758848/UjN8yv7Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 835,
+          "like_count": 7548,
+          "listed_count": 4,
+          "tweet_count": 4029
+        },
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T14:00:44.000Z",
+        "description": "左下，毛泽东转世灵童，自发毛主义，支持女权，友LGBTQ+，无产阶级文化大革命万岁，除了瞎骂、机器人黄推不会b人，里推@ujjkujjk74899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "ujjkujjk74899"
+              }
+            ]
+          }
+        },
+        "id": "1743271247746879488",
+        "name": "🚩一般通过大粉红🚩",
+        "pinned_tweet_id": "1792068525374439850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782397600832122880/zkXmMobE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 223,
+          "like_count": 353,
+          "listed_count": 3,
+          "tweet_count": 1957
+        },
+        "username": "ujjkujjk74898",
+        "verified": false
+      }
+    ]
+  }
+}

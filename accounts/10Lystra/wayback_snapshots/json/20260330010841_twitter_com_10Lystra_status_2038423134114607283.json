@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038237972387250545",
+    "created_at": "2026-03-30T01:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T02:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038423134114607283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 32,
+          "id": "1704469304077611008",
+          "start": 17,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038423134114607283",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038237972387250545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 @jiaoyanboluooo 可能暴露了会给你们增加工作量（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038237972387250545",
+        "created_at": "2026-03-30T01:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038423134114607283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 32,
+              "id": "1704469304077611008",
+              "start": 17,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038423134114607283",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038237972387250545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @jiaoyanboluooo 可能暴露了会给你们增加工作量（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2038237972387250545",
+        "created_at": "2026-03-29T12:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038237972387250545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2038233221339689098",
+              "start": 143,
+              "url": "https://t.co/6sh3X2SzyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038237972387250545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4983,
+          "like_count": 70,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038233221339689098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人们真正该做的，从来不是苛责那些已经在尽最大努力帮助他们的人，而是该反思为什么这个社会连一个基本的代称都难以包容然后从自身出发，由内而外地去反抗、去争取\n \n可现实另一副模样：\n很多人连自己在学校家庭、工作中都不敢暴露身份，只能藏着掖着却对那些尽力想帮他们的人指指点点百般挑剔甚至网暴 https://t.co/6sh3X2SzyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 879,
+          "like_count": 2289,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6645
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 2303,
+          "like_count": 2220,
+          "listed_count": 15,
+          "media_count": 378,
+          "tweet_count": 2450
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜（我妈当我瞎说的）／不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3992,
+          "following_count": 3097,
+          "like_count": 21484,
+          "listed_count": 12,
+          "media_count": 1234,
+          "tweet_count": 4483
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

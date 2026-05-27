@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2036661855524114808",
+    "created_at": "2026-03-25T11:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T12:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036769575686054399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036769575686054399",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036661855524114808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 办这玩意城市赚的钱他自己也能享受些便利"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32415,
+        "height": 1920,
+        "media_key": "13_2036478255054856196",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036478255054856196/img/jftc3iiQBnNICelf.jpg",
+        "public_metrics": {
+          "view_count": 66500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036478255054856196/vid/avc1/1080x1920/UFrLu43Iv86VOH_G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036478255054856196/pl/hzygEhkFn7BNxYnq.m3u8?v=f20"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036478255054856196/vid/avc1/320x568/64biCC9Q06dhVpPy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036478255054856196/vid/avc1/720x1280/1xLKSm7aBXEgASvk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036478255054856196/vid/avc1/480x852/rWgLffVAztxF6qY8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2036661855524114808",
+        "created_at": "2026-03-25T11:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036769575686054399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036769575686054399",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036661855524114808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 办这玩意城市赚的钱他自己也能享受些便利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036478255054856196"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2036661855524114808",
+        "created_at": "2026-03-25T04:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036661855524114808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGza3o8Vhi",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2036661855524114808/video/1",
+              "media_key": "13_2036478255054856196",
+              "start": 107,
+              "url": "https://t.co/hGza3o8Vhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036661855524114808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 143820,
+          "like_count": 534,
+          "quote_count": 6,
+          "reply_count": 200,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "3月22日，浙江。当地举办马拉松封路，一位早上上班的市民表示：国家还是让这些人吃的太饱了，为了你们这一小群人的兴趣爱好，影响整个城市人们的出行，你们的心里会不会过意不去？影响我们这些牛马干活，你们心里会不会愧疚？ https://t.co/hGza3o8Vhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 879,
+          "like_count": 2280,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 6527
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195794,
+          "following_count": 1024,
+          "like_count": 9326,
+          "listed_count": 8630,
+          "media_count": 44065,
+          "tweet_count": 51128
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

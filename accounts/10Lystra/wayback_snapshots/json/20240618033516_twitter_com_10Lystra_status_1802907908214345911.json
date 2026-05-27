@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802907343698682168",
+    "created_at": "2024-06-18T03:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T04:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802907908214345911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1729217911804383232",
+          "start": 0,
+          "username": "ZhenLiGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802907908214345911",
+    "in_reply_to_user_id": "1729217911804383232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802907343698682168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhenLiGs 郊狼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802907343698682168",
+        "created_at": "2024-06-18T03:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T04:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802907908214345911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1729217911804383232",
+              "start": 0,
+              "username": "ZhenLiGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802907908214345911",
+        "in_reply_to_user_id": "1729217911804383232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802907343698682168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhenLiGs 郊狼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1729217911804383232",
+        "conversation_id": "1802907343698682168",
+        "created_at": "2024-06-18T03:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T04:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802907343698682168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802907343698682168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗜睡情况又严重了一点 有没有什么玩意可以定时给我电起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 170,
+          "like_count": 623,
+          "listed_count": 1,
+          "tweet_count": 1300
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T19:17:40.000Z",
+        "description": "☃这里是真理，可以叫我真理 真理子 理子",
+        "id": "1729217911804383232",
+        "location": "罪恶都市",
+        "name": "真理世纪☃暴论滤镜安卓妹",
+        "pinned_tweet_id": "1801921406353170799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795351190072590336/_16IyS5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 58,
+          "like_count": 3643,
+          "listed_count": 1,
+          "tweet_count": 3773
+        },
+        "username": "ZhenLiGs",
+        "verified": false
+      }
+    ]
+  }
+}

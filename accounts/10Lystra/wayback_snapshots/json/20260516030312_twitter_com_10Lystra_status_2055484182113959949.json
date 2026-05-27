@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055484130347945985",
+        "3_2055484132176629760"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055484182113959949",
+    "created_at": "2026-05-16T03:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055484182113959949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzmCtQiBUa",
+          "end": 29,
+          "expanded_url": "https://x.com/10Lystra/status/2055484182113959949/photo/1",
+          "media_key": "3_2055484130347945985",
+          "start": 6,
+          "url": "https://t.co/fzmCtQiBUa"
+        },
+        {
+          "display_url": "pic.x.com/fzmCtQiBUa",
+          "end": 29,
+          "expanded_url": "https://x.com/10Lystra/status/2055484182113959949/photo/1",
+          "media_key": "3_2055484132176629760",
+          "start": 6,
+          "url": "https://t.co/fzmCtQiBUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055484182113959949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有济南的吗 https://t.co/fzmCtQiBUa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2055484130347945985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaL7RbXkAETYZC.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055484132176629760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaL7YPXEAAQJZp.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055484130347945985",
+            "3_2055484132176629760"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055484182113959949",
+        "created_at": "2026-05-16T03:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055484182113959949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzmCtQiBUa",
+              "end": 29,
+              "expanded_url": "https://x.com/10Lystra/status/2055484182113959949/photo/1",
+              "media_key": "3_2055484130347945985",
+              "start": 6,
+              "url": "https://t.co/fzmCtQiBUa"
+            },
+            {
+              "display_url": "pic.x.com/fzmCtQiBUa",
+              "end": 29,
+              "expanded_url": "https://x.com/10Lystra/status/2055484182113959949/photo/1",
+              "media_key": "3_2055484132176629760",
+              "start": 6,
+              "url": "https://t.co/fzmCtQiBUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055484182113959949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有济南的吗 https://t.co/fzmCtQiBUa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 896,
+          "like_count": 2363,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7459
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

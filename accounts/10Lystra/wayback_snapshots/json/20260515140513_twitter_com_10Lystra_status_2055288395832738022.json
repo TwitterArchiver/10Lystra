@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055240014033047775",
+    "created_at": "2026-05-15T14:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055288395832738022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001714721330991109",
+          "start": 0,
+          "username": "Ravenxux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055288395832738022",
+    "in_reply_to_user_id": "2001714721330991109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055240014033047775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ravenxux 一个猪字冲击力不够（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055240014033047775",
+        "created_at": "2026-05-15T14:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055288395832738022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001714721330991109",
+              "start": 0,
+              "username": "Ravenxux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055288395832738022",
+        "in_reply_to_user_id": "2001714721330991109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055240014033047775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ravenxux 一个猪字冲击力不够（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2055240014033047775",
+        "created_at": "2026-05-15T10:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055240014033047775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055240014033047775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12323,
+          "like_count": 331,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这不对吧姐妹，你觉得一个女生观点与你不合或者做错了事情，为什么要用“母猪”、“母畜”、“土逼母大”、“鸡婆”、“母狗”等这种本身就是为了惩罚女人而诞生的辱女词去攻击她呢？就好像黑人骂黑人“黑奴”一样诡异啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 895,
+          "like_count": 2363,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 7445
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "我想发什么就发什么｜你对我的百般注解只代表一览无余的你｜不卖福利不招嫖不约炮｜只有这一个账号｜不太擅长热情回应但心存感激",
+        "id": "2001714721330991109",
+        "location": "🚪288/666/888/5200",
+        "name": "Raven",
+        "pinned_tweet_id": "2038675038480785723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051376547177906176/HagNG1cq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20139,
+          "following_count": 74,
+          "like_count": 7282,
+          "listed_count": 56,
+          "media_count": 123,
+          "tweet_count": 1439
+        },
+        "username": "Ravenxux",
+        "verified": false
+      }
+    ]
+  }
+}

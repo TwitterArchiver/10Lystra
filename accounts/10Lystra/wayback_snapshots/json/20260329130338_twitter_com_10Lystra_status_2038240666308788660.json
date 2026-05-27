@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940388746983096321",
+        "3_1940388747113115648"
+      ],
+      "media_source_tweet_id": [
+        "1940388761667510418",
+        "1940388761667510418"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038240666308788660",
+    "created_at": "2026-03-29T13:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038240666308788660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692075579850563584",
+          "start": 3,
+          "username": "10Lystra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrZ7F90opd",
+          "end": 45,
+          "expanded_url": "https://x.com/10Lystra/status/1940388761667510418/photo/1",
+          "media_key": "3_1940388746983096321",
+          "start": 22,
+          "url": "https://t.co/yrZ7F90opd"
+        },
+        {
+          "display_url": "pic.x.com/yrZ7F90opd",
+          "end": 45,
+          "expanded_url": "https://x.com/10Lystra/status/1940388761667510418/photo/1",
+          "media_key": "3_1940388747113115648",
+          "start": 22,
+          "url": "https://t.co/yrZ7F90opd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038240666308788660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940388761667510418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Lystra: 比较好吃的一集 https://t.co/yrZ7F90opd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_1940388746983096321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2lSOYXwAEGQ2S.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1056,
+        "media_key": "3_1940388747113115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2lSO3XsAAbZGB.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940388746983096321",
+            "3_1940388747113115648"
+          ],
+          "media_source_tweet_id": [
+            "1940388761667510418",
+            "1940388761667510418"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038240666308788660",
+        "created_at": "2026-03-29T13:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038240666308788660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692075579850563584",
+              "start": 3,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrZ7F90opd",
+              "end": 45,
+              "expanded_url": "https://x.com/10Lystra/status/1940388761667510418/photo/1",
+              "media_key": "3_1940388746983096321",
+              "start": 22,
+              "url": "https://t.co/yrZ7F90opd"
+            },
+            {
+              "display_url": "pic.x.com/yrZ7F90opd",
+              "end": 45,
+              "expanded_url": "https://x.com/10Lystra/status/1940388761667510418/photo/1",
+              "media_key": "3_1940388747113115648",
+              "start": 22,
+              "url": "https://t.co/yrZ7F90opd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038240666308788660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940388761667510418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Lystra: 比较好吃的一集 https://t.co/yrZ7F90opd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940388746983096321",
+            "3_1940388747113115648"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940388761667510418",
+        "created_at": "2025-07-02T12:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940388761667510418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrZ7F90opd",
+              "end": 31,
+              "expanded_url": "https://x.com/10Lystra/status/1940388761667510418/photo/1",
+              "media_key": "3_1940388746983096321",
+              "start": 8,
+              "url": "https://t.co/yrZ7F90opd"
+            },
+            {
+              "display_url": "pic.x.com/yrZ7F90opd",
+              "end": 31,
+              "expanded_url": "https://x.com/10Lystra/status/1940388761667510418/photo/1",
+              "media_key": "3_1940388747113115648",
+              "start": 8,
+              "url": "https://t.co/yrZ7F90opd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940388761667510418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "比较好吃的一集 https://t.co/yrZ7F90opd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 880,
+          "like_count": 2285,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6620
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

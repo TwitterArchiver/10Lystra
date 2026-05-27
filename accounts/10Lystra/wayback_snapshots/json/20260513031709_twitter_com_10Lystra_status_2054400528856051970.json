@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2053997640120238376",
+    "created_at": "2026-05-13T03:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054400528856051970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1676955357174956032",
+          "start": 0,
+          "username": "ursloveeee"
+        },
+        {
+          "end": 27,
+          "id": "1957160972076118016",
+          "start": 12,
+          "username": "q9994774465787"
+        },
+        {
+          "end": 39,
+          "id": "1973430266124541952",
+          "start": 28,
+          "username": "Minako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054400528856051970",
+    "in_reply_to_user_id": "1676955357174956032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054253633324318734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ursloveeee @q9994774465787 @Minako8964 还有专武"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2053997640120238376",
+        "created_at": "2026-05-13T03:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054400528856051970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676955357174956032",
+              "start": 0,
+              "username": "ursloveeee"
+            },
+            {
+              "end": 27,
+              "id": "1957160972076118016",
+              "start": 12,
+              "username": "q9994774465787"
+            },
+            {
+              "end": 39,
+              "id": "1973430266124541952",
+              "start": 28,
+              "username": "Minako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054400528856051970",
+        "in_reply_to_user_id": "1676955357174956032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054253633324318734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ursloveeee @q9994774465787 @Minako8964 还有专武"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676955357174956032",
+        "conversation_id": "2053997640120238376",
+        "created_at": "2026-05-12T17:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054253633324318734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1957160972076118016",
+              "start": 0,
+              "username": "q9994774465787"
+            },
+            {
+              "end": 27,
+              "id": "1973430266124541952",
+              "start": 16,
+              "username": "Minako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054253633324318734",
+        "in_reply_to_user_id": "1957160972076118016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7193,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054110733282238757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q9994774465787 @Minako8964 操你妈，你这种傻逼就应该被小米粥烫死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 894,
+          "like_count": 2348,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 7353
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-06T14:06:54.000Z",
+        "description": "",
+        "id": "1676955357174956032",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054253437462999040/GFR61zQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 75,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ursloveeee",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T19:22:01.000Z",
+        "description": "一个纯情小女孩鸭QaQ",
+        "id": "1957160972076118016",
+        "location": "广东",
+        "name": "晴天天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045561563470503936/xgqiNe0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 30,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "q9994774465787",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，此号起到一个墓碑的作用，想互关和私联直接来找我就可以啦\n 这个是匿名问答⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLe4XR"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "芝士二明治🥪",
+        "pinned_tweet_id": "2052037542984466641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053769022324568064/pXKM1Q-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 238,
+          "like_count": 34208,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 4690
+        },
+        "url": "https://t.co/qNfVsLe4XR",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

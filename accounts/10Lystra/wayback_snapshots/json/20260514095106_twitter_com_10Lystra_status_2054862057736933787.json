@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054500894398726506",
+    "created_at": "2026-05-14T09:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054862057736933787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054862057736933787",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054771980591849601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 你都给人家操死了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054500894398726506",
+        "created_at": "2026-05-14T09:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054862057736933787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054862057736933787",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054771980591849601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 你都给人家操死了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986136179721240576",
+        "conversation_id": "2054500894398726506",
+        "created_at": "2026-05-14T03:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054771980591849601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054771980591849601",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13741,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054500894398726506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我没有刻意引导网暴，不要给我扣帽子，傻逼才会因为一块钱雪糕的口味上纲上线去骂网暴别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 892,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 7377
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "说好话，做好事",
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 239,
+          "like_count": 9144,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2203
+        },
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

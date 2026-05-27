@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797104896946389183",
+    "created_at": "2024-06-02T03:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T04:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797104896946389183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797104896946389183",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796914541491880119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 🌝\"我接触了药娘圈发现他们都是淫乱 od 精神病。\"这句话翻译一下不就是\"我没考上大学，结果我身边都是专科生。\"嘛……🌝你接触不到其他品种的药娘，关药娘屁事啊……🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797104896946389183",
+        "created_at": "2024-06-02T03:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T04:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797104896946389183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797104896946389183",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796914541491880119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 🌝\"我接触了药娘圈发现他们都是淫乱 od 精神病。\"这句话翻译一下不就是\"我没考上大学，结果我身边都是专科生。\"嘛……🌝你接触不到其他品种的药娘，关药娘屁事啊……🌝"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1796914541491880119",
+        "created_at": "2024-06-01T14:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T15:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796914541491880119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796914541491880119",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4195,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🌝\"我接触了药娘圈发现他们都是淫乱 od 精神病。\"这句话翻译一下不就是\"我没考上大学，结果我身边都是专科生。\"嘛……🌝你接触不到其他品种的药娘，关药娘屁事啊……🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 103,
+          "like_count": 249,
+          "listed_count": 1,
+          "tweet_count": 488
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 88,
+          "like_count": 39,
+          "listed_count": 7,
+          "tweet_count": 1955
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

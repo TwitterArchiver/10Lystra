@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2053548502844924223",
+    "created_at": "2026-05-11T10:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053778100547104799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "kukukumik0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053778100547104799",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053548502844924223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukukumik0 疾苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2053548502844924223",
+        "created_at": "2026-05-11T10:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053778100547104799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "kukukumik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053778100547104799",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053548502844924223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukukumik0 疾苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554692587151593472",
+        "conversation_id": "2053548502844924223",
+        "created_at": "2026-05-10T18:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053548502844924223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053548502844924223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2420,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不管是跨畜还是人妖 归根结底都是男的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 894,
+          "like_count": 2345,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 7333
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2015122127389950277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1453,
+          "like_count": 53743,
+          "listed_count": 11,
+          "media_count": 528,
+          "tweet_count": 18565
+        },
+        "username": "kukukumik0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797574287672611251",
+    "created_at": "2024-06-03T10:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T11:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797574287672611251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1015788561088630791",
+          "start": 3,
+          "username": "yan_nuo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797574287672611251",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797520689869844828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yan_nuo_: 不要再说什么 我不支持 但也不反对同性恋 只要不出现在我面前这种话了\n同样的例子换个说法就能想通 \n我不支持但也不反对残疾人 只要不要推轮椅上街就行了\n我不支持但也不反对左撇子 只要不要吃饭的时候坐我旁边就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797574287672611251",
+        "created_at": "2024-06-03T10:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T11:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797574287672611251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1015788561088630791",
+              "start": 3,
+              "username": "yan_nuo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797574287672611251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797520689869844828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yan_nuo_: 不要再说什么 我不支持 但也不反对同性恋 只要不出现在我面前这种话了\n同样的例子换个说法就能想通 \n我不支持但也不反对残疾人 只要不要推轮椅上街就行了\n我不支持但也不反对左撇子 只要不要吃饭的时候坐我旁边就行了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1797520689869844828",
+        "created_at": "2024-06-03T06:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T07:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797520689869844828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797520689869844828",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1766,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不要再说什么 我不支持 但也不反对同性恋 只要不出现在我面前这种话了\n同样的例子换个说法就能想通 \n我不支持但也不反对残疾人 只要不要推轮椅上街就行了\n我不支持但也不反对左撇子 只要不要吃饭的时候坐我旁边就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 104,
+          "like_count": 265,
+          "listed_count": 1,
+          "tweet_count": 511
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "烦恼总是大的，来《碧蓝档案》，没啥小不了的！",
+        "id": "1015788561088630791",
+        "location": "碧蓝港",
+        "name": "如月月小猫猫",
+        "pinned_tweet_id": "1793411661665308804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797362216590884864/ISDlkk3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26827,
+          "following_count": 3909,
+          "like_count": 107578,
+          "listed_count": 72,
+          "tweet_count": 24272
+        },
+        "username": "yan_nuo_",
+        "verified": false
+      }
+    ]
+  }
+}

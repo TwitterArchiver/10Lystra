@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2052607208362569820",
+    "created_at": "2026-05-09T00:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T01:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052908347922239975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052908347922239975",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052607208362569820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 好耶...不对你送的什么糖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2052607200007462914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxTX4vaoAIyCCS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2052607208362569820",
+        "created_at": "2026-05-09T00:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052908347922239975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052908347922239975",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052607208362569820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 好耶...不对你送的什么糖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052607200007462914"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2052607208362569820",
+        "created_at": "2026-05-08T04:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052607208362569820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/if8beQMfUX",
+              "end": 47,
+              "expanded_url": "https://x.com/senzhiwu/status/2052607208362569820/photo/1",
+              "media_key": "3_2052607200007462914",
+              "start": 24,
+              "url": "https://t.co/if8beQMfUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052607208362569820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6491,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘻嘻开到了，临走前送给邸晓兰奶奶一颗糖嘻嘻 https://t.co/if8beQMfUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 895,
+          "like_count": 2340,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 7276
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物吧（或许❓）生产日期2008（真的重要吗🤔）mtx小证含糖ing（我要大证喵😭）ENTP-T（不知道测了有啥用😇）hrt 3.29（未免太短了吧😡）🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵（谁会跟长相顺男玩呢😭） 碎碎念：好想被人爱",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050233709190959151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047353915830882304/u21sPFyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 226,
+          "like_count": 1566,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1567
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038244997439357434",
+    "created_at": "2026-03-29T13:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038244997439357434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692075579850563584",
+          "start": 3,
+          "username": "10Lystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038244997439357434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842590065366823107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Lystra: 我什么都不在乎了 我爱的人能带给我幸福快乐 这可以弥补我的精神病 我有够用的钱我不用为衣食住行发愁 这就够了 我现在好幸福 活到生活让我去死就痛痛快快的走 谁爱死死去别找我作妖影响我心情 我要hrt 我要不择手段去得到我想要的 老子受了这么多年的气…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038244997439357434",
+        "created_at": "2026-03-29T13:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038244997439357434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692075579850563584",
+              "start": 3,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038244997439357434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842590065366823107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Lystra: 我什么都不在乎了 我爱的人能带给我幸福快乐 这可以弥补我的精神病 我有够用的钱我不用为衣食住行发愁 这就够了 我现在好幸福 活到生活让我去死就痛痛快快的走 谁爱死死去别找我作妖影响我心情 我要hrt 我要不择手段去得到我想要的 老子受了这么多年的气…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1842590065366823107",
+        "created_at": "2024-10-05T15:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T16:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842590065366823107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842590065366823107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我什么都不在乎了 我爱的人能带给我幸福快乐 这可以弥补我的精神病 我有够用的钱我不用为衣食住行发愁 这就够了 我现在好幸福 活到生活让我去死就痛痛快快的走 谁爱死死去别找我作妖影响我心情 我要hrt 我要不择手段去得到我想要的 老子受了这么多年的气 这他妈是老子应得的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 880,
+          "like_count": 2285,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6626
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

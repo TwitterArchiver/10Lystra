@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793898327928652266",
+    "created_at": "2024-05-24T15:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T16:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794021050390622233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1566768205913260032",
+          "start": 0,
+          "username": "shuuueyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794021050390622233",
+    "in_reply_to_user_id": "1566768205913260032",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793898327928652266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuuueyyyyyy 秒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793898327928652266",
+        "created_at": "2024-05-24T15:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T16:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794021050390622233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1566768205913260032",
+              "start": 0,
+              "username": "shuuueyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794021050390622233",
+        "in_reply_to_user_id": "1566768205913260032",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793898327928652266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuuueyyyyyy 秒了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793898319732940801"
+          ]
+        },
+        "author_id": "1566768205913260032",
+        "conversation_id": "1793898327928652266",
+        "created_at": "2024-05-24T06:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793898327928652266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ypw0O4JoeM",
+              "end": 32,
+              "expanded_url": "https://twitter.com/shuuueyyyyyy/status/1793898327928652266/photo/1",
+              "media_key": "3_1793898319732940801",
+              "start": 9,
+              "url": "https://t.co/ypw0O4JoeM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793898327928652266",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18723,
+          "like_count": 151,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "反义词小能手😉😉 https://t.co/ypw0O4JoeM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 91,
+          "like_count": 226,
+          "listed_count": 1,
+          "tweet_count": 428
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T12:40:47.000Z",
+        "description": "女孩子/大学生/清水发发日常/喜欢腹肌帅哥/手控/声控喜欢青叔音捏 性格很温和的发疯小女孩/互关可以直接要我微信的！！",
+        "id": "1566768205913260032",
+        "location": "有🚪纯绿   私信都会看滴",
+        "name": "姜逸",
+        "pinned_tweet_id": "1791093463540171035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780600441858097152/CTV08apv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 129,
+          "like_count": 397,
+          "listed_count": 8,
+          "tweet_count": 1716
+        },
+        "username": "shuuueyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

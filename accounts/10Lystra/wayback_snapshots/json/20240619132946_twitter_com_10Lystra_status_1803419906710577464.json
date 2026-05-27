@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803282164471177370",
+    "created_at": "2024-06-19T13:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T14:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803419906710577464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799287887701450752",
+          "start": 0,
+          "username": "boyeofufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803419906710577464",
+    "in_reply_to_user_id": "1799287887701450752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803417703618646197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boyeofufu 好哦 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803282164471177370",
+        "created_at": "2024-06-19T13:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T14:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803419906710577464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799287887701450752",
+              "start": 0,
+              "username": "boyeofufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803419906710577464",
+        "in_reply_to_user_id": "1799287887701450752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803417703618646197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boyeofufu 好哦 谢谢你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1799287887701450752",
+        "conversation_id": "1803282164471177370",
+        "created_at": "2024-06-19T13:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T14:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803417703618646197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803417703618646197",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803282164471177370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 不会，我的建议是喝点自己喜欢的小酒再吃头孢，服用安眠药，这样几乎是没有痛苦的死去，可能就是呕吐物有点难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 209,
+          "like_count": 722,
+          "listed_count": 1,
+          "tweet_count": 1473
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T03:51:06.000Z",
+        "description": "前账号@dorothy_rh37812（永久冻结找不回来了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "dorothy_rh37812"
+              }
+            ]
+          }
+        },
+        "id": "1799287887701450752",
+        "location": "中南海",
+        "name": "伯约（推友寻回ing）",
+        "pinned_tweet_id": "1799289698558558707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802222990526169089/jxNTXi2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 175,
+          "like_count": 207,
+          "listed_count": 1,
+          "tweet_count": 303
+        },
+        "username": "boyeofufu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1792826469657526741",
+    "created_at": "2024-05-21T07:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T08:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792826469657526741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629373997539561473",
+          "start": 3,
+          "username": "LuRucheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792826469657526741",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792074681773936661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuRucheng: 抽奖活动来啦\n关注➕转发➕评论➕点赞此推，从评论区随机抽三人\n一等奖十盒右美可换成五盒普瑞\n二等奖三盒普瑞\n三等奖三盒右美\n都是需要开处方，5月28日开奖\n另外老顾客5月 20购买满10盒送一盒。\n全部原包装发货。\n新顾客请进群多观望两天。\n#右美…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1792826469657526741].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1792826469657526741",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1792826469657526741"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792074663381864450"
+          ]
+        },
+        "author_id": "1629373997539561473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1792074681773936661",
+        "created_at": "2024-05-19T06:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T07:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792074681773936661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "药物"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EIyh8yvDGv",
+              "end": 158,
+              "expanded_url": "https://twitter.com/LuRucheng/status/1792074681773936661/photo/1",
+              "media_key": "3_1792074663381864450",
+              "start": 135,
+              "url": "https://t.co/EIyh8yvDGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792074681773936661",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2995,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖活动来啦\n关注➕转发➕评论➕点赞此推，从评论区随机抽三人\n一等奖十盒右美可换成五盒普瑞\n二等奖三盒普瑞\n三等奖三盒右美\n都是需要开处方，5月28日开奖\n另外老顾客5月 20购买满10盒送一盒。\n全部原包装发货。\n新顾客请进群多观望两天。\n#右美沙芬 #药物 #抽奖 https://t.co/EIyh8yvDGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 76,
+          "like_count": 137,
+          "listed_count": 0,
+          "tweet_count": 272
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T06:53:44.000Z",
+        "description": "右美正规渠道，6月30日前正常供货。之后停售https://t.co/tfOwgDXSH0  有疑问的可以在群里多待几天。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+onTSYoqknhU3Y…",
+                "end": 45,
+                "expanded_url": "https://t.me/+onTSYoqknhU3YTM9",
+                "start": 22,
+                "url": "https://t.co/tfOwgDXSH0"
+              }
+            ]
+          }
+        },
+        "id": "1629373997539561473",
+        "name": "右美、普瑞、舍曲林、艾地苯醌、雌……正规公司出货",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791435000166146048/K6c7OQ95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 0,
+          "tweet_count": 72
+        },
+        "username": "LuRucheng",
+        "verified": false
+      }
+    ]
+  }
+}

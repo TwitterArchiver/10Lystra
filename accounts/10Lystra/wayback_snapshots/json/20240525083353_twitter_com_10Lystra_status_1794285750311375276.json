@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1794183250992353365",
+    "created_at": "2024-05-25T08:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T09:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794285750311375276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366512947015520259",
+          "start": 0,
+          "username": "gsjzyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794285750311375276",
+    "in_reply_to_user_id": "1366512947015520259",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794183250992353365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsjzyyy 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1794183250992353365",
+        "created_at": "2024-05-25T08:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T09:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794285750311375276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366512947015520259",
+              "start": 0,
+              "username": "gsjzyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794285750311375276",
+        "in_reply_to_user_id": "1366512947015520259",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794183250992353365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsjzyyy 啊？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1366512947015520259",
+        "conversation_id": "1794183250992353365",
+        "created_at": "2024-05-25T01:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T02:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794183250992353365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794183250992353365",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像发明出一套专注于对冲的死人减肥法\n\n绝食+普瑞，期间只喝牛奶，持续一周左右\n普瑞断药一周，饮添加大量辣椒\n然后循环一周\n大概30斤没问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 96,
+          "like_count": 228,
+          "listed_count": 1,
+          "tweet_count": 432
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "02/身高193米/纯血恶魔😈/坚定的吃饭主义者🤤/wf领域大神😎/紫餐od🈶/科技药物改造肉体凡胎💟/AI技术高强度学习中💙/极端主义者🗡\n\n*愿美利坚灯塔常亮🗽愿无产者革命不熄📕*\n\n🔥我是真正的日子人🔥",
+        "id": "1366512947015520259",
+        "location": "距离您的位置50米",
+        "name": "♦️焚蒿♣️粉红上色者🇨🇳🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631676230721478657/8uGwcERH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 1878,
+          "like_count": 76817,
+          "listed_count": 6,
+          "tweet_count": 14660
+        },
+        "username": "gsjzyyy",
+        "verified": false
+      }
+    ]
+  }
+}

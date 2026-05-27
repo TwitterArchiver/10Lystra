@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2036402867817554315",
+    "created_at": "2026-03-24T13:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036432571324600400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036432571324600400",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036402867817554315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 开门见洗衣机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2036402856694259722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELBm9zaIAovPox.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2036402867817554315",
+        "created_at": "2026-03-24T13:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036432571324600400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036432571324600400",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036402867817554315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 开门见洗衣机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036402856694259722"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "2036402867817554315",
+        "created_at": "2026-03-24T11:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036402867817554315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0jCpoe1bl",
+              "end": 76,
+              "expanded_url": "https://x.com/yqua_/status/2036402867817554315/photo/1",
+              "media_key": "3_2036402856694259722",
+              "start": 53,
+              "url": "https://t.co/N0jCpoe1bl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036402867817554315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1565,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "租了。在天津 反正870一个月\n算是个避难所🤔毕竟我平常不住这里\n目前先看看 也欢迎需要的xyn寻求投靠 https://t.co/N0jCpoe1bl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 878,
+          "like_count": 2278,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6484
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "本垢@BI3BXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "BI3BXI"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "name": "你是要气死铨酱么🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013607388050272257/50GECfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 674,
+          "like_count": 10676,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 332
+        },
+        "username": "yqua_",
+        "verified": false
+      }
+    ]
+  }
+}

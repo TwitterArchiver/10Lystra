@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054377164649230392",
+    "created_at": "2026-05-13T03:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054399768525250660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054399768525250660",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054377164649230392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 怎么都五月份生日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054377164649230392",
+        "created_at": "2026-05-13T03:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054399768525250660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054399768525250660",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054377164649230392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 怎么都五月份生日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2054377164649230392",
+        "created_at": "2026-05-13T01:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054377164649230392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054377164649230392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 589,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要从现在开始断食然后周五生日那天出去吃顿好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 894,
+          "like_count": 2348,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 7351
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "退推，联系我私信那由 @noaayoyaoaya\n\n📣 https://t.co/9vOZUHGmYQ\n💬 https://t.co/Mu7nsgFwYi\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+JJru1O0uCsgyO…",
+                "end": 51,
+                "expanded_url": "http://t.me/+JJru1O0uCsgyOGY1",
+                "start": 28,
+                "url": "https://t.co/9vOZUHGmYQ"
+              },
+              {
+                "display_url": "t.me/amberjellyfish",
+                "end": 77,
+                "expanded_url": "http://t.me/amberjellyfish",
+                "start": 54,
+                "url": "https://t.co/Mu7nsgFwYi"
+              },
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 104,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 81,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 143,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 324
+        },
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

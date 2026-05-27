@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2036767039193534658",
+    "created_at": "2026-03-26T00:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036963461503078729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036963461503078729",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036767039193534658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeihaku8964 好像是保护"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2036767033019502592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQM00VakAATiWN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2036767039193534658",
+        "created_at": "2026-03-26T00:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036963461503078729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036963461503078729",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036767039193534658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 好像是保护"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036767033019502592"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2036767039193534658",
+        "created_at": "2026-03-25T11:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036767039193534658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhzrjiYaVO",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2036767039193534658/photo/1",
+              "media_key": "3_2036767033019502592",
+              "start": 9,
+              "url": "https://t.co/GhzrjiYaVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036767039193534658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3753,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是暴打還是報答？ https://t.co/GhzrjiYaVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 880,
+          "like_count": 2280,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 6551
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 無證不含糖｜民國97年 男高\n｜🇹🇼民國派 只是一般路過的反賊 適量見證\n｜🏳️‍⚧️粵內勢力愛跨大手子\n｜雙相｜社會學研究ing\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeinobunha…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeinobunhaku",
+                "start": 0,
+                "url": "https://t.co/1MIMTvvFf8"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "🇭🇰香港特別行政區/🇯🇵日本 東京",
+        "name": "文芸🍁空白子🍥🇭🇰🇹🇼",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035277863784730624/LlZQ3D0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 601,
+          "like_count": 9760,
+          "listed_count": 2,
+          "media_count": 533,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/1MIMTvvFf8",
+        "username": "bungeihaku8964",
+        "verified": true
+      }
+    ]
+  }
+}

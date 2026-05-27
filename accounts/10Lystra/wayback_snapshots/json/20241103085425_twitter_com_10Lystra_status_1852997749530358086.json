@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1852990325696147724",
+    "created_at": "2024-11-03T08:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T09:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852997749530358086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1677618273096183809",
+          "start": 0,
+          "username": "huaneko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852997749530358086",
+    "in_reply_to_user_id": "1677618273096183809",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852990325696147724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaneko8964 刷到一开始以为是串子，然后？怎么这么多串子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852990325696147724].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852990325696147724",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852990325696147724"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1852990325696147724",
+        "created_at": "2024-11-03T08:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T09:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852997749530358086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1677618273096183809",
+              "start": 0,
+              "username": "huaneko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852997749530358086",
+        "in_reply_to_user_id": "1677618273096183809",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852990325696147724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaneko8964 刷到一开始以为是串子，然后？怎么这么多串子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "珠芽重度依赖@yaiikawa hrt始于2024.10.3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1807824248838447239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852277709348732928/DFMoRY2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 459,
+          "like_count": 2162,
+          "listed_count": 2,
+          "tweet_count": 4174
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T09:59:15.000Z",
+        "description": "這裏是樺  \nmy master→@er50039904\nshtwt/碎碎念/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "er50039904"
+              }
+            ]
+          }
+        },
+        "id": "1677618273096183809",
+        "name": "(*ΦωΦ*)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852403415923732483/S-h8htwU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 151,
+          "like_count": 10800,
+          "listed_count": 0,
+          "tweet_count": 754
+        },
+        "username": "huaneko8964",
+        "verified": false
+      }
+    ]
+  }
+}

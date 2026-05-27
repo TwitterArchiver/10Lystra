@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803084127975149595",
+    "created_at": "2024-06-18T15:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T16:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803084127975149595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756322375988363264",
+          "start": 3,
+          "username": "LANJUN27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803084127975149595",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802947833638830389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LANJUN27: 观察你很久了 感觉你像精神病 发的东西想表达出痛苦 但能看出来文化程度又不高 你不会是想恋爱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803084127975149595",
+        "created_at": "2024-06-18T15:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T16:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803084127975149595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756322375988363264",
+              "start": 3,
+              "username": "LANJUN27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803084127975149595",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802947833638830389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LANJUN27: 观察你很久了 感觉你像精神病 发的东西想表达出痛苦 但能看出来文化程度又不高 你不会是想恋爱吧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1756322375988363264",
+        "conversation_id": "1802947833638830389",
+        "created_at": "2024-06-18T06:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T07:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802947833638830389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802947833638830389",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17124,
+          "like_count": 178,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "观察你很久了 感觉你像精神病 发的东西想表达出痛苦 但能看出来文化程度又不高 你不会是想恋爱吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 174,
+          "like_count": 642,
+          "listed_count": 1,
+          "tweet_count": 1372
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T14:23:11.000Z",
+        "description": "活着是个美人 死了是具艳尸  🚪388/520不接任何打炮不接任何荤陪  武汉纯绿伴游/导游 游戏陪玩 挣点窝囊费🤲  最后声明我才20岁我不是人妻 有事直接说 打招呼不回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=9H6Hxwuh",
+                "start": 0,
+                "url": "https://t.co/FQXiLtF0o1"
+              }
+            ]
+          }
+        },
+        "id": "1756322375988363264",
+        "location": "自用VPN⬇️",
+        "name": "蘭君",
+        "pinned_tweet_id": "1760994069218762894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759984931210412032/EYp6KoHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9018,
+          "following_count": 59,
+          "like_count": 1287,
+          "listed_count": 25,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/FQXiLtF0o1",
+        "username": "LANJUN27",
+        "verified": false
+      }
+    ]
+  }
+}

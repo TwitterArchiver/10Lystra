@@ -1,0 +1,275 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1788901094032277852",
+    "created_at": "2024-05-10T11:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T12:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788901094032277852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jing12369/stat…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/jing12369/status/1788811625073664454",
+          "start": 144,
+          "url": "https://t.co/aLPMr6sqdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788901094032277852",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788811625073664454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女儿天天就买一些全是蝴蝶结和缎带的 cosplay 一样的裙子，也不喝水天天只喝她那个破粉色魔爪，还喜欢买一些红色的修眉刀囤在家里，游戏只玩什么主播女孩过度依赖。整日浑浑噩噩呢喃着什么 lizlisa 啊 mars 什么的。万能的网友快救救我家女儿啊，天杀的地雷系你把我们家孩子害惨了！ https://t.co/aLPMr6sqdw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1788901094032277852",
+        "created_at": "2024-05-10T11:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T12:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788901094032277852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jing12369/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/jing12369/status/1788811625073664454",
+              "start": 144,
+              "url": "https://t.co/aLPMr6sqdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788901094032277852",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788811625073664454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女儿天天就买一些全是蝴蝶结和缎带的 cosplay 一样的裙子，也不喝水天天只喝她那个破粉色魔爪，还喜欢买一些红色的修眉刀囤在家里，游戏只玩什么主播女孩过度依赖。整日浑浑噩噩呢喃着什么 lizlisa 啊 mars 什么的。万能的网友快救救我家女儿啊，天杀的地雷系你把我们家孩子害惨了！ https://t.co/aLPMr6sqdw"
+      },
+      {
+        "attachments": {},
+        "author_id": "1705462502958546944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1788811625073664454",
+        "created_at": "2024-05-10T06:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T07:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788811625073664454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788811625073664454",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女儿天天就买一些全是蝴蝶结和缎带的 cosplay 一样的裙子，也不喝水天天只喝她那个破粉色魔爪，还喜欢买一些红色的修眉刀囤在家里，游戏只玩什么主播女孩过度依赖。整日浑浑噩噩呢喃着什么 lizlisa 啊 mars 什么的。万能的网友快救救我家女儿啊，天杀的地雷系你把我们家孩子害惨了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 55,
+          "like_count": 51,
+          "listed_count": 0,
+          "tweet_count": 165
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T06:02:10.000Z",
+        "description": "默默的死去",
+        "id": "1705462502958546944",
+        "location": "喵喵喵",
+        "name": "一碗炒冷饭",
+        "pinned_tweet_id": "1788468928274141647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774700876768456704/WVTDLrqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 115,
+          "like_count": 9737,
+          "listed_count": 1,
+          "tweet_count": 3226
+        },
+        "username": "jing12369",
+        "verified": false
+      }
+    ]
+  }
+}

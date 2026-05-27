@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038681342452420626",
+    "created_at": "2026-03-31T00:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T01:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038778444507660297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038778444507660297",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038681342452420626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 亚明是不是报出来的时候就是说她是跨来着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2038681339462074368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErZ4HjawAARsyz.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038681342452420626",
+        "created_at": "2026-03-31T00:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038778444507660297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038778444507660297",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038681342452420626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 亚明是不是报出来的时候就是说她是跨来着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038681339462074368"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038681342452420626",
+        "created_at": "2026-03-30T18:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038681342452420626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNTyuE8uWG",
+              "end": 25,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2038681342452420626/photo/1",
+              "media_key": "3_2038681339462074368",
+              "start": 2,
+              "url": "https://t.co/vNTyuE8uWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038681342452420626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1905,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 https://t.co/vNTyuE8uWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 880,
+          "like_count": 2294,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6690
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "ᴍᴀɪɴ @amber_toffee / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQvilj"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ ⚢ ☭ ",
+        "name": "amber",
+        "pinned_tweet_id": "2038459897726074909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 417,
+          "like_count": 758,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/AxbISQvilj",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055200841473065410",
+    "created_at": "2026-05-15T08:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055205641514266744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669543422586421248",
+          "start": 0,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055205641514266744",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055200841473065410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Letana358121 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055200841473065410",
+        "created_at": "2026-05-15T08:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055205641514266744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055205641514266744",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055200841473065410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2055200841473065410",
+        "created_at": "2026-05-15T08:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055200841473065410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055200841473065410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我真的不想汴京了，现在推特算法天天给我推劳保。。。看力竭了已经没有力气攻击了。。。\n\n我真的感觉我的力量很小什么都做不到，满心的虚无感。谁能抱抱我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 895,
+          "like_count": 2361,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 7441
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3275,
+          "following_count": 1450,
+          "like_count": 53812,
+          "listed_count": 8,
+          "media_count": 2276,
+          "tweet_count": 20090
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

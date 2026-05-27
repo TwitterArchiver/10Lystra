@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1799961772268380541",
+    "created_at": "2024-06-10T08:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T09:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800089063309164800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557253790088466432",
+          "start": 0,
+          "username": "misakiyugan"
+        },
+        {
+          "end": 24,
+          "id": "1740188738469367808",
+          "start": 13,
+          "username": "HJS_2403_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800089063309164800",
+    "in_reply_to_user_id": "1557253790088466432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800088935458357524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakiyugan @HJS_2403_0 可是很可爱嘛🥹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1800088935458357524].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1800088935458357524",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1800088935458357524"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1799961772268380541",
+        "created_at": "2024-06-10T08:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T09:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800089063309164800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557253790088466432",
+              "start": 0,
+              "username": "misakiyugan"
+            },
+            {
+              "end": 24,
+              "id": "1740188738469367808",
+              "start": 13,
+              "username": "HJS_2403_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800089063309164800",
+        "in_reply_to_user_id": "1557253790088466432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800088935458357524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakiyugan @HJS_2403_0 可是很可爱嘛🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 121,
+          "like_count": 419,
+          "listed_count": 1,
+          "tweet_count": 804
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T06:33:43.000Z",
+        "description": "三崎，可爱，单推 本是🐟\n日雌400一盒，白兔100一盒，梦想成为互联网小天使，我迟早要实现，至少在od圈我还能做一个月天使\n 三崎小号，只限信任的互关 @misakimizukibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "misakimizukibot"
+              }
+            ]
+          }
+        },
+        "id": "1557253790088466432",
+        "location": "银趴现场",
+        "name": "三崎（卖日雌版",
+        "pinned_tweet_id": "1795816951132143977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577330082313797633/jf3sQU7g_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6146,
+          "following_count": 1902,
+          "like_count": 123843,
+          "listed_count": 19,
+          "tweet_count": 15673
+        },
+        "username": "misakiyugan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "这里是一些些3.2…前世已死…@lykxn00000\n笨蛋量子猫学习观察人类中……\n❗od & shwtw 負能碎碎念 圖片重加工 ❗包含❗\n回消息可能不及时…\n如果傷害到了你，孩子表示非常抱歉T^T\n꒰ঌ♫*'✟:.｡-願你退此苦海以至願山-.｡.:*♡'*♪໒꒱\n🏳️‍🌈  🏳️‍⚧️ 🦋 🦴  ✨ 🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "lykxn00000"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "「死曜日」星のある場所  🚪88/168/268私问 ",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些 3.2",
+        "pinned_tweet_id": "1790220270785159548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794656575375978497/ModXRhcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 335,
+          "like_count": 20672,
+          "listed_count": 2,
+          "tweet_count": 1422
+        },
+        "username": "HJS_2403_0",
+        "verified": false
+      }
+    ]
+  }
+}

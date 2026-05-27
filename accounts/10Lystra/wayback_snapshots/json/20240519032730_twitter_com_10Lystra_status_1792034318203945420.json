@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1791857750760390772",
+    "created_at": "2024-05-19T03:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T04:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792034318203945420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1567455100737658884",
+          "start": 0,
+          "username": "Cc95123074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792034318203945420",
+    "in_reply_to_user_id": "1567455100737658884",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791857750760390772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cc95123074 拉低中奖率"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1791857750760390772",
+        "created_at": "2024-05-19T03:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T04:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792034318203945420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1567455100737658884",
+              "start": 0,
+              "username": "Cc95123074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792034318203945420",
+        "in_reply_to_user_id": "1567455100737658884",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791857750760390772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cc95123074 拉低中奖率"
+      },
+      {
+        "attachments": {},
+        "author_id": "1567455100737658884",
+        "conversation_id": "1791857750760390772",
+        "created_at": "2024-05-18T15:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T16:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791857750760390772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "右美"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "右美药代"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "白云山"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791857750760390772",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3630,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "出售华南和白云山右美需要的可联系\n\n顺便抽3人送五盒白云山\n5.25开奖\n转发＋评论抽奖\n#右美 #右美药代 #白云山"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 71,
+          "like_count": 96,
+          "listed_count": 0,
+          "tweet_count": 225
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T10:10:02.000Z",
+        "description": "皖横14一盒24t散片17r一盒其他的可咨询积累满五十盒送无限制无广告永久vpn",
+        "id": "1567455100737658884",
+        "name": "悲伤鸡蛋卷（右美药商）",
+        "pinned_tweet_id": "1582655097548419072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695420837879595008/AlyCCBFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 53,
+          "like_count": 190,
+          "listed_count": 0,
+          "tweet_count": 572
+        },
+        "username": "Cc95123074",
+        "verified": false
+      }
+    ]
+  }
+}

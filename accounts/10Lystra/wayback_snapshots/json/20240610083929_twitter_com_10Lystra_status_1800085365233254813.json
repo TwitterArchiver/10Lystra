@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1800032292095893801",
+    "created_at": "2024-06-10T08:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T09:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800085365233254813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479510124079185921",
+          "start": 0,
+          "username": "LCA176232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800085365233254813",
+    "in_reply_to_user_id": "1479510124079185921",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800032292095893801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCA176232 有没有可能不是名额的问题是想不想真的帮助到每个贫困生的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1800032292095893801",
+        "created_at": "2024-06-10T08:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T09:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800085365233254813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479510124079185921",
+              "start": 0,
+              "username": "LCA176232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800085365233254813",
+        "in_reply_to_user_id": "1479510124079185921",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800032292095893801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCA176232 有没有可能不是名额的问题是想不想真的帮助到每个贫困生的问题"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800032289151164417"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "conversation_id": "1800032292095893801",
+        "created_at": "2024-06-10T05:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T06:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800032292095893801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HCoohpcguf",
+              "end": 40,
+              "expanded_url": "https://twitter.com/LCA176232/status/1800032292095893801/photo/1",
+              "media_key": "3_1800032289151164417",
+              "start": 17,
+              "url": "https://t.co/HCoohpcguf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800032292095893801",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6412,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“要不要举报室友占贫困生的名额” https://t.co/HCoohpcguf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 121,
+          "like_count": 418,
+          "listed_count": 1,
+          "tweet_count": 802
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "关注我，我将持续揭露女权主义者的真面目。投稿及其他事宜请移步到这个号@FPL99386519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1742419839220887816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499893759298916359/wew4GBvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14943,
+          "following_count": 848,
+          "like_count": 58327,
+          "listed_count": 52,
+          "tweet_count": 7898
+        },
+        "username": "LCA176232",
+        "verified": false
+      }
+    ]
+  }
+}

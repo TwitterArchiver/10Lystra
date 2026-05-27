@@ -1,0 +1,278 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793109150572114303",
+    "created_at": "2024-05-22T03:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T04:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793120875132379281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793120875132379281",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793120706332705068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 我不知道因为我不玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793109150572114303",
+        "created_at": "2024-05-22T03:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T04:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793120875132379281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793120875132379281",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793120706332705068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 我不知道因为我不玩"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1793109150572114303",
+        "created_at": "2024-05-22T03:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T04:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793120706332705068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793120706332705068",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793120092026552599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 我都说电视台了你说是手游还是PC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 79,
+          "like_count": 151,
+          "listed_count": 1,
+          "tweet_count": 306
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "精神药理学？精神分析学？\n这是这是药师波奇，研究恢复术——比如反制药物副作用\n@BY801333 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "BY801333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/5ftoKDMGdw"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "location": "卡莫纳电视台二楼控电室",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782801215476432896/G1iJf3DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 44,
+          "like_count": 1,
+          "listed_count": 5,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/5ftoKDMGdw",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

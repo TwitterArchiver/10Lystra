@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2048079261718790281",
+    "created_at": "2026-04-29T07:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049389345073664024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1502290571833995266",
+          "start": 0,
+          "username": "3a4kura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049389345073664024",
+    "in_reply_to_user_id": "1502290571833995266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049389205432995941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3a4kura www好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2049389199061876737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDknlCbAAEhXlo.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2049389195672879104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDknYabAAAgxk2.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2048079261718790281",
+        "created_at": "2026-04-29T07:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049389345073664024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1502290571833995266",
+              "start": 0,
+              "username": "3a4kura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049389345073664024",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049389205432995941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3a4kura www好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049389199061876737",
+            "3_2049389195672879104"
+          ]
+        },
+        "author_id": "1502290571833995266",
+        "conversation_id": "2048079261718790281",
+        "created_at": "2026-04-29T07:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049389205432995941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQVeu8NdYB",
+              "end": 36,
+              "expanded_url": "https://x.com/3a4kura/status/2049389205432995941/photo/1",
+              "media_key": "3_2049389199061876737",
+              "start": 13,
+              "url": "https://t.co/kQVeu8NdYB"
+            },
+            {
+              "display_url": "pic.x.com/kQVeu8NdYB",
+              "end": 36,
+              "expanded_url": "https://x.com/3a4kura/status/2049389205432995941/photo/1",
+              "media_key": "3_2049389195672879104",
+              "start": 13,
+              "url": "https://t.co/kQVeu8NdYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049389205432995941",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048079261718790281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 喵！ https://t.co/kQVeu8NdYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 894,
+          "like_count": 2334,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 7126
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T14:29:28.000Z",
+        "description": "宝宝……嘿嘿嘿……宝宝……\n @shana_yowaino",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "shana_yowaino"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaskuraMiku",
+                "end": 23,
+                "expanded_url": "http://t.me/SaskuraMiku",
+                "start": 0,
+                "url": "https://t.co/ZuTqpGwx8H"
+              }
+            ]
+          }
+        },
+        "id": "1502290571833995266",
+        "location": "我家宝宝的怀里",
+        "name": "3a4kura",
+        "pinned_tweet_id": "1899841111612690630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046881278033850368/Qrs1K5JZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 251,
+          "like_count": 20889,
+          "listed_count": 1,
+          "media_count": 2788,
+          "tweet_count": 9190
+        },
+        "url": "https://t.co/ZuTqpGwx8H",
+        "username": "3a4kura",
+        "verified": false
+      }
+    ]
+  }
+}

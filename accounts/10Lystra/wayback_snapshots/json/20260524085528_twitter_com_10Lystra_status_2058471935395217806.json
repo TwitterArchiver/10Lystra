@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058263815914160128"
+      ],
+      "media_source_tweet_id": [
+        "2058263822407020702"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2058471935395217806",
+    "created_at": "2026-05-24T08:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058471935395217806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974825034100187136",
+          "start": 3,
+          "username": "ryqr116"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPdc6w6DIS",
+          "end": 42,
+          "expanded_url": "https://x.com/ryqr116/status/2058263822407020702/photo/1",
+          "media_key": "3_2058263815914160128",
+          "start": 19,
+          "url": "https://t.co/jPdc6w6DIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058471935395217806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058263822407020702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryqr116: 我好难过呀 https://t.co/jPdc6w6DIS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2058263815914160128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBsCRGagAAfNEb.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058263815914160128"
+          ],
+          "media_source_tweet_id": [
+            "2058263822407020702"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2058471935395217806",
+        "created_at": "2026-05-24T08:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058471935395217806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974825034100187136",
+              "start": 3,
+              "username": "ryqr116"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPdc6w6DIS",
+              "end": 42,
+              "expanded_url": "https://x.com/ryqr116/status/2058263822407020702/photo/1",
+              "media_key": "3_2058263815914160128",
+              "start": 19,
+              "url": "https://t.co/jPdc6w6DIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058471935395217806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058263822407020702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ryqr116: 我好难过呀 https://t.co/jPdc6w6DIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058263815914160128"
+          ]
+        },
+        "author_id": "1974825034100187136",
+        "conversation_id": "2058263822407020702",
+        "created_at": "2026-05-23T19:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058263822407020702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPdc6w6DIS",
+              "end": 29,
+              "expanded_url": "https://x.com/ryqr116/status/2058263822407020702/photo/1",
+              "media_key": "3_2058263815914160128",
+              "start": 6,
+              "url": "https://t.co/jPdc6w6DIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058263822407020702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 56616,
+          "like_count": 902,
+          "quote_count": 8,
+          "reply_count": 71,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "我好难过呀 https://t.co/jPdc6w6DIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 912,
+          "like_count": 2393,
+          "listed_count": 4,
+          "media_count": 309,
+          "tweet_count": 7652
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T13:12:43.000Z",
+        "description": "我的爱 停泊在\n无风的海\n小号@usernanne7 只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "usernanne7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryqr116",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ryqr116",
+                "start": 0,
+                "url": "https://t.co/EvzkXg3Jki"
+              }
+            ]
+          }
+        },
+        "id": "1974825034100187136",
+        "location": "提问箱",
+        "name": "frost",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051999739814797313/ki2dJLt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 17,
+          "like_count": 4410,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/EvzkXg3Jki",
+        "username": "ryqr116",
+        "verified": false
+      }
+    ]
+  }
+}

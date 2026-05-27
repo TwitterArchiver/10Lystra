@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804889089587741137",
+    "created_at": "2024-06-25T04:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T05:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805457471437422840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1780909559068123136",
+          "start": 0,
+          "username": "CleverPaimon"
+        },
+        {
+          "end": 27,
+          "id": "1614958034781863939",
+          "start": 14,
+          "username": "kirakira8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805457471437422840",
+    "in_reply_to_user_id": "1780909559068123136",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804889089587741137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverPaimon @kirakira8964 陈泽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804889089587741137",
+        "created_at": "2024-06-25T04:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T05:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805457471437422840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780909559068123136",
+              "start": 0,
+              "username": "CleverPaimon"
+            },
+            {
+              "end": 27,
+              "id": "1614958034781863939",
+              "start": 14,
+              "username": "kirakira8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805457471437422840",
+        "in_reply_to_user_id": "1780909559068123136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804889089587741137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverPaimon @kirakira8964 陈泽"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1804889008385974272"
+          ]
+        },
+        "author_id": "1780909559068123136",
+        "conversation_id": "1804889089587741137",
+        "created_at": "2024-06-23T14:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T15:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804889089587741137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ttT0FQ2Dsm",
+              "end": 32,
+              "expanded_url": "https://twitter.com/CleverPaimon/status/1804889089587741137/video/1",
+              "media_key": "7_1804889008385974272",
+              "start": 9,
+              "url": "https://t.co/ttT0FQ2Dsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804889089587741137",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 790,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来欣赏东北人说话 https://t.co/ttT0FQ2Dsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 263,
+          "like_count": 1102,
+          "listed_count": 3,
+          "tweet_count": 2013
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T10:43:06.000Z",
+        "description": "突发新闻|时事热点|政治弔图|网络迷因|前沿科技与AI爱好者|中国原神党人@GenshinCNParty",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "GenshinCNParty"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/GenshinParty…",
+                "end": 23,
+                "expanded_url": "https://www.reddit.com/r/GenshinPartyofChina/",
+                "start": 0,
+                "url": "https://t.co/JEBx0aehiE"
+              }
+            ]
+          }
+        },
+        "id": "1780909559068123136",
+        "name": "若智派蒙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803082831461326848/m8v6IzQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 2893,
+          "like_count": 3424,
+          "listed_count": 2,
+          "tweet_count": 3419
+        },
+        "url": "https://t.co/JEBx0aehiE",
+        "username": "CleverPaimon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T12:09:46.000Z",
+        "description": "我是一只发光水母",
+        "id": "1614958034781863939",
+        "name": "鬼子母神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804761785687523328/vE09YVgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 1755,
+          "like_count": 56593,
+          "listed_count": 13,
+          "tweet_count": 14890
+        },
+        "username": "kirakira8964",
+        "verified": false
+      }
+    ]
+  }
+}

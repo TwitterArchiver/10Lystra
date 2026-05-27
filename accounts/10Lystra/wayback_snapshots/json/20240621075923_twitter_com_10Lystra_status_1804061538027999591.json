@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804043520019476484",
+    "created_at": "2024-06-21T07:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T08:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804061538027999591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1730181663869788160",
+          "start": 0,
+          "username": "makino870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804061538027999591",
+    "in_reply_to_user_id": "1730181663869788160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804043520019476484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makino870 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804043520019476484",
+        "created_at": "2024-06-21T07:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T08:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804061538027999591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1730181663869788160",
+              "start": 0,
+              "username": "makino870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804061538027999591",
+        "in_reply_to_user_id": "1730181663869788160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804043520019476484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makino870 点了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1730181663869788160",
+        "conversation_id": "1804043520019476484",
+        "created_at": "2024-06-21T06:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T07:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804043520019476484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804043520019476484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 607,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不太懂男的出门给女的买卫生巾这件事的闪光点在哪里，这也没什么需要鼓起勇气的吧，别人一看卫生巾肯定就知道是买给身边女孩用的啊，难道还有人以为你偷偷藏了一个逼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 238,
+          "like_count": 878,
+          "listed_count": 2,
+          "tweet_count": 1682
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T11:07:41.000Z",
+        "description": "互联网福尔摩斯/打假博主/男人最好离我远点 被骂别怪我",
+        "id": "1730181663869788160",
+        "name": "叶澜依",
+        "pinned_tweet_id": "1798590577942188045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749107215586435072/mZngb4JH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 66,
+          "like_count": 1069,
+          "listed_count": 9,
+          "tweet_count": 704
+        },
+        "username": "makino870",
+        "verified": false
+      }
+    ]
+  }
+}

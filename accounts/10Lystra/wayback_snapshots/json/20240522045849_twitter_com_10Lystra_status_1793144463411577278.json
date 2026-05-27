@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1793144463411577278",
+    "created_at": "2024-05-22T04:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T05:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793144463411577278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609844142313553921",
+          "start": 3,
+          "username": "Drkato12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793144463411577278",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793139324055368106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drkato12: 孩子们stop using Nefopam\n不许吃奈福泮！不许吃奈福泮！不许吃奈福泮！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793144463411577278",
+        "created_at": "2024-05-22T04:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T05:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793144463411577278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609844142313553921",
+              "start": 3,
+              "username": "Drkato12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793144463411577278",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793139324055368106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drkato12: 孩子们stop using Nefopam\n不许吃奈福泮！不许吃奈福泮！不许吃奈福泮！！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1793139324055368106",
+        "created_at": "2024-05-22T04:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T05:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793139324055368106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793139324055368106",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们stop using Nefopam\n不许吃奈福泮！不许吃奈福泮！不许吃奈福泮！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 81,
+          "like_count": 155,
+          "listed_count": 1,
+          "tweet_count": 314
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "一个路过的小镇做题家（亦是小镇错题家），双相，战地一睾手，时不时会女装成为小南梁，友跨，不定时上推回消息。另外药物什么的虹夏不知道哦～\n别踏马往墙里搬！别他妈往墙里搬！别她妈往墙里搬！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "http://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/srfvKhKOZh"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "法乌克斯要塞",
+        "name": "Ijichi Nijika overdose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 83,
+          "like_count": 255,
+          "listed_count": 1,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/srfvKhKOZh",
+        "username": "Drkato12",
+        "verified": false
+      }
+    ]
+  }
+}

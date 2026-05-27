@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803047198290231575",
+    "created_at": "2024-06-20T01:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T02:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803602754130288893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114119017524891648",
+          "start": 0,
+          "username": "KUYAXIKUYAXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803602754130288893",
+    "in_reply_to_user_id": "1114119017524891648",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803602572550480314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUYAXIKUYAXI 好…诶？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803047198290231575",
+        "created_at": "2024-06-20T01:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T02:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803602754130288893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114119017524891648",
+              "start": 0,
+              "username": "KUYAXIKUYAXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803602754130288893",
+        "in_reply_to_user_id": "1114119017524891648",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803602572550480314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUYAXIKUYAXI 好…诶？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1114119017524891648",
+        "conversation_id": "1803047198290231575",
+        "created_at": "2024-06-20T01:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T02:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803602572550480314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803602572550480314",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803047198290231575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 抽我（物理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 227,
+          "like_count": 808,
+          "listed_count": 1,
+          "tweet_count": 1525
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T10:54:07.000Z",
+        "description": "大家好啊，我是Ellen，今天给大家带来不想看的东西↓\n我是黑尔加小姐的🐶！\n哈提&斯库尔：你要不要看看你在说什么？\n黑尔加：Ellen指挥使你别这样😅",
+        "id": "1114119017524891648",
+        "location": "恶魔岛",
+        "name": "赤座灯里（阿卡林）",
+        "pinned_tweet_id": "1801740343278453164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801739968035098624/6Qkgn8H3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 94,
+          "like_count": 3082,
+          "listed_count": 3,
+          "tweet_count": 9907
+        },
+        "username": "KUYAXIKUYAXI",
+        "verified": false
+      }
+    ]
+  }
+}

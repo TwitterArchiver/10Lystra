@@ -1,0 +1,301 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793655803981025281",
+        "3_1793655803972567041"
+      ],
+      "media_source_tweet_id": [
+        "1793655822679245000",
+        "1793655822679245000"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1793839439611088908",
+    "created_at": "2024-05-24T03:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T04:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793839439611088908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1673910841010446336",
+          "start": 3,
+          "username": "bluebb07_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/GAjFuylXuX",
+          "end": 128,
+          "expanded_url": "https://twitter.com/bluebb07_/status/1793655822679245000/photo/1",
+          "media_key": "3_1793655803981025281",
+          "start": 105,
+          "url": "https://t.co/GAjFuylXuX"
+        },
+        {
+          "display_url": "pic.twitter.com/GAjFuylXuX",
+          "end": 128,
+          "expanded_url": "https://twitter.com/bluebb07_/status/1793655822679245000/photo/1",
+          "media_key": "3_1793655803972567041",
+          "start": 105,
+          "url": "https://t.co/GAjFuylXuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793839439611088908",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 404
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793655822679245000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluebb07_: 2w粉丝抽奖 参与方式是转发此条推文+关注\n1.拍立得相机mini12\n2.抽两个人十盒右美 可以折现15r一盒\n3.抽两个人打131.4\n2万粉丝后开，谢谢宝宝们一直陪伴卡卡喵 https://t.co/GAjFuylXuX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_1793655803981025281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GORYc1WbUAEg8vo.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1793655803972567041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GORYc1UaQAEjSvN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793655803981025281",
+            "3_1793655803972567041"
+          ],
+          "media_source_tweet_id": [
+            "1793655822679245000",
+            "1793655822679245000"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1793839439611088908",
+        "created_at": "2024-05-24T03:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T04:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793839439611088908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673910841010446336",
+              "start": 3,
+              "username": "bluebb07_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GAjFuylXuX",
+              "end": 128,
+              "expanded_url": "https://twitter.com/bluebb07_/status/1793655822679245000/photo/1",
+              "media_key": "3_1793655803981025281",
+              "start": 105,
+              "url": "https://t.co/GAjFuylXuX"
+            },
+            {
+              "display_url": "pic.twitter.com/GAjFuylXuX",
+              "end": 128,
+              "expanded_url": "https://twitter.com/bluebb07_/status/1793655822679245000/photo/1",
+              "media_key": "3_1793655803972567041",
+              "start": 105,
+              "url": "https://t.co/GAjFuylXuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793839439611088908",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 404
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793655822679245000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluebb07_: 2w粉丝抽奖 参与方式是转发此条推文+关注\n1.拍立得相机mini12\n2.抽两个人十盒右美 可以折现15r一盒\n3.抽两个人打131.4\n2万粉丝后开，谢谢宝宝们一直陪伴卡卡喵 https://t.co/GAjFuylXuX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793655803981025281",
+            "3_1793655803972567041"
+          ]
+        },
+        "author_id": "1673910841010446336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1793655822679245000",
+        "created_at": "2024-05-23T14:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T15:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793655822679245000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GAjFuylXuX",
+              "end": 113,
+              "expanded_url": "https://twitter.com/bluebb07_/status/1793655822679245000/photo/1",
+              "media_key": "3_1793655803981025281",
+              "start": 90,
+              "url": "https://t.co/GAjFuylXuX"
+            },
+            {
+              "display_url": "pic.twitter.com/GAjFuylXuX",
+              "end": 113,
+              "expanded_url": "https://twitter.com/bluebb07_/status/1793655822679245000/photo/1",
+              "media_key": "3_1793655803972567041",
+              "start": 90,
+              "url": "https://t.co/GAjFuylXuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793655822679245000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 34070,
+          "like_count": 272,
+          "quote_count": 10,
+          "reply_count": 122,
+          "retweet_count": 404
+        },
+        "reply_settings": "everyone",
+        "text": "2w粉丝抽奖 参与方式是转发此条推文+关注\n1.拍立得相机mini12\n2.抽两个人十盒右美 可以折现15r一盒\n3.抽两个人打131.4\n2万粉丝后开，谢谢宝宝们一直陪伴卡卡喵 https://t.co/GAjFuylXuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 88,
+          "like_count": 204,
+          "listed_count": 1,
+          "tweet_count": 395
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T04:27:06.000Z",
+        "description": "我只是想和我的小手机说说话",
+        "id": "1673910841010446336",
+        "location": "🚪188",
+        "name": "我眼底的蓝色不是忧郁",
+        "pinned_tweet_id": "1793619565781610807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756044816746713088/NLRy2oCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17207,
+          "following_count": 80,
+          "like_count": 627,
+          "listed_count": 22,
+          "tweet_count": 2260
+        },
+        "username": "bluebb07_",
+        "verified": false
+      }
+    ]
+  }
+}

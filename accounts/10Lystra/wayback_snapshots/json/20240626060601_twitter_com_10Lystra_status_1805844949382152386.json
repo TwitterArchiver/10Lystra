@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1805504346630898054",
+    "created_at": "2024-06-26T06:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T07:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805844949382152386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1509059596773646337",
+          "start": 0,
+          "username": "Tang_Dou_"
+        },
+        {
+          "end": 22,
+          "id": "1757616332240224256",
+          "start": 11,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805844949382152386",
+    "in_reply_to_user_id": "1509059596773646337",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805620711610007867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tang_Dou_ @B_cat38324 杀敌一千自损八百"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1805504346630898054",
+        "created_at": "2024-06-26T06:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T07:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805844949382152386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509059596773646337",
+              "start": 0,
+              "username": "Tang_Dou_"
+            },
+            {
+              "end": 22,
+              "id": "1757616332240224256",
+              "start": 11,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805844949382152386",
+        "in_reply_to_user_id": "1509059596773646337",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805620711610007867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang_Dou_ @B_cat38324 杀敌一千自损八百"
+      },
+      {
+        "attachments": {},
+        "author_id": "1509059596773646337",
+        "conversation_id": "1805504346630898054",
+        "created_at": "2024-06-25T15:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T16:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805620711610007867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805620711610007867",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 607,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805504346630898054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 家里刚好没油了\n欸欸芥末油\n不可以啊不可以啊😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 264,
+          "like_count": 1131,
+          "listed_count": 3,
+          "tweet_count": 2069
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T06:47:07.000Z",
+        "description": "这里是烫斗呀（不是熨斗😡）可能有的时候会键政，政见不同可以合理讨论，但别人身攻击。 里推指路➡️@Tang__Dou，熟人会过，不熟的话看心情过，有npy，但是他不介意我在外面发病🤧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Tang__Dou"
+              }
+            ]
+          }
+        },
+        "id": "1509059596773646337",
+        "location": "江西",
+        "name": "烫斗",
+        "pinned_tweet_id": "1803942192542851541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803071796142624769/pkyETuR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 334,
+          "like_count": 4567,
+          "listed_count": 0,
+          "tweet_count": 1763
+        },
+        "username": "Tang_Dou_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6589,
+          "following_count": 113,
+          "like_count": 92,
+          "listed_count": 21,
+          "tweet_count": 3568
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

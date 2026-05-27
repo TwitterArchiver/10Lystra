@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1805434123462623405",
+    "created_at": "2024-06-25T08:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T09:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805522202823114838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583502450710937600",
+          "start": 0,
+          "username": "Allenqqqqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805522202823114838",
+    "in_reply_to_user_id": "1583502450710937600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805434123462623405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenqqqqc 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1805434123462623405",
+        "created_at": "2024-06-25T08:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T09:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805522202823114838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583502450710937600",
+              "start": 0,
+              "username": "Allenqqqqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805522202823114838",
+        "in_reply_to_user_id": "1583502450710937600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805434123462623405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenqqqqc 点了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1583502450710937600",
+        "conversation_id": "1805434123462623405",
+        "created_at": "2024-06-25T02:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T03:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805434123462623405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805434123462623405",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌那些一看到推友自杀就报警的人。尤其是对方是反复尝试自杀多次的。\n好心但是自我感动。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 263,
+          "like_count": 1111,
+          "listed_count": 3,
+          "tweet_count": 2027
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:56:35.000Z",
+        "description": "Anarchism/They🏳️‍⚧️/INTJ-A",
+        "id": "1583502450710937600",
+        "name": "K̸̸r̸̸a̸̸w̸̸a̸̸l̸̸l̸🎶",
+        "pinned_tweet_id": "1791105032655712689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805256059671724032/az5xE7hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 672,
+          "like_count": 50820,
+          "listed_count": 9,
+          "tweet_count": 14967
+        },
+        "username": "Allenqqqqc",
+        "verified": false
+      }
+    ]
+  }
+}

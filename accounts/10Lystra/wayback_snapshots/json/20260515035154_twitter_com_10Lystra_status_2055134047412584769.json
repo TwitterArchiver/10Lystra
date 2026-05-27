@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054950246606934020",
+    "created_at": "2026-05-15T03:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055134047412584769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042928154973511680",
+          "start": 0,
+          "username": "Keker0002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055134047412584769",
+    "in_reply_to_user_id": "2042928154973511680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054950246606934020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keker0002 我草这双袜子我怎么有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2054950033733324800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISmKwfaEAAr4eM.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054950246606934020",
+        "created_at": "2026-05-15T03:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055134047412584769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042928154973511680",
+              "start": 0,
+              "username": "Keker0002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055134047412584769",
+        "in_reply_to_user_id": "2042928154973511680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054950246606934020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keker0002 我草这双袜子我怎么有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054950033733324800"
+          ]
+        },
+        "author_id": "2042928154973511680",
+        "conversation_id": "2054950246606934020",
+        "created_at": "2026-05-14T15:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054950246606934020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOcpDPgl7X",
+              "end": 58,
+              "expanded_url": "https://x.com/Keker0002/status/2054950246606934020/photo/1",
+              "media_key": "3_2054950033733324800",
+              "start": 35,
+              "url": "https://t.co/IOcpDPgl7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054950246606934020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1952,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "发黄棉袜继续中第二天   明天暴汗\n\n关注评论区都会私信抽取重口棉袜 https://t.co/IOcpDPgl7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 895,
+          "like_count": 2360,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 7422
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T11:30:16.000Z",
+        "description": "原大号@Kekeer0001冻结了重新开启小号模式  专注重口原味，平时运动爱出汗，保证yw质量，支持语音验证🐧349193903q🚪20私人v🚪148想要过门私信即可",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Kekeer0001"
+              }
+            ]
+          }
+        },
+        "id": "2042928154973511680",
+        "name": "可可重口日记（可邮寄国外）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042931154945556480/f23QlaSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 8,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 10
+        },
+        "username": "Keker0002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055975140287225886",
+    "created_at": "2026-05-17T11:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055976599309234257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055976599309234257",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055975140287225886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 喷不了这真是开发者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055975140287225886",
+        "created_at": "2026-05-17T11:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055976599309234257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055976599309234257",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055975140287225886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 喷不了这真是开发者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2055975140287225886",
+        "created_at": "2026-05-17T11:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055975140287225886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055975140287225886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨女术后也不建议完全退圈。因为跨女对自己的性高潮和性生活的开发并不擅长，有些比较害羞的跨直女甚至不知道怎么清洗自己的小花园。\n\n因此经常和其他术后线下联动，参加一些开发者大会，是好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 900,
+          "like_count": 2367,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7483
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22707,
+          "following_count": 197,
+          "like_count": 713,
+          "listed_count": 73,
+          "media_count": 103,
+          "tweet_count": 23391
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

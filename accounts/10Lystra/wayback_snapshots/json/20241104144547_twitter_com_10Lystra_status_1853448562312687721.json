@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1853293163332464804",
+    "created_at": "2024-11-04T14:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T15:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853448562312687721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853448562312687721",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853293163332464804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 kawa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1853293163332464804",
+        "created_at": "2024-11-04T14:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T15:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853448562312687721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853448562312687721",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853293163332464804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 kawa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853293139328659456",
+            "3_1853293146115014656",
+            "3_1853293158601560065"
+          ]
+        },
+        "author_id": "1339446920511569920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1853293163332464804",
+        "created_at": "2024-11-04T04:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T05:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853293163332464804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJzLVYpLfC",
+              "end": 28,
+              "expanded_url": "https://x.com/shudesu00/status/1853293163332464804/photo/1",
+              "media_key": "3_1853293139328659456",
+              "start": 5,
+              "url": "https://t.co/YJzLVYpLfC"
+            },
+            {
+              "display_url": "pic.x.com/YJzLVYpLfC",
+              "end": 28,
+              "expanded_url": "https://x.com/shudesu00/status/1853293163332464804/photo/1",
+              "media_key": "3_1853293146115014656",
+              "start": 5,
+              "url": "https://t.co/YJzLVYpLfC"
+            },
+            {
+              "display_url": "pic.x.com/YJzLVYpLfC",
+              "end": 28,
+              "expanded_url": "https://x.com/shudesu00/status/1853293163332464804/photo/1",
+              "media_key": "3_1853293158601560065",
+              "start": 5,
+              "url": "https://t.co/YJzLVYpLfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853293163332464804",
+        "lang": "in",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 982,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "kira https://t.co/YJzLVYpLfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "珠芽重度依赖@yaiikawa hrt始于2024.10.3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "yaiikawa"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1807824248838447239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852277709348732928/DFMoRY2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 470,
+          "like_count": 2183,
+          "listed_count": 2,
+          "tweet_count": 4189
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "Ftx_aspd_intp_习惯性点赞_最喜欢的老婆小青蛙酱💍@CoFfffEeeeE1【各类一次性75-100+元。悦刻五代180r、悦刻五代原厂弹90/80/75r一盒包邮。纸外烟代，散拼：1包起发/邮费15、散拼10盒/成条包邮单独报价，买烟请私信】塔罗30r大体运势巨详细版/50r具体对象具体问题对应牌阵版",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853180890878558208/E0pcGq9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 2117,
+          "like_count": 115728,
+          "listed_count": 4,
+          "tweet_count": 14052
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

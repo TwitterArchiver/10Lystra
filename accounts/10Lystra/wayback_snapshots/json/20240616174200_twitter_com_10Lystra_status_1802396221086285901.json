@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802396221086285901",
+    "created_at": "2024-06-16T17:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T18:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802396221086285901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1588882513111396353",
+          "start": 3,
+          "username": "love_generalu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802396221086285901",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802048052217446782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love_generalu: 蚊子这种东西吧，关了灯比0还能叫，开了灯比1还难找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802396221086285901",
+        "created_at": "2024-06-16T17:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T18:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802396221086285901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1588882513111396353",
+              "start": 3,
+              "username": "love_generalu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802396221086285901",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802048052217446782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love_generalu: 蚊子这种东西吧，关了灯比0还能叫，开了灯比1还难找"
+      },
+      {
+        "attachments": {},
+        "author_id": "1588882513111396353",
+        "conversation_id": "1802048052217446782",
+        "created_at": "2024-06-15T18:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T19:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802048052217446782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802048052217446782",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4604,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "蚊子这种东西吧，关了灯比0还能叫，开了灯比1还难找"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 150,
+          "like_count": 572,
+          "listed_count": 1,
+          "tweet_count": 1144
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:14:54.000Z",
+        "description": "内向大学生/喜欢furry/对可爱xnh没有抵抗力/            出没在江浙沪/中文🉑   English is OK/转发点赞会有🔞🔞🔞NSFK⚠️⚠️⚠️/谢谢关注喵（可以私信骚扰",
+        "id": "1588882513111396353",
+        "location": "距离你2.92千米",
+        "name": "将军还在摆烂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795473015842766848/LbRU9ryj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 490,
+          "like_count": 2339,
+          "listed_count": 0,
+          "tweet_count": 2015
+        },
+        "username": "love_generalu",
+        "verified": false
+      }
+    ]
+  }
+}

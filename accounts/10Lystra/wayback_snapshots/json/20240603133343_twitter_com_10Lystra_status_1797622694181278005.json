@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797175294417403951",
+    "created_at": "2024-06-03T13:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T14:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797622694181278005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1630800884870549504",
+          "start": 0,
+          "username": "chichu233333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797622694181278005",
+    "in_reply_to_user_id": "1630800884870549504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797175294417403951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chichu233333 小学经常叠一个然后逗同桌笑一节课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797175294417403951",
+        "created_at": "2024-06-03T13:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797622694181278005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1630800884870549504",
+              "start": 0,
+              "username": "chichu233333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797622694181278005",
+        "in_reply_to_user_id": "1630800884870549504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797175294417403951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chichu233333 小学经常叠一个然后逗同桌笑一节课"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797175290986475520"
+          ]
+        },
+        "author_id": "1630800884870549504",
+        "conversation_id": "1797175294417403951",
+        "created_at": "2024-06-02T07:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T08:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797175294417403951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AGjEuNuOEJ",
+              "end": 32,
+              "expanded_url": "https://twitter.com/chichu233333/status/1797175294417403951/photo/1",
+              "media_key": "3_1797175290986475520",
+              "start": 9,
+              "url": "https://t.co/AGjEuNuOEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797175294417403951",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6753,
+          "like_count": 146,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "赵家人们，谁懂啊 https://t.co/AGjEuNuOEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 105,
+          "like_count": 277,
+          "listed_count": 1,
+          "tweet_count": 527
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T05:23:37.000Z",
+        "description": "↑-_-↑只是一只一成不变的废物罢了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "https://ys.mihoyo.com/",
+                "start": 0,
+                "url": "https://t.co/0f9u1BoGPC"
+              }
+            ]
+          }
+        },
+        "id": "1630800884870549504",
+        "location": "中南海十里山路之外的庆丰包子铺",
+        "name": "不知名推油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752388485204549632/wmqOcban_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 590,
+          "like_count": 30563,
+          "listed_count": 6,
+          "tweet_count": 3145
+        },
+        "url": "https://t.co/0f9u1BoGPC",
+        "username": "chichu233333",
+        "verified": false
+      }
+    ]
+  }
+}

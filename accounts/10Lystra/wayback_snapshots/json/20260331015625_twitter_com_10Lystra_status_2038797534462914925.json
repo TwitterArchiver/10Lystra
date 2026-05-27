@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2038450330019696864",
+    "created_at": "2026-03-31T01:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038797534462914925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038797534462914925",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038450330019696864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 首先你要让顺直理解misgender是比强奸和毒打更可怕的存在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2038450330019696864",
+        "created_at": "2026-03-31T01:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038797534462914925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038797534462914925",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038450330019696864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 首先你要让顺直理解misgender是比强奸和毒打更可怕的存在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2038450330019696864",
+        "created_at": "2026-03-30T02:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038450330019696864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038450330019696864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5560,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "😂最好笑的一点就是，跨性别群体，越来越政治正确化了。我看到的十几个跨女起手式都是「不是说你救援不好，救援很好，但性别能不能……」\n\n然后你看到当事人：「我觉得我没错」，「我还能怎么样」，「那我不救了」……跟过家家一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 880,
+          "like_count": 2294,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6694
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22313,
+          "following_count": 197,
+          "like_count": 709,
+          "listed_count": 71,
+          "media_count": 102,
+          "tweet_count": 22831
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

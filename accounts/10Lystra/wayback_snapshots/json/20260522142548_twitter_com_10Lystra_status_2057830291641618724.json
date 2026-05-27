@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2057781329283186870",
+    "created_at": "2026-05-22T14:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057830291641618724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057830291641618724",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057781329283186870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 那是不是说屁眼这个词也开始有性别色彩了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2057781329283186870",
+        "created_at": "2026-05-22T14:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057830291641618724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057830291641618724",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057781329283186870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 那是不是说屁眼这个词也开始有性别色彩了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2057781329283186870",
+        "created_at": "2026-05-22T11:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057781329283186870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soul_6235/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/soul_6235/status/2057684085762400445",
+              "start": 65,
+              "url": "https://t.co/zCHXPbfX5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057781329283186870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3294,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057684085762400445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来无所谓逼逼屌屌的，但我自从发现把自己屁眼叫逼之后会引来一群人愤怒地瞎骂之后我就乐此不疲了\n\n可能男人至死是少年逆反心理吧嗯 https://t.co/zCHXPbfX5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 908,
+          "like_count": 2381,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 7589
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 2935,
+          "like_count": 6773,
+          "listed_count": 8,
+          "media_count": 505,
+          "tweet_count": 4304
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

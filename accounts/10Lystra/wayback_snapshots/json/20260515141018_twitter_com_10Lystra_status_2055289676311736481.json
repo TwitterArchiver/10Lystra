@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055245202433208379",
+    "created_at": "2026-05-15T14:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055289676311736481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669543422586421248",
+          "start": 0,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055289676311736481",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055245202433208379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Letana358121 好可怕所以我妈想支持我我都主动回避，，有些事情不是所有脑子都能理解的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055245202433208379",
+        "created_at": "2026-05-15T14:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055289676311736481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055289676311736481",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055245202433208379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 好可怕所以我妈想支持我我都主动回避，，有些事情不是所有脑子都能理解的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2055245202433208379",
+        "created_at": "2026-05-15T11:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055245202433208379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055245202433208379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1326,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我本来都不想汴京了结果我爹追着我汴京，还说啥中国不是社会主义是家天下，要尊重长辈无条件听从之类的。。。。还有啥工人阶级就应该被压榨我跟他说劳动法他跟我说不要关心工人。。。。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 895,
+          "like_count": 2363,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 7447
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "あの雲の上でまた会えたらと\n寄る辺もない言葉並べては仕舞った/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "1994645751570497947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052742922270126080/7ROx4Z0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 1451,
+          "like_count": 53833,
+          "listed_count": 8,
+          "media_count": 2276,
+          "tweet_count": 20104
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

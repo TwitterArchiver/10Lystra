@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2057073999012938221",
+    "created_at": "2026-05-21T00:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057256131341217932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057256131341217932",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057073999012938221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 死亡剂量在哪。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2057073999012938221",
+        "created_at": "2026-05-21T00:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057256131341217932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057256131341217932",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057073999012938221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 死亡剂量在哪。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2057073999012938221",
+        "created_at": "2026-05-20T12:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057073999012938221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057073999012938221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚17o了20t金刚烷胺，几乎和死亡剂量齐平了\n我打了120，水水死了我几乎只有这一个选项\n可能会害他进精神病院？我不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 906,
+          "like_count": 2379,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 7563
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "你好 我是紫色章鱼（叫我章鱼）\n我希望@Aureliax17QwQ 活下去 大家帮帮我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aureliax17QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2055364824901841049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 470,
+          "like_count": 3223,
+          "listed_count": 3,
+          "media_count": 436,
+          "tweet_count": 3395
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

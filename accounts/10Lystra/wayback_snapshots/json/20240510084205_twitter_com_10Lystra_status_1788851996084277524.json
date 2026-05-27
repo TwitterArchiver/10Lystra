@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1788774277246001154",
+    "created_at": "2024-05-10T08:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T09:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788851996084277524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492097874565468172",
+          "start": 0,
+          "username": "citrus_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788851996084277524",
+    "in_reply_to_user_id": "1492097874565468172",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788774277246001154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citrus_404 精神病院把精神病变成行走的尸体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1788774277246001154",
+        "created_at": "2024-05-10T08:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T09:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788851996084277524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492097874565468172",
+              "start": 0,
+              "username": "citrus_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788851996084277524",
+        "in_reply_to_user_id": "1492097874565468172",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788774277246001154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citrus_404 精神病院把精神病变成行走的尸体"
+      },
+      {
+        "attachments": {},
+        "author_id": "1492097874565468172",
+        "conversation_id": "1788774277246001154",
+        "created_at": "2024-05-10T03:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T04:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788774277246001154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788774277246001154",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8327,
+          "like_count": 274,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "精神病院把精神病变成正常人。\n而社会把正常人变成精神病。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 55,
+          "like_count": 47,
+          "listed_count": 0,
+          "tweet_count": 159
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T11:27:17.000Z",
+        "description": "请和我了解  | 中/日/英语可| 目标是创造只有初音未来的世界! | 在堆满过去的废土上免费提供拥抱 | 你的互联网精神庇护所 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/citrus_404",
+                "end": 23,
+                "expanded_url": "http://m.twitch.tv/citrus_404",
+                "start": 0,
+                "url": "https://t.co/ry4JOLnb2e"
+              }
+            ]
+          }
+        },
+        "id": "1492097874565468172",
+        "location": "宛平南路600号",
+        "name": "Citrus🍉",
+        "pinned_tweet_id": "1753064413186183275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739220534372483072/bDcNLypR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19824,
+          "following_count": 222,
+          "like_count": 41382,
+          "listed_count": 60,
+          "tweet_count": 11630
+        },
+        "url": "https://t.co/ry4JOLnb2e",
+        "username": "citrus_404",
+        "verified": false
+      }
+    ]
+  }
+}

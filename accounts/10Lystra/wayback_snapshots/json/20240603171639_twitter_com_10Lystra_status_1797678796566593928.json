@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1797651600267456723",
+    "created_at": "2024-06-03T17:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T18:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797678796566593928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664988013406089217",
+          "start": 0,
+          "username": "SUKI_2023wasted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797678796566593928",
+    "in_reply_to_user_id": "1664988013406089217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797666336119873573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUKI_2023wasted 就是就是掀起一个角然后揭下来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1797651600267456723",
+        "created_at": "2024-06-03T17:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T18:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797678796566593928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664988013406089217",
+              "start": 0,
+              "username": "SUKI_2023wasted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797678796566593928",
+        "in_reply_to_user_id": "1664988013406089217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797666336119873573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUKI_2023wasted 就是就是掀起一个角然后揭下来吗"
+      },
+      {
+        "attachments": {},
+        "author_id": "1664988013406089217",
+        "conversation_id": "1797651600267456723",
+        "created_at": "2024-06-03T16:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T17:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797666336119873573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797666336119873573",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797651600267456723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 宛衡是一整块剥下来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 109,
+          "like_count": 296,
+          "listed_count": 1,
+          "tweet_count": 559
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "ftx🏳️‍⚧️｜泛｜20⬆️｜0.5switch ｜妹妹：@EwayYii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "EwayYii"
+              }
+            ]
+          }
+        },
+        "id": "1664988013406089217",
+        "name": "SUKI-2.0｜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796051320518086657/cbvtCnnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 331,
+          "like_count": 10935,
+          "listed_count": 0,
+          "tweet_count": 2553
+        },
+        "username": "SUKI_2023wasted",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2055969452907209128",
+    "created_at": "2026-05-17T11:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055970744136310913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055970744136310913",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055969452907209128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 正常性取向是个什么性取向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2055969452907209128",
+        "created_at": "2026-05-17T11:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055970744136310913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055970744136310913",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055969452907209128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 正常性取向是个什么性取向"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2055969452907209128",
+        "created_at": "2026-05-17T11:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055969452907209128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagiexpress/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/nagiexpress/status/2055950324519563380",
+              "start": 48,
+              "url": "https://t.co/MhuWgxwOWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055969452907209128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055950324519563380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再讲个笑话\n\n不少跨很排斥男同\n\n第三个笑话\n\n大多数双都选择正常性取向\n融入顺直生活排同排跨 https://t.co/MhuWgxwOWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 900,
+          "like_count": 2367,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 7478
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "想与你在brixton街头弹唱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "Brixton",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2055613491499635057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053273167678828553/m1eEnnhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5624,
+          "following_count": 2326,
+          "like_count": 27851,
+          "listed_count": 9,
+          "media_count": 2449,
+          "tweet_count": 23774
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "NagiExpress",
+        "verified": true
+      }
+    ]
+  }
+}

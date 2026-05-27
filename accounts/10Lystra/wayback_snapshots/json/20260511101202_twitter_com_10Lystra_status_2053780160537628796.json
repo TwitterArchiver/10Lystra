@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2051916196040319270",
+    "created_at": "2026-05-11T10:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053780160537628796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691937358944583682",
+          "start": 0,
+          "username": "KanoeYuukoSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053780160537628796",
+    "in_reply_to_user_id": "1691937358944583682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051916196040319270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoeYuukoSama 那死的还是有点用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2051916196040319270",
+        "created_at": "2026-05-11T10:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053780160537628796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691937358944583682",
+              "start": 0,
+              "username": "KanoeYuukoSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053780160537628796",
+        "in_reply_to_user_id": "1691937358944583682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051916196040319270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoeYuukoSama 那死的还是有点用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691937358944583682",
+        "conversation_id": "2051916196040319270",
+        "created_at": "2026-05-06T06:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051916196040319270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051916196040319270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2051,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仔细想想\n我对跨畜的厌恶主要是来源于他们不知道什么时候会死\n他们本身行径的恶劣主要是来源于伴生的精神病\n过多的指责精神病本身只是一种情绪发泄\n但认识的人暴毙了却是对我的精神打击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 894,
+          "like_count": 2345,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 7334
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T22:18:11.000Z",
+        "description": "Progressivism 对小彩虹进行友谊计划，空间翘曲导弹 发射！ 远星号太空艇@KokkoroChyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "KokkoroChyan"
+              }
+            ]
+          }
+        },
+        "id": "1691937358944583682",
+        "location": "川陀",
+        "name": "Kanoe Yuuko",
+        "pinned_tweet_id": "1981669959412621605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008793918192971778/X-dI886j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 661,
+          "like_count": 76763,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 12197
+        },
+        "username": "KanoeYuukoSama",
+        "verified": false
+      }
+    ]
+  }
+}

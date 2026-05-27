@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804150482585424225",
+    "created_at": "2024-06-21T19:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T20:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804235546086248819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3894426928",
+          "start": 0,
+          "username": "yagihakase"
+        },
+        {
+          "end": 24,
+          "id": "1672942490348036098",
+          "start": 12,
+          "username": "Feiyu992366"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804235546086248819",
+    "in_reply_to_user_id": "3894426928",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804169640878146030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yagihakase @Feiyu992366 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804150482585424225",
+        "created_at": "2024-06-21T19:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T20:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804235546086248819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3894426928",
+              "start": 0,
+              "username": "yagihakase"
+            },
+            {
+              "end": 24,
+              "id": "1672942490348036098",
+              "start": 12,
+              "username": "Feiyu992366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804235546086248819",
+        "in_reply_to_user_id": "3894426928",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804169640878146030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagihakase @Feiyu992366 🫂🫂"
+      },
+      {
+        "attachments": {},
+        "author_id": "3894426928",
+        "conversation_id": "1804150482585424225",
+        "created_at": "2024-06-21T15:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T16:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804169640878146030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672942490348036098",
+              "start": 0,
+              "username": "Feiyu992366"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804169640878146030",
+        "in_reply_to_user_id": "3894426928",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804167856172487117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feiyu992366 Maybe it's a man thing: I'm always angry at society. If I were to go, I wouldn't want to go quiet. I want others to have a taste of the misery I felt."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 246,
+          "like_count": 930,
+          "listed_count": 2,
+          "tweet_count": 1774
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-07T23:37:16.000Z",
+        "description": "Easily distractible weeb",
+        "id": "3894426928",
+        "location": "kleptocracy",
+        "name": "QuackyQuant",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1294583593554137088/QmjtsReh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 103,
+          "like_count": 6427,
+          "listed_count": 0,
+          "tweet_count": 2612
+        },
+        "username": "yagihakase",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T12:19:27.000Z",
+        "description": "我是肥鱼/躁鬱電池。破画画的！画风多变是因为我正在学习中，如果你喜欢我我会很高兴",
+        "id": "1672942490348036098",
+        "location": "The World",
+        "name": "网上肥鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672944792337276928/X6zfth5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 79,
+          "like_count": 928,
+          "listed_count": 0,
+          "tweet_count": 173
+        },
+        "username": "Feiyu992366",
+        "verified": false
+      }
+    ]
+  }
+}

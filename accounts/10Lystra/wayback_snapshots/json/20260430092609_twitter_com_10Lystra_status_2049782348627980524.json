@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2049701565439877287",
+    "created_at": "2026-04-30T09:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049782348627980524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541248951843663873",
+          "start": 0,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049782348627980524",
+    "in_reply_to_user_id": "1541248951843663873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049701565439877287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anermoka 词义本身就是人赋予的，为什么这就不能是有人在赋予“先生”性别，然后非要把“先生”和“女士”相对立？先生里面可不带性别称谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2049701565439877287",
+        "created_at": "2026-04-30T09:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049782348627980524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049782348627980524",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049701565439877287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka 词义本身就是人赋予的，为什么这就不能是有人在赋予“先生”性别，然后非要把“先生”和“女士”相对立？先生里面可不带性别称谓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2049701565439877287",
+        "created_at": "2026-04-30T04:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049701565439877287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quaintlotus142…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/quaintlotus142/status/2049557444410413219",
+              "start": 86,
+              "url": "https://t.co/SDRvS2B6Zn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049701565439877287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049557444410413219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得对待“先生”这个词，可以进行一段时间的真空化处理。\n女士和男士，都不用“先生”来称呼，这才是最合理的。\n等很久之后这个词与社会习惯彻底解绑，以后想要重新启用那再说。 https://t.co/SDRvS2B6Zn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 893,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 7149
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 208,
+          "like_count": 16960,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 572
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

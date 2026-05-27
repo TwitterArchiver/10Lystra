@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1799538019248283846",
+    "created_at": "2024-06-09T02:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T03:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799625279872340102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799625279872340102",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799538019248283846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd 只和你玩😔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1799538019248283846].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1799538019248283846",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1799538019248283846"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1799538019248283846",
+        "created_at": "2024-06-09T02:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T03:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799625279872340102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799625279872340102",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799538019248283846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd 只和你玩😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 120,
+          "like_count": 378,
+          "listed_count": 1,
+          "tweet_count": 732
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "IP: 127.0.0.1 恐怖分子 MtX 不顺也不直 爱好是杀人 数码 不键政/ADHD+ASD+重抑/技术宅 no rioters only tyranny\nhttps://t.co/UV0WDw6qEr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+QBqAeDU7EIs1N…",
+                "end": 105,
+                "expanded_url": "https://t.me/+QBqAeDU7EIs1N2Fl",
+                "start": 82,
+                "url": "https://t.co/UV0WDw6qEr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "localhost",
+        "name": "利姆露Tempest_Official",
+        "pinned_tweet_id": "1799154556938625330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787409857160859649/erLDuYak_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 466,
+          "like_count": 2854,
+          "listed_count": 1,
+          "tweet_count": 4087
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

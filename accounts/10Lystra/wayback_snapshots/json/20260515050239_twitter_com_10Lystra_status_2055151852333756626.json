@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2054987719219232857",
+    "created_at": "2026-05-15T05:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055151852333756626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736265610911428608",
+          "start": 0,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055151852333756626",
+    "in_reply_to_user_id": "1736265610911428608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054987719219232857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noname2095_ 谁来投放"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054987719219232857",
+        "created_at": "2026-05-15T05:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055151852333756626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055151852333756626",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054987719219232857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ 谁来投放"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2054987719219232857",
+        "created_at": "2026-05-14T18:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054987719219232857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054987719219232857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 718,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在川普访问北京期间可以向北京定点投放导弹，这样就能同时解决掉很多反派"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 895,
+          "like_count": 2361,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 7432
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 354,
+          "like_count": 4230,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 10949
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1802290032092258681",
+    "created_at": "2024-06-16T17:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T18:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802400317902049412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1235201727323705346",
+          "start": 0,
+          "username": "SAKURA09389828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802400317902049412",
+    "in_reply_to_user_id": "1235201727323705346",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802290032092258681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SAKURA09389828 什么群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1802290032092258681",
+        "created_at": "2024-06-16T17:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T18:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802400317902049412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1235201727323705346",
+              "start": 0,
+              "username": "SAKURA09389828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802400317902049412",
+        "in_reply_to_user_id": "1235201727323705346",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802290032092258681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAKURA09389828 什么群"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802289854782603264"
+          ]
+        },
+        "author_id": "1235201727323705346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1802290032092258681",
+        "created_at": "2024-06-16T10:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T11:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802290032092258681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/crEcbBtRZQ",
+              "end": 52,
+              "expanded_url": "https://twitter.com/SAKURA09389828/status/1802290032092258681/photo/1",
+              "media_key": "3_1802289854782603264",
+              "start": 29,
+              "url": "https://t.co/crEcbBtRZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802290032092258681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在群里聊茶氨酸，然后就被群主踢了，有必要这么神经过敏吗🫠 https://t.co/crEcbBtRZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 150,
+          "like_count": 572,
+          "listed_count": 1,
+          "tweet_count": 1145
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T13:53:46.000Z",
+        "description": "愿你被世界温柔以待/\n⚠️双相/自残/负能/请谨慎考虑是否与我交往⚠️\n日常推/INFP–T/本科在读/LGBTQ🏳️‍🌈/mtf持证含糖🍥🏳️‍⚧️/本体是兔兔/不键政/社恐/擅长料理/绘画学习中/贴贴/互fo/喜欢温柔善良的人/爱人@Sabrina05078452",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Sabrina05078452"
+              }
+            ]
+          }
+        },
+        "id": "1235201727323705346",
+        "location": "宛平南路600号",
+        "name": "Yuki🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1792386406809215412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732478045880283137/78K9iLEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 886,
+          "like_count": 11550,
+          "listed_count": 5,
+          "tweet_count": 2589
+        },
+        "username": "SAKURA09389828",
+        "verified": false
+      }
+    ]
+  }
+}

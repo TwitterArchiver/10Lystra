@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2049755255823532174",
+    "created_at": "2026-04-30T09:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049780832676565303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432351612182229001",
+          "start": 0,
+          "username": "Merlyn_Void"
+        },
+        {
+          "end": 28,
+          "id": "1489468526826082312",
+          "start": 13,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049780832676565303",
+    "in_reply_to_user_id": "1432351612182229001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049770468291576304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Merlyn_Void @Diamond_Kokoro 一般直接走女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2049755255823532174",
+        "created_at": "2026-04-30T09:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049780832676565303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Void"
+            },
+            {
+              "end": 28,
+              "id": "1489468526826082312",
+              "start": 13,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049780832676565303",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049770468291576304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Merlyn_Void @Diamond_Kokoro 一般直接走女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432351612182229001",
+        "conversation_id": "2049755255823532174",
+        "created_at": "2026-04-30T08:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049770468291576304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049770468291576304",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049755255823532174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Diamond_Kokoro 顺直对queer的歧视不到处都是吗？我昨天在重庆江北机场安全检查时，全性别通道完全没有开。喇叭高喊着男性通道左边女性通道右边，最后我硬是等着全性别通道开了之后才去过的安检。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 893,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 7146
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。",
+        "id": "1432351612182229001",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "1942220921546387551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20344,
+          "following_count": 213,
+          "like_count": 11215,
+          "listed_count": 46,
+          "media_count": 29,
+          "tweet_count": 3516
+        },
+        "username": "Merlyn_Void",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. 我最喜欢She/her，但实际上除了“He/him”都OK，中文“他”、“它”不介意。\n@irisdesombres 的忠犬。我的任务是让你感到幸福，就像你让我感到的一样。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 140,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 117,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048940639027675136/-Qcmg4fe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 96,
+          "like_count": 4254,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2876
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

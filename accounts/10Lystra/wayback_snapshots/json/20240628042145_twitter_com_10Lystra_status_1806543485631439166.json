@@ -1,0 +1,293 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1806301435061064144",
+    "created_at": "2024-06-28T04:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T05:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806543485631439166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        },
+        {
+          "end": 28,
+          "id": "1771532357595725826",
+          "start": 14,
+          "username": "TerminatorROC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806543485631439166",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806519656196526284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd @TerminatorROC 屏幕怎么黑了？双击一下试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1806301435061064144",
+        "created_at": "2024-06-28T04:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T05:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806543485631439166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            },
+            {
+              "end": 28,
+              "id": "1771532357595725826",
+              "start": 14,
+              "username": "TerminatorROC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806543485631439166",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806519656196526284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd @TerminatorROC 屏幕怎么黑了？双击一下试试"
+      },
+      {
+        "attachments": {},
+        "author_id": "1678117449508753408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1806301435061064144",
+        "created_at": "2024-06-28T02:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T03:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806519656196526284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771532357595725826",
+              "start": 0,
+              "username": "TerminatorROC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806519656196526284",
+        "in_reply_to_user_id": "1771532357595725826",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806301435061064144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TerminatorROC 王者荣耀是中国网络平台里最容易过审的游戏，因为它不涉及民主。\n而且因为韩信思想很容易把偷塔矛盾转移成名刀司命，这样一来就会形成梦泪偷塔的局面，不会让韩信把名刀司命指向水晶。\n这就是为什么中国现在这么多韩信玩家的原因。如果不改变这种状况的话，以后中国可能全是梦泪。老实说挺可怕的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」有需要的话可以当免费树洞⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 269,
+          "like_count": 1191,
+          "listed_count": 3,
+          "tweet_count": 2163
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "没有道德  🆓🇭🇰 联系 : https://t.co/ZTQXQRKQY5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/FreeMaj7bot",
+                "end": 38,
+                "expanded_url": "http://t.me/FreeMaj7bot",
+                "start": 15,
+                "url": "https://t.co/ZTQXQRKQY5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "localhost",
+        "name": "日本天皇",
+        "pinned_tweet_id": "1805097837983858808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804652156097863680/DwObv0VK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 624,
+          "like_count": 4844,
+          "listed_count": 3,
+          "tweet_count": 6914
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T13:40:12.000Z",
+        "description": "Technology changes society｜Three People's Principles🇹🇼｜Social Democracy🌹｜Regional Autonomy🇪🇺\nHell is waiting for you to end it.",
+        "id": "1771532357595725826",
+        "name": "SuperNekoha",
+        "pinned_tweet_id": "1779553927689589216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787071880429756416/9XTAZBYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 61,
+          "like_count": 618,
+          "listed_count": 0,
+          "tweet_count": 509
+        },
+        "username": "TerminatorROC",
+        "verified": false
+      }
+    ]
+  }
+}

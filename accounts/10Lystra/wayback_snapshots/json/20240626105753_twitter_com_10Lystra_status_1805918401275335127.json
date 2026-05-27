@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1805889948752433428",
+    "created_at": "2024-06-26T10:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T11:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805918401275335127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805918401275335127",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805889948752433428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 我过关！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1805889948752433428",
+        "created_at": "2024-06-26T10:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T11:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805918401275335127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805918401275335127",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805889948752433428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 我过关！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1805889948752433428",
+        "created_at": "2024-06-26T09:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T10:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805889948752433428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiZhenYouZi/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/JiZhenYouZi/status/1805875641109164041",
+              "start": 82,
+              "url": "https://t.co/MS2zsUvyja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805889948752433428",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3761,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805875641109164041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你过关！\n\n如果此时你还没有被我屏蔽，那我肯定不会屏蔽你了😽😽\n\n主要进程已完成，本次清理100个人...\n\n接下来是收尾工作，把剩下的人再过一遍，以防有漏网之鱼 https://t.co/MS2zsUvyja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 264,
+          "like_count": 1140,
+          "listed_count": 3,
+          "tweet_count": 2091
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "春风桃李花开日，秋雨梧桐叶落时",
+        "id": "1553107630511603712",
+        "name": "纪真由子",
+        "pinned_tweet_id": "1801088179564646713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799821012789309442/wurGNeui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 2175,
+          "like_count": 8681,
+          "listed_count": 8,
+          "tweet_count": 8609
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

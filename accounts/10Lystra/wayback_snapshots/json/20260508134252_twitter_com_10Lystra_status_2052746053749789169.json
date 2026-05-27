@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2052668968796880965",
+    "created_at": "2026-05-08T13:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052746053749789169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991445096013918208",
+          "start": 0,
+          "username": "SakurabaEma_ITN"
+        },
+        {
+          "end": 29,
+          "id": "1649365408779214848",
+          "start": 17,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052746053749789169",
+    "in_reply_to_user_id": "1991445096013918208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052691683092164899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaEma_ITN @bolckAshley 可能说的就是不基于爱情的（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2052668968796880965",
+        "created_at": "2026-05-08T13:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052746053749789169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991445096013918208",
+              "start": 0,
+              "username": "SakurabaEma_ITN"
+            },
+            {
+              "end": 29,
+              "id": "1649365408779214848",
+              "start": 17,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052746053749789169",
+        "in_reply_to_user_id": "1991445096013918208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052691683092164899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaEma_ITN @bolckAshley 可能说的就是不基于爱情的（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445096013918208",
+        "conversation_id": "2052668968796880965",
+        "created_at": "2026-05-08T10:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052691683092164899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052691683092164899",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052668968796880965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 冷知识\n男性的基于爱情的同性性行为就是gay的行为\n那么为什么这里要说不gay呢\n还不是因为性少数在中国被污名化的如此严重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 895,
+          "like_count": 2338,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 7254
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 97,
+          "like_count": 5625,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 1029
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3258,
+          "following_count": 1978,
+          "like_count": 41349,
+          "listed_count": 21,
+          "media_count": 1528,
+          "tweet_count": 21800
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      }
+    ]
+  }
+}

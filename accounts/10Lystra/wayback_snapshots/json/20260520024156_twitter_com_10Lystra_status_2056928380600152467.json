@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2056616560337232177",
+    "created_at": "2026-05-20T02:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056928380600152467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056928380600152467",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056616560337232177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y2D80355 世界上只有一种英雄主义，看清生活的真相依然热爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2056616560337232177",
+        "created_at": "2026-05-20T02:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056928380600152467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056928380600152467",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056616560337232177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 世界上只有一种英雄主义，看清生活的真相依然热爱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2056616560337232177",
+        "created_at": "2026-05-19T06:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056616560337232177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainchngshainn…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/rainchngshainn/status/2055777779019346338",
+              "start": 103,
+              "url": "https://t.co/rttl6ayIyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056616560337232177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3502,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055777779019346338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三年了从来没感觉跨性别身份哪里值得我骄傲了\n我只看见我因为跨性别受的苦难\n从吃药手术到家庭暴力到失学到远走他乡，连“同类”都众叛亲离，甚至迫害我\n看到这些苦难不会消失，甚至可能伴随我一生，一点也骄傲不起来 https://t.co/rttl6ayIyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 902,
+          "like_count": 2375,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 7515
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Ich habe keine Feinde.\nIch empfinde keinen Hass.",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 714,
+          "like_count": 5168,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 5407
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

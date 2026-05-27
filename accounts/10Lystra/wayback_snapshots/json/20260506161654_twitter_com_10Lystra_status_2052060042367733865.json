@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2051927206830739738",
+    "created_at": "2026-05-06T16:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052060042367733865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244598266173378561",
+          "start": 0,
+          "username": "april93965386"
+        },
+        {
+          "end": 30,
+          "id": "1600148543125090305",
+          "start": 15,
+          "username": "NakaharaBulbel"
+        },
+        {
+          "end": 43,
+          "id": "2030131697212346370",
+          "start": 31,
+          "username": "nekostar114"
+        },
+        {
+          "end": 57,
+          "id": "1296742363109511168",
+          "start": 44,
+          "username": "xiaoyang0822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052060042367733865",
+    "in_reply_to_user_id": "1244598266173378561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052050502343684439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@april93965386 @NakaharaBulbel @nekostar114 @xiaoyang0822 怎么像ai生成的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2051927206830739738",
+        "created_at": "2026-05-06T16:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052060042367733865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244598266173378561",
+              "start": 0,
+              "username": "april93965386"
+            },
+            {
+              "end": 30,
+              "id": "1600148543125090305",
+              "start": 15,
+              "username": "NakaharaBulbel"
+            },
+            {
+              "end": 43,
+              "id": "2030131697212346370",
+              "start": 31,
+              "username": "nekostar114"
+            },
+            {
+              "end": 57,
+              "id": "1296742363109511168",
+              "start": 44,
+              "username": "xiaoyang0822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052060042367733865",
+        "in_reply_to_user_id": "1244598266173378561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052050502343684439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@april93965386 @NakaharaBulbel @nekostar114 @xiaoyang0822 怎么像ai生成的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244598266173378561",
+        "conversation_id": "2051927206830739738",
+        "created_at": "2026-05-06T15:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052050502343684439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 25,
+              "id": "1600148543125090305",
+              "start": 10,
+              "username": "NakaharaBulbel"
+            },
+            {
+              "end": 38,
+              "id": "2030131697212346370",
+              "start": 26,
+              "username": "nekostar114"
+            },
+            {
+              "end": 52,
+              "id": "1296742363109511168",
+              "start": 39,
+              "username": "xiaoyang0822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052050502343684439",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051939735200035234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @NakaharaBulbel @nekostar114 @xiaoyang0822 别人再怎么骂说到底也是外人，结果无外乎断绝关系老死不相往来。\n那记从背后刺来的利刃更让人猝不及防。\n那是来自最了解你的人，你的那些柔软的内心，最脆弱的软肋，对方都一清二楚，知道怎么把你撕成碎片，怎么骂你最绝望最痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 892,
+          "like_count": 2337,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 7223
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T12:12:08.000Z",
+        "description": "我与你们不同的是，\n我认定自己无可救药，我配不上这个世界。\n\n而你则认定这个世界无可救药，配不上你。\n想想你喜欢、你羡慕、你嫉妒的一切，这一切都说明你只是一个可悲的家伙。\n一个无可救药却拒绝承认的烂货。\n【活在众所皆知时，死在默默无闻处】",
+        "id": "1244598266173378561",
+        "name": "四月十四",
+        "pinned_tweet_id": "1828071154260861362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855741666742702080/_FrulLY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 672,
+          "like_count": 5334,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 8101
+        },
+        "username": "april93965386",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "正在向崩溃发展，急需要爱，坐标安徽蚌埠。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nakaharabulbel",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nakaharabulbel",
+                "start": 0,
+                "url": "https://t.co/KC6nMpv3E2"
+              }
+            ]
+          }
+        },
+        "id": "1600148543125090305",
+        "location": "🚪38u，但是我很废",
+        "name": "珠芽（已死亡）",
+        "pinned_tweet_id": "2051451108481286387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041074958781272064/hww1YOFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 416,
+          "like_count": 10059,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/KC6nMpv3E2",
+        "username": "NakaharaBulbel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T04:01:39.000Z",
+        "description": "男娘/已成年/🚪88/本账号完全自愿且完全遵守x规则/互推咪",
+        "id": "2030131697212346370",
+        "name": "nekostar（互推",
+        "pinned_tweet_id": "2044792377467187482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030131798064386051/LzhzxGAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 209,
+          "like_count": 2742,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 677
+        },
+        "username": "nekostar114",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T09:34:15.000Z",
+        "description": "是个好人！enfp-T.2007/8.22事个xyn互fo滴滴  欢迎喜欢我的人贴贴🇯🇵日本留学今年7月生美术生 目前在广州开音游窝雀庄——是个赌狗",
+        "id": "1296742363109511168",
+        "location": "北京",
+        "name": "小羊",
+        "pinned_tweet_id": "1851550218711666858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032029079793471490/popE-Mdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3418,
+          "following_count": 328,
+          "like_count": 606,
+          "listed_count": 9,
+          "media_count": 211,
+          "tweet_count": 1168
+        },
+        "username": "xiaoyang0822",
+        "verified": false
+      }
+    ]
+  }
+}

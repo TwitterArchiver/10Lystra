@@ -1,0 +1,160 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+          "id": "1143968237232644097",
+          "name": "Japanese Social Security"
+        }
+      }
+    ],
+    "conversation_id": "1792473533454692748",
+    "created_at": "2024-05-20T08:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T09:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792473533454692748"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1792473533454692748",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "520了解一下：\n​五是五个落实，落实经济调整 落实精准扶贫 落实社会保障 落实环境治理 落实反腐倡廉\n二是二个要，既要金山银山 又要绿水青山\n零是对违法犯罪行为零容忍\n​智者不入爱河，建设美丽中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "1792473533454692748",
+        "created_at": "2024-05-20T08:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T09:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792473533454692748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792473533454692748",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520了解一下：\n​五是五个落实，落实经济调整 落实精准扶贫 落实社会保障 落实环境治理 落实反腐倡廉\n二是二个要，既要金山银山 又要绿水青山\n零是对违法犯罪行为零容忍\n​智者不入爱河，建设美丽中国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 73,
+          "like_count": 129,
+          "listed_count": 0,
+          "tweet_count": 253
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

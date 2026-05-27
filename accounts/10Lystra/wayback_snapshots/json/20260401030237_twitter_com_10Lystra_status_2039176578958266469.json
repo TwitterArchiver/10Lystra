@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2039037248033968243",
+    "created_at": "2026-04-01T03:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039176578958266469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        },
+        {
+          "end": 25,
+          "id": "1704469304077611008",
+          "start": 10,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039176578958266469",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039176438562398488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina @jiaoyanboluooo 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2039037248033968243",
+        "created_at": "2026-04-01T03:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039176578958266469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            },
+            {
+              "end": 25,
+              "id": "1704469304077611008",
+              "start": 10,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039176578958266469",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039176438562398488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina @jiaoyanboluooo 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763577841588056064",
+        "conversation_id": "2039037248033968243",
+        "created_at": "2026-04-01T03:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039176438562398488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 25,
+              "id": "1704469304077611008",
+              "start": 10,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039176438562398488",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039130011094184385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @jiaoyanboluooo 亲身经历\n带刀也没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 889,
+          "like_count": 2305,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6845
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| INFP / INFJ | MtF | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | 已扭转 25.11.30~26.03.04 | 已炸柜 | 已断糖 | 碎碎念or日常 @syyann2026 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 142,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Hefei Anhui",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 2427,
+          "like_count": 23804,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 6816
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜（我妈当我瞎说的）／不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3994,
+          "following_count": 3108,
+          "like_count": 22013,
+          "listed_count": 12,
+          "media_count": 1240,
+          "tweet_count": 4567
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

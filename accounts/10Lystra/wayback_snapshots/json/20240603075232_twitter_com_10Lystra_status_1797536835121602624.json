@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1797536835121602624",
+    "created_at": "2024-06-03T07:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T08:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797536835121602624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10lystra/statu…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/10lystra/status/1793644154750480519",
+          "start": 94,
+          "url": "https://t.co/rArZUKoh6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797536835121602624",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793644154750480519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊…前两天外出耽搁了\n测试就从今天开始吧\n效果检测方法：去上我之前报了但半途而废的影视后期课程（具体内容：pr，ae，c4d）\n以后每天发帖打卡\n暂定每日3t\n来个人监督我\nありがとう！ https://t.co/rArZUKoh6T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1797536835121602624",
+        "created_at": "2024-06-03T07:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T08:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797536835121602624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/10lystra/status/1793644154750480519",
+              "start": 94,
+              "url": "https://t.co/rArZUKoh6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797536835121602624",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793644154750480519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊…前两天外出耽搁了\n测试就从今天开始吧\n效果检测方法：去上我之前报了但半途而废的影视后期课程（具体内容：pr，ae，c4d）\n以后每天发帖打卡\n暂定每日3t\n来个人监督我\nありがとう！ https://t.co/rArZUKoh6T"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793644146076594176"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "1793644154750480519",
+        "created_at": "2024-05-23T14:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T15:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793644154750480519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kLM2LpG3tU",
+              "end": 28,
+              "expanded_url": "https://twitter.com/10Lystra/status/1793644154750480519/photo/1",
+              "media_key": "3_1793644146076594176",
+              "start": 5,
+              "url": "https://t.co/kLM2LpG3tU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793644154750480519",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2129,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我反馈 https://t.co/kLM2LpG3tU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 103,
+          "like_count": 261,
+          "listed_count": 1,
+          "tweet_count": 503
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

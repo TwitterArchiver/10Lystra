@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1800458501162197492",
+    "created_at": "2024-06-11T11:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T12:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800497470088388967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1567061441152450560",
+          "start": 0,
+          "username": "Xe1_N0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800497470088388967",
+    "in_reply_to_user_id": "1567061441152450560",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800458501162197492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xe1_N0n 大佬啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1800458501162197492",
+        "created_at": "2024-06-11T11:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T12:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800497470088388967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1567061441152450560",
+              "start": 0,
+              "username": "Xe1_N0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800497470088388967",
+        "in_reply_to_user_id": "1567061441152450560",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800458501162197492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xe1_N0n 大佬啊啊啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "conversation_id": "1800458501162197492",
+        "created_at": "2024-06-11T09:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T10:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800458501162197492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800458501162197492",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南科大的卷子我真不好评价，物理25道题我tm不会十多道，全蒙的，数学会的还多点，英语更是强撑着答卷，看了两个点电脑眼睛已经难受的不行了\n\n我答37届国决那道公认全国大粪卷的时候都没有这种感觉，汗流浃背了属于是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 124,
+          "like_count": 437,
+          "listed_count": 1,
+          "tweet_count": 847
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "Chemistry/Biomimetic Total Synthesis/Linkin Park/Scripps.../37CCHO🥈 #Meteora20 #Bayer04",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 68,
+                "tag": "Meteora20"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "tag": "Bayer04"
+              }
+            ]
+          }
+        },
+        "id": "1567061441152450560",
+        "location": "San Diego, CA",
+        "name": "Xe1",
+        "pinned_tweet_id": "1721031955456618837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623932638687035393/PYPAr-qx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 465,
+          "like_count": 303,
+          "listed_count": 2,
+          "tweet_count": 660
+        },
+        "username": "Xe1_N0n",
+        "verified": false
+      }
+    ]
+  }
+}

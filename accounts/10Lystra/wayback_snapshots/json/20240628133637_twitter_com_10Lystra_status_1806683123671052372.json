@@ -1,0 +1,331 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1805966661943779773",
+    "created_at": "2024-06-28T13:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T14:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806683123671052372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1535860710374543360",
+          "start": 0,
+          "username": "aichiyudehuanx1"
+        },
+        {
+          "end": 30,
+          "id": "1268491001951219712",
+          "start": 17,
+          "username": "Xaiforever11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806683123671052372",
+    "in_reply_to_user_id": "1535860710374543360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806682399205687788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aichiyudehuanx1 @Xaiforever11 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1805966661943779773",
+        "created_at": "2024-06-28T13:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T14:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806683123671052372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1535860710374543360",
+              "start": 0,
+              "username": "aichiyudehuanx1"
+            },
+            {
+              "end": 30,
+              "id": "1268491001951219712",
+              "start": 17,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806683123671052372",
+        "in_reply_to_user_id": "1535860710374543360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806682399205687788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aichiyudehuanx1 @Xaiforever11 还真是"
+      },
+      {
+        "attachments": {},
+        "author_id": "1535860710374543360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1805966661943779773",
+        "created_at": "2024-06-28T13:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T14:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806682399205687788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 23,
+              "id": "1268491001951219712",
+              "start": 10,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806682399205687788",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805966661943779773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @Xaiforever11 你说得对，但是哈利波特是政治原神，中医是医学原神，华为是企业原神，王阳明是中哲原神，黑格尔是西哲原神，这个世界是个巨大的原神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」有需要的话可以当免费树洞⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 269,
+          "like_count": 1203,
+          "listed_count": 3,
+          "tweet_count": 2181
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T05:45:21.000Z",
+        "description": "编程 哲学 神秘学 INFJ  纯良 160cm",
+        "id": "1535860710374543360",
+        "location": "室女座超星系团",
+        "name": "阿赖耶识",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791823192052641792/mKHaPD6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 121,
+          "like_count": 149,
+          "listed_count": 1,
+          "tweet_count": 128
+        },
+        "username": "aichiyudehuanx1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "吐黑泥",
+        "id": "1268491001951219712",
+        "location": "布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1801093216076521793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779901522299822081/Oq4K0emK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4788,
+          "following_count": 407,
+          "like_count": 46993,
+          "listed_count": 5,
+          "tweet_count": 11283
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

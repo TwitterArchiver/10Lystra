@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035281848465531352",
+    "created_at": "2026-03-21T12:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T13:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035327235939516807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035327235939516807",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035282444757221404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 贴卫生巾不是医疗行为"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035281848465531352",
+        "created_at": "2026-03-21T12:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035327235939516807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035327235939516807",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035282444757221404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 贴卫生巾不是医疗行为"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2035281848465531352",
+        "created_at": "2026-03-21T09:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035282444757221404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035282444757221404",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 729,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035281848465531352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你作为跨女不认为跨女应该因为在公共空间打日雌被惩罚，那你就不应该认为高铁上不仅不售卖卫生巾还惩罚来月经的女性是合理的，这关乎你最基本的逻辑自洽，和相关顺女到底认不认为你是女的没有关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 873,
+          "like_count": 2271,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6389
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23065,
+          "following_count": 2678,
+          "like_count": 38871,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 20779
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

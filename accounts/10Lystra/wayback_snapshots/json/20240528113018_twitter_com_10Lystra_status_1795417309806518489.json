@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1795414132138881239",
+    "created_at": "2024-05-28T11:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T12:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795417309806518489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1689136531913785346",
+          "start": 0,
+          "username": "xhlprprpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795417309806518489",
+    "in_reply_to_user_id": "1689136531913785346",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795414132138881239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhlprprpr 你们班上还有空调。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1795414132138881239",
+        "created_at": "2024-05-28T11:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T12:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795417309806518489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1689136531913785346",
+              "start": 0,
+              "username": "xhlprprpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795417309806518489",
+        "in_reply_to_user_id": "1689136531913785346",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795414132138881239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhlprprpr 你们班上还有空调。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1689136531913785346",
+        "conversation_id": "1795414132138881239",
+        "created_at": "2024-05-28T11:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T12:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795414132138881239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795414132138881239",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "班上男女生吵架了，因为空调，男的要开空调，对着女生吹，女的好多都感冒了，就吵起来了\n我？我当然站出来和女生一起骂男生哈哈，我坐在女生堆里，穿三件都感冒了，我不骂他们男的骂谁？\n煞笔又恶心的男生，又要开空调又不对着自己吹，对着女生吹，煞笔\n谁知道他们那群男的会怎么看待我？反正只有9天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 100,
+          "like_count": 234,
+          "listed_count": 1,
+          "tweet_count": 453
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T04:48:34.000Z",
+        "description": "求求你们了讨厌我请屏蔽我/\n嫉恶如仇，喜欢多管闲事/162cm44kg/mtx，男的，很丑😢/精神状态不好/发泄方式是割手手，正在努力戒/想要朋友（趴唔）\n\nps：要是长时间没上线，就是似了",
+        "id": "1689136531913785346",
+        "location": "地球",
+        "name": "🧀☃小狐狸🦊",
+        "pinned_tweet_id": "1790374709713944924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761787182409519104/BTxdVMO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1078,
+          "like_count": 20465,
+          "listed_count": 5,
+          "tweet_count": 5903
+        },
+        "username": "xhlprprpr",
+        "verified": false
+      }
+    ]
+  }
+}

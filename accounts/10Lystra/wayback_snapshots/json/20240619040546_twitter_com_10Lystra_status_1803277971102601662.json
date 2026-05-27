@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1803070664439431517",
+    "created_at": "2024-06-19T04:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T05:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803277971102601662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1424763174742540288",
+          "start": 0,
+          "username": "4yOung13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803277971102601662",
+    "in_reply_to_user_id": "1424763174742540288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803070664439431517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4yOung13 可是意面明明没有办法掰成两段啊。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1803070664439431517",
+        "created_at": "2024-06-19T04:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T05:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803277971102601662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1424763174742540288",
+              "start": 0,
+              "username": "4yOung13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803277971102601662",
+        "in_reply_to_user_id": "1424763174742540288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803070664439431517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4yOung13 可是意面明明没有办法掰成两段啊。。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1424763174742540288",
+        "conversation_id": "1803070664439431517",
+        "created_at": "2024-06-18T14:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T15:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803070664439431517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803070664439431517",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每日小课堂！\npasta是拟声词。\n意面下锅煮之前需要把意面“啪次嗒”一声掰成两段才能放下锅里煮，因此被叫做pasta。\n快动动手指转发给你的好朋友吧——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 185,
+          "like_count": 655,
+          "listed_count": 1,
+          "tweet_count": 1405
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T16:03:16.000Z",
+        "description": "| 老婆：@sincoew_yx | 生活/摄影推 | osu! 玩家 | Except where otherwise noted, content of this account is licensed under CC BY-SA 4.0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "sincoew_yx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "young-4.com",
+                "end": 23,
+                "expanded_url": "http://young-4.com",
+                "start": 0,
+                "url": "https://t.co/51nCnOChN0"
+              }
+            ]
+          }
+        },
+        "id": "1424763174742540288",
+        "location": "Suzhou, Jiangsu, China",
+        "name": "负4价的yOung元素",
+        "pinned_tweet_id": "1774761039084577248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735689705289662464/w07fsulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 382,
+          "like_count": 36757,
+          "listed_count": 2,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/51nCnOChN0",
+        "username": "4yOung13",
+        "verified": true
+      }
+    ]
+  }
+}

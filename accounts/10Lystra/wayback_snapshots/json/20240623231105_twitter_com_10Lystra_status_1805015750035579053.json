@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1804507975723434486",
+    "created_at": "2024-06-23T23:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T00:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805015750035579053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1715288484158849025",
+          "start": 0,
+          "username": "bigjyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805015750035579053",
+    "in_reply_to_user_id": "1715288484158849025",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804989828729286746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjyl 后藤大学毕业了哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1804507975723434486",
+        "created_at": "2024-06-23T23:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T00:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805015750035579053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1715288484158849025",
+              "start": 0,
+              "username": "bigjyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805015750035579053",
+        "in_reply_to_user_id": "1715288484158849025",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804989828729286746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjyl 后藤大学毕业了哦"
+      },
+      {
+        "attachments": {},
+        "author_id": "1715288484158849025",
+        "conversation_id": "1804507975723434486",
+        "created_at": "2024-06-23T21:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T22:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804989828729286746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804989828729286746",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804507975723434486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 嗯，好中二的感觉，符合我对小屁孩的刻板印象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 性別也是貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」⚠️反人類罪 虛無主義 戀人@Dangdangpi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Dangdangpi"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1803047198290231575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 256,
+          "like_count": 1047,
+          "listed_count": 2,
+          "tweet_count": 1920
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T08:47:06.000Z",
+        "description": "",
+        "id": "1715288484158849025",
+        "name": "big",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 128
+        },
+        "username": "bigjyl",
+        "verified": false
+      }
+    ]
+  }
+}

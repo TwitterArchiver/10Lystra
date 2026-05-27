@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2056413313043484877",
+    "created_at": "2026-05-19T15:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056753393142526090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "_ciweiqwq_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056753393142526090",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056470638362005803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ciweiqwq_ 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2056413313043484877",
+        "created_at": "2026-05-19T15:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056753393142526090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "_ciweiqwq_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056753393142526090",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056470638362005803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ciweiqwq_ 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531432040909918209",
+        "conversation_id": "2056413313043484877",
+        "created_at": "2026-05-18T20:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T21:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056470638362005803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056470638362005803",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056413313043484877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 904,
+          "like_count": 2374,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 7508
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09/男/双 这个是发泄情绪的号：@suzume_FANqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "suzume_FANqwq"
+              }
+            ]
+          }
+        },
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047713615419932673/rglwu7N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 517,
+          "like_count": 23992,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1361
+        },
+        "username": "_ciweiqwq_",
+        "verified": true
+      }
+    ]
+  }
+}

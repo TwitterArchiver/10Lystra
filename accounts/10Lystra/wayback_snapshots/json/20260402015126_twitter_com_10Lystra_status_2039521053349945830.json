@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2039309782193213575",
+    "created_at": "2026-04-02T01:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T02:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039521053349945830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2011620183866294272",
+          "start": 0,
+          "username": "chickenincrisis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039521053349945830",
+    "in_reply_to_user_id": "2011620183866294272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039309782193213575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chickenincrisis 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2039309782193213575",
+        "created_at": "2026-04-02T01:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039521053349945830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2011620183866294272",
+              "start": 0,
+              "username": "chickenincrisis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039521053349945830",
+        "in_reply_to_user_id": "2011620183866294272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039309782193213575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenincrisis 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011620183866294272",
+        "conversation_id": "2039309782193213575",
+        "created_at": "2026-04-01T11:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039309782193213575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuckeveryword/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/fuckeveryword/status/2027710830624592235",
+              "start": 17,
+              "url": "https://t.co/4Le0YoWZZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039309782193213575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 768,
+          "impression_count": 1054373,
+          "like_count": 44462,
+          "quote_count": 160,
+          "reply_count": 376,
+          "retweet_count": 7191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027710830624592235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "and fuck you too https://t.co/4Le0YoWZZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 892,
+          "like_count": 2307,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 6876
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T02:03:34.000Z",
+        "description": "to get to the other side.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.com.au",
+                "end": 23,
+                "expanded_url": "https://www.kfc.com.au/",
+                "start": 0,
+                "url": "https://t.co/XKdhIlXm7p"
+              }
+            ]
+          }
+        },
+        "id": "2011620183866294272",
+        "location": "kfc",
+        "name": "chicken",
+        "pinned_tweet_id": "2032960160445206531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011621206357917707/Xsd48-Pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14148,
+          "following_count": 227,
+          "like_count": 3225,
+          "listed_count": 27,
+          "media_count": 106,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/XKdhIlXm7p",
+        "username": "chickenincrisis",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1799941724082696489",
+    "created_at": "2024-06-10T04:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T05:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800017887186559291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769380729409130496",
+          "start": 0,
+          "username": "MaoTseTung93"
+        },
+        {
+          "end": 26,
+          "id": "1771437505822531584",
+          "start": 14,
+          "username": "zcq19040201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800017887186559291",
+    "in_reply_to_user_id": "1769380729409130496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799991511674937709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoTseTung93 @zcq19040201 还在水晶棺里发力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1799941724082696489",
+        "created_at": "2024-06-10T04:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T05:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800017887186559291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769380729409130496",
+              "start": 0,
+              "username": "MaoTseTung93"
+            },
+            {
+              "end": 26,
+              "id": "1771437505822531584",
+              "start": 14,
+              "username": "zcq19040201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800017887186559291",
+        "in_reply_to_user_id": "1769380729409130496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799991511674937709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoTseTung93 @zcq19040201 还在水晶棺里发力"
+      },
+      {
+        "attachments": {},
+        "author_id": "1769380729409130496",
+        "conversation_id": "1799941724082696489",
+        "created_at": "2024-06-10T02:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T03:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799991511674937709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771437505822531584",
+              "start": 0,
+              "username": "zcq19040201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799991511674937709",
+        "in_reply_to_user_id": "1771437505822531584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799941724082696489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zcq19040201 我都杀80000000了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中 自我毀滅 自傷 「以擺脫焦慮為目的的嚴格受控的od」",
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "玖璋Lystra",
+        "pinned_tweet_id": "1792632514864910828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798249790133903360/77OTyozI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 121,
+          "like_count": 416,
+          "listed_count": 1,
+          "tweet_count": 786
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T15:10:23.000Z",
+        "description": "人民萬歲 ！戰無不勝的毛澤東思想萬歲！世界反帝反殖力量萬歲！無產階級文化大革命萬歲!无罪有理！ Long Live the People！Long Live the Maoism ! Long Live the GPCR! Serve the People！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzdbl.com",
+                "end": 23,
+                "expanded_url": "http://mzdbl.com",
+                "start": 0,
+                "url": "https://t.co/VaniW3kxSp"
+              }
+            ]
+          }
+        },
+        "id": "1769380729409130496",
+        "location": "不滅的物質存在於世間",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1797645116561383596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799483173765828608/aXLFcxhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 215,
+          "like_count": 1636,
+          "listed_count": 3,
+          "tweet_count": 973
+        },
+        "url": "https://t.co/VaniW3kxSp",
+        "username": "MaoTseTung93",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T07:23:23.000Z",
+        "description": "巴黎公社式的选举制度，重要的不是选举，而是及时撤换。-张春桥",
+        "id": "1771437505822531584",
+        "location": "上海人民公社",
+        "name": "万里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799943296451584000/jufblDK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 700,
+          "like_count": 12275,
+          "listed_count": 3,
+          "tweet_count": 6096
+        },
+        "username": "zcq19040201",
+        "verified": false
+      }
+    ]
+  }
+}

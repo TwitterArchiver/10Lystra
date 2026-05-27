@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2037551528446472509",
+    "created_at": "2026-03-28T09:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037827128901636303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1968701966948970496",
+          "start": 0,
+          "username": "wqgggwdlm"
+        },
+        {
+          "end": 22,
+          "id": "1838966482082107392",
+          "start": 11,
+          "username": "nideyi0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037827128901636303",
+    "in_reply_to_user_id": "1968701966948970496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037764536753909843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wqgggwdlm @nideyi0717 好骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2037551528446472509",
+        "created_at": "2026-03-28T09:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037827128901636303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1968701966948970496",
+              "start": 0,
+              "username": "wqgggwdlm"
+            },
+            {
+              "end": 22,
+              "id": "1838966482082107392",
+              "start": 11,
+              "username": "nideyi0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037827128901636303",
+        "in_reply_to_user_id": "1968701966948970496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037764536753909843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wqgggwdlm @nideyi0717 好骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968701966948970496",
+        "conversation_id": "2037551528446472509",
+        "created_at": "2026-03-28T05:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037764536753909843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838966482082107392",
+              "start": 0,
+              "username": "nideyi0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037764536753909843",
+        "in_reply_to_user_id": "1838966482082107392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27280,
+          "like_count": 271,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037551528446472509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nideyi0717 傻逼，我一个男的都知道有前扣的，我到死都想不明白，你们这些脑残遇到点问题除了会从异性那里找问题还会啥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 881,
+          "like_count": 2284,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 6607
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T15:42:29.000Z",
+        "description": "",
+        "id": "1968701966948970496",
+        "location": "America",
+        "name": "wqgggwdlm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968702272227131394/U6bwPN4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "wqgggwdlm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T15:39:20.000Z",
+        "description": "分享日常｜玩推只为寻找快乐｜希望结交志同道合的朋友 ｜私信只回复关注我的粉丝",
+        "id": "1838966482082107392",
+        "name": "H紫依💗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012245298110664704/a6aM26Z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 108,
+          "like_count": 4017,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "nideyi0717",
+        "verified": false
+      }
+    ]
+  }
+}

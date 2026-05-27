@@ -1,0 +1,124 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792595558307422208"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "1792595566599270479",
+    "created_at": "2024-05-20T16:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T17:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792595566599270479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/aqtmZuJ5bZ",
+          "end": 128,
+          "expanded_url": "https://twitter.com/10Lystra/status/1792595566599270479/photo/1",
+          "media_key": "3_1792595558307422208",
+          "start": 105,
+          "url": "https://t.co/aqtmZuJ5bZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792595566599270479",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头是要晕的，呕吐是要犯的，欣快感是没有的，肝功肾功是稀碎的，解离是痛苦的，胳膊是要割的，耐受是巨大的，幻觉是可怕的，困是要犯的，精神是分裂的，性欲是消失的，惨是要卖的，疯是要发的，但是dose依然是over的 https://t.co/aqtmZuJ5bZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1792595558307422208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOCUKabbYAALPPc.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792595558307422208"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "1792595566599270479",
+        "created_at": "2024-05-20T16:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T17:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792595566599270479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aqtmZuJ5bZ",
+              "end": 128,
+              "expanded_url": "https://twitter.com/10Lystra/status/1792595566599270479/photo/1",
+              "media_key": "3_1792595558307422208",
+              "start": 105,
+              "url": "https://t.co/aqtmZuJ5bZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792595566599270479",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头是要晕的，呕吐是要犯的，欣快感是没有的，肝功肾功是稀碎的，解离是痛苦的，胳膊是要割的，耐受是巨大的，幻觉是可怕的，困是要犯的，精神是分裂的，性欲是消失的，惨是要卖的，疯是要发的，但是dose依然是over的 https://t.co/aqtmZuJ5bZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 73,
+          "like_count": 131,
+          "listed_count": 0,
+          "tweet_count": 256
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

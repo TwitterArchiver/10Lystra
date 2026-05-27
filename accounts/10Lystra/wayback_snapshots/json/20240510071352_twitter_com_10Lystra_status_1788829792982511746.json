@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1788185895289708669",
+    "created_at": "2024-05-10T07:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T08:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788829792982511746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783405966672945152",
+          "start": 0,
+          "username": "lingsuyu2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788829792982511746",
+    "in_reply_to_user_id": "1783405966672945152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788829616506802574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingsuyu2006 ADHD打游戏真的菜😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1788185895289708669",
+        "created_at": "2024-05-10T07:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T08:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788829792982511746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783405966672945152",
+              "start": 0,
+              "username": "lingsuyu2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788829792982511746",
+        "in_reply_to_user_id": "1783405966672945152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788829616506802574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingsuyu2006 ADHD打游戏真的菜😔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1783405966672945152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1788185895289708669",
+        "created_at": "2024-05-10T07:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T08:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788829616506802574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788829616506802574",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788185895289708669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 还是健康生活吧，不开心玩玩游戏什么的，吃药这种真的太怪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 55,
+          "like_count": 46,
+          "listed_count": 0,
+          "tweet_count": 156
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T08:01:56.000Z",
+        "description": "二次元最棒力，好想一直沉醉下去呢💕\n社恐妹一枚，苦命高中生呜呜呜\nMiku/东方厨\n喜欢音乐，无法抗拒美食喵，梦想是环游世界\n🌟文明交流蟹蟹喵，请不要私信和回复一些奇奇怪怪的话🌟希望各位都能每天有个好心情哦💕",
+        "id": "1783405966672945152",
+        "location": "江苏盐城",
+        "name": "凌苏雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786199923349966848/lwPt2Xq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 160,
+          "like_count": 24,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "username": "lingsuyu2006",
+        "verified": false
+      }
+    ]
+  }
+}

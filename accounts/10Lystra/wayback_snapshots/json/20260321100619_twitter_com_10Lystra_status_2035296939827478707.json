@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2035266713340830108",
+    "created_at": "2026-03-21T10:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035296939827478707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035296939827478707",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035266713340830108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2035266713340830108",
+        "created_at": "2026-03-21T10:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035296939827478707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035296939827478707",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035266713340830108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2035266713340830108",
+        "created_at": "2026-03-21T08:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035266713340830108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035266713340830108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 242,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果哪一天咱重开了，希望大家一定要在咱讣告评论区里发笑脸喜庆的表情包而不是哭脸。毕竟，如果咱能成功彻底摆脱性别焦虑的折磨不用再继续遭罪了，这当然是一件值得大家替我高兴的事情，难道不是么？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 873,
+          "like_count": 2271,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6381
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3962,
+          "following_count": 2980,
+          "like_count": 1152,
+          "listed_count": 13,
+          "media_count": 210,
+          "tweet_count": 1431
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

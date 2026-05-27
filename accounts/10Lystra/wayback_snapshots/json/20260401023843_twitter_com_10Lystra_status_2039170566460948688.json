@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2039152999310692678",
+    "created_at": "2026-04-01T02:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039170566460948688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901687537281982464",
+          "start": 0,
+          "username": "Luxferre223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039170566460948688",
+    "in_reply_to_user_id": "901687537281982464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039170353956851957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luxferre223 实际上挺难的，善用block"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2039152999310692678",
+        "created_at": "2026-04-01T02:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039170566460948688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901687537281982464",
+              "start": 0,
+              "username": "Luxferre223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039170566460948688",
+        "in_reply_to_user_id": "901687537281982464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039170353956851957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luxferre223 实际上挺难的，善用block"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901687537281982464",
+        "conversation_id": "2039152999310692678",
+        "created_at": "2026-04-01T02:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039170353956851957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039170353956851957",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039152999310692678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 好好沟通，控制情绪，保持理智balabala，都是老生常谈的问题。不过我是阴暗逼，看谁不顺眼就屏蔽谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 「我比你们任何人更怨恨自己的性别认同」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 888,
+          "like_count": 2304,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 6832
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-27T06:07:16.000Z",
+        "description": "对我这种很难相信别人也没什么社交需求的人来说简介似乎没必要？       硬要有的话，可以叫我狐狸或者lux, intp，给我分享地狱笑话，或者夸夸我的桃宝会让我很开心",
+        "id": "901687537281982464",
+        "location": "Moon",
+        "name": "小蘑菇的饲养狐",
+        "pinned_tweet_id": "1675176177693261825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671008597323681797/jApYecyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 238,
+          "like_count": 18344,
+          "listed_count": 3,
+          "media_count": 1293,
+          "tweet_count": 12288
+        },
+        "username": "Luxferre223",
+        "verified": false
+      }
+    ]
+  }
+}

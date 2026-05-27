@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059144708576714793",
+    "created_at": "2026-05-26T07:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059178820943458517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1854224109011664896",
+          "start": 0,
+          "username": "A5Tr41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059178820943458517",
+    "in_reply_to_user_id": "1854224109011664896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059177832052605143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5Tr41 找不到更牢固的点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059144708576714793",
+        "created_at": "2026-05-26T07:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059178820943458517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059178820943458517",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059177832052605143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 找不到更牢固的点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854224109011664896",
+        "conversation_id": "2059144708576714793",
+        "created_at": "2026-05-26T07:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059177832052605143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059177832052605143",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059144708576714793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 用这个啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 922,
+          "like_count": 2403,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 7722
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "✨痛苦是存在的证明吗✨  @sayoricat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "sayoricat8964"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "☁️🪼",
+        "pinned_tweet_id": "1985437363196346747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989485324633006080/rC_z4dd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 102,
+          "like_count": 886,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 3423
+        },
+        "username": "A5Tr41",
+        "verified": false
+      }
+    ]
+  }
+}

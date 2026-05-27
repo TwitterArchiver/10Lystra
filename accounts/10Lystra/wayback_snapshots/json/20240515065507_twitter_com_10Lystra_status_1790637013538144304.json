@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "1790436711492649176",
+    "created_at": "2024-05-15T06:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T07:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790637013538144304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1625403583649705986",
+          "start": 0,
+          "username": "yuxo0004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790637013538144304",
+    "in_reply_to_user_id": "1625403583649705986",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790436711492649176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuxo0004 转了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "1790436711492649176",
+        "created_at": "2024-05-15T06:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T07:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790637013538144304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1625403583649705986",
+              "start": 0,
+              "username": "yuxo0004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790637013538144304",
+        "in_reply_to_user_id": "1625403583649705986",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790436711492649176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxo0004 转了🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1625403583649705986",
+        "conversation_id": "1790436711492649176",
+        "created_at": "2024-05-14T17:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T18:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790436711492649176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790436711492649176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10419,
+          "like_count": 57,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "举办一个抽奖\n关注➕转发 600fo抽\n一人5⃣️盒白云山\n两人红包13.14r\n没人看我就删了 白云山可换成现金55r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "精神病院在逃患者 中抑重焦 ADHD 喜歡貓貓 休學中",
+        "id": "1692075579850563584",
+        "location": "星穹列車",
+        "name": "玖璋Lystra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714090477572505601/e3Hpbsyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 78,
+          "listed_count": 0,
+          "tweet_count": 194
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T07:56:41.000Z",
+        "description": "od/是精神衰弱的傻逼 /泛性恋/4i/s/ 穿孔/聊天请过🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuziixo",
+                "end": 23,
+                "expanded_url": "https://t.me/yuziixo",
+                "start": 0,
+                "url": "https://t.co/c6YfTbd9JY"
+              }
+            ]
+          }
+        },
+        "id": "1625403583649705986",
+        "location": "坐标20靴靴",
+        "name": "郁子",
+        "pinned_tweet_id": "1755476041102184877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784337849749590016/5XfvtNA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 258,
+          "like_count": 1076,
+          "listed_count": 1,
+          "tweet_count": 783
+        },
+        "url": "https://t.co/c6YfTbd9JY",
+        "username": "yuxo0004",
+        "verified": false
+      }
+    ]
+  }
+}
