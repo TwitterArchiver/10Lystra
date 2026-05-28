@@ -6,5 +6,14 @@
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "pinned": "1921501230049677322"
+  "pinned": "1921501230049677322",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 79,
+        "start": 68,
+        "username": "Dangdangpi"
+      }
+    ]
+  }
 }
