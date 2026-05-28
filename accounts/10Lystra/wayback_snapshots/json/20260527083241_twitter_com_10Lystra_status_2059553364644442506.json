@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059476176121254149",
+    "created_at": "2026-05-27T08:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059553364644442506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1200403591275646978",
+          "start": 0,
+          "username": "naverfgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059553364644442506",
+    "in_reply_to_user_id": "1200403591275646978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059552774266999123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naverfgt 就好像hrt了所有人都开绿灯了一样..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059476176121254149",
+        "created_at": "2026-05-27T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059553364644442506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1200403591275646978",
+              "start": 0,
+              "username": "naverfgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059553364644442506",
+        "in_reply_to_user_id": "1200403591275646978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059552774266999123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naverfgt 就好像hrt了所有人都开绿灯了一样..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1200403591275646978",
+        "conversation_id": "2059476176121254149",
+        "created_at": "2026-05-27T08:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059552774266999123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059552774266999123",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059476176121254149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 那不然呢？😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 923,
+          "like_count": 2411,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 7781
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-29T13:18:22.000Z",
+        "description": "フェックアカじゃない!!",
+        "id": "1200403591275646978",
+        "name": "NAVERFGT",
+        "pinned_tweet_id": "1516068564343656454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1200403756363456515/DuOjC98G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 825,
+          "like_count": 14463,
+          "listed_count": 14,
+          "media_count": 162,
+          "tweet_count": 14163
+        },
+        "username": "naverfgt",
+        "verified": false
+      }
+    ]
+  }
+}

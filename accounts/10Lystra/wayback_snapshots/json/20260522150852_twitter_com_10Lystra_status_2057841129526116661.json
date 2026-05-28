@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774535133028352",
+          "name": "Pep Guardiola"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226203856637952",
+          "name": "Manchester City"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "id": "733774535133028352",
+          "name": "Pep Guardiola"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226203856637952",
+          "name": "Manchester City"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774535133028352",
+          "name": "Pep Guardiola"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285942425861545984",
+          "name": "Sports figures"
+        }
+      }
+    ],
+    "conversation_id": "2057841129526116661",
+    "created_at": "2026-05-22T15:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057841129526116661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "14573900",
+          "start": 3,
+          "username": "ManCity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057841129526116661",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9491
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057768565973934097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ManCity: Pep Guardiola 🐐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Coach like 'Bill Belichick'",
+              "id": "93",
+              "name": "Coach"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2057841129526116661",
+        "created_at": "2026-05-22T15:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057841129526116661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "14573900",
+              "start": 3,
+              "username": "ManCity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057841129526116661",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9491
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057768565973934097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ManCity: Pep Guardiola 🐐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14573900",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Coach like 'Bill Belichick'",
+              "id": "93",
+              "name": "Coach"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226203856637952",
+              "name": "Manchester City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774535133028352",
+              "name": "Pep Guardiola"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2057768565973934097",
+        "created_at": "2026-05-22T10:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057768565973934097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057768565973934097",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 689542,
+          "like_count": 58133,
+          "quote_count": 262,
+          "reply_count": 696,
+          "retweet_count": 9491
+        },
+        "reply_settings": "everyone",
+        "text": "Pep Guardiola 🐐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 908,
+          "like_count": 2381,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 7597
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-28T19:28:08.000Z",
+        "description": "Est. 1894 🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.mancity.com",
+                "end": 23,
+                "expanded_url": "http://bio.mancity.com",
+                "start": 0,
+                "url": "https://t.co/0WG3Wn7zQd"
+              }
+            ]
+          }
+        },
+        "id": "14573900",
+        "location": "Etihad Stadium",
+        "name": "Manchester City",
+        "pinned_tweet_id": "2057765929799348410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988659455366500352/RbDXMQEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17773546,
+          "following_count": 46102,
+          "like_count": 17065,
+          "listed_count": 20060,
+          "media_count": 70036,
+          "tweet_count": 178494
+        },
+        "url": "https://t.co/0WG3Wn7zQd",
+        "username": "ManCity",
+        "verified": true
+      }
+    ]
+  }
+}

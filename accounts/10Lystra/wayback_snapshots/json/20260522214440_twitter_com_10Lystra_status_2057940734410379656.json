@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2057940734410379656",
+    "created_at": "2026-05-22T21:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T22:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057940734410379656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bushi11f/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bushi11f/status/2057640628587278794",
+          "start": 4,
+          "url": "https://t.co/YBaGOVnQJQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057940734410379656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057640628587278794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起 https://t.co/YBaGOVnQJQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2057940734410379656",
+        "created_at": "2026-05-22T21:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057940734410379656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bushi11f/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bushi11f/status/2057640628587278794",
+              "start": 4,
+              "url": "https://t.co/YBaGOVnQJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057940734410379656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057640628587278794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起 https://t.co/YBaGOVnQJQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939704603882504193",
+        "conversation_id": "2057640628587278794",
+        "created_at": "2026-05-22T01:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057640628587278794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057640628587278794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 34898,
+          "like_count": 1126,
+          "quote_count": 20,
+          "reply_count": 105,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "20岁，还在房间里意淫幸福。20岁还在用眼泪解决问题。20岁，还在责备命运不公。20岁，还是一个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 908,
+          "like_count": 2384,
+          "listed_count": 4,
+          "media_count": 305,
+          "tweet_count": 7614
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel",
+        "id": "1939704603882504193",
+        "name": "11f",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939704841112293376/UWwdrnVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 22,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 244
+        },
+        "username": "bushi11f",
+        "verified": false
+      }
+    ]
+  }
+}
