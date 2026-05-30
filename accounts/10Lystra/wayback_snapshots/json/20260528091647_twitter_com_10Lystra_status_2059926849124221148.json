@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059873225975464186",
+    "created_at": "2026-05-28T09:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059926849124221148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059926849124221148",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059873225975464186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liver_MST 好事，我想换镜框了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059873225975464186",
+        "created_at": "2026-05-28T09:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059926849124221148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059926849124221148",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059873225975464186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST 好事，我想换镜框了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751240173650935808",
+        "conversation_id": "2059873225975464186",
+        "created_at": "2026-05-28T05:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059873225975464186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liver_mst/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/liver_mst/status/2059851267451810192",
+              "start": 47,
+              "url": "https://t.co/uE2UuFNARV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059873225975464186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059851267451810192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我怎么把自己拍这么好看，这张真是越看越喜欢，又可怜又可爱的🤤🤤🤤，我觉得我的容貌焦虑好了！ https://t.co/uE2UuFNARV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 941,
+          "like_count": 2439,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 7892
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎互fo/🇨🇳简体中文/🇹🇼繁體中文/🇬🇧🇺🇸English/🇯🇵 日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2040601848730751287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 533,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 986
+        },
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

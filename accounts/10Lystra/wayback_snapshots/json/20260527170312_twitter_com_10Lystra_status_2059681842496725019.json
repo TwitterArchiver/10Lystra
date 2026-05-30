@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059300057476927734",
+    "created_at": "2026-05-27T17:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059681842496725019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059681842496725019",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059300057476927734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 是好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1863,
+        "media_key": "3_2059300054482214912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQafSla4AAuzeC.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1524,
+        "media_key": "3_2059300054461227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQafSgaoAAlEb4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059300057476927734",
+        "created_at": "2026-05-27T17:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059681842496725019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059681842496725019",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059300057476927734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 是好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059300054482214912",
+            "3_2059300054461227008"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2059300057476927734",
+        "created_at": "2026-05-26T15:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059300057476927734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QTxyl2bcH",
+              "end": 32,
+              "expanded_url": "https://x.com/sjshb57/status/2059300057476927734/photo/1",
+              "media_key": "3_2059300054482214912",
+              "start": 9,
+              "url": "https://t.co/0QTxyl2bcH"
+            },
+            {
+              "display_url": "pic.x.com/0QTxyl2bcH",
+              "end": 32,
+              "expanded_url": "https://x.com/sjshb57/status/2059300057476927734/photo/1",
+              "media_key": "3_2059300054461227008",
+              "start": 9,
+              "url": "https://t.co/0QTxyl2bcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059300057476927734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1253,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日进度十一人！ https://t.co/0QTxyl2bcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 937,
+          "like_count": 2429,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 7861
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 影子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 405,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059597931049841028",
+    "created_at": "2026-05-28T09:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059928640394031191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1712431392184016896",
+          "start": 0,
+          "username": "Thuthuy1250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059928640394031191",
+    "in_reply_to_user_id": "1712431392184016896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059597931049841028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thuthuy1250 来点普瑞巴林"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2059597928298430464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUpZ1BbwAAzRo7.jpg",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059597931049841028",
+        "created_at": "2026-05-28T09:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059928640394031191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1712431392184016896",
+              "start": 0,
+              "username": "Thuthuy1250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059928640394031191",
+        "in_reply_to_user_id": "1712431392184016896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059597931049841028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thuthuy1250 来点普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059597928298430464"
+          ]
+        },
+        "author_id": "1712431392184016896",
+        "conversation_id": "2059597931049841028",
+        "created_at": "2026-05-27T11:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059597931049841028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzH3vgf3Kx",
+              "end": 106,
+              "expanded_url": "https://x.com/Thuthuy1250/status/2059597931049841028/photo/1",
+              "media_key": "3_2059597928298430464",
+              "start": 83,
+              "url": "https://t.co/GzH3vgf3Kx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059597931049841028",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 1126686,
+          "like_count": 1337,
+          "quote_count": 0,
+          "reply_count": 365,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Tư nhiên ban t bị cái này nổi lên, có ai biết là gì không? Nó đang tăng dần dần... https://t.co/GzH3vgf3Kx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 941,
+          "like_count": 2440,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 7896
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T11:34:08.000Z",
+        "description": "",
+        "id": "1712431392184016896",
+        "name": "Thu thuy",
+        "pinned_tweet_id": "2059604758017794362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712431525629923328/N13aGIvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12390,
+          "following_count": 199,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 13
+        },
+        "username": "Thuthuy1250",
+        "verified": false
+      }
+    ]
+  }
+}

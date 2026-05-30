@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059600680034189749",
+    "created_at": "2026-05-27T12:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059613183300575664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036071254873276416",
+          "start": 0,
+          "username": "renyue105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059613183300575664",
+    "in_reply_to_user_id": "2036071254873276416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059600680034189749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renyue105 任成轩干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059600680034189749",
+        "created_at": "2026-05-27T12:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059613183300575664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059613183300575664",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059600680034189749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 任成轩干的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2059600680034189749",
+        "created_at": "2026-05-27T11:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059600680034189749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059600680034189749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家对跨性别的恶意好大好大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 928,
+          "like_count": 2424,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 7839
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059457055639879686/3fa8Ch4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 66,
+          "like_count": 3397,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 3013
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

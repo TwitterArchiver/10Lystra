@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059476176121254149",
+    "created_at": "2026-05-27T08:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059559099742801959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Octocat01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059559099742801959",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059558585408131186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Octocat01 是的睾酮坏坏。。可我身边好多姐妹甚至不hrt也从来不会用男性的方式自慰。。我觉得心理因素是强于激素因素的，因为激素只是影响心理，真正表现出来的更多的还是一个人心里根本的认同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059476176121254149",
+        "created_at": "2026-05-27T08:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059559099742801959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Octocat01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059559099742801959",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059558585408131186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Octocat01 是的睾酮坏坏。。可我身边好多姐妹甚至不hrt也从来不会用男性的方式自慰。。我觉得心理因素是强于激素因素的，因为激素只是影响心理，真正表现出来的更多的还是一个人心里根本的认同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2059476176121254149",
+        "created_at": "2026-05-27T08:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059558585408131186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059558585408131186",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059558288329457938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 但我们都应该hrt，因为实际上睾酮才是极坏的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 923,
+          "like_count": 2412,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 7795
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "ゲームをするのが好きです...🍰",
+        "id": "2015624869665456129",
+        "location": "iceland",
+        "name": "干物妹！サメサメ🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021916387657363460/3TeRpEVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 128
+        },
+        "username": "Octocat01",
+        "verified": false
+      }
+    ]
+  }
+}

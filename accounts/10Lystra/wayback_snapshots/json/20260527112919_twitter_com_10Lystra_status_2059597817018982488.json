@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059411427300159728",
+    "created_at": "2026-05-27T11:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059597817018982488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956724571475947520",
+          "start": 0,
+          "username": "Dqy2jl79EO72974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059597817018982488",
+    "in_reply_to_user_id": "1956724571475947520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059411427300159728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dqy2jl79EO72974 是这样的，而且也压根没什么走马灯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059411427300159728",
+        "created_at": "2026-05-27T11:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059597817018982488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956724571475947520",
+              "start": 0,
+              "username": "Dqy2jl79EO72974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059597817018982488",
+        "in_reply_to_user_id": "1956724571475947520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059411427300159728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dqy2jl79EO72974 是这样的，而且也压根没什么走马灯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956724571475947520",
+        "conversation_id": "2059411427300159728",
+        "created_at": "2026-05-26T23:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059411427300159728"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "低位自缢"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "自杀"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "上吊"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059411427300159728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2337,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好吧。低位自缢是真的一点痛感都没有。嗯眼前黑黑的。然后我感觉。我像灵魂出窍一样。就跟我嗑药的感觉一样。感觉我自己要飞出去了。我手脚都是麻麻的。。还有就是。突然感觉很害怕 。？#低位自缢 #自杀 #上吊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 926,
+          "like_count": 2422,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 7833
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:28:37.000Z",
+        "description": "我們吞咽了太多意義忘記了生命只需要呼吸",
+        "id": "1956724571475947520",
+        "name": "不言",
+        "pinned_tweet_id": "2057855256663613639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041946258483638274/qIGMJJbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 432,
+          "like_count": 2462,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 426
+        },
+        "username": "Dqy2jl79EO72974",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059713776526438620",
+    "created_at": "2026-05-27T20:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T21:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059736010540400676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1619331344705916931",
+          "start": 0,
+          "username": "Mikasuda765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059736010540400676",
+    "in_reply_to_user_id": "1619331344705916931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059730274330739130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikasuda765 你俩也这个点不睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059713776526438620",
+        "created_at": "2026-05-27T20:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059736010540400676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1619331344705916931",
+              "start": 0,
+              "username": "Mikasuda765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059736010540400676",
+        "in_reply_to_user_id": "1619331344705916931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059730274330739130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikasuda765 你俩也这个点不睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619331344705916931",
+        "conversation_id": "2059713776526438620",
+        "created_at": "2026-05-27T20:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059730274330739130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059730274330739130",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059713776526438620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 是好孩子呢~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 939,
+          "like_count": 2437,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 7876
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T13:47:43.000Z",
+        "description": "无趣之人，以前挺有意思（也许……/一个笨蛋",
+        "id": "1619331344705916931",
+        "location": "猫窝",
+        "name": "寄生铃兰",
+        "pinned_tweet_id": "1911568567470002635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059711828922646528/mSicUfQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 2705,
+          "like_count": 1831,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 649
+        },
+        "username": "Mikasuda765",
+        "verified": false
+      }
+    ]
+  }
+}

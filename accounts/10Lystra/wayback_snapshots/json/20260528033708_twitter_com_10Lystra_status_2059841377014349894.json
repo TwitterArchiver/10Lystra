@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059839087373418496"
+      ],
+      "media_source_tweet_id": [
+        "2059839090544218535"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059841377014349894",
+    "created_at": "2026-05-28T03:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059841377014349894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440268407249649668",
+          "start": 3,
+          "username": "sjshb57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJo1MTPBev",
+          "end": 77,
+          "expanded_url": "https://x.com/sjshb57/status/2059839090544218535/photo/1",
+          "media_key": "3_2059839087373418496",
+          "start": 54,
+          "url": "https://t.co/hJo1MTPBev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059841377014349894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059839090544218535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjshb57: 42.52美刀....感谢百分百减免\n谁可以贡献vps代理服务器的可以联系下我（ https://t.co/hJo1MTPBev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2082,
+        "media_key": "3_2059839087373418496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYEvIlbgAA9sZP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059839087373418496"
+          ],
+          "media_source_tweet_id": [
+            "2059839090544218535"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059841377014349894",
+        "created_at": "2026-05-28T03:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059841377014349894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440268407249649668",
+              "start": 3,
+              "username": "sjshb57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJo1MTPBev",
+              "end": 77,
+              "expanded_url": "https://x.com/sjshb57/status/2059839090544218535/photo/1",
+              "media_key": "3_2059839087373418496",
+              "start": 54,
+              "url": "https://t.co/hJo1MTPBev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059841377014349894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059839090544218535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjshb57: 42.52美刀....感谢百分百减免\n谁可以贡献vps代理服务器的可以联系下我（ https://t.co/hJo1MTPBev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059839087373418496"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2059839090544218535",
+        "created_at": "2026-05-28T03:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059839090544218535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJo1MTPBev",
+              "end": 64,
+              "expanded_url": "https://x.com/sjshb57/status/2059839090544218535/photo/1",
+              "media_key": "3_2059839087373418496",
+              "start": 41,
+              "url": "https://t.co/hJo1MTPBev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059839090544218535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "42.52美刀....感谢百分百减免\n谁可以贡献vps代理服务器的可以联系下我（ https://t.co/hJo1MTPBev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 939,
+          "like_count": 2437,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 7881
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 影子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 413,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}
