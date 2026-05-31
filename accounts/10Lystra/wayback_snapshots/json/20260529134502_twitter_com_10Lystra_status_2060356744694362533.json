@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2060270016155754577",
+    "created_at": "2026-05-29T13:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060356744694362533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856374549736239106",
+          "start": 0,
+          "username": "xunxiaoxiao81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060356744694362533",
+    "in_reply_to_user_id": "1856374549736239106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060270016155754577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunxiaoxiao81 有微商也有试剂代购说是，别买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2060270016155754577",
+        "created_at": "2026-05-29T13:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060356744694362533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856374549736239106",
+              "start": 0,
+              "username": "xunxiaoxiao81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060356744694362533",
+        "in_reply_to_user_id": "1856374549736239106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060270016155754577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunxiaoxiao81 有微商也有试剂代购说是，别买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856374549736239106",
+        "conversation_id": "2060270016155754577",
+        "created_at": "2026-05-29T08:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060270016155754577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060270016155754577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操了你们都是从哪买来的亚硝酸钠啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 960,
+          "like_count": 2451,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 7950
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T16:33:08.000Z",
+        "description": "MtF/X 深柜 墙内不太方便表达，推上就是个发癫用的账号了……\n爱大家",
+        "id": "1856374549736239106",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "寻小小🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059265211140628480/H5bnzVuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "xunxiaoxiao81",
+        "verified": false
+      }
+    ]
+  }
+}

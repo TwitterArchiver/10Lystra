@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060290329534713865"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2060290346097995860",
+    "created_at": "2026-05-29T09:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060290346097995860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WPeMUdMHGG",
+          "end": 68,
+          "expanded_url": "https://x.com/10Lystra/status/2060290346097995860/photo/1",
+          "media_key": "3_2060290329534713865",
+          "start": 45,
+          "url": "https://t.co/WPeMUdMHGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060290346097995860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我敢自拍了我敢照镜子了\n我没有那么讨厌自己的脸了\n突然很害怕它从15楼掉下去会血肉模糊的 https://t.co/WPeMUdMHGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2060290329534713865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJefI4oW0AkwPIR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060290329534713865"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2060290346097995860",
+        "created_at": "2026-05-29T09:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060290346097995860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPeMUdMHGG",
+              "end": 68,
+              "expanded_url": "https://x.com/10Lystra/status/2060290346097995860/photo/1",
+              "media_key": "3_2060290329534713865",
+              "start": 45,
+              "url": "https://t.co/WPeMUdMHGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060290346097995860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我敢自拍了我敢照镜子了\n我没有那么讨厌自己的脸了\n突然很害怕它从15楼掉下去会血肉模糊的 https://t.co/WPeMUdMHGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 951,
+          "like_count": 2443,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 7935
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2060390542517973387",
+    "created_at": "2026-05-29T18:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060432020468117845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Oyama_Mihari01"
+        },
+        {
+          "end": 23,
+          "id": "1998647355839754240",
+          "start": 16,
+          "username": "VonJu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060432020468117845",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060403137656369456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Mihari01 @VonJu0 价值洼地可以理解成潜力股的意思（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2060390542517973387",
+        "created_at": "2026-05-29T18:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060432020468117845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Oyama_Mihari01"
+            },
+            {
+              "end": 23,
+              "id": "1998647355839754240",
+              "start": 16,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060432020468117845",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060403137656369456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Mihari01 @VonJu0 价值洼地可以理解成潜力股的意思（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2060390542517973387",
+        "created_at": "2026-05-29T16:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060403137656369456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1998647355839754240",
+              "start": 0,
+              "username": "VonJu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060403137656369456",
+        "in_reply_to_user_id": "1998647355839754240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060402715562529069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonJu0 何か意味？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 969,
+          "like_count": 2467,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 7989
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "女子力の高い女の子💕| 写真家 📸| クリア系🌈| 音楽と日常 🎼| Pansexuality🌊\n• JP / EN / 中文 OK!\n• LGBTQフレンドリー\n• 気軽にフォローしてください！ ˗ˏˋ♥︎︎ˎˊ˗\n~ Thanks for the love₊⁺♡₊⁺~\n^ ̳- ‧̫ • ̳^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kingyosama?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kingyosama?igsh=MWc5Z3JoNTA3ampmeQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gQ3LtlxQgH"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🍥🌈",
+        "pinned_tweet_id": "2060300733166260501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 303,
+          "like_count": 446,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/gQ3LtlxQgH",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T06:54:05.000Z",
+        "description": "06大学生  211在读 沉默的观察者\n\n真实思考 观点输出 人生讨论 社会热点 美股投资",
+        "id": "1998647355839754240",
+        "location": "Los Angeles, CA",
+        "name": "vonju",
+        "pinned_tweet_id": "2059557556637651274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050137749106425856/cHbj5-zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 258,
+          "like_count": 1743,
+          "listed_count": 6,
+          "media_count": 60,
+          "tweet_count": 1805
+        },
+        "username": "VonJu0",
+        "verified": true
+      }
+    ]
+  }
+}

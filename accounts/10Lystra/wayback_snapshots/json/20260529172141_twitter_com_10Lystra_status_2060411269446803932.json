@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2060382794250121237",
+    "created_at": "2026-05-29T17:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060411269446803932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1473342562656153602",
+          "start": 0,
+          "username": "DD4594"
+        },
+        {
+          "end": 18,
+          "id": "1919296206381170688",
+          "start": 8,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060411269446803932",
+    "in_reply_to_user_id": "1473342562656153602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060391111773090212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DD4594 @juhao0721 我怎么感觉有些高中生已经是这个长相了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2060382794250121237",
+        "created_at": "2026-05-29T17:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060411269446803932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1473342562656153602",
+              "start": 0,
+              "username": "DD4594"
+            },
+            {
+              "end": 18,
+              "id": "1919296206381170688",
+              "start": 8,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060411269446803932",
+        "in_reply_to_user_id": "1473342562656153602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060391111773090212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DD4594 @juhao0721 我怎么感觉有些高中生已经是这个长相了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473342562656153602",
+        "conversation_id": "2060382794250121237",
+        "created_at": "2026-05-29T16:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060391111773090212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060391111773090212",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060382794250121237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 甚至这个大叔看起来都没那么辣眼睛，比那些平头寸头一点朝气都没有的高中做题区还稍微能看过去一些😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 962,
+          "like_count": 2463,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 7983
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T17:20:39.000Z",
+        "description": "记录生活发着玩！欢迎私信扩列QQ:242049313",
+        "id": "1473342562656153602",
+        "location": "郑州",
+        "name": "肥猫",
+        "pinned_tweet_id": "1993737799972143514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038654023918927872/gGzU-ia5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 3008,
+          "like_count": 1527,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 1391
+        },
+        "username": "DD4594",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "有舞萌DX附近的吗\n♥️@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "不知道",
+        "name": "猪基蛤",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058489943731965952/1TZ696_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4272,
+          "following_count": 108,
+          "like_count": 2803,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 1363
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}
