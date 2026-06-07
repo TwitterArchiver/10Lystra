@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2060740694638239868",
+    "created_at": "2026-05-30T23:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T00:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060864274667307276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060864274667307276",
+    "in_reply_to_user_id": "193648759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060740694638239868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 很美..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1866,
+        "height": 2688,
+        "media_key": "13_2060740641609715712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060740641609715712/img/qS_fEc7qOk6zx748.jpg",
+        "public_metrics": {
+          "view_count": 412
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060740641609715712/vid/avc1/720x1280/hjc6696C6Aqeym0H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060740641609715712/vid/avc1/480x852/sqkogf-hp7GLBIeV.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060740641609715712/vid/avc1/1512x2688/cO9xwn5LxSzgUol2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060740641609715712/pl/3LKQUFclmXdz6-xE.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060740641609715712/vid/avc1/1080x1920/PzHJEaxVqXhAkqI2.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060740641609715712/vid/avc1/320x568/7SNycbgKtS6vzMge.mp4"
+          }
+        ],
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2060740694638239868",
+        "created_at": "2026-05-30T23:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060864274667307276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060864274667307276",
+        "in_reply_to_user_id": "193648759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060740694638239868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 很美..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060740641609715712"
+          ]
+        },
+        "author_id": "193648759",
+        "conversation_id": "2060740694638239868",
+        "created_at": "2026-05-30T15:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060740694638239868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RL6KR0AdG8",
+              "end": 48,
+              "expanded_url": "https://x.com/ripo0079/status/2060740694638239868/video/1",
+              "media_key": "13_2060740641609715712",
+              "start": 25,
+              "url": "https://t.co/RL6KR0AdG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060740694638239868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1244,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dji、ジンバルがマジですごい\n1ミリもブレない https://t.co/RL6KR0AdG8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 982,
+          "like_count": 2489,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 8051
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11724,
+          "following_count": 1417,
+          "like_count": 73573,
+          "listed_count": 132,
+          "media_count": 4365,
+          "tweet_count": 54574
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

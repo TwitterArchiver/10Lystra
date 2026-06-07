@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2061317144730853610",
+    "created_at": "2026-06-01T07:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061348716477382829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057437830012706816",
+          "start": 0,
+          "username": "dgksjvzanzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061348716477382829",
+    "in_reply_to_user_id": "2057437830012706816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061317144730853610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dgksjvzanzt hrt和性别认同没关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2061317144730853610",
+        "created_at": "2026-06-01T07:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061348716477382829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057437830012706816",
+              "start": 0,
+              "username": "dgksjvzanzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061348716477382829",
+        "in_reply_to_user_id": "2057437830012706816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061317144730853610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dgksjvzanzt hrt和性别认同没关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057437830012706816",
+        "conversation_id": "2061317144730853610",
+        "created_at": "2026-06-01T05:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061317144730853610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061317144730853610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很多文献认为性取向是先天决定的，但是在推上可以看到很多翻车的HRT，这是否是后天的一种表现呢\n又或者说是因为社会意识形态等规训导致没有办法表达出潜在的性取向呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 990,
+          "like_count": 2495,
+          "listed_count": 5,
+          "media_count": 318,
+          "tweet_count": 8118
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T12:27:07.000Z",
+        "description": "女性主义|毛左偏中|B站同名丨可以与任何立场的友善的人互fo|友跨中🍥|性别友好|马列毛",
+        "id": "2057437830012706816",
+        "name": "东瓜看世界🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060976800696766464/dp_lJiSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 81,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "dgksjvzanzt",
+        "verified": false
+      }
+    ]
+  }
+}

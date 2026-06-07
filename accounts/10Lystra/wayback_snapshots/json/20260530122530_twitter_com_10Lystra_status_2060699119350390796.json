@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2044691403331285191",
+    "created_at": "2026-05-30T12:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060699119350390796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4751711714",
+          "start": 0,
+          "username": "PoorstarRMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060699119350390796",
+    "in_reply_to_user_id": "4751711714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060691927344034094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoorstarRMB 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2044691403331285191",
+        "created_at": "2026-05-30T12:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060699119350390796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4751711714",
+              "start": 0,
+              "username": "PoorstarRMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060699119350390796",
+        "in_reply_to_user_id": "4751711714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060691927344034094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoorstarRMB 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4751711714",
+        "conversation_id": "2044691403331285191",
+        "created_at": "2026-05-30T11:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060691927344034094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060691927344034094",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044721718686531985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 补充一下 没有说站着抽的不死的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 980,
+          "like_count": 2477,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 8025
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T05:54:33.000Z",
+        "description": "",
+        "id": "4751711714",
+        "location": "不文艺也不负",
+        "name": "文艺负星🌟",
+        "pinned_tweet_id": "2048431912382025962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054940505075838976/l-5oB7ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 304,
+          "like_count": 27037,
+          "listed_count": 7,
+          "media_count": 1745,
+          "tweet_count": 10819
+        },
+        "username": "PoorstarRMB",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061367396905123840"
+      ],
+      "media_source_tweet_id": [
+        "2061367404211622297"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2061701593976758573",
+    "created_at": "2026-06-02T06:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061701593976758573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bTYYc0ZPRD",
+          "end": 52,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2061367404211622297/photo/1",
+          "media_key": "3_2061367396905123840",
+          "start": 29,
+          "url": "https://t.co/bTYYc0ZPRD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061701593976758573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061367404211622297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 我对绝交的挚友； https://t.co/bTYYc0ZPRD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2061367396905123840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtyudQaAAAYA6B.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061367396905123840"
+          ],
+          "media_source_tweet_id": [
+            "2061367404211622297"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2061701593976758573",
+        "created_at": "2026-06-02T06:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061701593976758573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTYYc0ZPRD",
+              "end": 52,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2061367404211622297/photo/1",
+              "media_key": "3_2061367396905123840",
+              "start": 29,
+              "url": "https://t.co/bTYYc0ZPRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061701593976758573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061367404211622297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 我对绝交的挚友； https://t.co/bTYYc0ZPRD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061367396905123840"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2061367404211622297",
+        "created_at": "2026-06-01T08:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061367404211622297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTYYc0ZPRD",
+              "end": 32,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2061367404211622297/photo/1",
+              "media_key": "3_2061367396905123840",
+              "start": 9,
+              "url": "https://t.co/bTYYc0ZPRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061367404211622297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 31788,
+          "like_count": 1318,
+          "quote_count": 26,
+          "reply_count": 61,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "我对绝交的挚友； https://t.co/bTYYc0ZPRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 997,
+          "like_count": 2501,
+          "listed_count": 5,
+          "media_count": 319,
+          "tweet_count": 8171
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8577,
+          "following_count": 72,
+          "like_count": 7871,
+          "listed_count": 8,
+          "media_count": 171,
+          "tweet_count": 1865
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

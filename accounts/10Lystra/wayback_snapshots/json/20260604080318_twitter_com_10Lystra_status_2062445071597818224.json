@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2062422032466522321",
+    "created_at": "2026-06-04T08:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062445071597818224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018976131849039872",
+          "start": 0,
+          "username": "sheriyuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062445071597818224",
+    "in_reply_to_user_id": "2018976131849039872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062422032466522321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheriyuo 我二模成绩高考完才知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2062422032466522321",
+        "created_at": "2026-06-04T08:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062445071597818224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018976131849039872",
+              "start": 0,
+              "username": "sheriyuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062445071597818224",
+        "in_reply_to_user_id": "2018976131849039872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062422032466522321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheriyuo 我二模成绩高考完才知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018976131849039872",
+        "conversation_id": "2062422032466522321",
+        "created_at": "2026-06-04T06:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:31:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062421895304413273",
+          "2062422032466522321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/smiroyama/status/2062385710259433569",
+              "start": 152,
+              "url": "https://t.co/KMtJP9RJ9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062422032466522321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "首先：今天疯狂星期四微我五十\n\n你怎么知道我在 2022 年高考新高考 II 卷地狱难度的语文和数学下，第一天晚上就去网上对答案了。发现我数学 127，毫无波澜（因为我们班打数竞的也没几个 140）\n考完开始估分，语文我错了 4 个选择，最后取得了 112 的高分（真的是高分，没几个上了 110 的）\n\n我估计这辈子都要活在 2022 年高考的阴影下了，考前语文老师：我们猜一下今年是考小说还是散文\n高考：孩子们我们又考了小说又考了散文\n\n当时答题卡发下来，我发现只有 7 道选择题，直接给我下巴惊掉了，看到语言文字运用有三个横线我还以为是选择题出到那里了\n结果一看，什么叫“成语填空”，什么叫语言文字运用是浙江卷《呼兰河传》\n\n考完估分的时候，语文老师：看吧，你们这些人刷了一百套语文卷子(我)有什么用，全部被新题虐死了吧\n当时我文化课特别不会语文，然后我逼自己不管怎么样一天一定要刷一套语文卷子，导致我模考能语文全班第一和倒数第一神鬼二象性，把我语文老师气死了\n\n上课看《科幻世界》《萌芽》《看天下》是训练语文写作对吧，我可不是在看课外书啊（\n我估摸着我的语文作文是 55+，不然不可能有这个分\n我好似那个训练过拟合的模型，遇到 OOD 就泛化爆炸了，据说高考命题会故意不出教辅上面有的题型，并且高考训练就是在用旧考题去拟合新高考，纯纯的丁真\n\n就算我如此会写作文，我也没有任何语文文学天赋，我只是会写八股文而已，正如我写我的 paper（\n如果真的有今年高考的，我劝你别对答案，你没我这么大心脏，我每次考试都对答案"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1437,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062385710259433569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先：今天疯狂星期四微我五十\n\n你怎么知道我在 2022 年高考新高考 II 卷地狱难度的语文和数学下，第一天晚上就去网上对答案了。发现我数学 127，毫无波澜（因为我们班打数竞的也没几个 140）\n考完开始估分，语文我错了 4 个选择，最后取得了 112 的高分（真的是高分，没几个上了 110 的） https://t.co/KMtJP9RJ9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1018,
+          "like_count": 2549,
+          "listed_count": 5,
+          "media_count": 323,
+          "tweet_count": 8299
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Undergrad @RUC1937 | RL, Optimization, dLLM | Intern @JD_Corporate | Applying for Fall 27 PhD | Friend @dviolettchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "RUC1937"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2061382777623519284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8421,
+          "following_count": 1299,
+          "like_count": 10462,
+          "listed_count": 58,
+          "media_count": 269,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      }
+    ]
+  }
+}

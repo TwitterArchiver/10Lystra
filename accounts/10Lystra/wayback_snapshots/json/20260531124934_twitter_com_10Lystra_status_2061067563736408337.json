@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2061067563736408337",
+    "created_at": "2026-05-31T12:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061067563736408337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaogtg521/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xiaogtg521/status/2060950339634004319",
+          "start": 7,
+          "url": "https://t.co/aS5pDyp524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061067563736408337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060950339634004319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样... https://t.co/aS5pDyp524"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2061067563736408337",
+        "created_at": "2026-05-31T12:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061067563736408337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaogtg521/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xiaogtg521/status/2060950339634004319",
+              "start": 7,
+              "url": "https://t.co/aS5pDyp524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061067563736408337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060950339634004319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样... https://t.co/aS5pDyp524"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363431990490357760",
+        "conversation_id": "2060950339634004319",
+        "created_at": "2026-05-31T05:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060950339634004319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060950339634004319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 50800,
+          "like_count": 1168,
+          "quote_count": 26,
+          "reply_count": 129,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得妻子睡着是件很可怕的事情吗，这意味着她突然就抛下你去到了一个完全不对你开放的隐秘的封闭的个人空间，谁知道她在里面有没有想过要离婚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 988,
+          "like_count": 2493,
+          "listed_count": 5,
+          "media_count": 317,
+          "tweet_count": 8093
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:15:05.000Z",
+        "description": "睡觉了。",
+        "id": "1363431990490357760",
+        "name": "次犬",
+        "pinned_tweet_id": "2058830421543321956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059793309040869376/RlBypy9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3791,
+          "following_count": 360,
+          "like_count": 1930,
+          "listed_count": 7,
+          "media_count": 36,
+          "tweet_count": 1290
+        },
+        "username": "xiaogtg521",
+        "verified": false
+      }
+    ]
+  }
+}

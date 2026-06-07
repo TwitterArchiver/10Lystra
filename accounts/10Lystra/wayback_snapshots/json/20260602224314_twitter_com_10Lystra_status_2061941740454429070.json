@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2061822676759445665",
+    "created_at": "2026-06-02T22:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061941740454429070"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "冻肉差不多得了"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1184498096",
+          "start": 0,
+          "username": "BasuriaDiaspora"
+        },
+        {
+          "end": 26,
+          "id": "193648759",
+          "start": 17,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061941740454429070",
+    "in_reply_to_user_id": "1184498096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061862055137951752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BasuriaDiaspora @ripo0079 #冻肉差不多得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2061822676759445665",
+        "created_at": "2026-06-02T22:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061941740454429070"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "冻肉差不多得了"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1184498096",
+              "start": 0,
+              "username": "BasuriaDiaspora"
+            },
+            {
+              "end": 26,
+              "id": "193648759",
+              "start": 17,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061941740454429070",
+        "in_reply_to_user_id": "1184498096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061862055137951752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BasuriaDiaspora @ripo0079 #冻肉差不多得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1184498096",
+        "conversation_id": "2061822676759445665",
+        "created_at": "2026-06-02T17:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061862055137951752"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "跨畜差不多得了"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061862055137951752",
+        "in_reply_to_user_id": "193648759",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1432,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822676759445665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 #跨畜差不多得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 1003,
+          "like_count": 2505,
+          "listed_count": 5,
+          "media_count": 319,
+          "tweet_count": 8185
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-16T03:17:39.000Z",
+        "description": "",
+        "id": "1184498096",
+        "name": "Fringe Basuria Diaspora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866984080501542912/wsQKEWpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 443,
+          "like_count": 308,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 4142
+        },
+        "username": "BasuriaDiaspora",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11728,
+          "following_count": 1417,
+          "like_count": 73702,
+          "listed_count": 131,
+          "media_count": 4401,
+          "tweet_count": 54676
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2062065587841565073",
+    "created_at": "2026-06-03T07:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062072316217929880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1108658732295028737",
+          "start": 0,
+          "username": "hatachi0525"
+        },
+        {
+          "end": 26,
+          "id": "1519649212736049152",
+          "start": 13,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062072316217929880",
+    "in_reply_to_user_id": "1108658732295028737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062065587841565073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatachi0525 @Mark67358226 天才"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16368,
+        "height": 960,
+        "media_key": "7_2062064770250108928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062064770250108928/pu/img/WqPwwnlitIWwdOA8.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/vid/avc1/320x426/aS-c_yZV1X4LLUn7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/vid/avc1/480x640/gRaMkk3_umkB2wJT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/vid/avc1/720x960/7jaVvnUSTvE06YLF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062064770250108928/pu/pl/YjA6fLXb2LfFLqFf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2062065587841565073",
+        "created_at": "2026-06-03T07:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062072316217929880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108658732295028737",
+              "start": 0,
+              "username": "hatachi0525"
+            },
+            {
+              "end": 26,
+              "id": "1519649212736049152",
+              "start": 13,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062072316217929880",
+        "in_reply_to_user_id": "1108658732295028737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062065587841565073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatachi0525 @Mark67358226 天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062064770250108928"
+          ]
+        },
+        "author_id": "1108658732295028737",
+        "conversation_id": "2062065587841565073",
+        "created_at": "2026-06-03T06:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:52:12.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062064793889198555",
+          "2062065308303790087",
+          "2062065587841565073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1519649212736049152",
+              "start": 6,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmRHExNIDj",
+              "end": 61,
+              "expanded_url": "https://x.com/hatachi0525/status/2062065587841565073/video/1",
+              "media_key": "7_2062064770250108928",
+              "start": 38,
+              "url": "https://t.co/EmRHExNIDj"
+            },
+            {
+              "display_url": "x.com/Mark67358226/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Mark67358226/status/2061780080725017036",
+              "start": 62,
+              "url": "https://t.co/C5KMgETNsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062065587841565073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061780080725017036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "來 上教學\n@Mark67358226 \n但我自己是切藥器派的，一拍就好了 https://t.co/EmRHExNIDj https://t.co/C5KMgETNsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 1008,
+          "like_count": 2508,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 8217
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私 因為自主fo我會看文章內容",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2059704438118613178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059730096697782272/UItS3II-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 87,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 418
+        },
+        "username": "hatachi0525",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 950,
+          "like_count": 13516,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 2936
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

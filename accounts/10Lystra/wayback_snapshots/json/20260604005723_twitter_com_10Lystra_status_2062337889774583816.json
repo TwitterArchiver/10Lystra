@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2062337889774583816",
+    "created_at": "2026-06-04T00:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062337889774583816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mati8965107232…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/mati8965107232/status/2062281849108578560",
+          "start": 55,
+          "url": "https://t.co/6HGic0rw7u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062337889774583816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062281849108578560",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上来骂人傻逼也算是很理智不偏激的举措了。倘若当年的石墙无人敢发声，那世界又将会是何等光景？我认为是好跳多跳。 https://t.co/6HGic0rw7u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 260,
+        "media_key": "3_2062281846281674752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6yaapbIAAd_FZ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2062337889774583816",
+        "created_at": "2026-06-04T00:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062337889774583816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mati8965107232…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/mati8965107232/status/2062281849108578560",
+              "start": 55,
+              "url": "https://t.co/6HGic0rw7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062337889774583816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062281849108578560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上来骂人傻逼也算是很理智不偏激的举措了。倘若当年的石墙无人敢发声，那世界又将会是何等光景？我认为是好跳多跳。 https://t.co/6HGic0rw7u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062281846281674752"
+          ]
+        },
+        "author_id": "1883687797904797696",
+        "conversation_id": "2062037721850224851",
+        "created_at": "2026-06-03T21:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062281849108578560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBsTHSKb2Y",
+              "end": 72,
+              "expanded_url": "https://x.com/MATI8965107232/status/2062281849108578560/photo/1",
+              "media_key": "3_2062281846281674752",
+              "start": 49,
+              "url": "https://t.co/JBsTHSKb2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062281849108578560",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062037721850224851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 傻逼吧...明明知道国内偏保守你还去跳脸，这本身不就是不理智且偏激的举措吗？ https://t.co/JBsTHSKb2Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 1012,
+          "like_count": 2541,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 8264
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T01:25:53.000Z",
+        "description": "",
+        "id": "1883687797904797696",
+        "name": "MATI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883687934530027520/-LyCdioi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "MATI8965107232",
+        "verified": false
+      }
+    ]
+  }
+}

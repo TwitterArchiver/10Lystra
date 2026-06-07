@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2061295118171132260",
+    "created_at": "2026-06-01T09:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061379324826001536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322364697216274438",
+          "start": 0,
+          "username": "umusirimu_rw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061379324826001536",
+    "in_reply_to_user_id": "1322364697216274438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061295118171132260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umusirimu_rw 当你被窝里有个lightning接口："
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_2061295053281067011",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061295053281067011/img/OMBENzYjH1wY3TQW.jpg",
+        "public_metrics": {
+          "view_count": 244750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061295053281067011/vid/avc1/320x568/wZOafqv8dvWvS4o7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061295053281067011/vid/avc1/480x852/jl-3gMnPsm9Xr3vq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061295053281067011/vid/avc1/720x1280/QeoHEJ5iEqdHMqEp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061295053281067011/pl/FA-Ne2EicAYSO0pz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2061295118171132260",
+        "created_at": "2026-06-01T09:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061379324826001536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322364697216274438",
+              "start": 0,
+              "username": "umusirimu_rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061379324826001536",
+        "in_reply_to_user_id": "1322364697216274438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061295118171132260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umusirimu_rw 当你被窝里有个lightning接口："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061295053281067011"
+          ]
+        },
+        "author_id": "1322364697216274438",
+        "conversation_id": "2061295118171132260",
+        "created_at": "2026-06-01T03:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061295118171132260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5gBojzfSP",
+              "end": 55,
+              "expanded_url": "https://x.com/umusirimu_rw/status/2061295118171132260/video/1",
+              "media_key": "13_2061295053281067011",
+              "start": 32,
+              "url": "https://t.co/X5gBojzfSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061295118171132260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 523905,
+          "like_count": 513,
+          "quote_count": 106,
+          "reply_count": 129,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "what the hell just happened 🤔 😱 https://t.co/X5gBojzfSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 989,
+          "like_count": 2495,
+          "listed_count": 5,
+          "media_count": 318,
+          "tweet_count": 8125
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T02:28:40.000Z",
+        "description": "video content",
+        "id": "1322364697216274438",
+        "location": "𝗢𝗻 𝗘𝗮𝗿𝘁𝗵🌎",
+        "name": "UMWANA_WO_MUBAKIRE",
+        "pinned_tweet_id": "2061295118171132260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060553127649009675/9J5MD03O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12338,
+          "following_count": 4627,
+          "like_count": 24694,
+          "listed_count": 5,
+          "media_count": 1978,
+          "tweet_count": 26638
+        },
+        "username": "umusirimu_rw",
+        "verified": true
+      }
+    ]
+  }
+}

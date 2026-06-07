@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2061460972368228789",
+    "created_at": "2026-06-02T06:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061702610353090604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561039797489131521",
+          "start": 0,
+          "username": "oe_madu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061702610353090604",
+    "in_reply_to_user_id": "1561039797489131521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061460972368228789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oe_madu 我将退学研究葡萄牙语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2061460972368228789",
+        "created_at": "2026-06-02T06:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061702610353090604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561039797489131521",
+              "start": 0,
+              "username": "oe_madu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061702610353090604",
+        "in_reply_to_user_id": "1561039797489131521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061460972368228789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oe_madu 我将退学研究葡萄牙语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561039797489131521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2061460972368228789",
+        "created_at": "2026-06-01T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061460972368228789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061460972368228789",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 20180,
+          "like_count": 920,
+          "quote_count": 20,
+          "reply_count": 31,
+          "retweet_count": 244
+        },
+        "reply_settings": "everyone",
+        "text": "as vezes eu tenho vontade de desistir da graduação, enfiar meus 10 dedos da mão no cu e me rasgar no meio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 998,
+          "like_count": 2501,
+          "listed_count": 5,
+          "media_count": 319,
+          "tweet_count": 8172
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T17:18:50.000Z",
+        "description": "detestable, but these hearts adore • história | UFSC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/madu.pereira",
+                "end": 23,
+                "expanded_url": "http://instagram.com/madu.pereira",
+                "start": 0,
+                "url": "https://t.co/MpypJj9VIY"
+              }
+            ]
+          }
+        },
+        "id": "1561039797489131521",
+        "location": "ele/elu/ela",
+        "name": "madu ⛥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055111732285112321/QmyZAvep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 307,
+          "like_count": 29388,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/MpypJj9VIY",
+        "username": "oe_madu",
+        "verified": false
+      }
+    ]
+  }
+}

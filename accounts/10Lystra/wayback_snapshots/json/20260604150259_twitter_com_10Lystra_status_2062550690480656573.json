@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2062202772469215309",
+    "created_at": "2026-06-04T15:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062550690480656573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045842679775297536",
+          "start": 0,
+          "username": "lrises1116"
+        },
+        {
+          "end": 24,
+          "id": "1975850232094371840",
+          "start": 12,
+          "username": "zhizi160216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062550690480656573",
+    "in_reply_to_user_id": "2045842679775297536",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062546836577984891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lrises1116 @zhizi160216 🥲🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2062202772469215309",
+        "created_at": "2026-06-04T15:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062550690480656573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045842679775297536",
+              "start": 0,
+              "username": "lrises1116"
+            },
+            {
+              "end": 24,
+              "id": "1975850232094371840",
+              "start": 12,
+              "username": "zhizi160216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062550690480656573",
+        "in_reply_to_user_id": "2045842679775297536",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062546836577984891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lrises1116 @zhizi160216 🥲🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045842679775297536",
+        "conversation_id": "2062202772469215309",
+        "created_at": "2026-06-04T14:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062546836577984891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 22,
+              "id": "1975850232094371840",
+              "start": 10,
+              "username": "zhizi160216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062546836577984891",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062443694913912905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @zhizi160216 她和别人谈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 1016,
+          "like_count": 2554,
+          "listed_count": 5,
+          "media_count": 324,
+          "tweet_count": 8326
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T12:31:47.000Z",
+        "description": "",
+        "id": "2045842679775297536",
+        "name": "洛克王国好玩喵w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045845264192155649/TnTRwwrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 393,
+          "like_count": 623,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 591
+        },
+        "username": "lrises1116",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T09:07:43.000Z",
+        "description": "",
+        "id": "1975850232094371840",
+        "location": "🚪88 纯绿",
+        "name": "沫沫",
+        "pinned_tweet_id": "2053525461968490735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980630127638654976/q6sFuFBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 90,
+          "like_count": 747,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 975
+        },
+        "username": "zhizi160216",
+        "verified": false
+      }
+    ]
+  }
+}

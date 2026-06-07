@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2060922812760723518",
+    "created_at": "2026-05-31T05:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060949986888564795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "ptilopsis_xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060949986888564795",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060922812760723518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ptilopsis_xiao 那很好吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2060922812760723518",
+        "created_at": "2026-05-31T05:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060949986888564795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "ptilopsis_xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060949986888564795",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060922812760723518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ptilopsis_xiao 那很好吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372184630753853444",
+        "conversation_id": "2060922812760723518",
+        "created_at": "2026-05-31T03:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060922812760723518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060922812760723518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "动物学考试鱼鳍忘了字怎么写\n造字造半天造不出来写了个鱼翅\n也是神人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 985,
+          "like_count": 2493,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 8065
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "一只黎博利｜HAM BH6RQG｜胶片摄影｜Bioscience",
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "绿鸮西泮🦉",
+        "pinned_tweet_id": "2051268550036529555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993287302626656261/tsaXIYnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 1615,
+          "like_count": 36424,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 3830
+        },
+        "username": "ptilopsis_xiao",
+        "verified": false
+      }
+    ]
+  }
+}

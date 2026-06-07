@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2061987797788217675",
+    "created_at": "2026-06-03T07:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062067597005230118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1582899597323939841",
+          "start": 0,
+          "username": "xiaominz_film"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062067597005230118",
+    "in_reply_to_user_id": "1582899597323939841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061987797788217675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaominz_film 没话硬扯这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2061985743086772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2lG8SbYAAujvy.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061985743095144448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2lG8UbIAARLJf.jpg",
+        "width": 1580
+      },
+      {
+        "height": 480,
+        "media_key": "3_2061985743082545152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2lG8Ra4AA1513.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2061987797788217675",
+        "created_at": "2026-06-03T07:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062067597005230118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1582899597323939841",
+              "start": 0,
+              "username": "xiaominz_film"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062067597005230118",
+        "in_reply_to_user_id": "1582899597323939841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061987797788217675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaominz_film 没话硬扯这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061985743086772224",
+            "3_2061985743095144448",
+            "3_2061985743082545152"
+          ]
+        },
+        "author_id": "1582899597323939841",
+        "conversation_id": "2061987797788217675",
+        "created_at": "2026-06-03T01:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:38:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061985753102709038",
+          "2061987797788217675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI2C636fYQ",
+              "end": 171,
+              "expanded_url": "https://x.com/xiaominz_film/status/2061987797788217675/photo/1",
+              "media_key": "3_2061985743086772224",
+              "start": 148,
+              "url": "https://t.co/CI2C636fYQ"
+            },
+            {
+              "display_url": "pic.x.com/CI2C636fYQ",
+              "end": 171,
+              "expanded_url": "https://x.com/xiaominz_film/status/2061987797788217675/photo/1",
+              "media_key": "3_2061985743095144448",
+              "start": 148,
+              "url": "https://t.co/CI2C636fYQ"
+            },
+            {
+              "display_url": "pic.x.com/CI2C636fYQ",
+              "end": 171,
+              "expanded_url": "https://x.com/xiaominz_film/status/2061987797788217675/photo/1",
+              "media_key": "3_2061985743082545152",
+              "start": 148,
+              "url": "https://t.co/CI2C636fYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061987797788217675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "某天清晨，老人推开门，再次踩到了楼上邻居刚扔下来的新鲜排泄物。这成了压垮骆驼的最后一根稻草。\n\n彻底绝望的老人拿起了 .45 口径手枪，走上楼，将这对夫妇双双枪杀。婴儿安然无恙，而老人最终被判处终身监禁。一个原本守法的公民，就这样被逼成了阶下囚。\n\n这是 2013 年达拉斯的一起真实案件：75 岁的韩裔老人 Chung Kim 长期忍受楼上邻居往他院子里泼洒宠物粪便和扔脏尿布。他拍视频、走流程、报警、投诉卫生局，尝试了文明社会里所有的合法途径，结果长达数月无一回音。\n\n更可怕的是，管理机构为了政治正确或息事宁人，对各种低素质的行为选择装聋作哑，导致真正的社会规则失效了。\n\n殊不知，所谓的“多元包容”如果没有底线的约束和对规则的敬畏，最终只会变成吞噬普通人的定时炸弹！\n\n当老人被迫走上楼干掉那对蛮不讲理的夫妇时，社会秩序已经彻底崩塌了。\n\n这就是所谓“多元文化”带来的生硬代价。很多人总是把“多元文化”包装得很完美，把截然不同的公德标准、生活习惯、甚至处于不同文明阶段的人强行圈在一起，并幻想“包容”能解决一切。\n\n坦率的讲：物以类聚人以群分，这话一点都不假。硬是要把处于不同文明阶段的人强行圈在一起，这本身就是最不文明的体现！\n\n近几年所谓的“多元文化包容”给正常人带来的伤害，早已经验证了左B的道德说教是多么的虚伪‼️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 66191,
+          "like_count": 462,
+          "quote_count": 9,
+          "reply_count": 66,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "某天清晨，老人推开门，再次踩到了楼上邻居刚扔下来的新鲜排泄物。这成了压垮骆驼的最后一根稻草。\n\n彻底绝望的老人拿起了 .45 口径手枪，走上楼，将这对夫妇双双枪杀。婴儿安然无恙，而老人最终被判处终身监禁。一个原本守法的公民，就这样被逼成了阶下囚。\n\n这是 2013 年达拉斯的一起真实案件：75 https://t.co/CI2C636fYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 1007,
+          "like_count": 2508,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 8215
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T01:01:05.000Z",
+        "description": "电影让人生如此美丽｜百花奖｜国内外影展多次获奖者｜演员｜导演｜制片人｜电影投资制作发行｜油管https://t.co/li3gcUvh4c\n电报：https://t.co/Z0pAC9rL4c\n工作邮箱cftiteam@hotmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZXMFILM",
+                "end": 69,
+                "expanded_url": "http://youtube.com/@ZXMFILM",
+                "start": 46,
+                "url": "https://t.co/li3gcUvh4c"
+              },
+              {
+                "display_url": "t.me/+N5v_boxNvGk1N…",
+                "end": 96,
+                "expanded_url": "https://t.me/+N5v_boxNvGk1NTIx",
+                "start": 73,
+                "url": "https://t.co/Z0pAC9rL4c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@zhima.sima?_t…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@zhima.sima?_t=ZM-8sJL7wRcUGj&_r=1",
+                "start": 0,
+                "url": "https://t.co/urFkrAP7B8"
+              }
+            ]
+          }
+        },
+        "id": "1582899597323939841",
+        "name": "张晓敏电影人",
+        "pinned_tweet_id": "2061987797788217675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841590887253737472/-aZ3p3Ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17923,
+          "following_count": 40,
+          "like_count": 126903,
+          "listed_count": 39,
+          "media_count": 1435,
+          "tweet_count": 28715
+        },
+        "url": "https://t.co/urFkrAP7B8",
+        "username": "xiaominz_film",
+        "verified": true
+      }
+    ]
+  }
+}
