@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064051119660413080",
+    "created_at": "2026-06-09T09:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064278934594650205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886796352283402250",
+          "start": 0,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064278934594650205",
+    "in_reply_to_user_id": "1886796352283402250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064051119660413080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheCyclist400 我真求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064051119660413080",
+        "created_at": "2026-06-09T09:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064278934594650205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886796352283402250",
+              "start": 0,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064278934594650205",
+        "in_reply_to_user_id": "1886796352283402250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064051119660413080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCyclist400 我真求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886796352283402250",
+        "conversation_id": "2064051119660413080",
+        "created_at": "2026-06-08T18:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064051119660413080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/b_cat38324/status/2063887214166315286",
+              "start": 25,
+              "url": "https://t.co/h6uLEftKnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064051119660413080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1154,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063887214166315286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结肠术娘和皮瓣术娘闹翻，曰:”道不同不相为谋”… https://t.co/h6uLEftKnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1020,
+          "like_count": 2584,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 8590
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "邪修术娘/TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我们一定都能战胜depression",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu.c12177",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lulu.c12177",
+                "start": 0,
+                "url": "https://t.co/aKXta2M7vf"
+              }
+            ]
+          }
+        },
+        "id": "1886796352283402250",
+        "location": "匿名向我提问吧→",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063558643765882881/vF7BqGMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 483,
+          "like_count": 9546,
+          "listed_count": 3,
+          "media_count": 589,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/aKXta2M7vf",
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

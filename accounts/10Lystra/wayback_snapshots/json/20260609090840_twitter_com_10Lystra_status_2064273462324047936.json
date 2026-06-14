@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064144546221469794",
+    "created_at": "2026-06-09T09:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064273462324047936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "415810385",
+          "start": 0,
+          "username": "Mercado_Ingles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064273462324047936",
+    "in_reply_to_user_id": "415810385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064144546221469794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercado_Ingles 那很好喝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_2064144537144950784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVQhS2WgAAK6kA.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064144546221469794",
+        "created_at": "2026-06-09T09:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064273462324047936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "415810385",
+              "start": 0,
+              "username": "Mercado_Ingles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064273462324047936",
+        "in_reply_to_user_id": "415810385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064144546221469794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercado_Ingles 那很好喝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064144537144950784"
+          ]
+        },
+        "author_id": "415810385",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226163788402688",
+              "name": "England"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226163788402688",
+              "name": "England"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ \n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/home",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ \n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/home",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          }
+        ],
+        "conversation_id": "2064144546221469794",
+        "created_at": "2026-06-09T00:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064144546221469794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sC3vOxvyfp",
+              "end": 207,
+              "expanded_url": "https://x.com/Mercado_Ingles/status/2064144546221469794/photo/1",
+              "media_key": "3_2064144537144950784",
+              "start": 184,
+              "url": "https://t.co/sC3vOxvyfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064144546221469794",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 582,
+          "impression_count": 307786,
+          "like_count": 10737,
+          "quote_count": 263,
+          "reply_count": 188,
+          "retweet_count": 1037
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🌎 Este fan de Inglaterra consiguió una cerveza de cada uno de los 48 países que participarán en la Copa Mundial de la FIFA 2026 y que beberá una cerveza por cada Selección eliminada. https://t.co/sC3vOxvyfp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1020,
+          "like_count": 2584,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 8589
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-18T21:07:17.000Z",
+        "description": "Cobertura completa sobre la Premier League, fichajes y novedades sobre el Futbol Britanico. DM Requests.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mercado_ingles/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mercado_ingles/",
+                "start": 0,
+                "url": "https://t.co/euAMvmKZ6D"
+              }
+            ]
+          }
+        },
+        "id": "415810385",
+        "name": "Futbol de Inglaterra",
+        "pinned_tweet_id": "2064056209099882750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062395772147036160/IOsFB3zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469096,
+          "following_count": 899,
+          "like_count": 2670,
+          "listed_count": 1381,
+          "media_count": 56203,
+          "tweet_count": 85442
+        },
+        "url": "https://t.co/euAMvmKZ6D",
+        "username": "Mercado_Ingles",
+        "verified": true
+      }
+    ]
+  }
+}

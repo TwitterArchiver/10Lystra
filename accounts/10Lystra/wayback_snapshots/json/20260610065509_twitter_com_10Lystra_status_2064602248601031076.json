@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064514357447602480",
+    "created_at": "2026-06-10T06:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064602248601031076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761226584621744128",
+          "start": 0,
+          "username": "Tommmmm10564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064602248601031076",
+    "in_reply_to_user_id": "1761226584621744128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064514357447602480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tommmmm10564 免疫怀孕这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064514357447602480",
+        "created_at": "2026-06-10T06:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064602248601031076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761226584621744128",
+              "start": 0,
+              "username": "Tommmmm10564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064602248601031076",
+        "in_reply_to_user_id": "1761226584621744128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064514357447602480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tommmmm10564 免疫怀孕这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761226584621744128",
+        "conversation_id": "2064514357447602480",
+        "created_at": "2026-06-10T01:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064514357447602480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064514357447602480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 29598,
+          "like_count": 221,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "当大家在吵性同意年龄的时候再次发现男同性恋无法被选中😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1022,
+          "like_count": 2587,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 8603
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T03:08:58.000Z",
+        "description": "我是哆啦A梦",
+        "id": "1761226584621744128",
+        "location": "北京中南海",
+        "name": "Samaleman（1m白袜男大叮当猫）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842395296405520384/f2SHX8lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4910,
+          "following_count": 229,
+          "like_count": 4819,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 5232
+        },
+        "username": "Tommmmm10564",
+        "verified": false
+      }
+    ]
+  }
+}

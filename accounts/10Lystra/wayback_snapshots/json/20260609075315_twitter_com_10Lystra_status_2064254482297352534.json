@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064239991056715810",
+    "created_at": "2026-06-09T07:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064254482297352534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695553771961729024",
+          "start": 0,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064254482297352534",
+    "in_reply_to_user_id": "1695553771961729024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064239991056715810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiraishiwatari 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064239991056715810",
+        "created_at": "2026-06-09T07:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064254482297352534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064254482297352534",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064239991056715810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2064239991056715810",
+        "created_at": "2026-06-09T06:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064239991056715810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kal12two/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Kal12two/status/2063835919778717925",
+              "start": 36,
+              "url": "https://t.co/phyo2vSMqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064239991056715810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063835919778717925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次顺手给这种话点完赞都需要一点时间才能反应过来：吗的怎么我是已婚啊。 https://t.co/phyo2vSMqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1020,
+          "like_count": 2583,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 8582
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "Perpetua et firma libertas",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 49,
+          "like_count": 4633,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1180
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

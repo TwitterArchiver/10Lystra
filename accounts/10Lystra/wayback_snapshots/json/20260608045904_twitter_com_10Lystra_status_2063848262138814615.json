@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2063805326407917628",
+    "created_at": "2026-06-08T04:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063848262138814615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440983154131488774",
+          "start": 0,
+          "username": "daisy38193824"
+        },
+        {
+          "end": 25,
+          "id": "1758324617838788608",
+          "start": 15,
+          "username": "axzamyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063848262138814615",
+    "in_reply_to_user_id": "1440983154131488774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063814740863017325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daisy38193824 @axzamyzed unk专属互动家具"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2063805326407917628",
+        "created_at": "2026-06-08T04:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063848262138814615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440983154131488774",
+              "start": 0,
+              "username": "daisy38193824"
+            },
+            {
+              "end": 25,
+              "id": "1758324617838788608",
+              "start": 15,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063848262138814615",
+        "in_reply_to_user_id": "1440983154131488774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063814740863017325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daisy38193824 @axzamyzed unk专属互动家具"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440983154131488774",
+        "conversation_id": "2063805326407917628",
+        "created_at": "2026-06-08T02:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063814740863017325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063814740863017325",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063805326407917628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 感觉放个水柜或者自助贩卖机应该挺不错的.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 1022,
+          "like_count": 2574,
+          "listed_count": 5,
+          "media_count": 327,
+          "tweet_count": 8482
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：2026/3/19｜ INFP-T｜\n比较内向社恐｜喜欢可爱的小动物｜爱玩mc cs2 lol 各种galgame | 爱看治愈/治愈/催泪类型的动漫｜ 粤语/日语流行/摇滚/后摇/欧美流行/二次元/古典/爵士/金属｜小号@fallin2624",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "fallin2624"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2060359881144885647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061869210842943488/9BfKk5cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 572,
+          "like_count": 1325,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 945,
+          "like_count": 12479,
+          "listed_count": 10,
+          "media_count": 2269,
+          "tweet_count": 7577
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

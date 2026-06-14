@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2059547427623879090",
+    "created_at": "2026-05-27T08:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059550113731694877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Octocat01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059550113731694877",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059548459989103039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Octocat01 那你先别急，既然默认自己说出这些话就是要被喷的，我说什么都默认是我在喷你，那我觉得我们可能很大程度上达不成一致。不过最后你只会悲哀的发现任何人上任何厕所都和你一点关系也没有，也和我一点关系也没有，争论这么多毫无意义。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2059547427623879090",
+        "created_at": "2026-05-27T08:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059550113731694877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Octocat01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059550113731694877",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059548459989103039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Octocat01 那你先别急，既然默认自己说出这些话就是要被喷的，我说什么都默认是我在喷你，那我觉得我们可能很大程度上达不成一致。不过最后你只会悲哀的发现任何人上任何厕所都和你一点关系也没有，也和我一点关系也没有，争论这么多毫无意义。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2059547427623879090",
+        "created_at": "2026-05-27T08:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059548459989103039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059548459989103039",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059547427623879090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 与其在这里像个小学生一样急头白脸的喷我不如在亚洲推广第三性别卫生间，少上点网吧你逃避不了一辈子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni「愿我早逝，且无来生」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 923,
+          "like_count": 2410,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 7772
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "ゲームをするのが好きです...🍰",
+        "id": "2015624869665456129",
+        "location": "iceland",
+        "name": "干物妹！サメサメ🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021916387657363460/3TeRpEVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 102
+        },
+        "username": "Octocat01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064517731844579565",
+    "created_at": "2026-06-10T02:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064533003573891348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833286285080834048",
+          "start": 0,
+          "username": "palertermo"
+        },
+        {
+          "end": 28,
+          "id": "1447233497731674117",
+          "start": 12,
+          "username": "AlbicelesteTalk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064533003573891348",
+    "in_reply_to_user_id": "1833286285080834048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064517731844579565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@palertermo @AlbicelesteTalk bro一脚给首发踢出来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38200,
+        "height": 1080,
+        "media_key": "13_2064517644007489537",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064517644007489537/img/vCHiyzl3b2OzDeKJ.jpg",
+        "public_metrics": {
+          "view_count": 39054
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064517644007489537/vid/avc1/480x270/CbwtPGHO98UhyW7w.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064517644007489537/vid/avc1/640x360/FkuCJNuZr949BDPq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064517644007489537/vid/avc1/1280x720/rDHIltLolcBLx_3M.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064517644007489537/pl/FCkjKpuGMEprH5uy.m3u8?tag=14&v=8d8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064517731844579565",
+        "created_at": "2026-06-10T02:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064533003573891348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833286285080834048",
+              "start": 0,
+              "username": "palertermo"
+            },
+            {
+              "end": 28,
+              "id": "1447233497731674117",
+              "start": 12,
+              "username": "AlbicelesteTalk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064533003573891348",
+        "in_reply_to_user_id": "1833286285080834048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064517731844579565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@palertermo @AlbicelesteTalk bro一脚给首发踢出来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064517644007489537"
+          ]
+        },
+        "author_id": "1833286285080834048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2064517731844579565",
+        "created_at": "2026-06-10T01:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064517731844579565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkLtPj6yP5",
+              "end": 91,
+              "expanded_url": "https://x.com/palertermo/status/2064517731844579565/video/1",
+              "media_key": "13_2064517644007489537",
+              "start": 68,
+              "url": "https://t.co/gkLtPj6yP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064517731844579565",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 63578,
+          "like_count": 470,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "EL COLO BARCO ACABA DE HACER EL MEJOR GOL DE LA HISTORIA DEL FUTBOL https://t.co/gkLtPj6yP5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1022,
+          "like_count": 2587,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 8601
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T23:28:20.000Z",
+        "description": "🦓. Enemigo número uno del Chiqui Tapia y Pablo Toviggino. Soy la persona que mas sabe de futbol del país.",
+        "id": "1833286285080834048",
+        "name": "Toto",
+        "pinned_tweet_id": "2051023693761966573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957587277246332932/k-svDy05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2735,
+          "following_count": 681,
+          "like_count": 29708,
+          "listed_count": 4,
+          "media_count": 1347,
+          "tweet_count": 3071
+        },
+        "username": "palertermo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T16:12:15.000Z",
+        "description": "🏆🇦🇷 16x Champions of Copa America and 3x Champions of the World | ✉️ DM's open for collaborations | Powered by @gamdom @gamdomsport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 111,
+                "username": "gamdom"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "gamdomsport"
+              }
+            ]
+          }
+        },
+        "id": "1447233497731674117",
+        "name": "All About Argentina 🛎🇦🇷",
+        "pinned_tweet_id": "2060118218266550632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631616496987193344/SJe37XwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397907,
+          "following_count": 1781,
+          "like_count": 68410,
+          "listed_count": 831,
+          "media_count": 18181,
+          "tweet_count": 35647
+        },
+        "username": "AlbicelesteTalk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064275752527552882",
+    "created_at": "2026-06-09T14:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064349311727452526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064349311727452526",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064275752527552882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 呃这个不是每场都念吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064275752527552882",
+        "created_at": "2026-06-09T14:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064349311727452526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064349311727452526",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064275752527552882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 呃这个不是每场都念吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486893272622505984",
+        "conversation_id": "2064275752527552882",
+        "created_at": "2026-06-09T09:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064275752527552882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064275752527552882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7025,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于某人的逆天行为，本人今天物理高考广播考生守则的时候播到「不得擅自将答卷，试题卷，草稿纸带出考场」的时候没绷住，在此深刻反省自己（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1020,
+          "like_count": 2584,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 8593
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "17yo(08.6.28) | 称呼我为「未晞」吧 | 杭州高中女孩子 | 无证含糖 日雌26.1.17 | 兴趣使然的开发者 前端为主 | 亚二次元 | https://t.co/JWMV33I7TV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/kuriyona",
+                "end": 101,
+                "expanded_url": "http://github.com/kuriyona",
+                "start": 78,
+                "url": "https://t.co/JWMV33I7TV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAWAz"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "location": "杭州 Hangzhou",
+        "name": "Kuriyona 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059972450532859904/rdg28yZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 157,
+          "like_count": 630,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/PIToyCAWAz",
+        "username": "Kuriyona",
+        "verified": true
+      }
+    ]
+  }
+}

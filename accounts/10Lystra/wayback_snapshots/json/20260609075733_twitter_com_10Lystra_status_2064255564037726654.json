@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064239991056715810",
+    "created_at": "2026-06-09T07:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064255564037726654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695553771961729024",
+          "start": 0,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064255564037726654",
+    "in_reply_to_user_id": "1695553771961729024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064255236529594470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiraishiwatari 🥹我和对象还想单独出国一趟领个证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064239991056715810",
+        "created_at": "2026-06-09T07:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064255564037726654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064255564037726654",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064255236529594470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 🥹我和对象还想单独出国一趟领个证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695553771961729024",
+        "conversation_id": "2064239991056715810",
+        "created_at": "2026-06-09T07:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064255236529594470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064255236529594470",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064254482297352534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 虽然婚姻制度本身是个无聊的东西，，但是我和林像就同性恋在中国领证了一样，有种钻了制度空子的爽感（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1020,
+          "like_count": 2583,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 8583
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "Perpetua et firma libertas",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 49,
+          "like_count": 4634,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1182
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

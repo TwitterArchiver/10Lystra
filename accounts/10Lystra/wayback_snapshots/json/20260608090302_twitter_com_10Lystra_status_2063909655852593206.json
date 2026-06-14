@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2063565540149338422",
+    "created_at": "2026-06-08T09:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063909655852593206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "themaidoutfit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063909655852593206",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063909509119217997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@themaidoutfit 优先打三好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2063565540149338422",
+        "created_at": "2026-06-08T09:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063909655852593206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "themaidoutfit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063909655852593206",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063909509119217997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaidoutfit 优先打三好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "2063565540149338422",
+        "created_at": "2026-06-08T09:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063909509119217997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063909509119217997",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063906214442864958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 本来我是不理解为什么要给别人扣帽子叫“三好”，像这种冲在顺直前面去打压同类状态的人是存在的。语境大多是幸运，人生没有变动，ta没经历过那些想吃但没能力的跨女经历的事情，并且有可以支撑的人，有开明的父母，再加上何不食肉糜的感觉，存在的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 1022,
+          "like_count": 2576,
+          "listed_count": 5,
+          "media_count": 327,
+          "tweet_count": 8498
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "🏚️乡下一老头",
+        "id": "1903701047589343232",
+        "name": "昏睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058168508731830272/qH6gYtsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 1679,
+          "like_count": 10163,
+          "listed_count": 12,
+          "media_count": 22,
+          "tweet_count": 1907
+        },
+        "username": "themaidoutfit",
+        "verified": false
+      }
+    ]
+  }
+}

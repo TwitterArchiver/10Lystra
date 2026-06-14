@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2063837487450169600",
+    "created_at": "2026-06-08T05:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063849219861983287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052289348704534528",
+          "start": 0,
+          "username": "Haixing1st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063849219861983287",
+    "in_reply_to_user_id": "2052289348704534528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063837487450169600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haixing1st 不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2063837487450169600",
+        "created_at": "2026-06-08T05:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063849219861983287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052289348704534528",
+              "start": 0,
+              "username": "Haixing1st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063849219861983287",
+        "in_reply_to_user_id": "2052289348704534528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063837487450169600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haixing1st 不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052289348704534528",
+        "conversation_id": "2063837487450169600",
+        "created_at": "2026-06-08T04:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063837487450169600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063837487450169600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在还没有pass和改身份证的阶段\n跨男在女性的生活和跨女在男性的生活比在同性生活里更安全感吗\n还是说我在友跨人士的圈子内并没有接触到外界恶意的世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 1022,
+          "like_count": 2574,
+          "listed_count": 5,
+          "media_count": 327,
+          "tweet_count": 8484
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T07:28:34.000Z",
+        "description": "推友寻回中，嘉豪跨子，\n浪漫倾向泛性恋&mtf多意识体/hrt2023.5希望早日srs/安壬/\n东方众/mc痴/生地史杂学/天文学/亚文化/\n\n老婆：@D0ntTox1c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "D0ntTox1c"
+              }
+            ]
+          }
+        },
+        "id": "2052289348704534528",
+        "location": "云南省澄江市，阳宗海底化石",
+        "name": "太陽海星🏴‍☠️Ⓐ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052310473853538304/-IUwMBGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 67,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 284
+        },
+        "username": "Haixing1st",
+        "verified": false
+      }
+    ]
+  }
+}
