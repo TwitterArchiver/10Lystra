@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2066525917149872279",
+    "created_at": "2026-06-16T08:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066800687632052275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066800687632052275",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066525917149872279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii holy..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2066525902486552576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3GXADawAAcZ7P.jpg",
+        "width": 1490
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066525903140933632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3GXCfb0AAxe_-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066525905422618624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3GXK_bkAA8VXn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066525906940960768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3GXQpboAAvWcV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2066525917149872279",
+        "created_at": "2026-06-16T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066800687632052275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066800687632052275",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066525917149872279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii holy..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066525902486552576",
+            "3_2066525903140933632",
+            "3_2066525905422618624",
+            "3_2066525906940960768"
+          ]
+        },
+        "author_id": "2032059814348754944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066525917149872279",
+        "created_at": "2026-06-15T14:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066525917149872279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHyUICfUC4",
+              "end": 36,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2066525917149872279/photo/1",
+              "media_key": "3_2066525902486552576",
+              "start": 13,
+              "url": "https://t.co/FHyUICfUC4"
+            },
+            {
+              "display_url": "pic.x.com/FHyUICfUC4",
+              "end": 36,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2066525917149872279/photo/1",
+              "media_key": "3_2066525903140933632",
+              "start": 13,
+              "url": "https://t.co/FHyUICfUC4"
+            },
+            {
+              "display_url": "pic.x.com/FHyUICfUC4",
+              "end": 36,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2066525917149872279/photo/1",
+              "media_key": "3_2066525905422618624",
+              "start": 13,
+              "url": "https://t.co/FHyUICfUC4"
+            },
+            {
+              "display_url": "pic.x.com/FHyUICfUC4",
+              "end": 36,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2066525917149872279/photo/1",
+              "media_key": "3_2066525906940960768",
+              "start": 13,
+              "url": "https://t.co/FHyUICfUC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066525917149872279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2387,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望没事，这次真成针尖了 https://t.co/FHyUICfUC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1032,
+          "like_count": 2613,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 8698
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手@linglinlll 是我主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "linglinlll"
+              }
+            ]
+          }
+        },
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 48,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 70
+        },
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2066860756079874241",
+    "created_at": "2026-06-16T12:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066860756079874241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_vicwong/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/_vicwong/status/2066666837429952595",
+          "start": 8,
+          "url": "https://t.co/s7HUru8xQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066860756079874241",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066666837429952595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "better？ https://t.co/s7HUru8xQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45650,
+        "height": 720,
+        "media_key": "13_2066573768391090176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066573768391090176/img/SsaQuXuNPhqVbcyc.jpg",
+        "public_metrics": {
+          "view_count": 5910
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066573768391090176/vid/avc1/320x320/UYWVRFXG0h8rYNnQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066573768391090176/vid/avc1/540x540/L8j4jhQrnjwUf0Ej.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066573768391090176/vid/avc1/720x720/eUjz3XU2JM1IpKdx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066573768391090176/pl/mQ-o22u6oSx7Bidz.m3u8?v=3e1"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2066860756079874241",
+        "created_at": "2026-06-16T12:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066860756079874241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_vicwong/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/_vicwong/status/2066666837429952595",
+              "start": 8,
+              "url": "https://t.co/s7HUru8xQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066860756079874241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066666837429952595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "better？ https://t.co/s7HUru8xQk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066573768391090176"
+          ],
+          "media_source_tweet_id": [
+            "2066573829837586481"
+          ]
+        },
+        "author_id": "281045155",
+        "conversation_id": "2066666837429952595",
+        "created_at": "2026-06-15T23:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066666837429952595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9ZmEFsj4l",
+              "end": 75,
+              "expanded_url": "https://x.com/Diostrace/status/2066573829837586481/video/1",
+              "media_key": "13_2066573768391090176",
+              "start": 52,
+              "url": "https://t.co/d9ZmEFsj4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066666837429952595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4531,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "奥巴马：“我不知道因为同性恋身份而遭受歧视是什么滋味，但我知道那种从小觉得自己，好像不属于这里的感觉。 https://t.co/d9ZmEFsj4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1033,
+          "like_count": 2613,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 8709
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-12T14:27:54.000Z",
+        "description": "加拿大多伦多人；移民二十九年，非信徒；崇尚“赛先生”和“德先生”； 享受退休生活，喜欢房车音乐。 上推的目的：用以往生活工作经验，帮推友借助科技学习英语，了解西方社会，享受现代生活。 欢迎任何评论，提出你的论点，不接受任何脏话，没时间私信通讯，感谢推友关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vicwong.com",
+                "end": 23,
+                "expanded_url": "http://www.vicwong.com",
+                "start": 0,
+                "url": "https://t.co/k96TOcRpuE"
+              }
+            ]
+          }
+        },
+        "id": "281045155",
+        "location": "Toronto, Ontario",
+        "name": "Vic Wong 黄维克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562231842530549760/gakJS4XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58098,
+          "following_count": 514,
+          "like_count": 73354,
+          "listed_count": 252,
+          "media_count": 12124,
+          "tweet_count": 70342
+        },
+        "url": "https://t.co/k96TOcRpuE",
+        "username": "_vicwong",
+        "verified": true
+      }
+    ]
+  }
+}

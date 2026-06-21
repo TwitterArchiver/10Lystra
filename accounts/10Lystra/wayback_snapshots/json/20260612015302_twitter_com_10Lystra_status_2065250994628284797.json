@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2065108571445203075",
+    "created_at": "2026-06-12T01:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065250994628284797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        },
+        {
+          "end": 19,
+          "id": "761375055724974081",
+          "start": 11,
+          "username": "Azuelle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065250994628284797",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065108571445203075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela @Azuelle 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1053,
+        "media_key": "3_2065108563543175168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBCbsAAJe6k.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065108563534733313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBAa4AEYvl2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2065108563538927617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBBa4AEKW78.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2065108563538927616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi9TBBa4AAPpx-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2065108571445203075",
+        "created_at": "2026-06-12T01:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065250994628284797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            },
+            {
+              "end": 19,
+              "id": "761375055724974081",
+              "start": 11,
+              "username": "Azuelle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065250994628284797",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065108571445203075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela @Azuelle 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065108563543175168",
+            "3_2065108563534733313",
+            "3_2065108563538927617",
+            "3_2065108563538927616"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2065108571445203075",
+        "created_at": "2026-06-11T16:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065108571445203075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563543175168",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            },
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563534733313",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            },
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563538927617",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            },
+            {
+              "display_url": "pic.x.com/y1OJtZWm1Y",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2065108571445203075/photo/1",
+              "media_key": "3_2065108563538927616",
+              "start": 3,
+              "url": "https://t.co/y1OJtZWm1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065108571445203075",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 11648,
+          "like_count": 320,
+          "quote_count": 1,
+          "reply_count": 74,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🌈🥹 https://t.co/y1OJtZWm1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1025,
+          "like_count": 2603,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 8627
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5490,
+          "following_count": 3776,
+          "like_count": 86047,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9724
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-05T01:35:33.000Z",
+        "description": "She/Her / 一只重点色布偶猫 / AKA Sierra / #FF14 #maimai / 随缘回fo / HKU CompSc · Ling / Ex-OI&BOer / 🏳️‍🌈🏳️‍⚧️ Transles / 🍥 Sept 21, 2021",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "FF14"
+              },
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azuelle.github.io",
+                "end": 23,
+                "expanded_url": "https://azuelle.github.io/",
+                "start": 0,
+                "url": "https://t.co/SIWcfK6B13"
+              }
+            ]
+          }
+        },
+        "id": "761375055724974081",
+        "location": "Aetherial Sea",
+        "name": "Azuelle × 夢野雫",
+        "pinned_tweet_id": "1837750991841907110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497607849760813056/TCtKM9ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 1232,
+          "like_count": 80187,
+          "listed_count": 9,
+          "media_count": 1148,
+          "tweet_count": 13269
+        },
+        "url": "https://t.co/SIWcfK6B13",
+        "username": "Azuelle",
+        "verified": false
+      }
+    ]
+  }
+}

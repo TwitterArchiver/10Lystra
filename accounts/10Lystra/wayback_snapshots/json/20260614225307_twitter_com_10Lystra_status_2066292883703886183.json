@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2066292883703886183",
+    "created_at": "2026-06-14T22:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066292883703886183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "771606164",
+          "start": 3,
+          "username": "ActuFoot_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066292883703886183",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1059
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066218927433384404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ActuFoot_: 🚨 13 sélections signent un communiqué commun pour DÉNONCER les propos du président de l'UEFA ! ✍️\n\nAleksander Čeferin 🇸🇮 a d…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2066218716237303808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyu-aGWkAAEtTK.jpg",
+        "width": 1710
+      },
+      {
+        "height": 3152,
+        "media_key": "3_2066218740509761536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyu_0hW4AAhyKE.jpg",
+        "width": 3152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2066292883703886183",
+        "created_at": "2026-06-14T22:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066292883703886183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "771606164",
+              "start": 3,
+              "username": "ActuFoot_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066292883703886183",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1059
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066218927433384404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ActuFoot_: 🚨 13 sélections signent un communiqué commun pour DÉNONCER les propos du président de l'UEFA ! ✍️\n\nAleksander Čeferin 🇸🇮 a d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066218716237303808",
+            "3_2066218740509761536"
+          ]
+        },
+        "author_id": "771606164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          }
+        ],
+        "conversation_id": "2066218927433384404",
+        "created_at": "2026-06-14T17:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066218927433384404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbmvz426A9",
+              "end": 294,
+              "expanded_url": "https://x.com/ActuFoot_/status/2066218927433384404/photo/1",
+              "media_key": "3_2066218716237303808",
+              "start": 271,
+              "url": "https://t.co/wbmvz426A9"
+            },
+            {
+              "display_url": "pic.x.com/wbmvz426A9",
+              "end": 294,
+              "expanded_url": "https://x.com/ActuFoot_/status/2066218927433384404/photo/1",
+              "media_key": "3_2066218740509761536",
+              "start": 271,
+              "url": "https://t.co/wbmvz426A9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066218927433384404",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨 13 sélections signent un communiqué commun pour DÉNONCER les propos du président de l'UEFA ! ✍️\n\nAleksander Čeferin 🇸🇮 a déclaré que le passage à 48 équipes créait des matches « sans intérêt » en Coupe du monde. 😬\n\nLes signataires :\n\n👉 Afrique du Sud 🇿🇦\n👉 Algérie 🇩🇿\n👉 Cap-Vert 🇨🇻\n👉 RD Congo 🇨🇩\n👉 Côte d'Ivoire 🇨🇮\n👉 Curaçao 🇨🇼\n👉 Égypte 🇪🇬\n👉 Ghana 🇬🇭\n👉 Haïti 🇭🇹\n👉 Maroc 🇲🇦\n👉 Ouzébkistan 🇺🇿\n👉 Sénégal 🇸🇳\n👉 Tunisie 🇹🇳\n\nLe communiqué : \n\n« Nous rejetons respectueusement mais FERMEMENT ces commentaires. ❌\n\nPour nos pays, il n’existe pas de match de Coupe du Monde sans importance.  \n\nPour le Cap-Vert 🇨🇻, Curaçao 🇨🇼et l’Ouzbékistan 🇺🇿, la qualification pour la Coupe du monde représente un accomplissement historique et la réalisation d’un rêve partagé par des générations.  \n\nPour des nations telles que le Congo 🇨🇩 et Haïti 🇭🇹,  le retour sur la plus grande scène du football après une longue absence revêt une signification particulière pour des millions de supporters qui ont attendu des années, et dans certains cas des décennies, ce moment.  \n\nSuggérer que ces matchs sont d’une quelconque manière moins importants est profondément DÉCEVANT et ne reconnaît pas les efforts, les sacrifices et les aspirations des joueurs, entraîneurs, clubs, dirigeants du football et supporters à travers le monde.  \n\nDerrière chaque qualification se trouvent des années de travail et d’investissement. Derrière chaque équipe nationale se dressent des communautés entières et des millions de personnes qui voient le football comme une source de fierté, d’espoir et d’unité.  \n\nLe football n’appartient pas à un groupe restreint de nations. Sa force réside dans son UNIVERSALITÉ. 🌎 \n\nLa Coupe du monde est la plus grande compétition de football au monde précisément parce qu’elle réunit des cultures différentes, des histoires différentes et des parcours footballistiques différents. \n\nPour de nombreux pays, la participation à la Coupe du monde n’est pas seulement un accomplissement sportif. C’est un moment qui inspire une génération, accélère le développement du football et crée des souvenirs qui durent toute une vie. \n\nNous croyons que chaque nation qui se qualifie mérite DU RESPECT. \n\nChaque équipe a gagné sa place à la loyale. \n\nChaque supporter a le droit de rêver. \n\nChaque match a un sens pour des millions de personnes à travers le monde. \n\nNous rejetons donc les commentaires du président de l’UEFA et réaffirmons notre conviction que la croissance du football doit continuer à créer des opportunités, inspirer de nouvelles générations et renforcer la véritable nature globale de notre sport. \n\nCHAQUE MATCH COMPTE. »"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 601,
+          "impression_count": 618319,
+          "like_count": 8333,
+          "quote_count": 122,
+          "reply_count": 296,
+          "retweet_count": 1059
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 13 sélections signent un communiqué commun pour DÉNONCER les propos du président de l'UEFA ! ✍️\n\nAleksander Čeferin 🇸🇮 a déclaré que le passage à 48 équipes créait des matches « sans intérêt » en Coupe du monde. 😬\n\nLes signataires :\n\n👉 Afrique du Sud 🇿🇦\n👉 Algérie 🇩🇿\n👉 https://t.co/wbmvz426A9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 1029,
+          "like_count": 2614,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 8662
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-21T14:25:25.000Z",
+        "description": "Suivez toute l'actu foot en temps réel sur @actufoot_ • 🔔 Pensez à activer les notifications pour ne manquer aucune alerte 🚨 • actufoot_@outlook.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "actufoot_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/actufoot_/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/actufoot_/",
+                "start": 0,
+                "url": "https://t.co/ME2WgWef5A"
+              }
+            ]
+          }
+        },
+        "id": "771606164",
+        "name": "Actu Foot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860995948089847808/oFkrcyD-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8923053,
+          "following_count": 420,
+          "like_count": 2380,
+          "listed_count": 3788,
+          "media_count": 184874,
+          "tweet_count": 256550
+        },
+        "url": "https://t.co/ME2WgWef5A",
+        "username": "ActuFoot_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2062065956617171272",
+    "created_at": "2026-06-03T06:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062065956617171272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750468126972559360",
+          "start": 3,
+          "username": "miyarah_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062065956617171272",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061804477523407217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyarah_: gracias a la universidad cada día me levanto mas motivada a no seguir viviendo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2062065956617171272",
+        "created_at": "2026-06-03T06:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062065956617171272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750468126972559360",
+              "start": 3,
+              "username": "miyarah_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062065956617171272",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061804477523407217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyarah_: gracias a la universidad cada día me levanto mas motivada a no seguir viviendo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750468126972559360",
+        "conversation_id": "2061804477523407217",
+        "created_at": "2026-06-02T13:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061804477523407217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061804477523407217",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 162935,
+          "like_count": 15977,
+          "quote_count": 43,
+          "reply_count": 30,
+          "retweet_count": 3119
+        },
+        "reply_settings": "everyone",
+        "text": "gracias a la universidad cada día me levanto mas motivada a no seguir viviendo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 1007,
+          "like_count": 2508,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 8213
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7UhK4"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "name": "miya",
+        "pinned_tweet_id": "2058230579141673024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061336333168115713/OYKdTzLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14463,
+          "following_count": 1927,
+          "like_count": 179161,
+          "listed_count": 128,
+          "media_count": 5814,
+          "tweet_count": 147081
+        },
+        "url": "https://t.co/r6yCv7UhK4",
+        "username": "miyarah_",
+        "verified": false
+      }
+    ]
+  }
+}

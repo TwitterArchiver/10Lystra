@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2066764129344393468",
+    "created_at": "2026-06-16T06:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066764129344393468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/poca2381/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/poca2381/status/2066408365446828164",
+          "start": 4,
+          "url": "https://t.co/tw4fK5X49C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066764129344393468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066408365446828164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑疯了 https://t.co/tw4fK5X49C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "3_2066408299441090560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1bZmka8AAvXn3.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2066764129344393468",
+        "created_at": "2026-06-16T06:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066764129344393468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poca2381/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/poca2381/status/2066408365446828164",
+              "start": 4,
+              "url": "https://t.co/tw4fK5X49C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066764129344393468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066408365446828164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑疯了 https://t.co/tw4fK5X49C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066408299441090560"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2066408365446828164",
+        "created_at": "2026-06-15T06:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066408365446828164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jurI6FmuYY",
+              "end": 26,
+              "expanded_url": "https://x.com/Poca2381/status/2066408365446828164/photo/1",
+              "media_key": "3_2066408299441090560",
+              "start": 3,
+              "url": "https://t.co/jurI6FmuYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066408365446828164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 39881,
+          "like_count": 731,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "啊这 https://t.co/jurI6FmuYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 1033,
+          "like_count": 2613,
+          "listed_count": 5,
+          "media_count": 331,
+          "tweet_count": 8696
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21949,
+          "following_count": 9382,
+          "like_count": 152286,
+          "listed_count": 52,
+          "media_count": 4850,
+          "tweet_count": 51622
+        },
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

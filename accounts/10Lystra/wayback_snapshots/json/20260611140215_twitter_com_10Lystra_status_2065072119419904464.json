@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2064977442096455822",
+    "created_at": "2026-06-11T14:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065072119419904464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065072119419904464",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064977442096455822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 感觉像是那种面向老年群体传销的保健品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2064977437881241600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhGCf4bkAAktss.jpg",
+        "width": 1812
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2064977438975868929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhGCj9aQAEYjMU.jpg",
+        "width": 1812
+      },
+      {
+        "height": 990,
+        "media_key": "3_2064977436815900672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhGCb6bwAAddBN.jpg",
+        "width": 817
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2064977439244357632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhGCk9bEAAPXg9.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2064977442096455822",
+        "created_at": "2026-06-11T14:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065072119419904464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065072119419904464",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064977442096455822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 感觉像是那种面向老年群体传销的保健品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064977437881241600",
+            "3_2064977438975868929",
+            "3_2064977436815900672",
+            "3_2064977439244357632"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2064977442096455822",
+        "created_at": "2026-06-11T07:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064977442096455822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sb62C2d0w",
+              "end": 169,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064977442096455822/photo/1",
+              "media_key": "3_2064977437881241600",
+              "start": 146,
+              "url": "https://t.co/4sb62C2d0w"
+            },
+            {
+              "display_url": "pic.x.com/4sb62C2d0w",
+              "end": 169,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064977442096455822/photo/1",
+              "media_key": "3_2064977438975868929",
+              "start": 146,
+              "url": "https://t.co/4sb62C2d0w"
+            },
+            {
+              "display_url": "pic.x.com/4sb62C2d0w",
+              "end": 169,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064977442096455822/photo/1",
+              "media_key": "3_2064977436815900672",
+              "start": 146,
+              "url": "https://t.co/4sb62C2d0w"
+            },
+            {
+              "display_url": "pic.x.com/4sb62C2d0w",
+              "end": 169,
+              "expanded_url": "https://x.com/Strf_9040C/status/2064977442096455822/photo/1",
+              "media_key": "3_2064977439244357632",
+              "start": 146,
+              "url": "https://t.co/4sb62C2d0w"
+            },
+            {
+              "display_url": "x.com/SetsunaWoon/st…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/SetsunaWoon/status/2064287251371302989",
+              "start": 170,
+              "url": "https://t.co/0Il5Lnjjbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064977442096455822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064287251371302989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人体消化道有胃蛋白酶、胰蛋白酶，专门用来切断氨基酸链——不管你怎么修饰二硫键、加保护基团，只要是这类大分子蛋白，进入胃肠都会被彻底拆成普通氨基酸，完全失去原有活性，这也是和甾体小分子激素最本质的区别\n191/199个氨基酸的大分子多肽链，还有3个二硫键维持特定三维结构，一旦被破坏就彻底失活 https://t.co/4sb62C2d0w https://t.co/0Il5Lnjjbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1024,
+          "like_count": 2602,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 8620
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 2318,
+          "like_count": 11997,
+          "listed_count": 2,
+          "media_count": 608,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}
