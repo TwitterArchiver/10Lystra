@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2069368504139321817",
+    "created_at": "2026-06-24T02:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069610508567663027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069610508567663027",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069368504139321817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jellyfi77885103 反抗短命魔咒（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2069368504139321817",
+        "created_at": "2026-06-24T02:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069610508567663027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069610508567663027",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069368504139321817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 反抗短命魔咒（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2069368504139321817",
+        "created_at": "2026-06-23T10:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069368504139321817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069368504139321817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6134,
+          "like_count": 18,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实我从来不理解“我们的存在就是对恶意最大的反抗”，成为生命政治管理系统的非标准产品到底是如何造成反抗的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1049,
+          "like_count": 2630,
+          "listed_count": 5,
+          "media_count": 332,
+          "tweet_count": 8773
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "为什么世界上有那么多水母\n\n小红书https://t.co/zw3IwFNWyN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/2m8xweaDpgX",
+                "end": 40,
+                "expanded_url": "https://xhslink.com/m/2m8xweaDpgX",
+                "start": 17,
+                "url": "https://t.co/zw3IwFNWyN"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "name": "Jellyfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053288389194268672/lIst1La4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 164,
+          "like_count": 2791,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "Jellyfi77885103",
+        "verified": true
+      }
+    ]
+  }
+}

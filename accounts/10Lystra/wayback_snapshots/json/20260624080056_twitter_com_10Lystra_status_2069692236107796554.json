@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2033808411792707993",
+    "created_at": "2026-06-24T08:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069692236107796554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057148107780169728",
+          "start": 0,
+          "username": "ashulzp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069692236107796554",
+    "in_reply_to_user_id": "2057148107780169728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069672147027698087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashulzp 假的，没得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2033808411792707993",
+        "created_at": "2026-06-24T08:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069692236107796554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057148107780169728",
+              "start": 0,
+              "username": "ashulzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069692236107796554",
+        "in_reply_to_user_id": "2057148107780169728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069672147027698087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashulzp 假的，没得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057148107780169728",
+        "conversation_id": "2033808411792707993",
+        "created_at": "2026-06-24T06:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069672147027698087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069672147027698087",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033808411792707993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 你咋好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1049,
+          "like_count": 2630,
+          "listed_count": 5,
+          "media_count": 332,
+          "tweet_count": 8774
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T17:15:35.000Z",
+        "description": "",
+        "id": "2057148107780169728",
+        "name": "ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057505272269307905/ud7zP5s5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "ashulzp",
+        "verified": false
+      }
+    ]
+  }
+}

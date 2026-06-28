@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957238385074200576"
+      ],
+      "media_source_tweet_id": [
+        "1957238388169564547"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070862437646057525",
+    "created_at": "2026-06-27T13:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070862437646057525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952817386517872644",
+          "start": 3,
+          "username": "LX_Lacie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3OK4kyuAsp",
+          "end": 61,
+          "expanded_url": "https://x.com/LX_Lacie/status/1957238388169564547/photo/1",
+          "media_key": "3_1957238385074200576",
+          "start": 38,
+          "url": "https://t.co/3OK4kyuAsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070862437646057525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957238388169564547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LX_Lacie: 在此立下承诺：\n任永铨和我分手我就OD跳楼去死 https://t.co/3OK4kyuAsp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1885,
+        "media_key": "3_1957238385074200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymB8PsbYAAgBb7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957238385074200576"
+          ],
+          "media_source_tweet_id": [
+            "1957238388169564547"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070862437646057525",
+        "created_at": "2026-06-27T13:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070862437646057525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952817386517872644",
+              "start": 3,
+              "username": "LX_Lacie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OK4kyuAsp",
+              "end": 61,
+              "expanded_url": "https://x.com/LX_Lacie/status/1957238388169564547/photo/1",
+              "media_key": "3_1957238385074200576",
+              "start": 38,
+              "url": "https://t.co/3OK4kyuAsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070862437646057525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957238388169564547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LX_Lacie: 在此立下承诺：\n任永铨和我分手我就OD跳楼去死 https://t.co/3OK4kyuAsp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957238385074200576"
+          ]
+        },
+        "author_id": "1952817386517872644",
+        "conversation_id": "1957238388169564547",
+        "created_at": "2025-08-18T00:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T01:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957238388169564547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OK4kyuAsp",
+              "end": 47,
+              "expanded_url": "https://x.com/LX_Lacie/status/1957238388169564547/photo/1",
+              "media_key": "3_1957238385074200576",
+              "start": 24,
+              "url": "https://t.co/3OK4kyuAsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957238388169564547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2240,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在此立下承诺：\n任永铨和我分手我就OD跳楼去死 https://t.co/3OK4kyuAsp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1057,
+          "like_count": 2637,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8846
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T19:42:09.000Z",
+        "description": "",
+        "id": "1952817386517872644",
+        "location": "Taipei City, Taiwan",
+        "name": "Lac",
+        "pinned_tweet_id": "1986553871284773363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007424339420033026/nb6LYv9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 8,
+          "like_count": 952,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "LX_Lacie",
+        "verified": false
+      }
+    ]
+  }
+}

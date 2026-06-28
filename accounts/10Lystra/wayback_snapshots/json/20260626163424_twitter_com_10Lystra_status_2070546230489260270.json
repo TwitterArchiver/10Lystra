@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070461286941589756",
+    "created_at": "2026-06-26T16:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070546230489260270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034865150499725313",
+          "start": 0,
+          "username": "Weberkaliro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070546230489260270",
+    "in_reply_to_user_id": "2034865150499725313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070461286941589756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weberkaliro 摸摸妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070461286941589756",
+        "created_at": "2026-06-26T16:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070546230489260270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034865150499725313",
+              "start": 0,
+              "username": "Weberkaliro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070546230489260270",
+        "in_reply_to_user_id": "2034865150499725313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070461286941589756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weberkaliro 摸摸妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034865150499725313",
+        "conversation_id": "2070461286941589756",
+        "created_at": "2026-06-26T10:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070461286941589756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070461286941589756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈真不知道我该怎么办了wc\n谁能救救我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 1055,
+          "like_count": 2633,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8832
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215| 重度焦虑 重度抑郁 双相 精分 社交障碍 躁郁qwq|家暴-天残-无证含糖\n想和咱深入交流的里账号：@kaliroweber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "kaliroweber"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔🏳️‍⚧️Kaliro🍥（学医期末复习限定）",
+        "pinned_tweet_id": "2034961012794024311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 1423,
+          "like_count": 4287,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "Weberkaliro",
+        "verified": false
+      }
+    ]
+  }
+}

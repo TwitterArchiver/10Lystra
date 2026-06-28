@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070549320135557228",
+    "created_at": "2026-06-26T18:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070573270483583032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004949131450867712",
+          "start": 0,
+          "username": "xersy37737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070573270483583032",
+    "in_reply_to_user_id": "2004949131450867712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070549320135557228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xersy37737 那我这上个双非算啥啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070549320135557228",
+        "created_at": "2026-06-26T18:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070573270483583032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004949131450867712",
+              "start": 0,
+              "username": "xersy37737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070573270483583032",
+        "in_reply_to_user_id": "2004949131450867712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070549320135557228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xersy37737 那我这上个双非算啥啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004949131450867712",
+        "conversation_id": "2070549320135557228",
+        "created_at": "2026-06-26T16:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070549320135557228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070549320135557228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我看推特上的跨要么是上985享受成功人生的，要么是辍学享受自由的。\n那我这上个双非算啥啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 1056,
+          "like_count": 2635,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8836
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "Radical Communist,TransLes,Machine Learning Worker,Good Cat.",
+        "id": "2004949131450867712",
+        "location": "数据层",
+        "name": "Xersy​🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 35,
+          "like_count": 1891,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "xersy37737",
+        "verified": false
+      }
+    ]
+  }
+}

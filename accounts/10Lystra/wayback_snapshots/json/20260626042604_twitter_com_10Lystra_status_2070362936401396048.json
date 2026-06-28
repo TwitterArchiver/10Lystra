@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070156493920547307",
+    "created_at": "2026-06-26T04:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070362936401396048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "meiiiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070362936401396048",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070156493920547307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiiiTvT 怎么还有拿豆包自杀的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070156468146630656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqsVvFbcAAHgbY.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070156468134023168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqsVvCbEAAOrGS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070156493920547307",
+        "created_at": "2026-06-26T04:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070362936401396048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "meiiiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070362936401396048",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070156493920547307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiiiTvT 怎么还有拿豆包自杀的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070156468146630656",
+            "3_2070156468134023168"
+          ]
+        },
+        "author_id": "1599377355503726592",
+        "conversation_id": "2070156493920547307",
+        "created_at": "2026-06-25T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070156493920547307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGqCogAc48",
+              "end": 23,
+              "expanded_url": "https://x.com/meiiiTvT/status/2070156493920547307/photo/1",
+              "media_key": "3_2070156468146630656",
+              "start": 0,
+              "url": "https://t.co/dGqCogAc48"
+            },
+            {
+              "display_url": "pic.x.com/dGqCogAc48",
+              "end": 23,
+              "expanded_url": "https://x.com/meiiiTvT/status/2070156493920547307/photo/1",
+              "media_key": "3_2070156468134023168",
+              "start": 0,
+              "url": "https://t.co/dGqCogAc48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070156493920547307",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2093,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dGqCogAc48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 1055,
+          "like_count": 2631,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8815
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓｜07重抑中焦神经性贪食｜o割餐券｜互fo欢迎 @Denyoffshshsh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Denyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070353440660942848/uPxGpY-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 429,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 2457
+        },
+        "url": "",
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

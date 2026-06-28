@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070087178466554266",
+    "created_at": "2026-06-25T10:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070095431413928284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1892197607109476352",
+          "start": 0,
+          "username": "lianshufa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070095431413928284",
+    "in_reply_to_user_id": "1892197607109476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070087178466554266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianshufa 初一开始省二也没那么难吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_2070087175316623360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLptUXLW0AA4xwg.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1611,
+        "media_key": "3_2070087175392104448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLptUXdWkAAUQhg.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070087178466554266",
+        "created_at": "2026-06-25T10:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070095431413928284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892197607109476352",
+              "start": 0,
+              "username": "lianshufa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070095431413928284",
+        "in_reply_to_user_id": "1892197607109476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070087178466554266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianshufa 初一开始省二也没那么难吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070087175316623360",
+            "3_2070087175392104448"
+          ]
+        },
+        "author_id": "1892197607109476352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070087178466554266",
+        "created_at": "2026-06-25T10:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070087178466554266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ri4HXsKpKw",
+              "end": 78,
+              "expanded_url": "https://x.com/lianshufa/status/2070087178466554266/photo/1",
+              "media_key": "3_2070087175316623360",
+              "start": 55,
+              "url": "https://t.co/ri4HXsKpKw"
+            },
+            {
+              "display_url": "pic.x.com/ri4HXsKpKw",
+              "end": 78,
+              "expanded_url": "https://x.com/lianshufa/status/2070087178466554266/photo/1",
+              "media_key": "3_2070087175392104448",
+              "start": 55,
+              "url": "https://t.co/ri4HXsKpKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070087178466554266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种才初一，化学0基础的就让孩子学化学竞赛的家长最神了\n​\n​我喜欢跑步，但是我瘫痪了，请问我跑得过博尔特吗 https://t.co/ri4HXsKpKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1052,
+          "like_count": 2630,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8792
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "个人主页:https://t.co/zZum0DqESa｜生日2009.10.02｜两性畸形?｜X?tF｜舞萌痴｜化学竞赛｜弹电吉他🎸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 28,
+                "expanded_url": "http://lsfself.top",
+                "start": 5,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院门诊2层13诊室",
+        "name": "lsf",
+        "pinned_tweet_id": "2062467564228452669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035628512263221248/duwFcH0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 1828,
+          "like_count": 2538,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

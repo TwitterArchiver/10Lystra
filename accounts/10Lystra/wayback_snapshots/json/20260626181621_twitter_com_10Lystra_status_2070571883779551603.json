@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070568715113082946",
+    "created_at": "2026-06-26T18:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070571883779551603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1271512602145730560",
+          "start": 0,
+          "username": "Akino_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070571883779551603",
+    "in_reply_to_user_id": "1271512602145730560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070568715113082946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akino_QwQ 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070568669869199360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwjPCKbUAAuqBl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070568715113082946",
+        "created_at": "2026-06-26T18:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070571883779551603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "Akino_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070571883779551603",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070568715113082946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akino_QwQ 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070568669869199360"
+          ]
+        },
+        "author_id": "1271512602145730560",
+        "conversation_id": "2070568715113082946",
+        "created_at": "2026-06-26T18:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070568715113082946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDkPiG8bHx",
+              "end": 34,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2070568715113082946/photo/1",
+              "media_key": "3_2070568669869199360",
+              "start": 11,
+              "url": "https://t.co/IDkPiG8bHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070568715113082946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全部的药物\n会醒来吗 https://t.co/IDkPiG8bHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 1056,
+          "like_count": 2635,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8835
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含？友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已退坑/ADHD/想od/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "华立科技展厅",
+        "name": "一定不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 928,
+          "like_count": 18109,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 3815
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

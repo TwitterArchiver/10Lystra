@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070002817591603529",
+    "created_at": "2026-06-25T12:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070117799293305067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070117799293305067",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070002817591603529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 「我想穿另一套衣服是因为衣柜里只剩那一套了」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070002817591603529",
+        "created_at": "2026-06-25T12:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070117799293305067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070117799293305067",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070002817591603529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 「我想穿另一套衣服是因为衣柜里只剩那一套了」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2070002817591603529",
+        "created_at": "2026-06-25T04:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:31:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070001921122095452",
+          "2070002817591603529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2069991852363936226",
+              "start": 67,
+              "url": "https://t.co/1AMZBZb7HP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070002817591603529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「先天跨性别」是一个我永远没法理解的范畴。显然：跨性别并不只是对身体形态或性行为模式的偏好，更涉及自己的社会性别身份的认同与被识别。\n\n然而性别不是性，人类社会的「男人」、「女人」也是一种社会角色而不是单纯的生物行为模式。所以人类出生时不可能具备任何关于「性别」、「男人」、「女人」或「社会」的知识，因此也不可能先天地具有任何具体的性别身份认同。人可能对某种身体先天有不适宜感，但这和是「跨性别」绝不是一回事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 997,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069991852363936226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「先天跨性别」是一个我永远没法理解的范畴。显然：跨性别并不只是对身体形态或性行为模式的偏好，更涉及自己的社会性别身份的认同与被识别。 https://t.co/1AMZBZb7HP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1053,
+          "like_count": 2630,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8795
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。祢的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2047343219063840775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068835297421574144/X1tfveHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 163,
+          "like_count": 11028,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 7603
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

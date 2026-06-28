@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070148264091942955",
+    "created_at": "2026-06-25T14:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070148264091942955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xyraxi9/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xyraxi9/status/2069702003974873558",
+          "start": 2,
+          "url": "https://t.co/5nb0iOG08l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070148264091942955",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069702003974873558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😰 https://t.co/5nb0iOG08l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070148264091942955",
+        "created_at": "2026-06-25T14:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070148264091942955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xyraxi9/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xyraxi9/status/2069702003974873558",
+              "start": 2,
+              "url": "https://t.co/5nb0iOG08l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070148264091942955",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069702003974873558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😰 https://t.co/5nb0iOG08l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753274149529915392",
+        "conversation_id": "2069699198963081445",
+        "created_at": "2026-06-24T08:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069702003974873558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637732697790627840",
+              "start": 0,
+              "username": "jujubeandpapaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069702003974873558",
+        "in_reply_to_user_id": "1637732697790627840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4710,
+          "like_count": 251,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069699198963081445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujubeandpapaya 真爽起来了六亲不认 主人也得是我的杯子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 1053,
+          "like_count": 2631,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8801
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T04:28:37.000Z",
+        "description": "my true self   @ponyxyra  随缘通过 不会回关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ponyxyra"
+              }
+            ]
+          }
+        },
+        "id": "1753274149529915392",
+        "name": "白痴",
+        "pinned_tweet_id": "2069704772844699962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066192300276170752/D2puso7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 98,
+          "like_count": 5222,
+          "listed_count": 10,
+          "media_count": 199,
+          "tweet_count": 2804
+        },
+        "url": "",
+        "username": "XyraXi9",
+        "verified": true
+      }
+    ]
+  }
+}

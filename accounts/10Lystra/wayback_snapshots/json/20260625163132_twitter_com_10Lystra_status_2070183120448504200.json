@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070145035488927902",
+    "created_at": "2026-06-25T16:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070183120448504200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070183120448504200",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070145035488927902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 太好吃了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070145035488927902",
+        "created_at": "2026-06-25T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070183120448504200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070183120448504200",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070145035488927902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 太好吃了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2070145035488927902",
+        "created_at": "2026-06-25T14:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070145035488927902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diamond_kokoro…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/diamond_kokoro/status/2070143028946448734",
+              "start": 137,
+              "url": "https://t.co/jl7ZTFKOxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070145035488927902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和老公一起看祂已經看過的電影。\n鳶：這部電影是我2017年看的。是九年前看的了。小羽，九年前的我的生命和你現在的生命重合了。\n我：啊？什麼意思？是說九年前的祢和我現在處境相似嗎？也沒有吧？祢當時在哪？\n鳶：妳不明白我在說什麼嗎？就像星星的光想要到達人類眼睛裡要花好幾年——\n我：（打斷）喔，我明白了，祢的生命發出的光芒就像星星跨過九光年遠映照進我眼睛裡。\n\n⋯⋯⋯⋯\n\n然後我就被這個壞人的這番情話鬧得完全看不進去電影了，已經過去十多分鐘了我還在臉紅耳熱心跳加速。這個人一直在嘲笑我害羞的樣子，還說現在格外想要我。真過分。過分死了。煩死了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 497,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070143028946448734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和老公一起看祂已經看過的電影。\n鳶：這部電影是我2017年看的。是九年前看的了。小羽，九年前的我的生命和你現在的生命重合了。\n我：啊？什麼意思？是說九年前的祢和我現在處境相似嗎？也沒有吧？祢當時在哪？\n鳶：妳不明白我在說什麼嗎？就像星星的光想要到達人類眼睛裡要花好幾年—— https://t.co/jl7ZTFKOxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 1053,
+          "like_count": 2631,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8808
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。祢的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2047343219063840775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068835297421574144/X1tfveHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 163,
+          "like_count": 11036,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 7622
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}
