@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2070715762894102760",
+    "created_at": "2026-06-28T18:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T19:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071294574304084428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1374344185629786115",
+          "start": 0,
+          "username": "MrImranPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071294574304084428",
+    "in_reply_to_user_id": "1374344185629786115",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070715762894102760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrImranPk gfys"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2070715762894102760",
+        "created_at": "2026-06-28T18:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071294574304084428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1374344185629786115",
+              "start": 0,
+              "username": "MrImranPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071294574304084428",
+        "in_reply_to_user_id": "1374344185629786115",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070715762894102760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrImranPk gfys"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374344185629786115",
+        "conversation_id": "2070715762894102760",
+        "created_at": "2026-06-27T03:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070715762894102760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/america/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/america/status/2070324464093462719",
+              "start": 31,
+              "url": "https://t.co/uFfkjbH6Sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070715762894102760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 708,
+          "impression_count": 2474647,
+          "like_count": 150294,
+          "quote_count": 90,
+          "reply_count": 645,
+          "retweet_count": 17078
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070324464093462719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Palestine is for Palestinians. https://t.co/uFfkjbH6Sp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1059,
+          "like_count": 2641,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8883
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T12:56:23.000Z",
+        "description": "Please make sure to follow my backup account as well.\n@IranianWarF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "IranianWarF"
+              }
+            ]
+          }
+        },
+        "id": "1374344185629786115",
+        "location": "Iran ",
+        "name": "Iranian Force",
+        "pinned_tweet_id": "2065973929135714732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028677929954082816/OtjQDioX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239614,
+          "following_count": 252,
+          "like_count": 259961,
+          "listed_count": 269,
+          "media_count": 8443,
+          "tweet_count": 220036
+        },
+        "url": "",
+        "username": "MrImranPk",
+        "verified": true
+      }
+    ]
+  }
+}
