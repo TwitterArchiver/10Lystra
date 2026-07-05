@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2071609747309294078",
+    "created_at": "2026-06-29T15:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071611136823251325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071611136823251325",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071609747309294078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 我没有劝慰的资格，因为换作我坚持不了这么久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2071609747309294078",
+        "created_at": "2026-06-29T15:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071611136823251325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071611136823251325",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071609747309294078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 我没有劝慰的资格，因为换作我坚持不了这么久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2071609747309294078",
+        "created_at": "2026-06-29T15:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071609747309294078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071609747309294078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "17又双叒叕自杀了\n他对象联系了父亲，打了120\n现在在判断有没有吃药\n最后知道的是我打的电话终于接了\n她妈妈跟她打起\n她让我骂她妈妈……\n\n我既不是她对象也不是她家人\n我没权利决定他进不进去\n如果真出事讣告也轮不到我发\n她很爱这个世界\n但是她觉得自己太差劲了被毁掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1057,
+          "like_count": 2645,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8911
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州拍摄剪辑/mtx/intp\n懂一点点心理学和商业\n如果你有自杀风险或者od失控风险请远离我",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 511,
+          "like_count": 3609,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 3812
+        },
+        "url": "",
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

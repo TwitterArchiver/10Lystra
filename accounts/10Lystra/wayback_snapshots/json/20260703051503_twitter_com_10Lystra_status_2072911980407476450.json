@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2072891453437857939",
+    "created_at": "2026-07-03T05:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072911980407476450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072911980407476450",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072891453437857939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa 你倒是说哪一套啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2072891453437857939",
+        "created_at": "2026-07-03T05:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072911980407476450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072911980407476450",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072891453437857939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa 你倒是说哪一套啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2072891453437857939",
+        "created_at": "2026-07-03T03:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072891453437857939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072891453437857939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得社群内部内斗没有任何意义。\n\n无论是什么性别、什么身份，都应该被用同一套标准对待。每个人的性别认同都应该得到尊重。\n同时，不同概念之间的边界应当保持清晰，不把不同概念混为一谈。\n\n与其把精力花在互相攻击和划分阵营，不如把更多精力放在建设性的讨论、推动权利和平等上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1060,
+          "like_count": 2651,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 8982
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | TypeScript | Node.js | LocalLLaMA | 先天跨 | 会伪音 | 反向深柜 | MioMtFWiki 创建者 & 维护者 | 激进平权主义 | 无性恋 | 最讨厌@linyongqin9 | 同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 137,
+                "username": "linyongqin9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 935,
+          "like_count": 1575,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

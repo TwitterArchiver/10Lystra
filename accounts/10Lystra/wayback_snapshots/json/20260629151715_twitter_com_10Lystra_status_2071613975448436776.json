@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2071479899509170582",
+    "created_at": "2026-06-29T15:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071613975448436776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071613975448436776",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071479899509170582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 我打激光没有问我吃药的问题啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2071479891993010176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9f_JGboAAj-eQ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2071479899509170582",
+        "created_at": "2026-06-29T15:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071613975448436776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071613975448436776",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071479899509170582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 我打激光没有问我吃药的问题啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071479891993010176"
+          ]
+        },
+        "author_id": "1291704894211186689",
+        "conversation_id": "2071479899509170582",
+        "created_at": "2026-06-29T06:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071479899509170582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNxxnKXywM",
+              "end": 53,
+              "expanded_url": "https://x.com/AZLXY1/status/2071479899509170582/photo/1",
+              "media_key": "3_2071479891993010176",
+              "start": 30,
+              "url": "https://t.co/sNxxnKXywM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071479899509170582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2918,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃药还不能除除疤吗，什么道理\n我看我手上的增生不爽很久了😢 https://t.co/sNxxnKXywM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1058,
+          "like_count": 2645,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8913
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 687,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1848
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

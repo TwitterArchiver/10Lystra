@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2071256266467594573",
+    "created_at": "2026-06-29T01:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T02:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071401869167984972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 23,
+          "id": "1418942200457662477",
+          "start": 13,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071401869167984972",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071401727560204616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @Rikka_Ela 那你就能同时找三个一日男友了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2071256266467594573",
+        "created_at": "2026-06-29T01:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071401869167984972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 23,
+              "id": "1418942200457662477",
+              "start": 13,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071401869167984972",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071401727560204616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @Rikka_Ela 那你就能同时找三个一日男友了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "2071256266467594573",
+        "created_at": "2026-06-29T01:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T02:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071401727560204616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 20,
+              "id": "1418942200457662477",
+              "start": 10,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071401727560204616",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071401248700481622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @Rikka_Ela 术后男同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1058,
+          "like_count": 2643,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 8885
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "广州2号线",
+        "name": "一日Nagi",
+        "pinned_tweet_id": "2064631666849759358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066688724407382016/EWwlDVO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 2360,
+          "like_count": 29868,
+          "listed_count": 8,
+          "media_count": 2712,
+          "tweet_count": 25781
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5932,
+          "following_count": 3771,
+          "like_count": 85739,
+          "listed_count": 7,
+          "media_count": 443,
+          "tweet_count": 9834
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

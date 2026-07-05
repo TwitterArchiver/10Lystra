@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2072698499234509273",
+    "created_at": "2026-07-02T16:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072718007931928970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072718007931928970",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072698499234509273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 我笑得扭来扭去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2072698486974533633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO0StKbUAE2AUg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 556,
+        "media_key": "3_2072698486961917952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO0StHa0AAKw8W.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2072698499234509273",
+        "created_at": "2026-07-02T16:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072718007931928970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072718007931928970",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072698499234509273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 我笑得扭来扭去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072698486974533633",
+            "3_2072698486961917952"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072698499234509273",
+        "created_at": "2026-07-02T15:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072698499234509273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VPYxMDzxhf",
+              "end": 29,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2072698499234509273/photo/1",
+              "media_key": "3_2072698486974533633",
+              "start": 6,
+              "url": "https://t.co/VPYxMDzxhf"
+            },
+            {
+              "display_url": "pic.x.com/VPYxMDzxhf",
+              "end": 29,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2072698499234509273/photo/1",
+              "media_key": "3_2072698486961917952",
+              "start": 6,
+              "url": "https://t.co/VPYxMDzxhf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072698499234509273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没有人类了 https://t.co/VPYxMDzxhf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 1061,
+          "like_count": 2651,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 8957
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071376088018956288/SAB5MTfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 737,
+          "like_count": 21671,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 5338
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

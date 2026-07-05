@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2072709729575645600",
+    "created_at": "2026-07-03T00:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072847053940486454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072847053940486454",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072709729575645600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 挺古老的网络用语然后也确实很缺钱来着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2072709716804009985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO-gXiagAECAg2.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2072709729575645600",
+        "created_at": "2026-07-03T00:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072847053940486454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072847053940486454",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072709729575645600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 挺古老的网络用语然后也确实很缺钱来着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072709716804009985"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2072709729575645600",
+        "created_at": "2026-07-02T15:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072709729575645600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlSZdWcSGU",
+              "end": 23,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2072709729575645600/photo/1",
+              "media_key": "3_2072709716804009985",
+              "start": 0,
+              "url": "https://t.co/HlSZdWcSGU"
+            },
+            {
+              "display_url": "x.com/beyondr3pairr/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/beyondr3pairr/status/2072709166238417258",
+              "start": 24,
+              "url": "https://t.co/7tblpa9oQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072709729575645600",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 499,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072709166238417258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/HlSZdWcSGU https://t.co/7tblpa9oQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1060,
+          "like_count": 2651,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 8963
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。原本我只想要一縷春風；祢給了我整個春天，軌道雨季洶湧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2072308189689958631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071842943338504192/fInTd1w1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 164,
+          "like_count": 11877,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 8197
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

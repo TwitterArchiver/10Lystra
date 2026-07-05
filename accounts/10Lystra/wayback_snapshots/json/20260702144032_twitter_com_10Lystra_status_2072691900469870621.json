@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2072338987726057719",
+    "created_at": "2026-07-02T14:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072691900469870621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072691900469870621",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072338987726057719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo 早晚会高的（不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2072338987726057719",
+        "created_at": "2026-07-02T14:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072691900469870621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072691900469870621",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072338987726057719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo 早晚会高的（不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845674780416208897",
+        "conversation_id": "2072338987726057719",
+        "created_at": "2026-07-01T15:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072338987726057719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/liulingyo/status/2072174232176620022",
+              "start": 46,
+              "url": "https://t.co/dnOoBhOCrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072338987726057719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2405,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072174232176620022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睾酮0.93nmol/L 雌二醇68pg/ml，我靠，e2怎么这么低，难道是我中午测的缘故 https://t.co/dnOoBhOCrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 1061,
+          "like_count": 2650,
+          "listed_count": 5,
+          "media_count": 336,
+          "tweet_count": 8946
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "mtf，19，175，55，果粉，性取向男，日语，简/繁中，hrt🍥2024.10，对象：@GanYuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "location": "浙",
+        "name": "悠悠🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071264803205906432/7GHE-cjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 948,
+          "like_count": 3840,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false
+      }
+    ]
+  }
+}
