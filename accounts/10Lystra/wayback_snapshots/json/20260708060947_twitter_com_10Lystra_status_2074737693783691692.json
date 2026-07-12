@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074583361029349832",
+    "created_at": "2026-07-08T06:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074737693783691692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "711698610346434561",
+          "start": 0,
+          "username": "LisandrMartinez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074737693783691692",
+    "in_reply_to_user_id": "711698610346434561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074583361029349832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LisandrMartinez 防空防不住我不挑你的理，下一场能不能少点看球不看人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074583353001480192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpmkWSXkAAIkhA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2074583353030832128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpmkWZXcAApTLn.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074583361029349832",
+        "created_at": "2026-07-08T06:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074737693783691692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "711698610346434561",
+              "start": 0,
+              "username": "LisandrMartinez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074737693783691692",
+        "in_reply_to_user_id": "711698610346434561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074583361029349832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LisandrMartinez 防空防不住我不挑你的理，下一场能不能少点看球不看人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074583353001480192",
+            "3_2074583353030832128"
+          ]
+        },
+        "author_id": "711698610346434561",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2074583361029349832",
+        "created_at": "2026-07-07T19:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074583361029349832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAbACWfIDX",
+              "end": 106,
+              "expanded_url": "https://x.com/LisandrMartinez/status/2074583361029349832/photo/1",
+              "media_key": "3_2074583353001480192",
+              "start": 83,
+              "url": "https://t.co/JAbACWfIDX"
+            },
+            {
+              "display_url": "pic.x.com/JAbACWfIDX",
+              "end": 106,
+              "expanded_url": "https://x.com/LisandrMartinez/status/2074583361029349832/photo/1",
+              "media_key": "3_2074583353030832128",
+              "start": 83,
+              "url": "https://t.co/JAbACWfIDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074583361029349832",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 747,
+          "impression_count": 846421,
+          "like_count": 108474,
+          "quote_count": 474,
+          "reply_count": 3973,
+          "retweet_count": 10420
+        },
+        "reply_settings": "everyone",
+        "text": "QUE GRUPO!!! QUE FAMILIA!!! HASTA EL FINAL SIEMPRE!!! VAMOS ARGENTINA CARAJO!!! 🩵🤍 https://t.co/JAbACWfIDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1072,
+          "like_count": 2662,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9103
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-20T23:39:06.000Z",
+        "description": "Official Account. Jugador del Manchester United y @Argentina. Footballer for @ManUtd. Gualeguay, Entre Ríos. 🇦🇷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Argentina"
+              },
+              {
+                "end": 84,
+                "start": 77,
+                "username": "ManUtd"
+              }
+            ]
+          }
+        },
+        "id": "711698610346434561",
+        "name": "Lisandro Martinez",
+        "pinned_tweet_id": "1604577311772315650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066158397871845376/_UdvMsc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553110,
+          "following_count": 67,
+          "like_count": 465,
+          "listed_count": 919,
+          "media_count": 333,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "LisandrMartinez",
+        "verified": true
+      }
+    ]
+  }
+}

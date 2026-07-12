@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074848828130316288"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074848902985969731",
+    "created_at": "2026-07-08T13:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074848902985969731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b6ZE4HoBsV",
+          "end": 53,
+          "expanded_url": "https://x.com/10Lystra/status/2074848902985969731/photo/1",
+          "media_key": "16_2074848828130316288",
+          "start": 30,
+          "url": "https://t.co/b6ZE4HoBsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074848902985969731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想要能控制的能活动的大耳朵然后狠狠地对所有人展示飞机耳（ https://t.co/b6ZE4HoBsV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 132,
+        "media_key": "16_2074848828130316288",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMtYBCNX0AAoptY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMtYBCNX0AAoptY.mp4"
+          }
+        ],
+        "width": 138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074848828130316288"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074848902985969731",
+        "created_at": "2026-07-08T13:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074848902985969731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6ZE4HoBsV",
+              "end": 53,
+              "expanded_url": "https://x.com/10Lystra/status/2074848902985969731/photo/1",
+              "media_key": "16_2074848828130316288",
+              "start": 30,
+              "url": "https://t.co/b6ZE4HoBsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074848902985969731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想要能控制的能活动的大耳朵然后狠狠地对所有人展示飞机耳（ https://t.co/b6ZE4HoBsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1074,
+          "like_count": 2668,
+          "listed_count": 5,
+          "media_count": 344,
+          "tweet_count": 9127
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      }
+    ]
+  }
+}

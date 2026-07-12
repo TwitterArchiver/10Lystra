@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074340770589339738",
+    "created_at": "2026-07-08T10:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074809542672609516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2009336430007603202",
+          "start": 0,
+          "username": "MeowMio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074809542672609516",
+    "in_reply_to_user_id": "2009336430007603202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074340770589339738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowMio 中国完蛋了呀主播"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074340701299429376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmJ4KQWUAAX02M.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2074340701345624065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmJ4KbXMAEa_yJ.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2074340701349740545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmJ4KcWAAEp5Cf.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2074340701366558720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmJ4KgWoAAeFqe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074340770589339738",
+        "created_at": "2026-07-08T10:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074809542672609516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2009336430007603202",
+              "start": 0,
+              "username": "MeowMio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074809542672609516",
+        "in_reply_to_user_id": "2009336430007603202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074340770589339738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowMio 中国完蛋了呀主播"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074340701299429376",
+            "3_2074340701345624065",
+            "3_2074340701349740545",
+            "3_2074340701366558720"
+          ]
+        },
+        "author_id": "2009336430007603202",
+        "conversation_id": "2074340770589339738",
+        "created_at": "2026-07-07T03:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074340770589339738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VN9AXFohWq",
+              "end": 39,
+              "expanded_url": "https://x.com/MeowMio/status/2074340770589339738/photo/1",
+              "media_key": "3_2074340701299429376",
+              "start": 16,
+              "url": "https://t.co/VN9AXFohWq"
+            },
+            {
+              "display_url": "pic.x.com/VN9AXFohWq",
+              "end": 39,
+              "expanded_url": "https://x.com/MeowMio/status/2074340770589339738/photo/1",
+              "media_key": "3_2074340701345624065",
+              "start": 16,
+              "url": "https://t.co/VN9AXFohWq"
+            },
+            {
+              "display_url": "pic.x.com/VN9AXFohWq",
+              "end": 39,
+              "expanded_url": "https://x.com/MeowMio/status/2074340770589339738/photo/1",
+              "media_key": "3_2074340701349740545",
+              "start": 16,
+              "url": "https://t.co/VN9AXFohWq"
+            },
+            {
+              "display_url": "pic.x.com/VN9AXFohWq",
+              "end": 39,
+              "expanded_url": "https://x.com/MeowMio/status/2074340770589339738/photo/1",
+              "media_key": "3_2074340701366558720",
+              "start": 16,
+              "url": "https://t.co/VN9AXFohWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074340770589339738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1540,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "德国小猫在中国全裸下楼扔垃圾喵 https://t.co/VN9AXFohWq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 1072,
+          "like_count": 2663,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9110
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T18:48:36.000Z",
+        "description": "Kätzchen aus Deutschland|Teilen Sie nur den Alltag und lieben Sie immer|Bitte stören Sie mich nicht oder kritisieren Sie mich,ich bin nur ein Kätzchen|Trans cat",
+        "id": "2009336430007603202",
+        "location": "Im Nest des Porno-Kätzchens.",
+        "name": "Mio",
+        "pinned_tweet_id": "2021168655568953705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009336702754803714/_-i8IK4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 26,
+          "like_count": 1971,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "MeowMio",
+        "verified": false
+      }
+    ]
+  }
+}

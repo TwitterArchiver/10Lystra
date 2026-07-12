@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074448507096748397",
+    "created_at": "2026-07-08T05:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074722458360283336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1660640257434435584",
+          "start": 0,
+          "username": "imikoYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074722458360283336",
+    "in_reply_to_user_id": "1660640257434435584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074716048532849017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imikoYa 我能倒背如流但是为什么要用这些来证明点什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074448507096748397",
+        "created_at": "2026-07-08T05:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074722458360283336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1660640257434435584",
+              "start": 0,
+              "username": "imikoYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074722458360283336",
+        "in_reply_to_user_id": "1660640257434435584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074716048532849017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imikoYa 我能倒背如流但是为什么要用这些来证明点什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660640257434435584",
+        "conversation_id": "2074448507096748397",
+        "created_at": "2026-07-08T04:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074716048532849017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074716048532849017",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074448507096748397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 除了第二条 其他我都答不上来.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1072,
+          "like_count": 2662,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9101
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T13:34:35.000Z",
+        "description": "emm",
+        "id": "1660640257434435584",
+        "name": "bebe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660640408802656262/YUjOGIYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "imikoYa",
+        "verified": false
+      }
+    ]
+  }
+}

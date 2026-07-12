@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074939257970626916",
+    "created_at": "2026-07-09T05:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075090825147547850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075090825147547850",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074939257970626916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX 捉住了什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2074939250752278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuqQUua0AAGRdp.png",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074939257970626916",
+        "created_at": "2026-07-09T05:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075090825147547850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075090825147547850",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074939257970626916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 捉住了什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074939250752278528"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "2074939257970626916",
+        "created_at": "2026-07-08T19:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074939257970626916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBrBOkbuh3",
+              "end": 23,
+              "expanded_url": "https://x.com/BigglesworthX/status/2074939257970626916/photo/1",
+              "media_key": "3_2074939250752278528",
+              "start": 0,
+              "url": "https://t.co/JBrBOkbuh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074939257970626916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JBrBOkbuh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1075,
+          "like_count": 2670,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 9149
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 944,
+          "like_count": 3294,
+          "listed_count": 4,
+          "media_count": 1483,
+          "tweet_count": 7442
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

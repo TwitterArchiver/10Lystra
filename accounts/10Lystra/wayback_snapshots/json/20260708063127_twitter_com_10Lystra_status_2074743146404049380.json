@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074688655604789738",
+    "created_at": "2026-07-08T06:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074743146404049380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        },
+        {
+          "end": 26,
+          "id": "1721714145480114176",
+          "start": 11,
+          "username": "theforeveriris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074743146404049380",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074711251666800919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 @theforeveriris 好骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074688655604789738",
+        "created_at": "2026-07-08T06:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074743146404049380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            },
+            {
+              "end": 26,
+              "id": "1721714145480114176",
+              "start": 11,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074743146404049380",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074711251666800919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 @theforeveriris 好骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2074688655604789738",
+        "created_at": "2026-07-08T04:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074711251666800919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074711251666800919",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074688655604789738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 拿去当柴烧了我都嫌它污染炉子的sb，你打你mb呢，除了暴力强权什么都不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1072,
+          "like_count": 2663,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9107
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "mtx | 泛性恋 | 不含糖 | 不定时发癫 | 称呼小千就好💛🤍💜🖤sub 称他/她均可 想互fo 心理委员喵（虽然满脑子黄色废料）分身@qian68069\n\n（攻受可切的发情触手妖怪哦）\n\n学习🎹ing，喜欢sakanaction，喜欢研究各种数码产品和电子软硬件👍身高1.77体重55kg，好虚弱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 627,
+          "like_count": 2342,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 918
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 446,
+          "like_count": 17103,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 3811
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

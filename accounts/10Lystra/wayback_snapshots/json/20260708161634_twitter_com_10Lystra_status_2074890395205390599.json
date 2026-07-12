@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074812785960362086",
+    "created_at": "2026-07-08T16:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074890395205390599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        },
+        {
+          "end": 29,
+          "id": "1868579750098186240",
+          "start": 17,
+          "username": "xiaoshuTuT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074890395205390599",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074882859010285598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jellyfi77885103 @xiaoshuTuT1 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074812785960362086",
+        "created_at": "2026-07-08T16:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074890395205390599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            },
+            {
+              "end": 29,
+              "id": "1868579750098186240",
+              "start": 17,
+              "username": "xiaoshuTuT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074890395205390599",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074882859010285598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 @xiaoshuTuT1 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2074812785960362086",
+        "created_at": "2026-07-08T15:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074882859010285598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868579750098186240",
+              "start": 0,
+              "username": "xiaoshuTuT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882859010285598",
+        "in_reply_to_user_id": "1868579750098186240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 804,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074812785960362086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshuTuT1 我妈抱怨不是因为我的话早离婚了，但是我高中开始劝她离婚的时候她又无视了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1075,
+          "like_count": 2670,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 9136
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "为什么世界上有那么多水母\n\n小红书https://t.co/zw3IwFNWyN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/2m8xweaDpgX",
+                "end": 40,
+                "expanded_url": "https://xhslink.com/m/2m8xweaDpgX",
+                "start": 17,
+                "url": "https://t.co/zw3IwFNWyN"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "name": "果冻鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053288389194268672/lIst1La4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 171,
+          "like_count": 3449,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "Jellyfi77885103",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-16T08:51:54.000Z",
+        "description": "…我就发点牢骚而已 我不是黄推不线下不聊骚 纯绿",
+        "id": "1868579750098186240",
+        "location": "纯绿",
+        "name": "虚伪",
+        "pinned_tweet_id": "2041478221787779537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073021150545027072/ZHZbTExC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4299,
+          "following_count": 88,
+          "like_count": 388,
+          "listed_count": 7,
+          "media_count": 30,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "xiaoshuTuT1",
+        "verified": false
+      }
+    ]
+  }
+}

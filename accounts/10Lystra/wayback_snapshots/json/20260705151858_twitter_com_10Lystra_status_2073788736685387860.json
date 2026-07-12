@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2073788142000468342",
+    "created_at": "2026-07-05T15:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073788736685387860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073788736685387860",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073788142000468342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 这样指责的希望被这样爱一辈子😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2073788142000468342",
+        "created_at": "2026-07-05T15:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073788736685387860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073788736685387860",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073788142000468342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 这样指责的希望被这样爱一辈子😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2073788142000468342",
+        "created_at": "2026-07-05T15:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073788142000468342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073788142000468342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我放了七八个人的鸽子，几个月前就约好了。有时候我反而希望我妈更混蛋一点，不要指望每次能拖就拖，不能拖又哭又闹，我已经数不清这是第几次我看到她这样就妥协了，所有一知半解的人都跑来指责我你妈只是在爱你，反而混蛋的不懂事的好像永远是我，这真的是我最后一次对她心软了，以后我要一直犟下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 1065,
+          "like_count": 2654,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 9024
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex\n@LinkingMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "LinkingMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4553,
+          "following_count": 3511,
+          "like_count": 7999,
+          "listed_count": 10,
+          "media_count": 683,
+          "tweet_count": 5851
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

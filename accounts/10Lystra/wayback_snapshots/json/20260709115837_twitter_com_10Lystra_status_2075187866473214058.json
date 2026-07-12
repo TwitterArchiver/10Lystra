@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2075143502242234811",
+    "created_at": "2026-07-09T11:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075187866473214058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721003883579748352",
+          "start": 0,
+          "username": "tushanhonghong9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075187866473214058",
+    "in_reply_to_user_id": "1721003883579748352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075143502242234811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tushanhonghong9 批发呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2075143502242234811",
+        "created_at": "2026-07-09T11:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075187866473214058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721003883579748352",
+              "start": 0,
+              "username": "tushanhonghong9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075187866473214058",
+        "in_reply_to_user_id": "1721003883579748352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075143502242234811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tushanhonghong9 批发呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721003883579748352",
+        "conversation_id": "2075143502242234811",
+        "created_at": "2026-07-09T09:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075143502242234811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075143502242234811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 877,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日拿到第五张和第六张大证\n运气不错，感谢两位医生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 1075,
+          "like_count": 2670,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 9160
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 575,
+          "like_count": 72018,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 2749
+        },
+        "url": "",
+        "username": "tushanhonghong9",
+        "verified": true
+      }
+    ]
+  }
+}

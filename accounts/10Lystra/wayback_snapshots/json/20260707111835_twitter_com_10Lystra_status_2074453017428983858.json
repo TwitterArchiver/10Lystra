@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074295494705393746",
+    "created_at": "2026-07-07T11:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074453017428983858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074453017428983858",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074295494705393746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 坏了被问住了，真没有资料推荐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074295453198520320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlguX8bEAAfjuV.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074295494705393746",
+        "created_at": "2026-07-07T11:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074453017428983858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074453017428983858",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074295494705393746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 坏了被问住了，真没有资料推荐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074295453198520320"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2074295494705393746",
+        "created_at": "2026-07-07T00:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074295494705393746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7GGVBnaEL",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2074295494705393746/photo/1",
+              "media_key": "3_2074295453198520320",
+              "start": 0,
+              "url": "https://t.co/T7GGVBnaEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074295494705393746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 92809,
+          "like_count": 611,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T7GGVBnaEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1068,
+          "like_count": 2659,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9071
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121333,
+          "following_count": 1117,
+          "like_count": 52053,
+          "listed_count": 296,
+          "media_count": 22729,
+          "tweet_count": 33225
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

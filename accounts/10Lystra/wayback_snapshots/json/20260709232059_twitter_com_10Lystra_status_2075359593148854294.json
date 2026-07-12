@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2075171761449320504",
+    "created_at": "2026-07-09T23:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075359593148854294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        },
+        {
+          "end": 25,
+          "id": "1678117449508753408",
+          "start": 12,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075359593148854294",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075171761449320504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 @Chunliang2nd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2075171761449320504",
+        "created_at": "2026-07-09T23:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075359593148854294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 25,
+              "id": "1678117449508753408",
+              "start": 12,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075359593148854294",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075171761449320504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 @Chunliang2nd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2075171761449320504",
+        "created_at": "2026-07-09T10:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075171761449320504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075171761449320504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1465,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔爪是不是一种「瘦宅快乐水」？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1075,
+          "like_count": 2671,
+          "listed_count": 5,
+          "media_count": 346,
+          "tweet_count": 9172
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23336,
+          "following_count": 198,
+          "like_count": 729,
+          "listed_count": 72,
+          "media_count": 106,
+          "tweet_count": 23906
+        },
+        "url": "",
+        "username": "B_cat38324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS Bipolar Chaos-Evil 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android Doubao-8b 退役HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 144,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "乡北茶舍",
+        "name": "虚拟粘同学会梦到一般通过赛博溺水态李颖吗☆",
+        "pinned_tweet_id": "2009209330239983965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 1881,
+          "like_count": 27126,
+          "listed_count": 11,
+          "media_count": 1134,
+          "tweet_count": 27039
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

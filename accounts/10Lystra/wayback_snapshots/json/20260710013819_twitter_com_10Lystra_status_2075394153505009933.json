@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2075211667835863055",
+    "created_at": "2026-07-10T01:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075394153505009933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034865150499725313",
+          "start": 0,
+          "username": "Weberkaliro"
+        },
+        {
+          "end": 22,
+          "id": "1844296703282925568",
+          "start": 13,
+          "username": "0xJoveXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075394153505009933",
+    "in_reply_to_user_id": "2034865150499725313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075348558547673153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weberkaliro @0xJoveXu 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2075211667835863055",
+        "created_at": "2026-07-10T01:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075394153505009933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034865150499725313",
+              "start": 0,
+              "username": "Weberkaliro"
+            },
+            {
+              "end": 22,
+              "id": "1844296703282925568",
+              "start": 13,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075394153505009933",
+        "in_reply_to_user_id": "2034865150499725313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075348558547673153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weberkaliro @0xJoveXu 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034865150499725313",
+        "conversation_id": "2075211667835863055",
+        "created_at": "2026-07-09T22:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075348558547673153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075348558547673153",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075211667835863055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu 贩毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 1075,
+          "like_count": 2672,
+          "listed_count": 5,
+          "media_count": 346,
+          "tweet_count": 9178
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215|精分 躁郁 ADHD 社交障碍⚠|家暴-天残-无证含糖-激跨\n想和咱深入交流的里账号：@kaliroweber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "kaliroweber"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔🏳️‍⚧️Kaliro🍥",
+        "pinned_tweet_id": "2034961012794024311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1620,
+          "like_count": 4831,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "Weberkaliro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 23,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 0,
+                "url": "https://t.co/FZJIW2uXIU"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove",
+        "pinned_tweet_id": "2074173222472524177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25896,
+          "following_count": 7773,
+          "like_count": 41392,
+          "listed_count": 79,
+          "media_count": 1316,
+          "tweet_count": 38138
+        },
+        "url": "https://t.co/FZJIW2uXIU",
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

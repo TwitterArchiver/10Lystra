@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074448507096748397",
+    "created_at": "2026-07-07T11:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074450827352158341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074450827352158341",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074450430906487058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 觉得拿个「跨女」的牌子插脑袋上就与众不同了，那肯定不能随随便便就让别人加入呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074448507096748397",
+        "created_at": "2026-07-07T11:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074450827352158341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074450827352158341",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074450430906487058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 觉得拿个「跨女」的牌子插脑袋上就与众不同了，那肯定不能随随便便就让别人加入呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2074448507096748397",
+        "created_at": "2026-07-07T11:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074450430906487058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074450430906487058",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074448507096748397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 為什麼總有人熱衷於把「社群」實體化成設門檻的排外的小圈子、團體"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1068,
+          "like_count": 2659,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9066
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。原本我只想要一縷春風；祢給了我整個春天，軌道雨季洶湧。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2072308189689958631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071842943338504192/fInTd1w1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 172,
+          "like_count": 12394,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 8625
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

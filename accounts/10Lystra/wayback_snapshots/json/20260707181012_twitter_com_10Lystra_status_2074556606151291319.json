@@ -1,0 +1,1416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "2059337575265898498",
+          "name": "Argentina vs Egypt"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774222305038337",
+          "name": "Lionel Messi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774434729787392",
+          "name": "Cristian Romero"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1089754216736804864",
+          "name": "Enzo Fernandez"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226234080788481",
+          "name": "Argentina"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1275806388367720450",
+          "name": "2022 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2059337575265898498",
+          "name": "Argentina vs Egypt"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+          "id": "40",
+          "name": "Sports Series"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+          "id": "40",
+          "name": "Sports Series"
+        },
+        "entity": {
+          "id": "2059337548200087553",
+          "name": "World Cup 2026"
+        }
+      },
+      {
+        "domain": {
+          "description": "Sports Event specific to Soccer matches",
+          "id": "43",
+          "name": "Soccer Match"
+        },
+        "entity": {
+          "id": "2059337575265898498",
+          "name": "Argentina vs Egypt"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774222305038337",
+          "name": "Lionel Messi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774434729787392",
+          "name": "Cristian Romero"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1089754216736804864",
+          "name": "Enzo Fernandez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Sports Personality like 'Skip Bayless'",
+          "id": "92",
+          "name": "Sports Personality"
+        },
+        "entity": {
+          "id": "1089754216736804864",
+          "name": "Enzo Fernandez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226234080788481",
+          "name": "Argentina"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774222305038337",
+          "name": "Lionel Messi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774434729787392",
+          "name": "Cristian Romero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2074556606151291319",
+    "created_at": "2026-07-07T18:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074556606151291319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/argentina/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/argentina/status/2074555561111134527",
+          "start": 22,
+          "url": "https://t.co/LFDYtcfIUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074556606151291319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074555561111134527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "斯帅我承认我下半场补水之前声音大了些😭🙏🏻 https://t.co/LFDYtcfIUv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2074555498523705344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpNPARWwAAxluM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774434729787392",
+              "name": "Cristian Romero"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1089754216736804864",
+              "name": "Enzo Fernandez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774434729787392",
+              "name": "Cristian Romero"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1089754216736804864",
+              "name": "Enzo Fernandez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "id": "1089754216736804864",
+              "name": "Enzo Fernandez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774434729787392",
+              "name": "Cristian Romero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2074556606151291319",
+        "created_at": "2026-07-07T18:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074556606151291319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/argentina/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/argentina/status/2074555561111134527",
+              "start": 22,
+              "url": "https://t.co/LFDYtcfIUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074556606151291319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074555561111134527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "斯帅我承认我下半场补水之前声音大了些😭🙏🏻 https://t.co/LFDYtcfIUv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074555498523705344"
+          ]
+        },
+        "author_id": "2495199115",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774434729787392",
+              "name": "Cristian Romero"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1089754216736804864",
+              "name": "Enzo Fernandez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774434729787392",
+              "name": "Cristian Romero"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1089754216736804864",
+              "name": "Enzo Fernandez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Sports Personality like 'Skip Bayless'",
+              "id": "92",
+              "name": "Sports Personality"
+            },
+            "entity": {
+              "id": "1089754216736804864",
+              "name": "Enzo Fernandez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774434729787392",
+              "name": "Cristian Romero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Photo via @FIFAWWC\n",
+              "id": "1275806592995225601",
+              "name": "2023 Women's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Con un gol de Miguel Borja en el tiempo de compensación, la selección colombiana igualó el marcador con la escuadra albiceleste en el partido de la octava fecha de las eliminatorias para clasificar al mundial de Catar 2022. Los argentinos llevaban la ventaja después de haber anotado dos goles en los primeros 10 minutos del partido. \n\nMira aquí lo más destacado del partido a través de Tweets de medios y especialistas deportivos 👇",
+              "id": "1400657769796018176",
+              "name": "Eliminatorias Sudamericanas: Colombia logra el empate con Argentina en el último minuto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Con goles de Lautaro Martínez, Joaquín Correa y Ángel Correa, la albiceleste se impuso sobre la vinotinto con un marcador de 3-1 en la novena fecha de las eliminatorias para Catar 2022. El venezolano Luis Adrián Martínez resultó expulsado tras una falta sobre Messi. La selección argentina se prepara ahora para medirse ante Brasil el domingo en São Paulo.\n\nMira lo más destacado del encuentro 🇦🇷-🇻🇪 a través de Tweets de medios y periodistas aquí👇",
+              "id": "1405761229528788992",
+              "name": "Argentina derrota a Venezuela y ahora va por Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1406826455653228546",
+              "name": "Argentina vs. Bolivia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Con un gol de Julián Álvarez y dos más de Messi, el equipo albiceleste venció este martes 3-0 a Jamaica en el Red Bull Arena de New Jersey, como parte de los partidos amistosos camino al Mundial de Qatar 2022. \n\nRevive toda la acción a través de Tweets de medios y periodistas detectados por un algoritmo:",
+              "id": "1574897731151093760",
+              "name": "Argentina vence a Jamaica y suma 35 partidos consecutivos invicta 🇦🇷⚽️"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575265898498",
+              "name": "Argentina vs Egypt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304480511344009217",
+              "name": "FIFA Women's World Cup"
+            }
+          }
+        ],
+        "conversation_id": "2074555561111134527",
+        "created_at": "2026-07-07T18:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074555561111134527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 2,
+              "tag": "FIFAWorldCup"
+            },
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "Argentina"
+            },
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "Messi"
+            },
+            {
+              "end": 91,
+              "start": 84,
+              "tag": "Egipto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WufX8l2IME",
+              "end": 242,
+              "expanded_url": "https://x.com/Argentina/status/2074555561111134527/photo/1",
+              "media_key": "3_2074555498523705344",
+              "start": 219,
+              "url": "https://t.co/WufX8l2IME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074555561111134527",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 38010,
+          "like_count": 1638,
+          "quote_count": 162,
+          "reply_count": 366,
+          "retweet_count": 805
+        },
+        "reply_settings": "everyone",
+        "text": "🏆 #FIFAWorldCup\n\n⚽ #Argentina 3 (Cristian Romero, Lionel #Messi y Enzo Fernández) 🆚 #Egipto 🇪🇬 2 (Yasser Ibrahim y Mostafa Ziko)\n\n👉 ¡Final del partido!\n\n🔥 Imposible no ilusionarse... \n\n👋 ¡Nos vemos en cuartos de final! https://t.co/WufX8l2IME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1071,
+          "like_count": 2661,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9081
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-14T22:28:45.000Z",
+        "description": "Cuenta oficial de la Selección Argentina. \n\nFan Page: /AFASeleccionArgentina\n\nInstagram: /afaseleccion\n\nYouTube: /afaseleccion",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afa.com.ar",
+                "end": 23,
+                "expanded_url": "http://afa.com.ar",
+                "start": 0,
+                "url": "https://t.co/qIQ3AlTjys"
+              }
+            ]
+          }
+        },
+        "id": "2495199115",
+        "location": "Argentina",
+        "name": "🇦🇷 Selección Argentina ⭐⭐⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604558315471753219/esZSkuhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6091471,
+          "following_count": 65,
+          "like_count": 1105,
+          "listed_count": 5556,
+          "media_count": 63249,
+          "tweet_count": 77384
+        },
+        "url": "https://t.co/qIQ3AlTjys",
+        "username": "Argentina",
+        "verified": true
+      }
+    ]
+  }
+}

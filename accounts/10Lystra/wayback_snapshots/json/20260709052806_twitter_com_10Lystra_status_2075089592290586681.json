@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2075056428851572756",
+    "created_at": "2026-07-09T05:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075089592290586681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040565175514779648",
+          "start": 0,
+          "username": "amber_digit"
+        },
+        {
+          "end": 29,
+          "id": "2035882965671215104",
+          "start": 13,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075089592290586681",
+    "in_reply_to_user_id": "2040565175514779648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075056428851572756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit @amber_medusozoa 怎么感觉毫无反差感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075056425806565376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwU0z0XkAAjlPq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075056425798172672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwU0zyXgAAFysW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2075056428851572756",
+        "created_at": "2026-07-09T05:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075089592290586681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            },
+            {
+              "end": 29,
+              "id": "2035882965671215104",
+              "start": 13,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075089592290586681",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075056428851572756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit @amber_medusozoa 怎么感觉毫无反差感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075056425806565376",
+            "3_2075056425798172672"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "conversation_id": "2075056428851572756",
+        "created_at": "2026-07-09T03:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075056428851572756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWqWmoJfYF",
+              "end": 100,
+              "expanded_url": "https://x.com/amber_digit/status/2075056428851572756/photo/1",
+              "media_key": "3_2075056425806565376",
+              "start": 77,
+              "url": "https://t.co/VWqWmoJfYF"
+            },
+            {
+              "display_url": "pic.x.com/VWqWmoJfYF",
+              "end": 100,
+              "expanded_url": "https://x.com/amber_digit/status/2075056428851572756/photo/1",
+              "media_key": "3_2075056425798172672",
+              "start": 77,
+              "url": "https://t.co/VWqWmoJfYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075056428851572756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上班时一本正经的人模人样，下班后谁知道我会是这样的 #反差\n\n（由于这套图被太多人偷了 所以我把盗图狗的文案偷走重新发一遍正版哼哼 希望大家认准本人哦） https://t.co/VWqWmoJfYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1075,
+          "like_count": 2670,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 9147
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "📍多伦多Toronto #mtf #ts\n🪼@amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "mtf"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "ts"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🚪¥150/240",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2071480056619163699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 310,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/8wrbgvmggP",
+        "username": "amber_digit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya \n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059731443828310311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6463,
+          "following_count": 1057,
+          "like_count": 5945,
+          "listed_count": 10,
+          "media_count": 282,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

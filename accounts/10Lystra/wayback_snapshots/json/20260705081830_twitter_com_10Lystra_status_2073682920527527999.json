@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2073607098156359766",
+    "created_at": "2026-07-05T08:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073682920527527999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073682920527527999",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073607098156359766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr 我都摇奶茶了你们给我打点钱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2073607098156359766",
+        "created_at": "2026-07-05T08:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073682920527527999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073682920527527999",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073607098156359766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr 我都摇奶茶了你们给我打点钱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938969907548372992",
+        "conversation_id": "2073607098156359766",
+        "created_at": "2026-07-05T03:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073607098156359766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2073579336360132854",
+              "start": 36,
+              "url": "https://t.co/XTkGwGFT2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073607098156359766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 717,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073579336360132854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想必这么说的人一定是去摇过奶茶做过服务员然后再去做SW以后才得出的结论 https://t.co/XTkGwGFT2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 1065,
+          "like_count": 2654,
+          "listed_count": 5,
+          "media_count": 337,
+          "tweet_count": 9020
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nOutcast of my \"people\", Nomad to nowhere · YT/TikTok: @beyondr3pairr\n\nMy Forever Love: @MYBLOODY_VALENT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "beyondr3pairr"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "MYBLOODY_VALENT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片 - BeyondR3pairr",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071757391738060800/hccnWxhn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 137,
+          "like_count": 452,
+          "listed_count": 1,
+          "media_count": 1058,
+          "tweet_count": 6319
+        },
+        "url": "https://t.co/kdPl4R7UaA",
+        "username": "beyondr3pairr",
+        "verified": true
+      }
+    ]
+  }
+}

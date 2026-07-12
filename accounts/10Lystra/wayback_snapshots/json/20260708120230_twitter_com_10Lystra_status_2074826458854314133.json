@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074722182429843965",
+    "created_at": "2026-07-08T12:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074826458854314133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2497764032",
+          "start": 0,
+          "username": "TainiiMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074826458854314133",
+    "in_reply_to_user_id": "2497764032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074722182429843965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TainiiMikan 可以催吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074722182429843965",
+        "created_at": "2026-07-08T12:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074826458854314133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2497764032",
+              "start": 0,
+              "username": "TainiiMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074826458854314133",
+        "in_reply_to_user_id": "2497764032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074722182429843965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TainiiMikan 可以催吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497764032",
+        "conversation_id": "2074722182429843965",
+        "created_at": "2026-07-08T05:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074722182429843965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074722182429843965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1803,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常有“香香软软的小蛋糕我要吃掉你”“宝宝你好可爱给我吃掉”之类的说法。\n但是如果真被吃掉的话不是就要变成臭臭的粑粑拉出来了吗🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 1073,
+          "like_count": 2666,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9123
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 138,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1242
+        },
+        "url": "",
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

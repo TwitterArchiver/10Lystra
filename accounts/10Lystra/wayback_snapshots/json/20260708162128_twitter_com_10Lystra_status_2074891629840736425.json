@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074746697402700269",
+    "created_at": "2026-07-08T16:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074891629840736425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890080522682146816",
+          "start": 0,
+          "username": "JupiterTheWL"
+        },
+        {
+          "end": 23,
+          "id": "2012631283898187776",
+          "start": 14,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074891629840736425",
+    "in_reply_to_user_id": "1890080522682146816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074748997777207707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JupiterTheWL @youy1qwq 最正确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074746697402700269",
+        "created_at": "2026-07-08T16:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074891629840736425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890080522682146816",
+              "start": 0,
+              "username": "JupiterTheWL"
+            },
+            {
+              "end": 23,
+              "id": "2012631283898187776",
+              "start": 14,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074891629840736425",
+        "in_reply_to_user_id": "1890080522682146816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074748997777207707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JupiterTheWL @youy1qwq 最正确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890080522682146816",
+        "conversation_id": "2074746697402700269",
+        "created_at": "2026-07-08T06:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074748997777207707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074748997777207707",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14959,
+          "like_count": 328,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074746697402700269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 谜底就在谜面上，打到这位同学长记性，下次就不敢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1075,
+          "like_count": 2670,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 9140
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-13T16:48:16.000Z",
+        "description": "酒吧舞数学系 游戏行业底层人材\nAI Native的独立游戏开发者\nC# / Unity｜高频 Game Jam中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/JupiterTheWarl…",
+                "end": 23,
+                "expanded_url": "https://github.com/JupiterTheWarlock",
+                "start": 0,
+                "url": "https://t.co/n44Zi6Ima9"
+              }
+            ]
+          }
+        },
+        "id": "1890080522682146816",
+        "name": "术士木星",
+        "pinned_tweet_id": "2074324594744574294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890080721408258052/N2ealTK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 208,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/n44Zi6Ima9",
+        "username": "JupiterTheWL",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15878,
+          "following_count": 2399,
+          "like_count": 7921,
+          "listed_count": 27,
+          "media_count": 2205,
+          "tweet_count": 3835
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

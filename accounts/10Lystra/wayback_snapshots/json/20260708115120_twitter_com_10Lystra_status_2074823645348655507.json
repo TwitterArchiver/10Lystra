@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074580866224009448",
+    "created_at": "2026-07-08T11:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074823645348655507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601776231",
+          "start": 0,
+          "username": "SFbearface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074823645348655507",
+    "in_reply_to_user_id": "1601776231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074580866224009448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SFbearface var有权利回看导致进球的整个进攻发起阶段"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3103,
+        "height": 2160,
+        "media_key": "13_2074580802617417728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074580802617417728/img/Jo2toKJ5HELk0LHJ.jpg",
+        "public_metrics": {
+          "view_count": 10092
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074580802617417728/vid/avc1/640x360/GS0vPljLWfXTlJeu.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074580802617417728/vid/avc1/480x270/nQSzPocp1rzk_BhW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074580802617417728/vid/avc1/1280x720/CoVVERzSMj513vDW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074580802617417728/vid/avc1/1920x1080/-pYqAzAYe3TSeNch.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074580802617417728/pl/htmFm6Qp7CWdcNLx.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074580802617417728/vid/avc1/3840x2160/YAIHgKiR9I2wguy1.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074580866224009448",
+        "created_at": "2026-07-08T11:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074823645348655507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601776231",
+              "start": 0,
+              "username": "SFbearface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823645348655507",
+        "in_reply_to_user_id": "1601776231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074580866224009448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SFbearface var有权利回看导致进球的整个进攻发起阶段"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074580802617417728"
+          ]
+        },
+        "author_id": "1601776231",
+        "conversation_id": "2074580866224009448",
+        "created_at": "2026-07-07T19:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:38:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074578771332718934",
+          "2074580866224009448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6zLWby239",
+              "end": 151,
+              "expanded_url": "https://x.com/SFbearface/status/2074580866224009448/video/1",
+              "media_key": "13_2074580802617417728",
+              "start": 128,
+              "url": "https://t.co/t6zLWby239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074580866224009448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "仔细看了一下争议回放。\n\n第一球：两个部分，1）小马丁被上手，2）小马丁被踩脚，两个动作都不大，但犯规是实锤——更重要的是「由犯规抢到球权」，且直接利用这次球权转换进球（中间没有再转换过球权），时间连贯，因果关系非常直白。唯一的争议点就是判罚时间有点久。\n\n第二球：两个部分，1）小蜘蛛断掉萨拉赫球权「并干净收脚」还在不断回抽，2）萨拉赫「在已丧失球权的情况下继续前进」撞到小蜘蛛「已经回抽的右脚」并摔倒——没判跳水就不错了。\n\n说实话，第一个球被吹掉多少还是有点争议，毕竟时间有点久。第二个球完全不犯规，真要判严一点反而是萨拉赫跳水了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20470,
+          "like_count": 167,
+          "quote_count": 5,
+          "reply_count": 56,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "仔细看了一下争议回放。\n\n第一球：两个部分，1）小马丁被上手，2）小马丁被踩脚，两个动作都不大，但犯规是实锤——更重要的是「由犯规抢到球权」，且直接利用这次球权转换进球（中间没有再转换过球权），时间连贯，因果关系非常直白。唯一的争议点就是判罚时间有点久。 https://t.co/t6zLWby239"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 1073,
+          "like_count": 2666,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9119
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-17T20:16:28.000Z",
+        "description": "希望你看到这段话，不是因为立场，而是因为我们有相近的思维 ｜ 流窜加州二十年余，美本硕｜油管👉 https://t.co/c5Vr9F9pJZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SFbearface",
+                "end": 71,
+                "expanded_url": "https://www.youtube.com/@SFbearface",
+                "start": 48,
+                "url": "https://t.co/c5Vr9F9pJZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SFbearface",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@SFbearface",
+                "start": 0,
+                "url": "https://t.co/c5Vr9F9pJZ"
+              }
+            ]
+          }
+        },
+        "id": "1601776231",
+        "location": "California, USA",
+        "name": "金山熊",
+        "pinned_tweet_id": "1914899975848567191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059890394679369728/-fy-hwSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13235,
+          "following_count": 1336,
+          "like_count": 35436,
+          "listed_count": 83,
+          "media_count": 2485,
+          "tweet_count": 21741
+        },
+        "url": "https://t.co/c5Vr9F9pJZ",
+        "username": "SFbearface",
+        "verified": true
+      }
+    ]
+  }
+}

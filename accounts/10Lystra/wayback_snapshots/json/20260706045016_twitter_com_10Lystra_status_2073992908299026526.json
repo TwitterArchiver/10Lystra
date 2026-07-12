@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073992550415736832",
+        "3_2073992550428418049",
+        "13_2073992550449311744",
+        "13_2073992550440984576"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2073992908299026526",
+    "created_at": "2026-07-06T04:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073992908299026526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbVQIVKdX4",
+          "end": 34,
+          "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+          "media_key": "3_2073992550415736832",
+          "start": 11,
+          "url": "https://t.co/KbVQIVKdX4"
+        },
+        {
+          "display_url": "pic.x.com/KbVQIVKdX4",
+          "end": 34,
+          "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+          "media_key": "3_2073992550428418049",
+          "start": 11,
+          "url": "https://t.co/KbVQIVKdX4"
+        },
+        {
+          "display_url": "pic.x.com/KbVQIVKdX4",
+          "end": 34,
+          "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+          "media_key": "13_2073992550449311744",
+          "start": 11,
+          "url": "https://t.co/KbVQIVKdX4"
+        },
+        {
+          "display_url": "pic.x.com/KbVQIVKdX4",
+          "end": 34,
+          "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+          "media_key": "13_2073992550440984576",
+          "start": 11,
+          "url": "https://t.co/KbVQIVKdX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073992908299026526",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "捡到猫了😼\n大橘+1 https://t.co/KbVQIVKdX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2073992550415736832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhNPHJWIAAinnz.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2073992550428418049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhNPHMXoAELwlM.jpg",
+        "width": 3072
+      },
+      {
+        "duration_ms": 5653,
+        "height": 1280,
+        "media_key": "13_2073992550449311744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073992550449311744/img/qk6BccuxEc1pJq-4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073992550449311744/vid/avc1/320x568/fzmW1TtYDSO_uX1e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073992550449311744/vid/avc1/480x852/aIXRF9_RseQHzAEg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073992550449311744/vid/avc1/720x1280/f9U4h335LxX9ggYZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073992550449311744/pl/wTbjZsQZtKgX9YBF.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 9571,
+        "height": 1280,
+        "media_key": "13_2073992550440984576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073992550440984576/img/kcMgBfVE25hYI91N.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073992550440984576/vid/avc1/320x568/zHflZoRJMXphPL79.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073992550440984576/vid/avc1/480x852/4CWA6Ovfne2du730.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073992550440984576/vid/avc1/720x1280/Qesy-W1ki2jhNYBy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073992550440984576/pl/y5tcVTAjEuUBXk-u.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073992550415736832",
+            "3_2073992550428418049",
+            "13_2073992550449311744",
+            "13_2073992550440984576"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2073992908299026526",
+        "created_at": "2026-07-06T04:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073992908299026526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbVQIVKdX4",
+              "end": 34,
+              "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+              "media_key": "3_2073992550415736832",
+              "start": 11,
+              "url": "https://t.co/KbVQIVKdX4"
+            },
+            {
+              "display_url": "pic.x.com/KbVQIVKdX4",
+              "end": 34,
+              "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+              "media_key": "3_2073992550428418049",
+              "start": 11,
+              "url": "https://t.co/KbVQIVKdX4"
+            },
+            {
+              "display_url": "pic.x.com/KbVQIVKdX4",
+              "end": 34,
+              "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+              "media_key": "13_2073992550449311744",
+              "start": 11,
+              "url": "https://t.co/KbVQIVKdX4"
+            },
+            {
+              "display_url": "pic.x.com/KbVQIVKdX4",
+              "end": 34,
+              "expanded_url": "https://x.com/10Lystra/status/2073992908299026526/video/1",
+              "media_key": "13_2073992550440984576",
+              "start": 11,
+              "url": "https://t.co/KbVQIVKdX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073992908299026526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捡到猫了😼\n大橘+1 https://t.co/KbVQIVKdX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 1065,
+          "like_count": 2654,
+          "listed_count": 5,
+          "media_count": 338,
+          "tweet_count": 9026
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

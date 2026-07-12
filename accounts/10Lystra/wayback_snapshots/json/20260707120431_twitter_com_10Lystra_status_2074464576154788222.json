@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2074355284512780703",
+    "created_at": "2026-07-07T12:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074464576154788222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040565175514779648",
+          "start": 0,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074464576154788222",
+    "in_reply_to_user_id": "2040565175514779648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074355284512780703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit 如果脚镣不是为了保留一定的行动能力的话那和手铐一个设计也完全没问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074355280444297216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmXIxzWkAAlXCX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2074355284512780703",
+        "created_at": "2026-07-07T12:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074464576154788222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074464576154788222",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074355284512780703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit 如果脚镣不是为了保留一定的行动能力的话那和手铐一个设计也完全没问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074355280444297216"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "conversation_id": "2074355284512780703",
+        "created_at": "2026-07-07T04:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074355284512780703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZlgZHokIJ",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_digit/status/2074355284512780703/photo/1",
+              "media_key": "3_2074355280444297216",
+              "start": 13,
+              "url": "https://t.co/GZlgZHokIJ"
+            },
+            {
+              "display_url": "x.com/tym_rio/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tym_rio/status/2073278288152408279",
+              "start": 37,
+              "url": "https://t.co/eS6zbqHiSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074355284512780703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3843,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073278288152408279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样算不算比较淑女的姿势 https://t.co/GZlgZHokIJ https://t.co/eS6zbqHiSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 1067,
+          "like_count": 2659,
+          "listed_count": 5,
+          "media_count": 342,
+          "tweet_count": 9076
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "🇨🇦 多伦多 #TS \n🪼@amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvlIrh"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🚪¥150/240",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2071480056619163699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 298,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/8wrbgvlIrh",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}
