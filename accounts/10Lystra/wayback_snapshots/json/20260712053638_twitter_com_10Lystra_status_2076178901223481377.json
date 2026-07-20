@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2075989325104259358",
+    "created_at": "2026-07-12T05:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076178901223481377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537858604724015104",
+          "start": 0,
+          "username": "tonghua245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076178901223481377",
+    "in_reply_to_user_id": "1537858604724015104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076045032801608164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua245 谢谢，你老婆也可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2075989325104259358",
+        "created_at": "2026-07-12T05:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076178901223481377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537858604724015104",
+              "start": 0,
+              "username": "tonghua245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076178901223481377",
+        "in_reply_to_user_id": "1537858604724015104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076045032801608164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua245 谢谢，你老婆也可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537858604724015104",
+        "conversation_id": "2075989325104259358",
+        "created_at": "2026-07-11T20:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T21:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076045032801608164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076045032801608164",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075989325104259358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 你老婆真可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 1075,
+          "like_count": 2672,
+          "listed_count": 5,
+          "media_count": 349,
+          "tweet_count": 9212
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "一只中华浔喵！是条鱼🍥04mtf ｜All to be nice！｜强烈安利一位可爱宝宝@QqianF 。\n永远的水刀寒\n\n名字是遗物，\n思念是余生。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 44,
+                "username": "QqianF"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "水刀寒浔🍥",
+        "pinned_tweet_id": "2065213457532846214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065224082657067008/eKhDv0ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 1262,
+          "like_count": 5155,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "tonghua245",
+        "verified": false
+      }
+    ]
+  }
+}

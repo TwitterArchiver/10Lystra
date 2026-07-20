@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077289763309314048"
+      ],
+      "media_source_tweet_id": [
+        "2077289768300470536"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2077290723397742609",
+    "created_at": "2026-07-15T07:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077290723397742609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1048022597823164416",
+          "start": 3,
+          "username": "HiallouL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mU8UfaNdOM",
+          "end": 70,
+          "expanded_url": "https://x.com/HiallouL/status/2077289768300470536/photo/1",
+          "media_key": "3_2077289763309314048",
+          "start": 47,
+          "url": "https://t.co/mU8UfaNdOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077290723397742609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077289768300470536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiallouL: ＂这是一种巨大的人类心智的浪费，也是体制对个体生命最深重的犯罪＂ https://t.co/mU8UfaNdOM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 851,
+        "media_key": "3_2077289763309314048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQECKWbYAAfcDb.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077289763309314048"
+          ],
+          "media_source_tweet_id": [
+            "2077289768300470536"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2077290723397742609",
+        "created_at": "2026-07-15T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077290723397742609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1048022597823164416",
+              "start": 3,
+              "username": "HiallouL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mU8UfaNdOM",
+              "end": 70,
+              "expanded_url": "https://x.com/HiallouL/status/2077289768300470536/photo/1",
+              "media_key": "3_2077289763309314048",
+              "start": 47,
+              "url": "https://t.co/mU8UfaNdOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077290723397742609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077289768300470536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiallouL: ＂这是一种巨大的人类心智的浪费，也是体制对个体生命最深重的犯罪＂ https://t.co/mU8UfaNdOM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077289763309314048"
+          ]
+        },
+        "author_id": "1048022597823164416",
+        "conversation_id": "2077289768300470536",
+        "created_at": "2026-07-15T07:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077289768300470536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mU8UfaNdOM",
+              "end": 56,
+              "expanded_url": "https://x.com/HiallouL/status/2077289768300470536/photo/1",
+              "media_key": "3_2077289763309314048",
+              "start": 33,
+              "url": "https://t.co/mU8UfaNdOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077289768300470536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "＂这是一种巨大的人类心智的浪费，也是体制对个体生命最深重的犯罪＂ https://t.co/mU8UfaNdOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 1079,
+          "like_count": 2697,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 9353
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "2070738663303159964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1392,
+          "like_count": 22566,
+          "listed_count": 5,
+          "media_count": 1051,
+          "tweet_count": 6673
+        },
+        "url": "",
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

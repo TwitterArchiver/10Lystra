@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2076991021238329759",
+    "created_at": "2026-07-14T11:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076996593811591323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934663702349017088",
+          "start": 0,
+          "username": "decous37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076996593811591323",
+    "in_reply_to_user_id": "1934663702349017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076995844608500202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@decous37 真美女来了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2076991021238329759",
+        "created_at": "2026-07-14T11:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076996593811591323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934663702349017088",
+              "start": 0,
+              "username": "decous37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076996593811591323",
+        "in_reply_to_user_id": "1934663702349017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076995844608500202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@decous37 真美女来了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934663702349017088",
+        "conversation_id": "2076991021238329759",
+        "created_at": "2026-07-14T11:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076995844608500202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076995844608500202",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076991021238329759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 好耶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 1075,
+          "like_count": 2683,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 9314
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-16T17:25:59.000Z",
+        "description": "天行健，君子以自强不息。",
+        "id": "1934663702349017088",
+        "location": "Beijing&Tianjin",
+        "name": "4kDe",
+        "pinned_tweet_id": "2070147762034012348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074762557500633088/Vs0HWhgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 45,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "decous37",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2076991021238329759",
+    "created_at": "2026-07-14T12:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077014109531353194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771507250080948224",
+          "start": 0,
+          "username": "ninaRich1991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077014109531353194",
+    "in_reply_to_user_id": "1771507250080948224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077010087261159451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninaRich1991 热化了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2076991021238329759",
+        "created_at": "2026-07-14T12:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077014109531353194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771507250080948224",
+              "start": 0,
+              "username": "ninaRich1991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077014109531353194",
+        "in_reply_to_user_id": "1771507250080948224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077010087261159451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninaRich1991 热化了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771507250080948224",
+        "conversation_id": "2076991021238329759",
+        "created_at": "2026-07-14T12:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077010087261159451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077010087261159451",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076991021238329759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 好玩吗？我记得我小时候去的时候只是一直拍照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 1075,
+          "like_count": 2685,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 9318
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-23T12:00:25.000Z",
+        "description": "完完全全碎碎念\n僕は世界を理解することに情熱を燃やし、健全な人格を持ち、自由意志を追求する人間だ🇺🇦🇨🇳フォロバは基本100%/#ウマ娘/#ガンダム/#ZARD/#MyGo/#トゲナシトゲアリ/日本のポップ/ロック/無言フォロー失礼します🙇/🎸エレキギターを練習中です\n/伟大的中国共产党万岁！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "ガンダム"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "ZARD"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "MyGo"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@ninazxrich78",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@ninazxrich78",
+                "start": 0,
+                "url": "https://t.co/VQoAKpxejM"
+              }
+            ]
+          }
+        },
+        "id": "1771507250080948224",
+        "location": "トレセン学園",
+        "name": "🎤我即井芹仁菜🐴🎸",
+        "pinned_tweet_id": "1832280227806113946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063551900709224448/Ig2OZIly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 3144,
+          "like_count": 66757,
+          "listed_count": 21,
+          "media_count": 4498,
+          "tweet_count": 40833
+        },
+        "url": "https://t.co/VQoAKpxejM",
+        "username": "ninaRich1991",
+        "verified": false
+      }
+    ]
+  }
+}

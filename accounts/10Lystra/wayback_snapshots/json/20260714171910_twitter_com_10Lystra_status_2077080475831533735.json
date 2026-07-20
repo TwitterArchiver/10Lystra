@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2077037338685768111",
+    "created_at": "2026-07-14T17:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077080475831533735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804218510278823939",
+          "start": 0,
+          "username": "lystodyne2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077080475831533735",
+    "in_reply_to_user_id": "1804218510278823939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077076523677556885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lystodyne2 感觉不会看，应该怎么看呢？或者怎么化妆能不被看出来呢，虚心求教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2077037338685768111",
+        "created_at": "2026-07-14T17:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077080475831533735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804218510278823939",
+              "start": 0,
+              "username": "lystodyne2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077080475831533735",
+        "in_reply_to_user_id": "1804218510278823939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077076523677556885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lystodyne2 感觉不会看，应该怎么看呢？或者怎么化妆能不被看出来呢，虚心求教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804218510278823939",
+        "conversation_id": "2077037338685768111",
+        "created_at": "2026-07-14T17:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077076523677556885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077076523677556885",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077037338685768111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 至少大城市醫美診所開得比便利店還多，小時候大家都被洗腦過整型不好，現在完全沒這感受\n甚至覺得靠整的更有後天努力感覺和更有話題\n\n再說隨便看網美網黃大部分都有明顯整過的痕跡（如果會看的話）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 1075,
+          "like_count": 2688,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 9333
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-21T18:23:18.000Z",
+        "description": "",
+        "id": "1804218510278823939",
+        "name": "lystodyne2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894602543474294785/DSqegLNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 32,
+          "like_count": 15515,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1196
+        },
+        "url": "",
+        "username": "lystodyne2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2076974540932919302",
+    "created_at": "2026-07-14T14:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077036529852060086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065385912520110080",
+          "start": 0,
+          "username": "fengqiuqiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077036529852060086",
+    "in_reply_to_user_id": "2065385912520110080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077035195774161061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengqiuqiao 可能繁育的部分不会让没经验的学生一上来就干吧，不过养殖场工人平均精神状态很差是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2076974540932919302",
+        "created_at": "2026-07-14T14:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077036529852060086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065385912520110080",
+              "start": 0,
+              "username": "fengqiuqiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077036529852060086",
+        "in_reply_to_user_id": "2065385912520110080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077035195774161061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengqiuqiao 可能繁育的部分不会让没经验的学生一上来就干吧，不过养殖场工人平均精神状态很差是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065385912520110080",
+        "conversation_id": "2076974540932919302",
+        "created_at": "2026-07-14T14:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077035195774161061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077035195774161061",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077033734843355633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 那我就不知道了，反正校园招聘来的养殖场是没有这些的，不然我们学校早就传了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /主人@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 1076,
+          "like_count": 2688,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 9328
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-12T10:51:05.000Z",
+        "description": "💛🤍💜🖤🏳️‍⚧️",
+        "id": "2065385912520110080",
+        "name": "fengqiuqiao💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065386883480539137/Q4JOCrEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "fengqiuqiao",
+        "verified": false
+      }
+    ]
+  }
+}

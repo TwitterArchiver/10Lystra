@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2077415153608642846",
+    "created_at": "2026-07-15T18:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077459473698886107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077459473698886107",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077415153608642846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 题目是最好的致幻剂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077415150408355840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2Epsa0AAdqlu.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2077415153608642846",
+        "created_at": "2026-07-15T18:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077459473698886107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077459473698886107",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077415153608642846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 题目是最好的致幻剂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077415150408355840"
+          ]
+        },
+        "author_id": "1945331416528539649",
+        "conversation_id": "2077415153608642846",
+        "created_at": "2026-07-15T15:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077415153608642846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsNZiX6ZWV",
+              "end": 144,
+              "expanded_url": "https://x.com/bpmiea/status/2077415153608642846/photo/1",
+              "media_key": "3_2077415150408355840",
+              "start": 121,
+              "url": "https://t.co/nsNZiX6ZWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077415153608642846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小叶相信自己，小叶从今天开始每天做题五小时，一定能考到年级第一的！自杀是的多么愚蠢的想法，切蛋是多么愚蠢的想法，做题才是生命的真谛！相似很难喔，但是小叶会努力做题的，小叶肯定不会让父母失望的！父母把我从小养大真的很不容易，我要做题回报父母！ https://t.co/nsNZiX6ZWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 1076,
+          "like_count": 2701,
+          "listed_count": 5,
+          "media_count": 354,
+          "tweet_count": 9376
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥 from 2026.1 | 2011出厂 | 自恨党，出走预备中\n不吸毒不自残不键政不滥交 | archlinux | gfwfucker | Vibecoder | Vocaloid/SV | 会发一些日常和碎碎念，可能会有负面内容…\n欢迎同类互fo！\n另一个人格：@mieaxyn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "mieaxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bpmiea",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bpmiea",
+                "start": 0,
+                "url": "https://t.co/o0j8ZV1aqF"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "小城市",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2077378464840335787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075763756723044352/VWZ-Y7B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 597,
+          "like_count": 720,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/o0j8ZV1aqF",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}
