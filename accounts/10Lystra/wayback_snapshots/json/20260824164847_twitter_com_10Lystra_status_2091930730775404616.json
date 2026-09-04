@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2091887158449824005",
+    "created_at": "2026-08-24T16:48:47.000Z",
+    "display_text_range": [
+      10,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091930730775404616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934663702349017088",
+          "start": 0,
+          "username": "ally37to"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091930730775404616",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091929914706362439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ally37to 我学竞赛的时候比我transition的时候还自恨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2091887158449824005",
+        "created_at": "2026-08-24T16:48:47.000Z",
+        "display_text_range": [
+          10,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091930730775404616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934663702349017088",
+              "start": 0,
+              "username": "ally37to"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091930730775404616",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091929914706362439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ally37to 我学竞赛的时候比我transition的时候还自恨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2091887158449824005",
+        "created_at": "2026-08-24T16:45:32.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091929914706362439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934663702349017088",
+              "start": 0,
+              "username": "ally37to"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091929914706362439",
+        "in_reply_to_user_id": "1934663702349017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091887158449824005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ally37to 可是现实的引力太沉重了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2091930730775404616",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 1207,
+          "like_count": 3011,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 11343
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T17:25:59.000Z",
+        "description": "因你而在的故事。",
+        "id": "1934663702349017088",
+        "is_identity_verified": false,
+        "location": "Beijing&Tianjin",
+        "most_recent_tweet_id": "2091887567289606590",
+        "name": "Ally",
+        "pinned_tweet_id": "2085317693931180056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934663702349017088/1787260514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074762557500633088/Vs0HWhgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 65,
+          "like_count": 249,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "ally37to",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2079197074030276686",
+    "created_at": "2026-07-20T20:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T21:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079296683750379920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079296683750379920",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079197074030276686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 选吃饭是因为妳「不够跨」!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2079197074030276686",
+        "created_at": "2026-07-20T20:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079296683750379920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079296683750379920",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079197074030276686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 选吃饭是因为妳「不够跨」!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2079197074030276686",
+        "created_at": "2026-07-20T13:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079197074030276686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmmammm_a/stat…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/mmmammm_a/status/2079181100979741046",
+              "start": 150,
+              "url": "https://t.co/20vNEnwUm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079197074030276686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我小學大概三四年級在藥娘四區百度貼吧知道可以吃螺內酯HRT，但是一直到20歲才啟動HRT；因為高中積攢了很久生活費買的醋酸環丙孕酮被海關扣了。然後20歲開完證HRT了半年就因為經濟原因沒繼續了，直到最近（25歲）才能繼續HRT，但還是不太穩定。我覺得指責無糖跨的都挺站著說話不腰疼的，如果要在吃藥和吃飯之間選一個我肯定選吃飯。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1313,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079181100979741046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小學大概三四年級在藥娘四區百度貼吧知道可以吃螺內酯HRT，但是一直到20歲才啟動HRT；因為高中積攢了很久生活費買的醋酸環丙孕酮被海關扣了。然後20歲開完證HRT了半年就因為經濟原因沒繼續了，直到最近（25歲）才能繼續HRT，但還是不太穩定。我覺得指責無糖跨的都挺站著說話不腰疼的，如果要在吃藥和 https://t.co/20vNEnwUm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1080,
+          "like_count": 2725,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 9538
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我的愛人是我的故土、我的歸宿，我的民族、我的祖國。@irisdesombres。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2072308189689958631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076146561453895680/INVCE3xG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 188,
+          "like_count": 13830,
+          "listed_count": 3,
+          "media_count": 404,
+          "tweet_count": 9465
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

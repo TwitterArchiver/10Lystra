@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2091381846986600845",
+    "created_at": "2026-08-23T08:02:02.000Z",
+    "display_text_range": [
+      30,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091435785492844587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 29,
+          "id": "1672895761996972033",
+          "start": 17,
+          "username": "WilliamPAdH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091435785492844587",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091432090273218583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa @WilliamPAdH 指派性别是父母的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091432090273218583].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091432090273218583",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091432090273218583"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2091381846986600845",
+        "created_at": "2026-08-23T08:02:02.000Z",
+        "display_text_range": [
+          30,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091435785492844587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 29,
+              "id": "1672895761996972033",
+              "start": 17,
+              "username": "WilliamPAdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091435785492844587",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091432090273218583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @WilliamPAdH 指派性别是父母的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2091435785492844587",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 1197,
+          "like_count": 2982,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 11254
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091154705976000826",
+        "name": "amber🪼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8192,
+          "following_count": 1198,
+          "like_count": 7712,
+          "listed_count": 12,
+          "media_count": 366,
+          "tweet_count": 4289
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-25T09:13:42.000Z",
+        "description": "疯狂宇宙大狸花",
+        "id": "1672895761996972033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091432834372116862",
+        "name": "William Ivanenko的2号",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672895761996972033/1787402231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091142532889518080/Nk-LeePV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 57,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "WilliamPAdH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

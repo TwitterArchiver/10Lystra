@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2092859236246323561",
+    "created_at": "2026-08-27T08:50:05.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092897429053927913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543753719451242496",
+          "start": 0,
+          "username": "4x_n2ym3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092897429053927913",
+    "in_reply_to_user_id": "1543753719451242496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092859236246323561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x_n2ym3 炒作大v也是大v（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2092859236246323561",
+        "created_at": "2026-08-27T08:50:05.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092897429053927913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543753719451242496",
+              "start": 0,
+              "username": "4x_n2ym3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092897429053927913",
+        "in_reply_to_user_id": "1543753719451242496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092859236246323561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x_n2ym3 炒作大v也是大v（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543753719451242496",
+        "conversation_id": "2092859236246323561",
+        "created_at": "2026-08-27T06:18:20.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092859236246323561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/bghtnya/status/2092852732227162192",
+              "start": 41,
+              "url": "https://t.co/YtgLxO0Pr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092859236246323561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092852732227162192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃面见大v并品鉴滨寿司\n但是过于社恐导致不太敢说话TwT\n只是一味地一键跟随😇 https://t.co/YtgLxO0Pr4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2092897429053927913",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1204,
+          "like_count": 3008,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 11413
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/gnrh使用中/明日方舟摆烂玩家/等待arcaea7.0/maimai菜鸟/chunithm疑似瓶颈/间歇性潜水/99.99%回fo/备用@X_ouso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 92,
+                "username": "X_ouso"
+              }
+            ]
+          }
+        },
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2092878754339282986",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2087979862351118414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043037861243686913/qa5aPDZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 3321,
+          "like_count": 1895,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

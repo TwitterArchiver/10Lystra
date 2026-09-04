@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2085127551173726483",
+    "created_at": "2026-08-06T02:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085196153717449116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1401954780264685575",
+          "start": 0,
+          "username": "Bardopacotilla"
+        },
+        {
+          "end": 30,
+          "id": "1739437517772926976",
+          "start": 16,
+          "username": "Dandelion6238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085196153717449116",
+    "in_reply_to_user_id": "1401954780264685575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085127551173726483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bardopacotilla @Dandelion6238 我草飞雷神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13800,
+        "height": 1080,
+        "media_key": "13_2085127500061954048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085127500061954048/img/52b31-11wMxF3V_b.jpg",
+        "public_metrics": {
+          "view_count": 10970
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085127500061954048/pl/j4DOkYc7NbtX_-VQ.m3u8?v=70a"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085127500061954048/vid/avc1/320x320/eL9Ed4coJDZx86sn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085127500061954048/vid/avc1/540x540/qyWAV1xClI0cKJ8S.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085127500061954048/vid/avc1/720x720/3ndclob7LUszdpSH.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085127500061954048/vid/avc1/1080x1080/TsYXpKLZMo2AxUeL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2085127551173726483",
+        "created_at": "2026-08-06T02:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085196153717449116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1401954780264685575",
+              "start": 0,
+              "username": "Bardopacotilla"
+            },
+            {
+              "end": 30,
+              "id": "1739437517772926976",
+              "start": 16,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085196153717449116",
+        "in_reply_to_user_id": "1401954780264685575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085127551173726483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bardopacotilla @Dandelion6238 我草飞雷神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085127500061954048"
+          ]
+        },
+        "author_id": "1401954780264685575",
+        "conversation_id": "2085127551173726483",
+        "created_at": "2026-08-05T22:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T23:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085127551173726483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hg7YKwBeEf",
+              "end": 23,
+              "expanded_url": "https://x.com/Bardopacotilla/status/2085127551173726483/video/1",
+              "media_key": "13_2085127500061954048",
+              "start": 0,
+              "url": "https://t.co/hg7YKwBeEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085127551173726483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 17299,
+          "like_count": 498,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hg7YKwBeEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 1114,
+          "like_count": 2862,
+          "listed_count": 6,
+          "media_count": 376,
+          "tweet_count": 10156
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T17:30:51.000Z",
+        "description": "Genshin memes Ehe! \n🔥Juegos baratos: https://t.co/t6r3M4K3DW\n\n🔴https://t.co/uFjOFkjdxp\n\n📧Contacto: bardopacotillacontacto@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ene.ba/Bardo",
+                "end": 60,
+                "expanded_url": "https://ene.ba/Bardo",
+                "start": 37,
+                "url": "https://t.co/t6r3M4K3DW"
+              },
+              {
+                "display_url": "youtube.com/@bardoehe",
+                "end": 86,
+                "expanded_url": "https://www.youtube.com/@bardoehe",
+                "start": 63,
+                "url": "https://t.co/uFjOFkjdxp"
+              }
+            ]
+          }
+        },
+        "id": "1401954780264685575",
+        "name": "Bardo de pacotilla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780092512482316288/qCYUrM3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69001,
+          "following_count": 742,
+          "like_count": 2160,
+          "listed_count": 60,
+          "media_count": 11322,
+          "tweet_count": 11490
+        },
+        "url": "",
+        "username": "Bardopacotilla",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 1001,
+          "like_count": 7097,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": false
+      }
+    ]
+  }
+}

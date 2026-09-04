@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080733283675983923",
+    "created_at": "2026-07-24T19:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T20:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080733283675983923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "2080726308410068993",
+          "start": 10,
+          "username": "uwulystra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080733283675983923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孵化了玖璋の小猫形态@uwulystra\n暂过线下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080733283675983923",
+        "created_at": "2026-07-24T19:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080733283675983923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2080726308410068993",
+              "start": 10,
+              "username": "uwulystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080733283675983923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孵化了玖璋の小猫形态@uwulystra\n暂过线下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1098,
+          "like_count": 2755,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 9692
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-24T18:48:26.000Z",
+        "description": "我上辈子还是小猫的时候就已经认识你了🐱",
+        "id": "2080726308410068993",
+        "name": "𝐿𝑦𝑠𝑡𝑟𝑎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080729499277119488/P-9So4js_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "uwulystra",
+        "verified": false
+      }
+    ]
+  }
+}

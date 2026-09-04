@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2084123715407585601",
+    "created_at": "2026-08-03T06:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084167609822384144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1838370893187395584",
+          "start": 0,
+          "username": "Cherry_BombY458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084167609822384144",
+    "in_reply_to_user_id": "1838370893187395584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084129399365152791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry_BombY458 哈！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2084123715407585601",
+        "created_at": "2026-08-03T06:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084167609822384144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1838370893187395584",
+              "start": 0,
+              "username": "Cherry_BombY458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084167609822384144",
+        "in_reply_to_user_id": "1838370893187395584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084129399365152791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry_BombY458 哈！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838370893187395584",
+        "conversation_id": "2084123715407585601",
+        "created_at": "2026-08-03T04:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084129399365152791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084129399365152791",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084123715407585601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 逗逗你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1114,
+          "like_count": 2847,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 10034
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T00:12:38.000Z",
+        "description": "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡",
+        "id": "1838370893187395584",
+        "location": "your heart",
+        "name": "-4°",
+        "pinned_tweet_id": "1932803561873899837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051646450636120064/AhHTwXKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1001,
+          "like_count": 3056,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1163
+        },
+        "url": "",
+        "username": "Cherry_BombY458",
+        "verified": false
+      }
+    ]
+  }
+}

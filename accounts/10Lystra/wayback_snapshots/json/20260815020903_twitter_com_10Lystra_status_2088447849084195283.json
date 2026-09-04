@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2088163527664251089",
+    "created_at": "2026-08-15T02:09:03.000Z",
+    "display_text_range": [
+      20,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T03:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088447849084195283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        },
+        {
+          "end": 19,
+          "id": "1491243559596412928",
+          "start": 10,
+          "username": "zouka0xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088447849084195283",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088353442763092476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne @zouka0xe 一个人带刀全上海都带刀是吧😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_2088353436513587200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPtSYszb0AAgkwE.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2088163527664251089",
+        "created_at": "2026-08-15T02:09:03.000Z",
+        "display_text_range": [
+          20,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088447849084195283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            },
+            {
+              "end": 19,
+              "id": "1491243559596412928",
+              "start": 10,
+              "username": "zouka0xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088447849084195283",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088353442763092476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne @zouka0xe 一个人带刀全上海都带刀是吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088353436513587200"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2088163527664251089",
+        "created_at": "2026-08-14T19:53:55.000Z",
+        "display_text_range": [
+          19,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088353442763092476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 19,
+              "id": "1491243559596412928",
+              "start": 10,
+              "username": "zouka0xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vj0RgcV3EI",
+              "end": 43,
+              "expanded_url": "https://x.com/quasarne/status/2088353442763092476/photo/1",
+              "media_key": "3_2088353436513587200",
+              "start": 20,
+              "url": "https://t.co/vj0RgcV3EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088353442763092476",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088353436513587200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088200669031284982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @zouka0xe https://t.co/vj0RgcV3EI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2088447849084195283",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1158,
+          "like_count": 2920,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 10685
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "SAD｜AuABaABa｜想留德… \n绝望的商科牲｜數碼、科幻、政治、語言學、Wikier｜🏳️‍🌈gay/pan｜🚩🏴🏳️‍⚧️｜🌐漢(吴/普)/English \n安人 @JunenKim YAC Dark Side @kyrinxo \n怎么能保持内心平静的同时悄悄学会和人类相处",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "JunenKim"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "username": "kyrinxo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/quasarne",
+                "end": 23,
+                "expanded_url": "https://t.me/quasarne",
+                "start": 0,
+                "url": "https://t.co/ljMe6nz4Sh"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "is_identity_verified": false,
+        "location": "北京市西城区长安街174号",
+        "most_recent_tweet_id": "2088372629183078442",
+        "name": "неⒶστήρ |星ない🌹",
+        "pinned_tweet_id": "2078116801129410562",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247054463329656832/1761396959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084628127964377088/Bms90rmR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1166,
+          "like_count": 87100,
+          "listed_count": 7,
+          "media_count": 1621,
+          "tweet_count": 20345
+        },
+        "url": "https://t.co/ljMe6nz4Sh",
+        "username": "quasarne",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-09T02:52:35.000Z",
+        "description": "我看見了光，就出現在那西邊的天空",
+        "id": "1491243559596412928",
+        "is_identity_verified": false,
+        "location": "beautiful place",
+        "most_recent_tweet_id": "2088179855284486409",
+        "name": "澪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491243559596412928/1765459628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967212860876128256/i-afrwCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 249,
+          "like_count": 9891,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "zouka0xe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

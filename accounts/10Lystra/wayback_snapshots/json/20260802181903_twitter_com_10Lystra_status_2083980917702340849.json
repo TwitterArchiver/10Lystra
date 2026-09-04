@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2083879973040111622",
+    "created_at": "2026-08-02T18:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083980917702340849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878225515561332736",
+          "start": 0,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083980917702340849",
+    "in_reply_to_user_id": "1878225515561332736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083879973040111622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EScanlon95354 青年大学习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083879973040111622",
+        "created_at": "2026-08-02T18:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083980917702340849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083980917702340849",
+        "in_reply_to_user_id": "1878225515561332736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083879973040111622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 青年大学习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "2083879973040111622",
+        "created_at": "2026-08-02T11:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083879973040111622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083647905731105114",
+              "start": 31,
+              "url": "https://t.co/J0oHtqNafG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083879973040111622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1069,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083647905731105114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将号召术娘群的所有姐妹，仔细研究水母老师这句话的深层含义( https://t.co/J0oHtqNafG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1114,
+          "like_count": 2848,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 10025
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "友跨不翻车！不雌堕！不吃糖！",
+        "id": "1878225515561332736",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3517,
+          "following_count": 2450,
+          "like_count": 7114,
+          "listed_count": 6,
+          "media_count": 51,
+          "tweet_count": 2587
+        },
+        "url": "",
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

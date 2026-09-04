@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2090942520905912466",
+    "created_at": "2026-08-22T15:58:47.000Z",
+    "display_text_range": [
+      8,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091193372803272947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091193372803272947",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090942520905912466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 我家就这样。并且我自己去开药还被要求联系家长。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2090942495664623616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSFHxvb0AABcry.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2090942510940209152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSFIqpawAAamyX.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2090942520905912466",
+        "created_at": "2026-08-22T15:58:47.000Z",
+        "display_text_range": [
+          8,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091193372803272947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091193372803272947",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090942520905912466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 我家就这样。并且我自己去开药还被要求联系家长。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090942495664623616",
+            "3_2090942510940209152"
+          ]
+        },
+        "author_id": "1831350388861345793",
+        "conversation_id": "2090942520905912466",
+        "created_at": "2026-08-21T23:21:59.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090942520905912466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ML6TnbJmTW",
+              "end": 115,
+              "expanded_url": "https://x.com/Hiime0/status/2090942520905912466/photo/1",
+              "media_key": "3_2090942495664623616",
+              "start": 92,
+              "url": "https://t.co/ML6TnbJmTW"
+            },
+            {
+              "display_url": "pic.x.com/ML6TnbJmTW",
+              "end": 115,
+              "expanded_url": "https://x.com/Hiime0/status/2090942520905912466/photo/1",
+              "media_key": "3_2090942510940209152",
+              "start": 92,
+              "url": "https://t.co/ML6TnbJmTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090942520905912466",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090942495664623616"
+          },
+          {
+            "media_key": "3_2090942510940209152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1320,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在连精神病都不是家长党了\n家长禁止我独自去医生那边调整药物，宣称我现在需要的是所谓“心理治疗”\n并严令禁止我做任何物理治疗\n有病不让治是吧\n（下图是现在自己偷偷跑去开药的时候。） https://t.co/ML6TnbJmTW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2091193372803272947",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1193,
+          "like_count": 2976,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 11207
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "07｜无证含糖｜Transles｜家暴党｜但愿有朝共归浪@xynAsabaShizuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "xynAsabaShizuku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "is_identity_verified": false,
+        "location": "東京湾",
+        "most_recent_tweet_id": "2091119664378315126",
+        "name": "ひいめ🍥🍡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831350388861345793/1780772130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054384234526388224/MagCt1ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 257,
+          "like_count": 800,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

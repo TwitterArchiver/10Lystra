@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2077857655184617624",
+    "created_at": "2026-07-18T02:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078310597276348495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650825310781177856",
+          "start": 0,
+          "username": "andre_an67681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078310597276348495",
+    "in_reply_to_user_id": "1650825310781177856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077857655184617624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andre_an67681 教练让我上吧我太想进步了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21617,
+        "height": 568,
+        "media_key": "13_2077857458303700992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077857458303700992/img/X34Rno5Ew4MzdmmI.jpg",
+        "public_metrics": {
+          "view_count": 1097524
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077857458303700992/vid/avc1/608x270/F7EV7a_SsSsRCnHJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077857458303700992/vid/avc1/810x360/rvDxZ1ZChI0EkbCh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077857458303700992/vid/avc1/1280x568/qC8B3tF8Pu6EzH03.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077857458303700992/pl/KNGmvsWu4Z1obTNS.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2077857655184617624",
+        "created_at": "2026-07-18T02:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078310597276348495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650825310781177856",
+              "start": 0,
+              "username": "andre_an67681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078310597276348495",
+        "in_reply_to_user_id": "1650825310781177856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077857655184617624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andre_an67681 教练让我上吧我太想进步了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077857458303700992"
+          ]
+        },
+        "author_id": "1650825310781177856",
+        "conversation_id": "2077857655184617624",
+        "created_at": "2026-07-16T20:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077857655184617624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyBunvOr8O",
+              "end": 163,
+              "expanded_url": "https://x.com/andre_an67681/status/2077857655184617624/video/1",
+              "media_key": "13_2077857458303700992",
+              "start": 140,
+              "url": "https://t.co/qyBunvOr8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077857655184617624",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3170,
+          "impression_count": 1893978,
+          "like_count": 99172,
+          "quote_count": 149,
+          "reply_count": 140,
+          "retweet_count": 3212
+        },
+        "reply_settings": "everyone",
+        "text": "Tengo la teoría de que el Colo esta aprendiendo a ser dt con Lionel, porque lo sigue a todas partes. \nLionel Se ríe de la bronca que tiene. https://t.co/qyBunvOr8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 1076,
+          "like_count": 2716,
+          "listed_count": 5,
+          "media_count": 355,
+          "tweet_count": 9446
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-25T11:35:23.000Z",
+        "description": "Burbuja Amarista y scaimar🩷\n\n/archiveofourown.org/users/Caritopiscis/works\n\nhttps://t.co/gtwG3WxdSY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wattpad.com/user/caritopis",
+                "end": 99,
+                "expanded_url": "https://www.wattpad.com/user/caritopis",
+                "start": 76,
+                "url": "https://t.co/gtwG3WxdSY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pabloaimar.fil…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/pabloaimar.files/profilecard/?igsh=OW95Y3A3dzhsZmhp",
+                "start": 0,
+                "url": "https://t.co/CFwFZRPnyN"
+              }
+            ]
+          }
+        },
+        "id": "1650825310781177856",
+        "location": "Viedma, Río Negro.",
+        "name": "Caro. A. (Charito) ☺",
+        "pinned_tweet_id": "1892548545200160777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065066869745156096/l9aeGDgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 248,
+          "like_count": 79834,
+          "listed_count": 0,
+          "media_count": 17214,
+          "tweet_count": 46790
+        },
+        "url": "https://t.co/CFwFZRPnyN",
+        "username": "andre_an67681",
+        "verified": false
+      }
+    ]
+  }
+}

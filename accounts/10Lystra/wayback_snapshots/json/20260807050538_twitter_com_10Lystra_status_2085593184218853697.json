@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2085581824890204222",
+    "created_at": "2026-08-07T05:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085593184218853697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040565175514779648",
+          "start": 0,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085593184218853697",
+    "in_reply_to_user_id": "2040565175514779648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085581824890204222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit 台下观众欣喜若狂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085581822528823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF5niHXoAA9vR7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2085581824890204222",
+        "created_at": "2026-08-07T05:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085593184218853697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085593184218853697",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085581824890204222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit 台下观众欣喜若狂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085581822528823296"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "conversation_id": "2085581824890204222",
+        "created_at": "2026-08-07T04:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085581824890204222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgqdaVL3IU",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_digit/status/2085581824890204222/photo/1",
+              "media_key": "3_2085581822528823296",
+              "start": 8,
+              "url": "https://t.co/TgqdaVL3IU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085581824890204222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇我有六块腹肌 https://t.co/TgqdaVL3IU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 1115,
+          "like_count": 2877,
+          "listed_count": 6,
+          "media_count": 376,
+          "tweet_count": 10253
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "#mtf #ts #药娘 @amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "mtf"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "ts"
+              },
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvlIrh"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2080121277818208764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 372,
+          "like_count": 743,
+          "listed_count": 6,
+          "media_count": 109,
+          "tweet_count": 1445
+        },
+        "url": "https://t.co/8wrbgvlIrh",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

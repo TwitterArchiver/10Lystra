@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2082114945588793815",
+    "created_at": "2026-07-28T16:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082138359162421518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906829343480938496",
+          "start": 0,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082138359162421518",
+    "in_reply_to_user_id": "906829343480938496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082114945588793815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevernessian 与其说安慰别人不如说是安慰自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2082114945588793815",
+        "created_at": "2026-07-28T16:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082138359162421518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906829343480938496",
+              "start": 0,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082138359162421518",
+        "in_reply_to_user_id": "906829343480938496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082114945588793815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevernessian 与其说安慰别人不如说是安慰自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "2082114945588793815",
+        "created_at": "2026-07-28T14:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082114945588793815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fufu1367612/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/fufu1367612/status/2081933580352270648",
+              "start": 140,
+              "url": "https://t.co/8WaYHqM2JC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082114945588793815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081933580352270648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "东北华北黄淮似乎都有“享福”这个说法，细究起来其实挺耐人寻味的，人死了是“享福”去了，因为人的老去和死亡是受罪的过程，受罪结束，就是享福，又因为人总是在不停地受罪，所以享福实际上就成了对彼岸永恒的欲望。没死是享福，死了也是享福，结婚是享福，离婚也是享福，工作是享福，失业也是享福 https://t.co/8WaYHqM2JC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 1110,
+          "like_count": 2787,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 9799
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "2058549888393384391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 94,
+          "like_count": 6216,
+          "listed_count": 7,
+          "media_count": 960,
+          "tweet_count": 7247
+        },
+        "url": "",
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

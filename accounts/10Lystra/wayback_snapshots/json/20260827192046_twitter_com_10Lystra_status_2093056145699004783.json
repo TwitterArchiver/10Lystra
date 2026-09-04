@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2092921470330536393",
+    "created_at": "2026-08-27T19:20:46.000Z",
+    "display_text_range": [
+      27,
+      172
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093056145699004783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1413141695986761747",
+          "start": 0,
+          "username": "SpongeBall"
+        },
+        {
+          "end": 26,
+          "id": "1938969907548372992",
+          "start": 12,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093056145699004783",
+    "in_reply_to_user_id": "1413141695986761747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093051727633318004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpongeBall @beyondr3pairr 是的...但是就算有时知道是这样，在有人和我倾诉的时候依然不忍心让对方的这种循环持续下去。\n后来发现这的确会使我更频繁更强烈地被期待，这也意味着事情越发展下去我quit所施加的作用力就越大。这会让我去想：“如果事情一开始不显得那样包容就好了。”\n但是每次遇到「事情一开始」也都没长记性就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2092921470330536393",
+        "created_at": "2026-08-27T19:20:46.000Z",
+        "display_text_range": [
+          27,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093056145699004783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1413141695986761747",
+              "start": 0,
+              "username": "SpongeBall"
+            },
+            {
+              "end": 26,
+              "id": "1938969907548372992",
+              "start": 12,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093056145699004783",
+        "in_reply_to_user_id": "1413141695986761747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093051727633318004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpongeBall @beyondr3pairr 是的...但是就算有时知道是这样，在有人和我倾诉的时候依然不忍心让对方的这种循环持续下去。\n后来发现这的确会使我更频繁更强烈地被期待，这也意味着事情越发展下去我quit所施加的作用力就越大。这会让我去想：“如果事情一开始不显得那样包容就好了。”\n但是每次遇到「事情一开始」也都没长记性就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413141695986761747",
+        "conversation_id": "2092921470330536393",
+        "created_at": "2026-08-27T19:03:13.000Z",
+        "display_text_range": [
+          25,
+          168
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093051727633318004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 24,
+              "id": "1938969907548372992",
+              "start": 10,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093051727633318004",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093050314899218528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @beyondr3pairr 对方性格越温柔、曾经做过得越好，在自证预言再度被实现的那一刻得到的自我否定就越彻底。\n\n我个人的观点是。期待一种满足“全能自恋”投射的依赖关系的心态本身就是病态的。\n\n其次我觉得哎。情感支持尤其是应对负能量本身是需要消耗自身精力的。没有理由善良的人就应当对别人的情感负责。这只是一种选择"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2093056145699004783",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1207,
+          "like_count": 3010,
+          "listed_count": 6,
+          "media_count": 405,
+          "tweet_count": 11467
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-08T14:24:06.000Z",
+        "description": "昏日遍垂弦雨似脊抽\n\n虽然感觉没有必要但是挂一下小号@SpongeBallll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "SpongeBallll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/spongeboxi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/spongeboxi",
+                "start": 0,
+                "url": "https://t.co/26siLy40Sq"
+              }
+            ]
+          }
+        },
+        "id": "1413141695986761747",
+        "is_identity_verified": false,
+        "location": "੭ ˙ᗜ˙ ੭",
+        "most_recent_tweet_id": "2093055498874740809",
+        "name": "海绵",
+        "pinned_tweet_id": "2091442871430004742",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079394563991744512/pIHAIjQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 27,
+          "like_count": 1298,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/26siLy40Sq",
+        "username": "SpongeBall",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nOutcast of my \"people\", Nomad to nowhere · YT/TikTok: @beyondr3pairr Discord: https://t.co/bC8DKdsEdI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "beyondr3pairr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/5NB4RN3TZk",
+                "end": 135,
+                "expanded_url": "https://discord.gg/5NB4RN3TZk",
+                "start": 112,
+                "url": "https://t.co/bC8DKdsEdI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7ml2"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2093055141620445637",
+        "name": "拼接碎片 - BeyondR3pairr 🇨🇦",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938969907548372992/1783356999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092132630611329025/1FNIQBA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 150,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 1466,
+          "tweet_count": 8771
+        },
+        "url": "https://t.co/kdPl4R7ml2",
+        "username": "beyondr3pairr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

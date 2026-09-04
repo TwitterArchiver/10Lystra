@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080674496692809873",
+    "created_at": "2026-07-24T17:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080709024966758484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "745607352355721217",
+          "start": 0,
+          "username": "WilliamPAIvanov"
+        },
+        {
+          "end": 27,
+          "id": "1601549039287566336",
+          "start": 17,
+          "username": "mmmammm_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080709024966758484",
+    "in_reply_to_user_id": "745607352355721217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080706966490374433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamPAIvanov @mmmammm_a 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080674496692809873",
+        "created_at": "2026-07-24T17:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080709024966758484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745607352355721217",
+              "start": 0,
+              "username": "WilliamPAIvanov"
+            },
+            {
+              "end": 27,
+              "id": "1601549039287566336",
+              "start": 17,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080709024966758484",
+        "in_reply_to_user_id": "745607352355721217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080706966490374433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamPAIvanov @mmmammm_a 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "745607352355721217",
+        "conversation_id": "2080674496692809873",
+        "created_at": "2026-07-24T17:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080706966490374433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601549039287566336",
+              "start": 0,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080706966490374433",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080706720200802435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmammm_a 就是一种贬低……只要是我喜欢的工作，在我妈眼里要么肯定不可能要么我配不上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1090,
+          "like_count": 2751,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 9682
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌｜习近平最敬最爱的亲阿玛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudEwTA"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "location": "Italy",
+        "name": "William P. A. da H. Ivanenko （原Ivanov，已纠正）🟦⬜️⬛️",
+        "pinned_tweet_id": "2078186072903659559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 2167,
+          "like_count": 272776,
+          "listed_count": 15,
+          "media_count": 375,
+          "tweet_count": 41135
+        },
+        "url": "https://t.co/aCvhudEwTA",
+        "username": "WilliamPAIvanov",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Transfeminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2076655834193711354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 289,
+          "like_count": 15164,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 5929
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": true
+      }
+    ]
+  }
+}

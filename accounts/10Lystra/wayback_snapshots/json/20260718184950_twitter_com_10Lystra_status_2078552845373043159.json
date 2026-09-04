@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078552835415785472"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2078519767028412530",
+    "created_at": "2026-07-18T18:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078552845373043159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7sIkeviZTR",
+          "end": 45,
+          "expanded_url": "https://x.com/10Lystra/status/2078552845373043159/photo/1",
+          "media_key": "3_2078552835415785472",
+          "start": 22,
+          "url": "https://t.co/7sIkeviZTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078552845373043159",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078519767028412530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 好像我家的。。 https://t.co/7sIkeviZTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2078552835415785472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNiAyonWwAAP1Ow.jpg",
+        "width": 1024
+      },
+      {
+        "duration_ms": 10616,
+        "height": 1920,
+        "media_key": "7_2078519710648602624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078519710648602624/pu/img/wMOcxY5CrCEihlzK.jpg",
+        "public_metrics": {
+          "view_count": 203
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078519710648602624/pu/vid/avc1/320x572/RPcGSzvr-LpdCPG3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078519710648602624/pu/pl/Cib7trIHa2p0uX44.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078519710648602624/pu/vid/avc1/480x858/rlLRz8mEE7_RDSI5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078519710648602624/pu/vid/avc1/1072x1920/wu3PtTCh1nIVOcfZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078519710648602624/pu/vid/avc1/720x1288/Vl0TvRPd6NsVdtpX.mp4"
+          }
+        ],
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078519720341549056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhirFWaMAArTXw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078519720282877952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhirFIa8AADX9A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078552835415785472"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2078519767028412530",
+        "created_at": "2026-07-18T18:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078552845373043159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7sIkeviZTR",
+              "end": 45,
+              "expanded_url": "https://x.com/10Lystra/status/2078552845373043159/photo/1",
+              "media_key": "3_2078552835415785472",
+              "start": 22,
+              "url": "https://t.co/7sIkeviZTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078552845373043159",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078519767028412530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 好像我家的。。 https://t.co/7sIkeviZTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078519710648602624",
+            "3_2078519720341549056",
+            "3_2078519720282877952"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2078519767028412530",
+        "created_at": "2026-07-18T16:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078519767028412530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJnOrY0XqQ",
+              "end": 31,
+              "expanded_url": "https://x.com/ashasw114514/status/2078519767028412530/video/1",
+              "media_key": "7_2078519710648602624",
+              "start": 8,
+              "url": "https://t.co/XJnOrY0XqQ"
+            },
+            {
+              "display_url": "pic.x.com/XJnOrY0XqQ",
+              "end": 31,
+              "expanded_url": "https://x.com/ashasw114514/status/2078519767028412530/video/1",
+              "media_key": "3_2078519720341549056",
+              "start": 8,
+              "url": "https://t.co/XJnOrY0XqQ"
+            },
+            {
+              "display_url": "pic.x.com/XJnOrY0XqQ",
+              "end": 31,
+              "expanded_url": "https://x.com/ashasw114514/status/2078519767028412530/video/1",
+              "media_key": "3_2078519720282877952",
+              "start": 8,
+              "url": "https://t.co/XJnOrY0XqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078519767028412530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隔靴搔痒。。。 https://t.co/XJnOrY0XqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 1077,
+          "like_count": 2715,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 9464
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4947,
+          "following_count": 3706,
+          "like_count": 9068,
+          "listed_count": 13,
+          "media_count": 755,
+          "tweet_count": 6533
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

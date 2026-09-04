@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2084014541982011786",
+    "created_at": "2026-08-03T09:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084214397761700133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084214397761700133",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084014541982011786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 我是心理委员，我不上报（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 169714,
+        "height": 720,
+        "media_key": "7_2084014011444523008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084014011444523008/pu/img/gAPVE7HIiI1lottL.jpg",
+        "public_metrics": {
+          "view_count": 3700
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/480x270/cWYtA9PHbLcmxoQC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/640x360/cufE1lxH28aiRy5_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/vid/avc1/1280x720/rGuDogZ0FNsDNe4B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084014011444523008/pu/pl/ECfISqp4sl76zqft.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2084014541982011786",
+        "created_at": "2026-08-03T09:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084214397761700133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084214397761700133",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084014541982011786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 我是心理委员，我不上报（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084014011444523008"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2084014541982011786",
+        "created_at": "2026-08-02T20:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084014541982011786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPnlegH0CJ",
+              "end": 137,
+              "expanded_url": "https://x.com/mario_2333/status/2084014541982011786/video/1",
+              "media_key": "7_2084014011444523008",
+              "start": 114,
+              "url": "https://t.co/LPnlegH0CJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084014541982011786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唔…提醒一下大一新生，辅导员一定会说学校有心理咨询，但很多只是监控目的，只能安全咨询生活学习小问题\n\n如果透露危险倾向，就算本人有能力和意愿完成学业，也可能被要求出示开不出来的医院证明、强制休学、要求家长陪读等，92到专科都有\n\n性少数一样是学校的不稳定因素，心理委员几乎也都会监控空间朋友圈的负面言论并上报\n\n如果有条件可以寻求其他专业帮助，不要用自己的前途去赌学校是否善良"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 6612,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "唔…提醒一下大一新生，辅导员一定会说学校有心理咨询，但很多只是监控目的，只能安全咨询生活学习小问题\n\n如果透露危险倾向，就算本人有能力和意愿完成学业，也可能被要求出示开不出来的医院证明、强制休学、要求家长陪读等，92到专科都有 https://t.co/LPnlegH0CJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1114,
+          "like_count": 2847,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 10036
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 蓝标陌生人送的我是真人没收益😘 | 可爱猫猫💕：@Ayanami_rin0 & @A1oneSKy & @Fishy_Fox_Can",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Ayanami_rin0"
+              },
+              {
+                "end": 128,
+                "start": 119,
+                "username": "A1oneSKy"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "Fishy_Fox_Can"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4135,
+          "following_count": 284,
+          "like_count": 58777,
+          "listed_count": 19,
+          "media_count": 1214,
+          "tweet_count": 19422
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

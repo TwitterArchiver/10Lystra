@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080706040228945925",
+    "created_at": "2026-07-24T18:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080715423696175211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Nya_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080715423696175211",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080706040228945925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nya_QwQ 我家房梁上有根单杠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080706040228945925",
+        "created_at": "2026-07-24T18:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080715423696175211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Nya_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080715423696175211",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080706040228945925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nya_QwQ 我家房梁上有根单杠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2080706040228945925",
+        "created_at": "2026-07-24T17:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080706040228945925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080706040228945925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们上吊绳子都挂哪里的  家里找了一圈没地方挂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1092,
+          "like_count": 2755,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 9690
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "",
+        "id": "1960198897827282944",
+        "location": "猫猫の窝",
+        "name": "nya🍥",
+        "pinned_tweet_id": "2041592755416395999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066546464067895296/PPX9sADq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1037,
+          "like_count": 7615,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1409
+        },
+        "url": "",
+        "username": "Nya_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

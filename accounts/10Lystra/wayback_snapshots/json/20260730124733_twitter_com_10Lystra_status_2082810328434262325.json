@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2082807802821791960",
+    "created_at": "2026-07-30T12:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082810328434262325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426793440046632963",
+          "start": 0,
+          "username": "moneynikonikoni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082810328434262325",
+    "in_reply_to_user_id": "1426793440046632963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082807802821791960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moneynikonikoni 太香了老师🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2634,
+        "media_key": "3_2082807781917442048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeepHibwAA0Rnd.jpg",
+        "width": 3512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2082807802821791960",
+        "created_at": "2026-07-30T12:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082810328434262325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426793440046632963",
+              "start": 0,
+              "username": "moneynikonikoni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082810328434262325",
+        "in_reply_to_user_id": "1426793440046632963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082807802821791960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moneynikonikoni 太香了老师🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082807781917442048"
+          ]
+        },
+        "author_id": "1426793440046632963",
+        "conversation_id": "2082807802821791960",
+        "created_at": "2026-07-30T12:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082807802821791960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEs5QtL948",
+              "end": 30,
+              "expanded_url": "https://x.com/moneynikonikoni/status/2082807802821791960/photo/1",
+              "media_key": "3_2082807781917442048",
+              "start": 7,
+              "url": "https://t.co/xEs5QtL948"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01864a8a64df9dc4"
+        },
+        "id": "2082807802821791960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人爽到了😋 https://t.co/xEs5QtL948"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1114,
+          "like_count": 2807,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 9865
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:30:49.000Z",
+        "description": "我血液的百分之七十都流淌着游戏，mel",
+        "id": "1426793440046632963",
+        "location": "神圣泰拉 审判庭马上到你家门口",
+        "name": "冲击2030世锦赛冠军",
+        "pinned_tweet_id": "1977640025602023924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081228377118400512/txShP23I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 3445,
+          "like_count": 14219,
+          "listed_count": 11,
+          "media_count": 1293,
+          "tweet_count": 12012
+        },
+        "url": "",
+        "username": "moneynikonikoni",
+        "verified": false
+      }
+    ]
+  }
+}

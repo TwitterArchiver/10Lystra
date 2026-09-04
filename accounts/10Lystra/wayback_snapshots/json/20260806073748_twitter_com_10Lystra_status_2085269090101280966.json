@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2085191569653502405",
+    "created_at": "2026-08-06T07:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085269090101280966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988126948552568837",
+          "start": 0,
+          "username": "wxueyuehua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085269090101280966",
+    "in_reply_to_user_id": "1988126948552568837",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085268411366727693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxueyuehua 😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2085191569653502405",
+        "created_at": "2026-08-06T07:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085269090101280966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988126948552568837",
+              "start": 0,
+              "username": "wxueyuehua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085269090101280966",
+        "in_reply_to_user_id": "1988126948552568837",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085268411366727693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxueyuehua 😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988126948552568837",
+        "conversation_id": "2085191569653502405",
+        "created_at": "2026-08-06T07:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085268411366727693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085268411366727693",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085191569653502405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 电击（啊啊啊啊）（我什么都不会告诉你）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 1116,
+          "like_count": 2864,
+          "listed_count": 6,
+          "media_count": 376,
+          "tweet_count": 10171
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T06:09:52.000Z",
+        "description": "04/男/坐忘道/古月方源/我已重生500年前古月山寨v50送你成尊机缘",
+        "id": "1988126948552568837",
+        "location": "无之地界",
+        "name": "雪月花",
+        "pinned_tweet_id": "2041539409678340431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994789797051994120/kbAexLvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 425,
+          "like_count": 4972,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1743
+        },
+        "url": "",
+        "username": "wxueyuehua",
+        "verified": false
+      }
+    ]
+  }
+}

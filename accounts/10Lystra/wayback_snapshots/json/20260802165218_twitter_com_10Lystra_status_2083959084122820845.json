@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083959070961041408"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2083946434127098166",
+    "created_at": "2026-08-02T16:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083959084122820845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934663702349017088",
+          "start": 0,
+          "username": "ally37to"
+        },
+        {
+          "end": 23,
+          "id": "2041159531657416704",
+          "start": 10,
+          "username": "amber_digit2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hy5jIxteUj",
+          "end": 52,
+          "expanded_url": "https://x.com/10Lystra/status/2083959084122820845/photo/1",
+          "media_key": "3_2083959070961041408",
+          "start": 29,
+          "url": "https://t.co/hy5jIxteUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083959084122820845",
+    "in_reply_to_user_id": "1934663702349017088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083956368227340467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ally37to @amber_digit2 你清楚， https://t.co/hy5jIxteUj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2083959070961041408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu1u9cWAAA2egP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083959070961041408"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083946434127098166",
+        "created_at": "2026-08-02T16:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083959084122820845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934663702349017088",
+              "start": 0,
+              "username": "ally37to"
+            },
+            {
+              "end": 23,
+              "id": "2041159531657416704",
+              "start": 10,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hy5jIxteUj",
+              "end": 52,
+              "expanded_url": "https://x.com/10Lystra/status/2083959084122820845/photo/1",
+              "media_key": "3_2083959070961041408",
+              "start": 29,
+              "url": "https://t.co/hy5jIxteUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083959084122820845",
+        "in_reply_to_user_id": "1934663702349017088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083956368227340467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ally37to @amber_digit2 你清楚， https://t.co/hy5jIxteUj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934663702349017088",
+        "conversation_id": "2083946434127098166",
+        "created_at": "2026-08-02T16:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083956368227340467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083956368227340467",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083946434127098166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我们可以对detrans表示同情，可以提供必要的帮助，但不能出于同情就接纳，这样会引出新的问题：一个男的，声称自己是detrans，他是否有资格融入trans的群体？\ndetrans固然有可怜之处，但这不是他们仍能留下来的理由，不分对错的圣母情节才是对真正的trans群体最大的恶意和不公。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1114,
+          "like_count": 2848,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 10021
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T17:25:59.000Z",
+        "description": "因你而在的故事。",
+        "id": "1934663702349017088",
+        "location": "Beijing&Tianjin",
+        "name": "Ally",
+        "pinned_tweet_id": "2070147762034012348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074762557500633088/Vs0HWhgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 47,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "ally37to",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4312,
+          "following_count": 708,
+          "like_count": 2186,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

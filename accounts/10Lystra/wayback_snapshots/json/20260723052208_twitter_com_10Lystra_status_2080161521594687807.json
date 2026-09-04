@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A journalist like 'Anderson Cooper'",
+          "id": "94",
+          "name": "Journalist"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports Figures",
+          "id": "1074755059433463813",
+          "name": "Sports journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303663877104705536",
+          "name": "Fabrizio Romano"
+        }
+      }
+    ],
+    "conversation_id": "2079694311935918099",
+    "created_at": "2026-07-23T05:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080161521594687807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "330262748",
+          "start": 0,
+          "username": "FabrizioRomano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080161521594687807",
+    "in_reply_to_user_id": "330262748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079694311935918099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FabrizioRomano 好孩子。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2079694306344865792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyO8_MWkAAVcLV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          }
+        ],
+        "conversation_id": "2079694311935918099",
+        "created_at": "2026-07-23T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080161521594687807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "330262748",
+              "start": 0,
+              "username": "FabrizioRomano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080161521594687807",
+        "in_reply_to_user_id": "330262748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079694311935918099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FabrizioRomano 好孩子。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079694306344865792"
+          ]
+        },
+        "author_id": "330262748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1427053766482616326",
+              "name": "Gavi "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1427053766482616326",
+              "name": "Gavi "
+            }
+          },
+          {
+            "domain": {
+              "description": "A journalist like 'Anderson Cooper'",
+              "id": "94",
+              "name": "Journalist"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports Figures",
+              "id": "1074755059433463813",
+              "name": "Sports journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303663877104705536",
+              "name": "Fabrizio Romano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427053766482616326",
+              "name": "Gavi "
+            }
+          }
+        ],
+        "conversation_id": "2079694311935918099",
+        "created_at": "2026-07-21T22:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079694311935918099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mcFLvS6Eze",
+              "end": 276,
+              "expanded_url": "https://x.com/FabrizioRomano/status/2079694311935918099/photo/1",
+              "media_key": "3_2079694306344865792",
+              "start": 253,
+              "url": "https://t.co/mcFLvS6Eze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079694311935918099",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2508,
+          "impression_count": 4447790,
+          "like_count": 108706,
+          "quote_count": 901,
+          "reply_count": 2124,
+          "retweet_count": 6420
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇪🇸🇦🇷 Gavi: “I do NOT think Argentina players should be suspended”.\n\n“I understand that this doesn't present a good image for the children, but football has always had a more aggressive side”.\n\n“I see that everything that happened is part of football”. https://t.co/mcFLvS6Eze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 1088,
+          "like_count": 2739,
+          "listed_count": 5,
+          "media_count": 363,
+          "tweet_count": 9619
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-06T10:58:55.000Z",
+        "description": "Here we go! © fabrizio.romano93@gmail.com 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@FabrizioRoman…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@FabrizioRomanoYT",
+                "start": 0,
+                "url": "https://t.co/btxI8gbc2z"
+              }
+            ]
+          }
+        },
+        "id": "330262748",
+        "location": "Milano, Italia",
+        "name": "Fabrizio Romano",
+        "pinned_tweet_id": "2079962416100634939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741753635158024192/j0m8Ucvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28412504,
+          "following_count": 2682,
+          "like_count": 11627,
+          "listed_count": 32781,
+          "media_count": 47857,
+          "tweet_count": 74313
+        },
+        "url": "https://t.co/btxI8gbc2z",
+        "username": "FabrizioRomano",
+        "verified": true
+      }
+    ]
+  }
+}

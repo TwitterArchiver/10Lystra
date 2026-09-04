@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2082027508497862939",
+    "created_at": "2026-07-28T09:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082038724540424545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2079399533856079872",
+          "start": 0,
+          "username": "princess_01011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082038724540424545",
+    "in_reply_to_user_id": "2079399533856079872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082027508497862939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@princess_01011 权利一般需要活人来拥有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2082027508497862939",
+        "created_at": "2026-07-28T09:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082038724540424545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2079399533856079872",
+              "start": 0,
+              "username": "princess_01011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082038724540424545",
+        "in_reply_to_user_id": "2079399533856079872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082027508497862939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@princess_01011 权利一般需要活人来拥有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079399533856079872",
+        "conversation_id": "2082027508497862939",
+        "created_at": "2026-07-28T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082027508497862939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082027508497862939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果说跨女是比顺女更失权的存在，深柜当顺直男可以拥有和他们同等的权利吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 1105,
+          "like_count": 2782,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 9782
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "",
+        "id": "2079399533856079872",
+        "name": "公主病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 196,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": false
+      }
+    ]
+  }
+}

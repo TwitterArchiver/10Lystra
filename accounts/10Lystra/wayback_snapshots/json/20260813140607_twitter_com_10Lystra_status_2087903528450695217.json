@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2087608357540745680",
+    "created_at": "2026-08-13T14:06:07.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087903528450695217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1294457265752219649",
+          "start": 0,
+          "username": "Aki7y999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087903528450695217",
+    "in_reply_to_user_id": "1294457265752219649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087608357540745680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aki7y999 笑晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2087608357540745680",
+        "created_at": "2026-08-13T14:06:07.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087903528450695217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1294457265752219649",
+              "start": 0,
+              "username": "Aki7y999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087903528450695217",
+        "in_reply_to_user_id": "1294457265752219649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087608357540745680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aki7y999 笑晕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294457265752219649",
+        "conversation_id": "2087608357540745680",
+        "created_at": "2026-08-12T18:33:12.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087608357540745680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087608357540745680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27924,
+          "like_count": 492,
+          "quote_count": 0,
+          "reply_count": 124,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "妈的这个推特到底谁最骚 你们机器人有没有共识"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2087903528450695217",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1147,
+          "like_count": 2909,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 10617
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-15T02:14:04.000Z",
+        "description": "长期主义|碎碎念|📷",
+        "id": "1294457265752219649",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087608357540745680",
+        "name": "Agony",
+        "pinned_tweet_id": "2026695802480193975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294457265752219649/1771649147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021668331586265089/1hYPf2Iy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 304,
+          "like_count": 12870,
+          "listed_count": 12,
+          "media_count": 435,
+          "tweet_count": 7626
+        },
+        "url": "",
+        "username": "Aki7y999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

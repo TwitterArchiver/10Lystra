@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2078701172144353534",
+    "created_at": "2026-07-19T05:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078706946484457968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885877669719494656",
+          "start": 0,
+          "username": "HanaSliver"
+        },
+        {
+          "end": 26,
+          "id": "1739437517772926976",
+          "start": 12,
+          "username": "Dandelion6238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078706946484457968",
+    "in_reply_to_user_id": "885877669719494656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078701172144353534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanaSliver @Dandelion6238 想要..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39404,
+        "height": 960,
+        "media_key": "13_2078701088048549888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078701088048549888/img/U1_7ZfU5frySVEzY.jpg",
+        "public_metrics": {
+          "view_count": 548
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078701088048549888/vid/avc1/320x426/WDPIsU3o4LB8Gn4K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078701088048549888/vid/avc1/480x640/h9J0b46N1alILx6k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078701088048549888/vid/avc1/720x960/sZ72ODWWjM9gJgfB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078701088048549888/pl/SLCrmOpXjmgAGNDf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2078701172144353534",
+        "created_at": "2026-07-19T05:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078706946484457968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885877669719494656",
+              "start": 0,
+              "username": "HanaSliver"
+            },
+            {
+              "end": 26,
+              "id": "1739437517772926976",
+              "start": 12,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078706946484457968",
+        "in_reply_to_user_id": "885877669719494656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078701172144353534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanaSliver @Dandelion6238 想要..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078701088048549888"
+          ]
+        },
+        "author_id": "885877669719494656",
+        "conversation_id": "2078701172144353534",
+        "created_at": "2026-07-19T04:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078701172144353534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYXwbbs5Ve",
+              "end": 33,
+              "expanded_url": "https://x.com/HanaSliver/status/2078701172144353534/video/1",
+              "media_key": "13_2078701088048549888",
+              "start": 10,
+              "url": "https://t.co/ZYXwbbs5Ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078701172144353534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 1870,
+          "like_count": 211,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "会不会太色了🤔🤔🤔 https://t.co/ZYXwbbs5Ve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 1079,
+          "like_count": 2720,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 9488
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-14T15:04:30.000Z",
+        "description": "月球上的人.腐男子. 二次元BL狂热爱好者.@MissToluene←命运之人. https://t.co/qj3LtM27mu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "MissToluene"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/hanasliver",
+                "end": 64,
+                "expanded_url": "http://linktr.ee/hanasliver",
+                "start": 41,
+                "url": "https://t.co/qj3LtM27mu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansly.com/HanaSliver/pos…",
+                "end": 23,
+                "expanded_url": "https://fansly.com/HanaSliver/posts",
+                "start": 0,
+                "url": "https://t.co/npuddJFNnF"
+              }
+            ]
+          }
+        },
+        "id": "885877669719494656",
+        "location": "对流层",
+        "name": "HaNa",
+        "pinned_tweet_id": "1679570010245824512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417805524012212227/yMInQx5h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219330,
+          "following_count": 1129,
+          "like_count": 24756,
+          "listed_count": 1217,
+          "media_count": 2533,
+          "tweet_count": 14696
+        },
+        "url": "https://t.co/npuddJFNnF",
+        "username": "HanaSliver",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 1004,
+          "like_count": 7100,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1049
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      }
+    ]
+  }
+}

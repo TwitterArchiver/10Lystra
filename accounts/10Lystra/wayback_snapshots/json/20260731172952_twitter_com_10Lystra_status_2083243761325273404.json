@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2083220530531074281",
+    "created_at": "2026-07-31T17:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083243761325273404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "994208371040337921",
+          "start": 0,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083243761325273404",
+    "in_reply_to_user_id": "994208371040337921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083240227586650501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litztsong 发现我们实际上是在担忧一样的后果..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083220530531074281",
+        "created_at": "2026-07-31T17:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083243761325273404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "994208371040337921",
+              "start": 0,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083243761325273404",
+        "in_reply_to_user_id": "994208371040337921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083240227586650501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litztsong 发现我们实际上是在担忧一样的后果..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "2083220530531074281",
+        "created_at": "2026-07-31T17:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083240227586650501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083240227586650501",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083229619621159152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 那就是我和你的理念差别了\n我还是希望跨性别者在公众视角中有比较好的表现的\n形象太差只会进一步恶化跨性别者的生存困境\n很多事情不能理想化，要考虑现实因素的\n我不是那么woke的人\n大多数人都要看颜值的，这样只会让顺直人觉得跨性别者都是魔怔人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1116,
+          "like_count": 2832,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 9929
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/mentally challenged(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/个人群 https://t.co/16lZFMyT6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 149,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 126,
+                "url": "https://t.co/16lZFMyT6P"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2077279942484910547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 2118,
+          "like_count": 3607,
+          "listed_count": 17,
+          "media_count": 1679,
+          "tweet_count": 14343
+        },
+        "url": "",
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

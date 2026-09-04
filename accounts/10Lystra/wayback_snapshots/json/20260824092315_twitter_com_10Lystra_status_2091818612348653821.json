@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2091777815540908034",
+    "created_at": "2026-08-24T09:23:15.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T10:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091818612348653821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716000108003946496",
+          "start": 0,
+          "username": "steampork_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091818612348653821",
+    "in_reply_to_user_id": "1716000108003946496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091777815540908034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steampork_114 也有的人喜欢被炫耀吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2091777815540908034",
+        "created_at": "2026-08-24T09:23:15.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091818612348653821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716000108003946496",
+              "start": 0,
+              "username": "steampork_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091818612348653821",
+        "in_reply_to_user_id": "1716000108003946496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091777815540908034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steampork_114 也有的人喜欢被炫耀吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716000108003946496",
+        "conversation_id": "2091777815540908034",
+        "created_at": "2026-08-24T06:41:09.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091777815540908034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lckmtfdesu/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/lckmtfdesu/status/2091430023022690539",
+              "start": 31,
+              "url": "https://t.co/qy7KrfnFov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091777815540908034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091430023022690539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们把对象当成攀比的工具了？\n这文案感觉根本不把对象当人看啊 https://t.co/qy7KrfnFov"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2091818612348653821",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1199,
+          "like_count": 2999,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 11307
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-22T07:54:52.000Z",
+        "description": "老婆💗: @luna4rzd\n———————————\nHRT2026.2.22🏳️‍⚧️🍥｜普通的学生｜昵称：猪排，stmpk｜生产日期2012.3.18｜断糖没钱呜😭｜坐标北京｜出柜2026.4｜家长半理解但不支持",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "luna4rzd"
+              }
+            ]
+          }
+        },
+        "id": "1716000108003946496",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2091777815540908034",
+        "name": "stmpk_114 - 挽柔（暂定）🏳️‍⚧️🍥 🔺🔻",
+        "pinned_tweet_id": "2085188057582723079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716000108003946496/1785297663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082311453407944704/q1IRSlvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 449,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "steampork_114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

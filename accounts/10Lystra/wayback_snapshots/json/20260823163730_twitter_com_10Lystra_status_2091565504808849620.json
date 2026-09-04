@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2091565504808849620",
+    "created_at": "2026-08-23T16:37:30.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091565504808849620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090348740250906624",
+          "start": 3,
+          "username": "Uuucvea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091565504808849620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091001775192940975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uuucvea: 刚发现我是头油悲观主义者 只要头发油了我就对生活失去了希望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2091565504808849620",
+        "created_at": "2026-08-23T16:37:30.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091565504808849620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090348740250906624",
+              "start": 3,
+              "username": "Uuucvea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091565504808849620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091001775192940975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uuucvea: 刚发现我是头油悲观主义者 只要头发油了我就对生活失去了希望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090348740250906624",
+        "conversation_id": "2091001775192940975",
+        "created_at": "2026-08-22T03:17:26.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091001775192940975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091001775192940975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 105834,
+          "like_count": 4716,
+          "quote_count": 63,
+          "reply_count": 320,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "刚发现我是头油悲观主义者 只要头发油了我就对生活失去了希望"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2091565504808849620",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 1200,
+          "like_count": 2992,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 11281
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T08:03:03.000Z",
+        "description": "礼貌你我他｜172cm｜45kg｜年龄是永远18岁｜屁话巨多的碎碎念大王\n此账号用来发抽象文字和日常碎碎念（屁话真多）每天不定时发帖 帖子内容..是想到啥发啥",
+        "id": "2090348740250906624",
+        "is_identity_verified": false,
+        "location": "🚪188 288 588",
+        "most_recent_tweet_id": "2091565480435712385",
+        "name": "Uuu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090348740250906624/1787213505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090350108348932096/B6xaOmpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 7,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "Uuucvea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

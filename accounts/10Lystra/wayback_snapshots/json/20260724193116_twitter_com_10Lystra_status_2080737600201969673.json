@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080529875535122630",
+    "created_at": "2026-07-24T19:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T20:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080737600201969673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816764930219212802",
+          "start": 0,
+          "username": "xFurina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080737600201969673",
+    "in_reply_to_user_id": "1816764930219212802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080529875535122630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xFurina_ 吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080529693271580672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Gu6Aa4AAyYkG.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080529705787424768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-GvoobgAA4XDK.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080529859558928384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-G4leacAA3NwH.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080529875535122630",
+        "created_at": "2026-07-24T19:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080737600201969673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816764930219212802",
+              "start": 0,
+              "username": "xFurina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080737600201969673",
+        "in_reply_to_user_id": "1816764930219212802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080529875535122630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xFurina_ 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080529693271580672",
+            "3_2080529705787424768",
+            "3_2080529859558928384"
+          ]
+        },
+        "author_id": "1816764930219212802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080529875535122630",
+        "created_at": "2026-07-24T05:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080529875535122630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btrLXJIjZk",
+              "end": 33,
+              "expanded_url": "https://x.com/xFurina_/status/2080529875535122630/photo/1",
+              "media_key": "3_2080529693271580672",
+              "start": 10,
+              "url": "https://t.co/btrLXJIjZk"
+            },
+            {
+              "display_url": "pic.x.com/btrLXJIjZk",
+              "end": 33,
+              "expanded_url": "https://x.com/xFurina_/status/2080529875535122630/photo/1",
+              "media_key": "3_2080529705787424768",
+              "start": 10,
+              "url": "https://t.co/btrLXJIjZk"
+            },
+            {
+              "display_url": "pic.x.com/btrLXJIjZk",
+              "end": 33,
+              "expanded_url": "https://x.com/xFurina_/status/2080529875535122630/photo/1",
+              "media_key": "3_2080529859558928384",
+              "start": 10,
+              "url": "https://t.co/btrLXJIjZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080529875535122630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11233,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推油们我该怎么办😭 https://t.co/btrLXJIjZk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1100,
+          "like_count": 2755,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 9694
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-26T09:18:14.000Z",
+        "description": "10 后 mtf｜ 同类来和我互fo啦～\n爱每一个友好的宝宝！立志成为一只萌妹！\n最爱我的姐姐：@Kuriyona \ntelegram:xFurina1013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "candyrect.com",
+                "end": 23,
+                "expanded_url": "http://candyrect.com",
+                "start": 0,
+                "url": "https://t.co/YZnQ6u9X6x"
+              }
+            ]
+          }
+        },
+        "id": "1816764930219212802",
+        "location": "兰州",
+        "name": "鱼块糯🏳️‍⚧️",
+        "pinned_tweet_id": "2072654206415290516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079946819124240384/GDu6AkgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 620,
+          "like_count": 2178,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/YZnQ6u9X6x",
+        "username": "xFurina_",
+        "verified": true
+      }
+    ]
+  }
+}

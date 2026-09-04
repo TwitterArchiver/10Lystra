@@ -1,0 +1,861 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774832257499136",
+          "name": "Unai Emery"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "id": "733774832257499136",
+          "name": "Unai Emery"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774832257499136",
+          "name": "Unai Emery"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1285942425861545984",
+          "name": "Sports figures"
+        }
+      }
+    ],
+    "conversation_id": "2079307146554995091",
+    "created_at": "2026-07-20T20:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T21:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079307146554995091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926520215237500928",
+          "start": 3,
+          "username": "markklfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079307146554995091",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 999
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079164596167077906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @markklfc: Unai Emery sobre Emiliano “Dibu” Martínez rompiendo en lágrimas tras la derrota de Argentina ante España en la final de la Co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37080,
+        "height": 1024,
+        "media_key": "13_2079164445008269312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079164445008269312/img/uVxaKbyaQZ76Vl1W.jpg",
+        "public_metrics": {
+          "view_count": 852818
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079164445008269312/vid/avc1/320x568/cfq3Bbk3EybfNN8d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079164445008269312/vid/avc1/480x852/91kkc-6fn40yOUxp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079164445008269312/vid/avc1/576x1024/aP5fl3VXoWvT0j0Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079164445008269312/pl/lEsw3yz7tFVlhu72.m3u8?v=5a4"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 560,
+        "media_key": "3_2079164444974702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqtC_xW4AAZOa0.jpg",
+        "width": 373
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774832257499136",
+              "name": "Unai Emery"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Coach like 'Bill Belichick'",
+              "id": "93",
+              "name": "Coach"
+            },
+            "entity": {
+              "id": "733774832257499136",
+              "name": "Unai Emery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774832257499136",
+              "name": "Unai Emery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2079307146554995091",
+        "created_at": "2026-07-20T20:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079307146554995091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926520215237500928",
+              "start": 3,
+              "username": "markklfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079307146554995091",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 999
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079164596167077906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @markklfc: Unai Emery sobre Emiliano “Dibu” Martínez rompiendo en lágrimas tras la derrota de Argentina ante España en la final de la Co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079164445008269312",
+            "3_2079164444974702592"
+          ]
+        },
+        "author_id": "1926520215237500928",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774832257499136",
+              "name": "Unai Emery"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226180259446784",
+              "name": "Spain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226258135089152",
+              "name": "Uruguay"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1275806388367720450",
+              "name": "2022 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2059337548200087553",
+              "name": "World Cup 2026"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337575270174720",
+              "name": "Spain vs Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Coach like 'Bill Belichick'",
+              "id": "93",
+              "name": "Coach"
+            },
+            "entity": {
+              "id": "733774832257499136",
+              "name": "Unai Emery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226180259446784",
+              "name": "Spain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226258135089152",
+              "name": "Uruguay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774832257499136",
+              "name": "Unai Emery"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733773885439533057",
+              "name": "Emiliano Martinez"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733773885439533057",
+              "name": "Emiliano Martinez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733773885439533057",
+              "name": "Emiliano Martinez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "DAZN FIFAワールドカップ26 特設ページ\n\nDAZNのFIFAワールドカップ26最新情報がチェックできる特設ページです。試合映像やその他コンテンツを配信します。\n\nhttps://www.dazn.com/ja-JP/welcome",
+              "id": "2015704262643249152",
+              "name": "DAZN FIFAワールドカップ26 特設ページ"
+            }
+          }
+        ],
+        "conversation_id": "2079164596167077906",
+        "created_at": "2026-07-20T11:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079164596167077906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEDTrujJVc",
+              "end": 301,
+              "expanded_url": "https://x.com/markklfc/status/2079164596167077906/video/1",
+              "media_key": "13_2079164445008269312",
+              "start": 278,
+              "url": "https://t.co/WEDTrujJVc"
+            },
+            {
+              "display_url": "pic.x.com/WEDTrujJVc",
+              "end": 301,
+              "expanded_url": "https://x.com/markklfc/status/2079164596167077906/video/1",
+              "media_key": "3_2079164444974702592",
+              "start": 278,
+              "url": "https://t.co/WEDTrujJVc"
+            },
+            {
+              "display_url": "x.com/fictionzonee/s…",
+              "end": 325,
+              "expanded_url": "https://twitter.com/fictionzonee/status/2079120710224511356",
+              "start": 302,
+              "url": "https://t.co/KPW3F7QUXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079164596167077906",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Unai Emery sobre Emiliano “Dibu” Martínez rompiendo en lágrimas tras la derrota de Argentina ante España en la final de la Copa Mundial de la FIFA.\n\n🗣️ “Todo el mundo vio a Emiliano Martínez tirado en el suelo llorando después del pitido final. Lo que no vieron fue a un hombre que de verdad sentía que había fallado a 50 millones de argentinos, incluso después de una de las actuaciones más valientes de toda su carrera. Ese es Dibu. Siempre se culpa a sí mismo antes que a cualquier otro.”\n\n“Hablé con él en el vestuario. Ni siquiera podía mirarme a los ojos. No dejaba de repetir: ‘Míster… perdón. No pude darle a mi país una atajada más. No pude darle a Leo un último Mundial.’ Escuchar esas palabras me rompió el corazón, porque no había nada más que pudiera hacer. Lo dio absolutamente todo.”\n\n“Lo más cruel de ser portero es que la gente recuerda el único balón que no pudiste detener y olvida las diez atajadas imposibles que mantuvieron con vida a tu selección. Dibu hizo parada tras parada, luchó hasta el último segundo y nunca dejó de creer. Sin embargo, él solo pensaba en esa única jugada que no pudo cambiar.”\n\n“No lloraba por una medalla. Lloraba porque sentía que había decepcionado a su pueblo. Ese es el peso que carga cada vez que se pone la camiseta de Argentina. Ama ese escudo con toda su alma, y cuando amas algo de esa manera, una derrota se vuelve insoportable.”\n\n“Lo que más le dolió no fue ver a España celebrar. Fue darse la vuelta y ver a Lionel Messi con lágrimas en los ojos. Me dijo: ‘Solo quería verlo sonreír una vez más. Solo quería darle a mi capitán el final que se merecía.’ Esas palabras nunca se borrarán de mi memoria.”\n\n“He entrenado a muchos futbolistas, pero muy pocos aman a su país como Emiliano Martínez. Salió de ese campo convencido de que había fallado a Argentina. Yo le dije la verdad: ‘No le fallaste a tu país. Lo llevaste sobre tus hombros hasta que ya no te quedaba nada por entregar. Nadie que haya visto esa final puede poner en duda tu corazón.’”\n\n“Algún día la gente recordará el resultado. Pero quienes estuvimos allí recordaremos algo mucho más grande: a un portero que dejó el alma por Argentina, que lloró no porque perdió un partido de fútbol, sino porque creyó que no había podido regalarle a su país un último milagro. Ese tipo de amor no se enseña; se lleva en el corazón.”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1064,
+          "impression_count": 1424199,
+          "like_count": 8325,
+          "quote_count": 50,
+          "reply_count": 235,
+          "retweet_count": 999
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079120710224511356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Unai Emery sobre Emiliano “Dibu” Martínez rompiendo en lágrimas tras la derrota de Argentina ante España en la final de la Copa Mundial de la FIFA.\n\n🗣️ “Todo el mundo vio a Emiliano Martínez tirado en el suelo llorando después del pitido final. Lo que no vieron fue a un hombre https://t.co/WEDTrujJVc https://t.co/KPW3F7QUXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1080,
+          "like_count": 2726,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 9543
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T06:07:23.000Z",
+        "description": "#rodrihater l Powered by @Duelbits",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "rodrihater"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Duelbits"
+              }
+            ]
+          }
+        },
+        "id": "1926520215237500928",
+        "location": "DM4PROMO",
+        "name": "ᜰ 🇦🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040716824976019456/3vs0-g3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10344,
+          "following_count": 402,
+          "like_count": 50285,
+          "listed_count": 24,
+          "media_count": 3013,
+          "tweet_count": 76664
+        },
+        "url": "",
+        "username": "markklfc",
+        "verified": true
+      }
+    ]
+  }
+}

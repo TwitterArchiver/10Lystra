@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2083050111559696499",
+    "created_at": "2026-07-31T07:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083098793482862709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046283772455485440",
+          "start": 0,
+          "username": "AubreyCamilleuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083098793482862709",
+    "in_reply_to_user_id": "2046283772455485440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083050111559696499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AubreyCamilleuu 可以再等等，也许某一天你会听到这辈子最后一声「帅哥」但是自己却不知道呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083050111559696499",
+        "created_at": "2026-07-31T07:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083098793482862709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046283772455485440",
+              "start": 0,
+              "username": "AubreyCamilleuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083098793482862709",
+        "in_reply_to_user_id": "2046283772455485440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083050111559696499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AubreyCamilleuu 可以再等等，也许某一天你会听到这辈子最后一声「帅哥」但是自己却不知道呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046283772455485440",
+        "conversation_id": "2083050111559696499",
+        "created_at": "2026-07-31T04:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083050111559696499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083050111559696499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉不如在rle第一天就死了，在第一次被人喊美女的那一天就死了。后面的人生全是漫长而无意义的流浪，有很多更难回答的人生课题纷纷袭来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1114,
+          "like_count": 2828,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 9907
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "跨女宝宝们请跟我玩。",
+        "id": "2046283772455485440",
+        "name": "沅子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069385662277754880/WVsxZWOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 180,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2094123867488813263",
+    "created_at": "2026-08-30T18:03:31.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094123867488813263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shaw567010/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/shaw567010/status/2093732941386100809",
+          "start": 21,
+          "url": "https://t.co/HqtnRj5hY3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094123867488813263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093732941386100809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候怎么和家长顶嘴长大就怎么当brat https://t.co/HqtnRj5hY3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2094123867488813263",
+        "created_at": "2026-08-30T18:03:31.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094123867488813263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shaw567010/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/shaw567010/status/2093732941386100809",
+              "start": 21,
+              "url": "https://t.co/HqtnRj5hY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094123867488813263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093732941386100809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候怎么和家长顶嘴长大就怎么当brat https://t.co/HqtnRj5hY3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682814193752498176",
+        "conversation_id": "2093732941386100809",
+        "created_at": "2026-08-29T16:10:07.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T17:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093732941386100809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093732941386100809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 66018,
+          "like_count": 638,
+          "quote_count": 28,
+          "reply_count": 209,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "brat小妙招\n对方倒数的时候你也跟着倒数"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2094123867488813263",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1205,
+          "like_count": 3017,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 11502
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-22T18:06:02.000Z",
+        "description": "黑龙江/小⭕️/被动/偏爱技术流/喜欢用文字钩织美好的画面/想象力丰富/纯属虚构\n转载好看的mf/我的观点输出/偶尔爱磕mm\n匿名私信箱在此！https://t.co/IynNqLRyFs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shawicompareth…",
+                "end": 94,
+                "expanded_url": "https://ngl.link/shawicomparetheetoasummersday",
+                "start": 71,
+                "url": "https://t.co/IynNqLRyFs"
+              }
+            ]
+          }
+        },
+        "id": "1682814193752498176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094111071502237916",
+        "name": "夏舟shaw",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682814193752498176/1786763571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075790308198191104/fstyNIy__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 388,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "shaw567010",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

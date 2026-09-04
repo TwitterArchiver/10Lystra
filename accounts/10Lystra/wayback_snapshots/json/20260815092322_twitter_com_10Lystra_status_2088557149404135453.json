@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2088557149404135453",
+    "created_at": "2026-08-15T09:23:22.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088557149404135453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1703297947121901568",
+          "start": 3,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088557149404135453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088502103669174589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xue_zhi2008: 我觉得双方能不能接受孩子是LGBT+应该作为判断夫妻三观是否相合的重要指标"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2088557149404135453",
+        "created_at": "2026-08-15T09:23:22.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088557149404135453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1703297947121901568",
+              "start": 3,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088557149404135453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088502103669174589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xue_zhi2008: 我觉得双方能不能接受孩子是LGBT+应该作为判断夫妻三观是否相合的重要指标"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "conversation_id": "2088502103669174589",
+        "created_at": "2026-08-15T05:44:38.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088502103669174589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088502103669174589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得双方能不能接受孩子是LGBT+应该作为判断夫妻三观是否相合的重要指标"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2088557149404135453",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 1160,
+          "like_count": 2923,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 10706
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n观上下至前后，知里外于左右 || 过期JK（悲）/医学与药物/有机化学/分子生物学/逻辑学/声乐/摄影（喜欢是一方面，啊我太菜了×）|| Arknights/Endfield/maimaiDX || 查完成分记得 ↑是我的投影 ↓是鲜活的我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088509086283579534",
+        "name": "织织织织织",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703297947121901568/1738898651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024737262987251713/RPkPlRXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 558,
+          "like_count": 8013,
+          "listed_count": 9,
+          "media_count": 829,
+          "tweet_count": 3145
+        },
+        "url": "",
+        "username": "xue_zhi2008",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

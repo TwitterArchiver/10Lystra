@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093056434367856641"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093026307127013417",
+    "created_at": "2026-08-27T19:21:58.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093056444056719699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033369318654701568",
+          "start": 0,
+          "username": "Kuroreinyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bLCUvfL7jY",
+          "end": 36,
+          "expanded_url": "https://x.com/10Lystra/status/2093056444056719699/photo/1",
+          "media_key": "3_2093056434367856641",
+          "start": 13,
+          "url": "https://t.co/bLCUvfL7jY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093056444056719699",
+    "in_reply_to_user_id": "2033369318654701568",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2093056434367856641"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093026307127013417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuroreinyan https://t.co/bLCUvfL7jY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2093056434367856641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwHvNFXgAEPnSJ.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093056434367856641"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093026307127013417",
+        "created_at": "2026-08-27T19:21:58.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093056444056719699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033369318654701568",
+              "start": 0,
+              "username": "Kuroreinyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLCUvfL7jY",
+              "end": 36,
+              "expanded_url": "https://x.com/10Lystra/status/2093056444056719699/photo/1",
+              "media_key": "3_2093056434367856641",
+              "start": 13,
+              "url": "https://t.co/bLCUvfL7jY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093056444056719699",
+        "in_reply_to_user_id": "2033369318654701568",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093056434367856641"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093026307127013417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuroreinyan https://t.co/bLCUvfL7jY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033369318654701568",
+        "conversation_id": "2093026307127013417",
+        "created_at": "2026-08-27T17:22:12.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093026307127013417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093026307127013417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "amber到底有几个号？我感觉我关注了一个就会有一万个吻上来，我到底有没有水母全图鉴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2093056444056719699",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1207,
+          "like_count": 3010,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 11468
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T02:36:38.000Z",
+        "description": "或许是电波系\nafab boyflux（看不懂就当我是ftm）\n🏳️‍⚧️he/they\n不滥交不od 纯发癫",
+        "id": "2033369318654701568",
+        "is_identity_verified": false,
+        "location": "抱きしめたい",
+        "most_recent_tweet_id": "2093026307127013417",
+        "name": "空述リモ🏳️‍⚧️",
+        "pinned_tweet_id": "2061801588172435462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033369318654701568/1787851093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093025083673714689/Lj0aN3bf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 152,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "Kuroreinyan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

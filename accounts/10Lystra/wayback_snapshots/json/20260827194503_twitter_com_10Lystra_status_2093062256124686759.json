@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2092900970112114780",
+    "created_at": "2026-08-27T19:45:03.000Z",
+    "display_text_range": [
+      31,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093062256124686759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        },
+        {
+          "end": 30,
+          "id": "1684550740533190658",
+          "start": 15,
+          "username": "Puppy162396475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093062256124686759",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093049323185381749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr @Puppy162396475 严以律己"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_2093049296107012096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwBPs_XAAArime.png",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2092900970112114780",
+        "created_at": "2026-08-27T19:45:03.000Z",
+        "display_text_range": [
+          31,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093062256124686759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            },
+            {
+              "end": 30,
+              "id": "1684550740533190658",
+              "start": 15,
+              "username": "Puppy162396475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093062256124686759",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093049323185381749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr @Puppy162396475 严以律己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093049296107012096"
+          ]
+        },
+        "author_id": "1938969907548372992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2092900970112114780",
+        "created_at": "2026-08-27T18:53:40.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093049323185381749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684550740533190658",
+              "start": 0,
+              "username": "Puppy162396475"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53yke5r4vF",
+              "end": 45,
+              "expanded_url": "https://x.com/beyondr3pairr/status/2093049323185381749/photo/1",
+              "media_key": "3_2093049296107012096",
+              "start": 22,
+              "url": "https://t.co/53yke5r4vF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093049323185381749",
+        "in_reply_to_user_id": "1684550740533190658",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093049296107012096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092900970112114780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppy162396475 笑点解析： https://t.co/53yke5r4vF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2093062256124686759",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1207,
+          "like_count": 3011,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 11469
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nOutcast of my \"people\", Nomad to nowhere · YT/TikTok: @beyondr3pairr Discord: https://t.co/bC8DKdsEdI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "beyondr3pairr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/5NB4RN3TZk",
+                "end": 135,
+                "expanded_url": "https://discord.gg/5NB4RN3TZk",
+                "start": 112,
+                "url": "https://t.co/bC8DKdsEdI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7ml2"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "is_identity_verified": false,
+        "location": "Canada",
+        "most_recent_tweet_id": "2093060532681011477",
+        "name": "拼接碎片 - BeyondR3pairr 🇨🇦",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938969907548372992/1783356999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092132630611329025/1FNIQBA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 150,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 1466,
+          "tweet_count": 8776
+        },
+        "url": "https://t.co/kdPl4R7ml2",
+        "username": "beyondr3pairr",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T13:06:24.000Z",
+        "description": "我想要我就能得到\n不怎么看私信，本人不主动私信任何人\n问我约不约的全都破产，骚扰我的一辈子发不了财，盗图抄袭我的一辈子不得翻身",
+        "id": "1684550740533190658",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore",
+        "most_recent_tweet_id": "2093016103798911124",
+        "name": "Kim",
+        "pinned_tweet_id": "2019124722873876957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684550740533190658/1781334030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049171280046559232/lloGgr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 77,
+          "like_count": 918,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "Puppy162396475",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2078499208118608136",
+    "created_at": "2026-07-18T19:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T20:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078556335038251460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1796725175309750272",
+          "start": 0,
+          "username": "ejf249"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078556335038251460",
+    "in_reply_to_user_id": "1796725175309750272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078499208118608136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ejf249 太邪门了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1889,
+        "media_key": "3_2078499197238579200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhQAe1XEAApBjt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2078499208118608136",
+        "created_at": "2026-07-18T19:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078556335038251460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1796725175309750272",
+              "start": 0,
+              "username": "ejf249"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078556335038251460",
+        "in_reply_to_user_id": "1796725175309750272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078499208118608136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ejf249 太邪门了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078499197238579200"
+          ]
+        },
+        "author_id": "1796725175309750272",
+        "conversation_id": "2078499208118608136",
+        "created_at": "2026-07-18T15:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078499208118608136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ozxovono8K",
+              "end": 154,
+              "expanded_url": "https://x.com/ejf249/status/2078499208118608136/photo/1",
+              "media_key": "3_2078499197238579200",
+              "start": 131,
+              "url": "https://t.co/Ozxovono8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078499208118608136",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 343319,
+          "like_count": 8717,
+          "quote_count": 24,
+          "reply_count": 28,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "el concepto de enzo y julián subiendo ésta story sin darse cuenta de que hay una sola cama desarmada se quemaban solos los tipazos https://t.co/Ozxovono8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 1077,
+          "like_count": 2716,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 9469
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T02:07:31.000Z",
+        "description": "club atlético julienzo",
+        "id": "1796725175309750272",
+        "location": "Argentina",
+        "name": "ki🇦🇷☀️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076838224094183424/c1YiaAGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10096,
+          "following_count": 327,
+          "like_count": 16531,
+          "listed_count": 7,
+          "media_count": 3617,
+          "tweet_count": 6403
+        },
+        "url": "",
+        "username": "ejf249",
+        "verified": false
+      }
+    ]
+  }
+}

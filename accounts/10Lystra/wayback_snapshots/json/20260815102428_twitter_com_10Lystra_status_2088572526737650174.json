@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2088402139047751718",
+    "created_at": "2026-08-15T10:24:28.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088572526737650174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461728708935385088",
+          "start": 0,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088572526737650174",
+    "in_reply_to_user_id": "1461728708935385088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088402139047751718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qbb7680 但是很可爱（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2088402139047751718",
+        "created_at": "2026-08-15T10:24:28.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088572526737650174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088572526737650174",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088402139047751718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 但是很可爱（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461728708935385088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2088402139047751718",
+        "created_at": "2026-08-14T23:07:25.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088402139047751718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2088238763704979926",
+              "start": 34,
+              "url": "https://t.co/yPC8gjWAJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088402139047751718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1395,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088238763704979926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当“小朋友”三个字又出现在我的timeline上时，只好释怀地笑了 https://t.co/yPC8gjWAJ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2088572526737650174",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 1161,
+          "like_count": 2923,
+          "listed_count": 6,
+          "media_count": 388,
+          "tweet_count": 10718
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "poly, pan, the Red, the Wandering, the Northwind/这不是你的错，也不是我们的问题，但是我们需要一些关于小猫的问题/给荒诞留一个位置，然后去吃一顿有黑胡椒、芝士和蜂蜜的水果火腿/🥰喵粒子柚子代糖水水tedharuhi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maj-wind.qbb.moe",
+                "end": 23,
+                "expanded_url": "http://maj-wind.qbb.moe",
+                "start": 0,
+                "url": "https://t.co/ooAlNHfsel"
+              }
+            ]
+          }
+        },
+        "id": "1461728708935385088",
+        "is_identity_verified": false,
+        "location": "休息日欢迎请我打日麻",
+        "most_recent_tweet_id": "2088548739392983549",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "2075846918308254166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461728708935385088/1707993182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997841678657597440/MtDkFV17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15088,
+          "following_count": 1206,
+          "like_count": 116653,
+          "listed_count": 36,
+          "media_count": 1249,
+          "tweet_count": 8185
+        },
+        "url": "https://t.co/ooAlNHfsel",
+        "username": "Qbb7680",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

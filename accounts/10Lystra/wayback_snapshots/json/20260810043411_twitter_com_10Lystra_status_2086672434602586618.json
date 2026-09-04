@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2086597932862861521",
+    "created_at": "2026-08-10T04:34:11.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086672434602586618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "395155600",
+          "start": 0,
+          "username": "BeauGarcondeTao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086672434602586618",
+    "in_reply_to_user_id": "395155600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086597932862861521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeauGarcondeTao 啊啊啊啊啊啊啊啊啊。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2086597932862861521",
+        "created_at": "2026-08-10T04:34:11.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086672434602586618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "395155600",
+              "start": 0,
+              "username": "BeauGarcondeTao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086672434602586618",
+        "in_reply_to_user_id": "395155600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086597932862861521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeauGarcondeTao 啊啊啊啊啊啊啊啊啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "395155600",
+        "conversation_id": "2086597932862861521",
+        "created_at": "2026-08-09T23:38:08.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086597932862861521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086597932862861521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 510,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想想自己真的是单纯。\n\n没认主的时候，主人要送我下班，我说不用了不方便的，他坚持，说没事的顺路的，晚高峰带个人比较节能环保，我觉得颇有道理。\n\n每次下车前主人要亲一下，我说不好吧太亲密了，他埋怨说朋友之间bise很正常，我也太小气了吧，我觉得应该尊重友谊。\n\n后来亲着亲着变成舌吻了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2086672434602586618",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1137,
+          "like_count": 2895,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 10406
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-21T06:50:58.000Z",
+        "description": "CNC 早泄连高奴 of  @earthAndsunsh  | 老陶的老饕 ｜匿名问答：https://t.co/MXdi9jjhGi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "earthAndsunsh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/beaugarcondeta…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/beaugarcondetao59503",
+                "start": 44,
+                "url": "https://t.co/MXdi9jjhGi"
+              }
+            ]
+          }
+        },
+        "id": "395155600",
+        "is_identity_verified": false,
+        "location": "No where",
+        "most_recent_tweet_id": "2086668163832549481",
+        "name": "亦肉⛓️喜欢魔法的友人A",
+        "pinned_tweet_id": "1907283192379572342",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/395155600/1734407135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902564927015157760/zW5ghxo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7786,
+          "following_count": 370,
+          "like_count": 1812,
+          "listed_count": 23,
+          "media_count": 227,
+          "tweet_count": 2502
+        },
+        "url": "",
+        "username": "BeauGarcondeTao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

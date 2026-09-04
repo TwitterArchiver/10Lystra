@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2090426921029169447",
+    "created_at": "2026-08-21T00:39:10.000Z",
+    "display_text_range": [
+      11,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T01:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090599556903756024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1704203490267123712",
+          "start": 0,
+          "username": "merHibiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090599556903756024",
+    "in_reply_to_user_id": "1704203490267123712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090426921029169447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@merHibiki 你快點去死好不好，你活著只會傷害別人。到處咬人的廢物。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2090426833955373056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKwIULawAAQ2wS.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2090426921029169447",
+        "created_at": "2026-08-21T00:39:10.000Z",
+        "display_text_range": [
+          11,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090599556903756024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1704203490267123712",
+              "start": 0,
+              "username": "merHibiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090599556903756024",
+        "in_reply_to_user_id": "1704203490267123712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090426921029169447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@merHibiki 你快點去死好不好，你活著只會傷害別人。到處咬人的廢物。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090426833955373056"
+          ]
+        },
+        "author_id": "1704203490267123712",
+        "conversation_id": "2090426921029169447",
+        "created_at": "2026-08-20T13:13:10.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090426921029169447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aq2kRMxdPs",
+              "end": 49,
+              "expanded_url": "https://x.com/merHibiki/status/2090426921029169447/photo/1",
+              "media_key": "3_2090426833955373056",
+              "start": 26,
+              "url": "https://t.co/Aq2kRMxdPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090426921029169447",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090426833955373056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生第一大幸福是从未出生\n人生第二大幸福是赶紧去死 https://t.co/Aq2kRMxdPs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2090599556903756024",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1190,
+          "like_count": 2961,
+          "listed_count": 6,
+          "media_count": 394,
+          "tweet_count": 11084
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-19T18:39:23.000Z",
+        "description": "喜欢观察人类",
+        "id": "1704203490267123712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090426921029169447",
+        "name": "咪子咪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704203490267123712/1702121595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043420416304394240/ZaT7WP88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 99,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "merHibiki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

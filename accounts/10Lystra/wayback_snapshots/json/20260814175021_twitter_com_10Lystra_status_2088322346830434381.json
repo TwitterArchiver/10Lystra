@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2088322346830434381",
+    "created_at": "2026-08-14T17:50:21.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088322346830434381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991302235062689792",
+          "start": 3,
+          "username": "wfaspl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088322346830434381",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088033095563772025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wfaspl: dear trans people please get the thought of moving to china out of your fucking head"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2088322346830434381",
+        "created_at": "2026-08-14T17:50:21.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088322346830434381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991302235062689792",
+              "start": 3,
+              "username": "wfaspl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088322346830434381",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088033095563772025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wfaspl: dear trans people please get the thought of moving to china out of your fucking head"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991302235062689792",
+        "conversation_id": "2088033095563772025",
+        "created_at": "2026-08-13T22:40:58.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088033095563772025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088033095563772025",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 30696,
+          "like_count": 1443,
+          "quote_count": 12,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "dear trans people please get the thought of moving to china out of your fucking head"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2088322346830434381",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1157,
+          "like_count": 2921,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 10680
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:27:19.000Z",
+        "description": "LVL 40, proud parent to 5 lovely sons & 1 incredible daughter, nautical engineer, pioneer in the movement of #BlackExcellence\n\nHRT: 19/1/2038",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 109,
+                "tag": "BlackExcellence"
+              }
+            ]
+          }
+        },
+        "id": "1991302235062689792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088146171663388725",
+        "name": "grognard 🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008918942375444480/s_CUq2B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 50,
+          "like_count": 16971,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 2267
+        },
+        "url": "",
+        "username": "wfaspl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088987220904452096",
+        "3_2088987220891877376",
+        "3_2088987220883415040"
+      ],
+      "media_source_tweet_id": [
+        "2088987227124592961",
+        "2088987227124592961",
+        "2088987227124592961"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2089419518065955320",
+    "created_at": "2026-08-17T18:30:07.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089419518065955320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2866632712",
+          "start": 3,
+          "username": "ellypostagem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fh1KVabqdR",
+          "end": 118,
+          "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+          "media_key": "3_2088987220904452096",
+          "start": 95,
+          "url": "https://t.co/fh1KVabqdR"
+        },
+        {
+          "display_url": "pic.x.com/fh1KVabqdR",
+          "end": 118,
+          "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+          "media_key": "3_2088987220891877376",
+          "start": 95,
+          "url": "https://t.co/fh1KVabqdR"
+        },
+        {
+          "display_url": "pic.x.com/fh1KVabqdR",
+          "end": 118,
+          "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+          "media_key": "3_2088987220883415040",
+          "start": 95,
+          "url": "https://t.co/fh1KVabqdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089419518065955320",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2088987220904452096"
+      },
+      {
+        "media_key": "3_2088987220891877376"
+      },
+      {
+        "media_key": "3_2088987220883415040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5840
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088987227124592961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ellypostagem: quando eu morrer, coloquem uma estatua de gatinho no meu túmulo por favor :( https://t.co/fh1KVabqdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_2088987220904452096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2SzzpXIAAOIYv.jpg",
+        "width": 564
+      },
+      {
+        "height": 669,
+        "media_key": "3_2088987220891877376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2SzzmXQAApjQa.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1399,
+        "media_key": "3_2088987220883415040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2SzzkWIAA1M7R.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088987220904452096",
+            "3_2088987220891877376",
+            "3_2088987220883415040"
+          ],
+          "media_source_tweet_id": [
+            "2088987227124592961",
+            "2088987227124592961",
+            "2088987227124592961"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2089419518065955320",
+        "created_at": "2026-08-17T18:30:07.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089419518065955320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2866632712",
+              "start": 3,
+              "username": "ellypostagem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fh1KVabqdR",
+              "end": 118,
+              "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+              "media_key": "3_2088987220904452096",
+              "start": 95,
+              "url": "https://t.co/fh1KVabqdR"
+            },
+            {
+              "display_url": "pic.x.com/fh1KVabqdR",
+              "end": 118,
+              "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+              "media_key": "3_2088987220891877376",
+              "start": 95,
+              "url": "https://t.co/fh1KVabqdR"
+            },
+            {
+              "display_url": "pic.x.com/fh1KVabqdR",
+              "end": 118,
+              "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+              "media_key": "3_2088987220883415040",
+              "start": 95,
+              "url": "https://t.co/fh1KVabqdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089419518065955320",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2088987220904452096"
+          },
+          {
+            "media_key": "3_2088987220891877376"
+          },
+          {
+            "media_key": "3_2088987220883415040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5840
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088987227124592961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ellypostagem: quando eu morrer, coloquem uma estatua de gatinho no meu túmulo por favor :( https://t.co/fh1KVabqdR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088987220904452096",
+            "3_2088987220891877376",
+            "3_2088987220883415040"
+          ]
+        },
+        "author_id": "2866632712",
+        "conversation_id": "2088987227124592961",
+        "created_at": "2026-08-16T13:52:21.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088987227124592961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fh1KVabqdR",
+              "end": 100,
+              "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+              "media_key": "3_2088987220904452096",
+              "start": 77,
+              "url": "https://t.co/fh1KVabqdR"
+            },
+            {
+              "display_url": "pic.x.com/fh1KVabqdR",
+              "end": 100,
+              "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+              "media_key": "3_2088987220891877376",
+              "start": 77,
+              "url": "https://t.co/fh1KVabqdR"
+            },
+            {
+              "display_url": "pic.x.com/fh1KVabqdR",
+              "end": 100,
+              "expanded_url": "https://x.com/ellypostagem/status/2088987227124592961/photo/1",
+              "media_key": "3_2088987220883415040",
+              "start": 77,
+              "url": "https://t.co/fh1KVabqdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088987227124592961",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2088987220904452096"
+          },
+          {
+            "media_key": "3_2088987220891877376"
+          },
+          {
+            "media_key": "3_2088987220883415040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2925,
+          "impression_count": 815415,
+          "like_count": 51577,
+          "quote_count": 248,
+          "reply_count": 28,
+          "retweet_count": 5840
+        },
+        "reply_settings": "everyone",
+        "text": "quando eu morrer, coloquem uma estatua de gatinho no meu túmulo por favor :( https://t.co/fh1KVabqdR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2089419518065955320",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 1179,
+          "like_count": 2945,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 10903
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-08T00:14:14.000Z",
+        "description": "gatos diariamente",
+        "id": "2866632712",
+        "is_identity_verified": false,
+        "location": "Paraná, Brazil",
+        "most_recent_tweet_id": "2089394544668278969",
+        "name": "elly gatopostagem",
+        "pinned_tweet_id": "1954231172638367762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2866632712/1771201883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080854724820013056/9nGQ8KuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9757,
+          "following_count": 2988,
+          "like_count": 25802,
+          "listed_count": 9,
+          "media_count": 6345,
+          "tweet_count": 75325
+        },
+        "url": "",
+        "username": "ellypostagem",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

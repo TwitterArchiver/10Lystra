@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2092489360369447384",
+    "created_at": "2026-08-26T09:49:52.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092550085192155524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071227667354140672",
+          "start": 0,
+          "username": "tkk27bb6967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092550085192155524",
+    "in_reply_to_user_id": "2071227667354140672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092489360369447384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tkk27bb6967 好耶！（握住嘴筒子）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092489319718203392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoD8yYaMAAiO8a.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2092489334222176256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoD9oabQAAV7Vq.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092489348843487232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoD-e4awAAO0rF.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2092489360369447384",
+        "created_at": "2026-08-26T09:49:52.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092550085192155524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071227667354140672",
+              "start": 0,
+              "username": "tkk27bb6967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092550085192155524",
+        "in_reply_to_user_id": "2071227667354140672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092489360369447384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkk27bb6967 好耶！（握住嘴筒子）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092489319718203392",
+            "3_2092489334222176256",
+            "3_2092489348843487232"
+          ]
+        },
+        "author_id": "2071227667354140672",
+        "conversation_id": "2092489360369447384",
+        "created_at": "2026-08-26T05:48:34.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092489360369447384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7uAD84nMh",
+              "end": 35,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2092489360369447384/photo/1",
+              "media_key": "3_2092489319718203392",
+              "start": 12,
+              "url": "https://t.co/c7uAD84nMh"
+            },
+            {
+              "display_url": "pic.x.com/c7uAD84nMh",
+              "end": 35,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2092489360369447384/photo/1",
+              "media_key": "3_2092489334222176256",
+              "start": 12,
+              "url": "https://t.co/c7uAD84nMh"
+            },
+            {
+              "display_url": "pic.x.com/c7uAD84nMh",
+              "end": 35,
+              "expanded_url": "https://x.com/tkk27bb6967/status/2092489360369447384/photo/1",
+              "media_key": "3_2092489348843487232",
+              "start": 12,
+              "url": "https://t.co/c7uAD84nMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092489360369447384",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092489319718203392"
+          },
+          {
+            "media_key": "3_2092489334222176256"
+          },
+          {
+            "media_key": "3_2092489348843487232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我找到了我的食蚁兽。！ https://t.co/c7uAD84nMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2092550085192155524",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1207,
+          "like_count": 3004,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 11383
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T13:45:28.000Z",
+        "description": "🏳️‍⚧️transfemboy🏳️‍⚧️\n❤️🧡💛💚💙💜🩵🩷🤍🩷🩵\n\ncn淘集集or娇娇，he or she/audhd/纯血直男/非单意识体，成员共用账号所以存在左右脑互搏的情况\n\n杨响是我最爱的女儿（我的tulpa），她的小名是锵锵\n\n有精神病，治疗中，不参与任何对线，因此看到可能引起焦虑的发言会直接拉黑账号",
+        "id": "2071227667354140672",
+        "is_identity_verified": false,
+        "location": "淘坤坤de梦幻之逼",
+        "most_recent_tweet_id": "2092548710362120395",
+        "name": "沉睡小男仆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071227667354140672/1785226715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087146323879555072/ZSV_oUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 157,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 2190
+        },
+        "url": "",
+        "username": "tkk27bb6967",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

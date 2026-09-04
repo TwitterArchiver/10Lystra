@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2090965288552681908",
+    "created_at": "2026-08-22T14:27:03.000Z",
+    "display_text_range": [
+      11,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091170287618322729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091170287618322729",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090965288552681908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcfqdtfqz 这个弱智黑叉软件什么时候能不要让我的屏蔽词出现在我的tl上然后再去更新这个更加傻缺的封号机制好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2090965288552681908",
+        "created_at": "2026-08-22T14:27:03.000Z",
+        "display_text_range": [
+          11,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091170287618322729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091170287618322729",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090965288552681908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 这个弱智黑叉软件什么时候能不要让我的屏蔽词出现在我的tl上然后再去更新这个更加傻缺的封号机制好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090965288552681908",
+        "created_at": "2026-08-22T00:52:27.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090965288552681908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090965288552681908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6517,
+          "like_count": 108,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得如果把amber，唐毓文和冰棍三个人同时关进一家扭转，估计扭转的校长都不用经过审判直接在办公室自缢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2091170287618322729",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 1194,
+          "like_count": 2975,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 11187
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091161456335278347",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 1429,
+          "like_count": 480,
+          "listed_count": 2,
+          "media_count": 864,
+          "tweet_count": 3629
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

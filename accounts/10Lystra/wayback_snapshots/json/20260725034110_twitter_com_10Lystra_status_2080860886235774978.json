@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080838202630525008",
+    "created_at": "2026-07-25T03:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080860886235774978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1582160749648285697",
+          "start": 0,
+          "username": "Dangdangpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080860886235774978",
+    "in_reply_to_user_id": "1582160749648285697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080838202630525008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dangdangpi 没有处方吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080838006660018176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCfJG4aMAA2vrt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080838202630525008",
+        "created_at": "2026-07-25T03:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080860886235774978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1582160749648285697",
+              "start": 0,
+              "username": "Dangdangpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080860886235774978",
+        "in_reply_to_user_id": "1582160749648285697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080838202630525008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dangdangpi 没有处方吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080838006660018176"
+          ]
+        },
+        "author_id": "1582160749648285697",
+        "conversation_id": "2080838202630525008",
+        "created_at": "2026-07-25T02:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:10:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080838012934742219",
+          "2080838202630525008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BaBAchc4Vf",
+              "end": 165,
+              "expanded_url": "https://x.com/Dangdangpi/status/2080838202630525008/photo/1",
+              "media_key": "3_2080838006660018176",
+              "start": 142,
+              "url": "https://t.co/BaBAchc4Vf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080838202630525008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去日本的医院点菜思诺思，然后给我开了思诺思，奎硫平，地西泮，溴替唑仑，不懂就问，这些东西是能够同一个晚上一起吃的？我第二天还需要醒来吗\n\n已经实现日本内科点菜，对，没错，不是精神科是内科\n\n我本来只想开思诺思和地西泮着，结果医生还送了我溴替唑仑和奎硫平，不过没打算吃奎硫平就是了 https://t.co/BaBAchc4Vf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 1100,
+          "like_count": 2752,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 9695
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-18T00:05:01.000Z",
+        "description": "08|日留|晓山瑞希|互fo|OI中退|扩列dd|想有能互相陪伴的关系|🏳️‍⚧️Ally|抗雄だけ\n为什么幸福只是痛苦的前调，幸福的下方都埋葬着悲伤…\n好后悔当年的od\n常住东京，紧急事情需要援助可联系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dangdangpi",
+                "end": 23,
+                "expanded_url": "https://t.me/dangdangpi",
+                "start": 0,
+                "url": "https://t.co/Qt2xnf19bI"
+              }
+            ]
+          }
+        },
+        "id": "1582160749648285697",
+        "location": "誰もいないの世界",
+        "name": "铛铛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076289489815945216/r8olOEvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 103,
+          "like_count": 2544,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/Qt2xnf19bI",
+        "username": "Dangdangpi",
+        "verified": true
+      }
+    ]
+  }
+}

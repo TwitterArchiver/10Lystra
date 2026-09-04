@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2086684591319081155",
+    "created_at": "2026-08-10T08:10:37.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086726901452738663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014293353269997568",
+          "start": 0,
+          "username": "paperly_forge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086726901452738663",
+    "in_reply_to_user_id": "2014293353269997568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086684591319081155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paperly_forge 抱抱..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2780,
+        "media_key": "3_2086684572977344513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVkkDqaMAE24vs.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2086684591319081155",
+        "created_at": "2026-08-10T08:10:37.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086726901452738663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014293353269997568",
+              "start": 0,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086726901452738663",
+        "in_reply_to_user_id": "2014293353269997568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086684591319081155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paperly_forge 抱抱..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086684572977344513"
+          ]
+        },
+        "author_id": "2014293353269997568",
+        "conversation_id": "2086684591319081155",
+        "created_at": "2026-08-10T05:22:29.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086684591319081155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3mODDpzWU",
+              "end": 31,
+              "expanded_url": "https://x.com/paperly_forge/status/2086684591319081155/photo/1",
+              "media_key": "3_2086684572977344513",
+              "start": 8,
+              "url": "https://t.co/t3mODDpzWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086684591319081155",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086684572977344513"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 591,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "....... https://t.co/t3mODDpzWU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2086726901452738663",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 1137,
+          "like_count": 2897,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 10428
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T11:05:38.000Z",
+        "description": "生产日期2011.7.10的一只mtf🍥喵\nHRT26.5.29 ISTJ\n176.5 68kg脸丑麻了喵   姐姐@QY_xier\n已有对象@SYFSASN\n计算机爱好者化学爱好者\n人很好说话的喵常驻义乌可以找我面基喵\n欢迎互fo和聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "QY_xier"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "SYFSASN"
+              }
+            ]
+          }
+        },
+        "id": "2014293353269997568",
+        "is_identity_verified": true,
+        "location": "中国大陆 浙江",
+        "most_recent_tweet_id": "2086684591319081155",
+        "name": "🍥星に祈りを🏳️‍⚧️",
+        "pinned_tweet_id": "2086164249353822506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014293353269997568/1786211904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086638845916041216/1CoZSOmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 240,
+          "like_count": 1254,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "paperly_forge",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

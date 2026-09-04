@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2085985252191903975",
+    "created_at": "2026-08-08T08:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T09:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086006470542295450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064893790012444672",
+          "start": 0,
+          "username": "KaliroWeber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086006470542295450",
+    "in_reply_to_user_id": "2064893790012444672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085985252191903975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaliroWeber 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2085985252191903975",
+        "created_at": "2026-08-08T08:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086006470542295450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064893790012444672",
+              "start": 0,
+              "username": "KaliroWeber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086006470542295450",
+        "in_reply_to_user_id": "2064893790012444672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085985252191903975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaliroWeber 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064893790012444672",
+        "conversation_id": "2085985252191903975",
+        "created_at": "2026-08-08T07:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085985252191903975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085985252191903975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在今天！咱已经hrt639天了！\n终于做到陌生人普遍把我当女生了！\n每一句“美女”“女士”甚至路边摆摊的阿姨喊了句“闺女”都会好开心 被社会认可后善意也越来越多了 好喜欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1126,
+          "like_count": 2886,
+          "listed_count": 6,
+          "media_count": 376,
+          "tweet_count": 10310
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T02:14:19.000Z",
+        "description": "MTF｜ZH/ENG/DE/LAT｜Medicine or O-Chemistry|Medicine student in CN|医学生-糖商|社交障碍|灵感重生ing|在追求薯条自由的道路上｜愿世界再无病痛｜私信无偿医疗咨询",
+        "id": "2064893790012444672",
+        "location": "你的心里",
+        "name": "芊瑶·科利尔kaliro🍥🏳️‍⚧️-糖商",
+        "pinned_tweet_id": "2080663230972825990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086005304500891648/EfKwdPWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 825,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "KaliroWeber",
+        "verified": false
+      }
+    ]
+  }
+}

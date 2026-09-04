@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086327730795069440"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2086135706355728727",
+    "created_at": "2026-08-09T05:44:31.000Z",
+    "display_text_range": [
+      11,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086327744934138306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1565539347176165376",
+          "start": 0,
+          "username": "sngtihng1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pj1MKlo2eX",
+          "end": 61,
+          "expanded_url": "https://x.com/10Lystra/status/2086327744934138306/photo/1",
+          "media_key": "3_2086327730795069440",
+          "start": 38,
+          "url": "https://t.co/Pj1MKlo2eX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086327744934138306",
+    "in_reply_to_user_id": "1565539347176165376",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086327730795069440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086326864398917743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngtihng1 想象一下正是那个携带y染的精子脱颖而出造就了你的苦难 https://t.co/Pj1MKlo2eX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2086327730795069440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQgBG8WQAA0wzs.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086327730795069440"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2086135706355728727",
+        "created_at": "2026-08-09T05:44:31.000Z",
+        "display_text_range": [
+          11,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086327744934138306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1565539347176165376",
+              "start": 0,
+              "username": "sngtihng1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj1MKlo2eX",
+              "end": 61,
+              "expanded_url": "https://x.com/10Lystra/status/2086327744934138306/photo/1",
+              "media_key": "3_2086327730795069440",
+              "start": 38,
+              "url": "https://t.co/Pj1MKlo2eX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086327744934138306",
+        "in_reply_to_user_id": "1565539347176165376",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086327730795069440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086326864398917743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngtihng1 想象一下正是那个携带y染的精子脱颖而出造就了你的苦难 https://t.co/Pj1MKlo2eX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565539347176165376",
+        "conversation_id": "2086135706355728727",
+        "created_at": "2026-08-09T05:41:01.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086326864398917743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086326864398917743",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086135706355728727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 我不觉得这句话有什么问题呀，这就是事实啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2086327744934138306",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1135,
+          "like_count": 2888,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 10360
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T03:18:09.000Z",
+        "description": "无糖马蹄飞。身高182cm 体重124斤。喜欢智斗，自由创作。心智大概还停留在十多岁，因此幽默感会比较奇怪 还请见谅。 \n｜ag女自性恋 ｜infp｜安虚｜双相｜adhd｜多意识体｜地雷系｜抖M｜讨好型人格｜左利手｜手写键盘｜素食主义｜主厨婶婶｜孙抗v朴银动物园带｜西海｜萝莉正太控｜反抄袭｜反反AI｜反流浪猫｜扁头｜",
+        "id": "1565539347176165376",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2086327260777423158",
+        "name": "-_・)ﾝ♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565539347176165376/1757513800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852878440950812672/k8FfBGif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 197,
+          "like_count": 22431,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "sngtihng1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

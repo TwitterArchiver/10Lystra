@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2089755816828293319",
+    "created_at": "2026-08-21T00:43:18.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T01:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090600598907302383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945842064215904256",
+          "start": 0,
+          "username": "mkoldksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090600598907302383",
+    "in_reply_to_user_id": "1945842064215904256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089755816828293319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkoldksk 你他媽也配當人？死出生"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92949,
+        "height": 1280,
+        "media_key": "13_2089755670262509568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089755670262509568/img/P5Jdsmyq8ipoiXlr.jpg",
+        "public_metrics": {
+          "view_count": 57
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089755670262509568/vid/avc1/320x716/idlik764gfEXEBcY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089755670262509568/vid/avc1/480x1074/5uyN8ifhcHvRYjlG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089755670262509568/vid/avc1/572x1280/xcP6dDX7ix-i5AtM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089755670262509568/pl/YuIXEfldJcE3DbI5.m3u8"
+          }
+        ],
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2089755816828293319",
+        "created_at": "2026-08-21T00:43:18.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090600598907302383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945842064215904256",
+              "start": 0,
+              "username": "mkoldksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090600598907302383",
+        "in_reply_to_user_id": "1945842064215904256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089755816828293319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkoldksk 你他媽也配當人？死出生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089755670262509568"
+          ]
+        },
+        "author_id": "1945842064215904256",
+        "conversation_id": "2089755816828293319",
+        "created_at": "2026-08-18T16:46:27.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089755816828293319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sDAwpWqWi",
+              "end": 137,
+              "expanded_url": "https://x.com/mkoldksk/status/2089755816828293319/video/1",
+              "media_key": "13_2089755670262509568",
+              "start": 114,
+              "url": "https://t.co/3sDAwpWqWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089755816828293319",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089755670262509568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男女平等在现在这个社会完全是半边倒的势力也可以说完全倒从小听到大的事就是重男轻女而我在真正长后我才发现全是反话我不知道为什么我们都是人人人平等而现实中在公共产所都要让着她们你不让会说你你小气 我们都是人 我们都是人 人人平等! https://t.co/3sDAwpWqWi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2090600598907302383",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1190,
+          "like_count": 2961,
+          "listed_count": 6,
+          "media_count": 394,
+          "tweet_count": 11087
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-17T13:45:09.000Z",
+        "description": "",
+        "id": "1945842064215904256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090144769582436785",
+        "name": "q",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945903722216738816/VOVfV1Vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "mkoldksk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

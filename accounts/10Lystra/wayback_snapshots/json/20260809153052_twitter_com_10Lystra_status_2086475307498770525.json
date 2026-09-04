@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2086135706355728727",
+    "created_at": "2026-08-09T15:30:52.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086475307498770525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914113767245565952",
+          "start": 0,
+          "username": "tetsu__0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086475307498770525",
+    "in_reply_to_user_id": "1914113767245565952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086432302079594744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tetsu__0819 嗯。我没有前情提要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2086135706355728727",
+        "created_at": "2026-08-09T15:30:52.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086475307498770525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914113767245565952",
+              "start": 0,
+              "username": "tetsu__0819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086475307498770525",
+        "in_reply_to_user_id": "1914113767245565952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086432302079594744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tetsu__0819 嗯。我没有前情提要。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914113767245565952",
+        "conversation_id": "2086135706355728727",
+        "created_at": "2026-08-09T12:39:59.000Z",
+        "display_text_range": [
+          10,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086432302079594744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086432302079594744",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086135706355728727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 如果你仅仅是因为没生成女的所以恨你妈，连你妈安慰你的话你都能挑刺，那就是你没道理。如果你妈对你造成过什么严重的伤害，那你说这些话就合理了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2086475307498770525",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1135,
+          "like_count": 2889,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 10376
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-21T00:27:56.000Z",
+        "description": "季節はずれだ \n親友@Rinmoon0705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Rinmoon0705"
+              }
+            ]
+          }
+        },
+        "id": "1914113767245565952",
+        "is_identity_verified": false,
+        "location": "🛏️",
+        "most_recent_tweet_id": "2086432302079594744",
+        "name": "tetsu",
+        "pinned_tweet_id": "2020907103498666328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914113767245565952/1748351407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919131525746130944/vfNP3zut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 532,
+          "like_count": 2983,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "tetsu__0819",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

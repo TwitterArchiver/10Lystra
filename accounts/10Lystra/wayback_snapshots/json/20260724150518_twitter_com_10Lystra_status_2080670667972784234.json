@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080670667972784234",
+    "created_at": "2026-07-24T15:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080670667972784234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1441537415085166599",
+          "start": 3,
+          "username": "futaspor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080670667972784234",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6515
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080349271803547648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futaspor: Cucurella, saçlarını neden uzun ve dağınık kullandığını açıkladı:\n\n“Küçük oğlum otizmli; maçlarda beni kolayca tanıyabilsin d…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2080349265017139201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7iomYXcAEGWwG.jpg",
+        "width": 800
+      },
+      {
+        "height": 869,
+        "media_key": "3_2080349264861929472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7iolzXIAAOItO.jpg",
+        "width": 833
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080670667972784234",
+        "created_at": "2026-07-24T15:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080670667972784234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1441537415085166599",
+              "start": 3,
+              "username": "futaspor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080670667972784234",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6515
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080349271803547648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @futaspor: Cucurella, saçlarını neden uzun ve dağınık kullandığını açıkladı:\n\n“Küçük oğlum otizmli; maçlarda beni kolayca tanıyabilsin d…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080349265017139201",
+            "3_2080349264861929472"
+          ]
+        },
+        "author_id": "1441537415085166599",
+        "conversation_id": "2080349271803547648",
+        "created_at": "2026-07-23T17:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080349271803547648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GN6OQuPxj2",
+              "end": 192,
+              "expanded_url": "https://x.com/futaspor/status/2080349271803547648/photo/1",
+              "media_key": "3_2080349265017139201",
+              "start": 169,
+              "url": "https://t.co/GN6OQuPxj2"
+            },
+            {
+              "display_url": "pic.x.com/GN6OQuPxj2",
+              "end": 192,
+              "expanded_url": "https://x.com/futaspor/status/2080349271803547648/photo/1",
+              "media_key": "3_2080349264861929472",
+              "start": 169,
+              "url": "https://t.co/GN6OQuPxj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080349271803547648",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5098,
+          "impression_count": 9044050,
+          "like_count": 162832,
+          "quote_count": 1314,
+          "reply_count": 851,
+          "retweet_count": 6515
+        },
+        "reply_settings": "everyone",
+        "text": "Cucurella, saçlarını neden uzun ve dağınık kullandığını açıkladı:\n\n“Küçük oğlum otizmli; maçlarda beni kolayca tanıyabilsin diye saçlarımı uzun ve dağınık bırakıyorum.” https://t.co/GN6OQuPxj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1089,
+          "like_count": 2747,
+          "listed_count": 5,
+          "media_count": 364,
+          "tweet_count": 9668
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-24T22:58:18.000Z",
+        "description": "Türkiye'nin ilk ve tek global futbol sayfası | iletişim & işbirliği: info@futaspor.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "futaspor.com",
+                "end": 23,
+                "expanded_url": "http://futaspor.com",
+                "start": 0,
+                "url": "https://t.co/z3S9rMvn1e"
+              }
+            ]
+          }
+        },
+        "id": "1441537415085166599",
+        "name": "FUTA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011928451176153089/7C1QhcZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234599,
+          "following_count": 256,
+          "like_count": 19586,
+          "listed_count": 189,
+          "media_count": 3143,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/z3S9rMvn1e",
+        "username": "futaspor",
+        "verified": true
+      }
+    ]
+  }
+}

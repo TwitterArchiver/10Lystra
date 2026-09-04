@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2090574541936627895",
+    "created_at": "2026-08-21T02:54:50.000Z",
+    "display_text_range": [
+      38,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090633696718045253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1545010361665191936",
+          "start": 0,
+          "username": "channelkurosu"
+        },
+        {
+          "end": 27,
+          "id": "1815163456217333760",
+          "start": 15,
+          "username": "ZaoTou96459"
+        },
+        {
+          "end": 37,
+          "id": "853937729201086464",
+          "start": 28,
+          "username": "Astrioia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090633696718045253",
+    "in_reply_to_user_id": "1545010361665191936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090624730894422067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@channelkurosu @ZaoTou96459 @Astrioia 的確有失偏頗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_2090624726473588736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNkHLQbQAA2eCh.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2090574541936627895",
+        "created_at": "2026-08-21T02:54:50.000Z",
+        "display_text_range": [
+          38,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090633696718045253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1545010361665191936",
+              "start": 0,
+              "username": "channelkurosu"
+            },
+            {
+              "end": 27,
+              "id": "1815163456217333760",
+              "start": 15,
+              "username": "ZaoTou96459"
+            },
+            {
+              "end": 37,
+              "id": "853937729201086464",
+              "start": 28,
+              "username": "Astrioia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090633696718045253",
+        "in_reply_to_user_id": "1545010361665191936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090624730894422067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@channelkurosu @ZaoTou96459 @Astrioia 的確有失偏頗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090624726473588736"
+          ]
+        },
+        "author_id": "1545010361665191936",
+        "conversation_id": "2090574541936627895",
+        "created_at": "2026-08-21T02:19:12.000Z",
+        "display_text_range": [
+          33,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090624730894422067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 22,
+              "id": "1815163456217333760",
+              "start": 10,
+              "username": "ZaoTou96459"
+            },
+            {
+              "end": 32,
+              "id": "853937729201086464",
+              "start": 23,
+              "username": "Astrioia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhbGPnBSyf",
+              "end": 98,
+              "expanded_url": "https://x.com/channelkurosu/status/2090624730894422067/photo/1",
+              "media_key": "3_2090624726473588736",
+              "start": 75,
+              "url": "https://t.co/PhbGPnBSyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090624730894422067",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090624726473588736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090617412324380726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @ZaoTou96459 @Astrioia 还有这段话更搞笑，QQ群里面的照片视频全都是捅人者朋友拍的，他连这点都能颠倒黑白。 https://t.co/PhbGPnBSyf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2090633696718045253",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1190,
+          "like_count": 2961,
+          "listed_count": 6,
+          "media_count": 394,
+          "tweet_count": 11103
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-07T11:43:16.000Z",
+        "description": "",
+        "id": "1545010361665191936",
+        "is_identity_verified": false,
+        "location": "群青学園",
+        "most_recent_tweet_id": "2090625040287216030",
+        "name": "Aulelius",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029332445250895872/xY2NOU6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 73,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "channelkurosu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T23:14:37.000Z",
+        "description": "人生梦想是，不再被冷暴力，可以依偎在温暖阳光的树下死去。",
+        "id": "1815163456217333760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090612789073039541",
+        "name": "Malisu&galaxy",
+        "pinned_tweet_id": "2068318860466389293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815163456217333760/1723914163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065519892032532481/EIGjz8kW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 810,
+          "like_count": 3782,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "ZaoTou96459",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-17T11:46:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weblogue",
+                "end": 23,
+                "expanded_url": "http://t.me/weblogue",
+                "start": 0,
+                "url": "https://t.co/3VrLMhAbFo"
+              }
+            ]
+          }
+        },
+        "id": "853937729201086464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090609137428349005",
+        "name": "Wireless Lover",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853937729201086464/1632042627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 1436,
+          "like_count": 3903,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/3VrLMhAbFo",
+        "username": "Astrioia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

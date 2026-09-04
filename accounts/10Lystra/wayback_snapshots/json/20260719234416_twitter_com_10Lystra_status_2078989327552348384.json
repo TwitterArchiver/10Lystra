@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726735890678956032",
+          "name": "Javier Milei"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1726735890678956032",
+          "name": "Javier Milei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555191468679057408",
+          "name": "Argentina politics"
+        }
+      }
+    ],
+    "conversation_id": "2078963898821251472",
+    "created_at": "2026-07-19T23:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078989327552348384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4020276615",
+          "start": 0,
+          "username": "JMilei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078989327552348384",
+    "in_reply_to_user_id": "4020276615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078963898821251472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JMilei 赶紧滚蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726735890678956032",
+              "name": "Javier Milei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1726735890678956032",
+              "name": "Javier Milei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191468679057408",
+              "name": "Argentina politics"
+            }
+          }
+        ],
+        "conversation_id": "2078963898821251472",
+        "created_at": "2026-07-19T23:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078989327552348384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4020276615",
+              "start": 0,
+              "username": "JMilei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078989327552348384",
+        "in_reply_to_user_id": "4020276615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078963898821251472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JMilei 赶紧滚蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4020276615",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726735890678956032",
+              "name": "Javier Milei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1726735890678956032",
+              "name": "Javier Milei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191468679057408",
+              "name": "Argentina politics"
+            }
+          }
+        ],
+        "conversation_id": "2078963898821251472",
+        "created_at": "2026-07-19T22:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078963898821251472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078963898821251472",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 981,
+          "impression_count": 1814960,
+          "like_count": 119517,
+          "quote_count": 1774,
+          "reply_count": 9909,
+          "retweet_count": 12782
+        },
+        "reply_settings": "everyone",
+        "text": "Muchas gracias Jugadores...!!!\nHasta el final con las botas puestas.\nArgentina siempre en lo alto."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 1079,
+          "like_count": 2725,
+          "listed_count": 5,
+          "media_count": 361,
+          "tweet_count": 9518
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-22T23:47:47.000Z",
+        "description": "Economista",
+        "id": "4020276615",
+        "location": "Buenos Aires, Argentina",
+        "name": "Javier Milei",
+        "pinned_tweet_id": "1896380573670572166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1553931112262549505/XTcdwp0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486772,
+          "following_count": 1429,
+          "like_count": 681538,
+          "listed_count": 4713,
+          "media_count": 5037,
+          "tweet_count": 386751
+        },
+        "url": "",
+        "username": "JMilei",
+        "verified": true
+      }
+    ]
+  }
+}

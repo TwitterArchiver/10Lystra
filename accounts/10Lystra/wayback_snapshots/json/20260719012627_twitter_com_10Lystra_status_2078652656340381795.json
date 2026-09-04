@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2077936596087603687",
+    "created_at": "2026-07-19T01:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078652656340381795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1839312762662699008",
+          "start": 0,
+          "username": "yaki_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078652656340381795",
+    "in_reply_to_user_id": "1839312762662699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078647446536888599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaki_official 怎么不算是一种天赋党"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2077936596087603687",
+        "created_at": "2026-07-19T01:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078652656340381795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1839312762662699008",
+              "start": 0,
+              "username": "yaki_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078652656340381795",
+        "in_reply_to_user_id": "1839312762662699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078647446536888599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaki_official 怎么不算是一种天赋党"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839312762662699008",
+        "conversation_id": "2077936596087603687",
+        "created_at": "2026-07-19T01:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078647446536888599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078647446536888599",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077936596087603687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 照样可以，所以不是雌二醇的问题，是女友的问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 1079,
+          "like_count": 2718,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 9473
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-26T14:35:29.000Z",
+        "description": "🏳‍⚧️卷心菜星球的甜菜魔王少女yaki酱/什么都会一点点的废物大三笨蛋/通信工程/FPGA学习中/小可爱@K674353330",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "K674353330"
+              }
+            ]
+          }
+        },
+        "id": "1839312762662699008",
+        "location": "Tianjin",
+        "name": "yaki酱今天超正经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848749044887392258/3TjnqZwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 249,
+          "like_count": 4207,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "yaki_official",
+        "verified": false
+      }
+    ]
+  }
+}

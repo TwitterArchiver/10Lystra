@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080109916015235421",
+    "created_at": "2026-07-23T04:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080155017621762483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1311608169269923841",
+          "start": 0,
+          "username": "g60Yts1kvzO4g8q"
+        },
+        {
+          "end": 33,
+          "id": "1701484460250890240",
+          "start": 17,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080155017621762483",
+    "in_reply_to_user_id": "1311608169269923841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080154873254093140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g60Yts1kvzO4g8q @SonogamiRinneTS 贴贴🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080109916015235421",
+        "created_at": "2026-07-23T04:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080155017621762483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1311608169269923841",
+              "start": 0,
+              "username": "g60Yts1kvzO4g8q"
+            },
+            {
+              "end": 33,
+              "id": "1701484460250890240",
+              "start": 17,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080155017621762483",
+        "in_reply_to_user_id": "1311608169269923841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080154873254093140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g60Yts1kvzO4g8q @SonogamiRinneTS 贴贴🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311608169269923841",
+        "conversation_id": "2080109916015235421",
+        "created_at": "2026-07-23T04:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080154873254093140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 26,
+              "id": "1701484460250890240",
+              "start": 10,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080154873254093140",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080148590127714452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @SonogamiRinneTS 我也是你的🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 1088,
+          "like_count": 2739,
+          "listed_count": 5,
+          "media_count": 363,
+          "tweet_count": 9615
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-01T10:05:45.000Z",
+        "description": "人文地理 中国近现代史  港乐 手绘爱好者\n想学习很多金融知识（（（",
+        "id": "1311608169269923841",
+        "location": "Taiwan",
+        "name": "素桐桐桐",
+        "pinned_tweet_id": "2046500844645048431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050591608375300096/rN9OcqFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 610,
+          "like_count": 331,
+          "listed_count": 7,
+          "media_count": 66,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "g60Yts1kvzO4g8q",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5191,
+          "following_count": 3834,
+          "like_count": 1549,
+          "listed_count": 19,
+          "media_count": 297,
+          "tweet_count": 2055
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

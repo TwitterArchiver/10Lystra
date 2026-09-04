@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2078064458640031747",
+    "created_at": "2026-07-18T10:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078434463671841178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1582160749648285697",
+          "start": 0,
+          "username": "Dangdangpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078434463671841178",
+    "in_reply_to_user_id": "1582160749648285697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078064458640031747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dangdangpi 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2078064458640031747",
+        "created_at": "2026-07-18T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078434463671841178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1582160749648285697",
+              "start": 0,
+              "username": "Dangdangpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078434463671841178",
+        "in_reply_to_user_id": "1582160749648285697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078064458640031747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dangdangpi 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582160749648285697",
+        "conversation_id": "2078064458640031747",
+        "created_at": "2026-07-17T10:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078064458640031747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078064458640031747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道大家有没有试过只吃色普龙，每次吃完药4个小时左右就会特别心慌，害怕自己一个人，想寻求陪伴…\n吃了17天喵，现在食欲物语性欲都没有什么喵，只是每天都好想和别人聊天打语音，好害怕自己一个人…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 1076,
+          "like_count": 2715,
+          "listed_count": 5,
+          "media_count": 355,
+          "tweet_count": 9452
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-18T00:05:01.000Z",
+        "description": "08|日留|晓山瑞希|互fo|扩列dd|想有能互相陪伴的关系|",
+        "id": "1582160749648285697",
+        "location": "誰もいないの世界",
+        "name": "铛铛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076289489815945216/r8olOEvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 265,
+          "like_count": 2370,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "Dangdangpi",
+        "verified": false
+      }
+    ]
+  }
+}

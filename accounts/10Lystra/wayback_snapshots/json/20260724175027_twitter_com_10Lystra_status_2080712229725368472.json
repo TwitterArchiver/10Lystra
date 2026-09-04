@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2079841832867860670",
+    "created_at": "2026-07-24T17:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080712229725368472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1711945664966582272",
+          "start": 0,
+          "username": "o0x80t"
+        },
+        {
+          "end": 21,
+          "id": "1752955223004573696",
+          "start": 8,
+          "username": "AnalyLain_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080712229725368472",
+    "in_reply_to_user_id": "1711945664966582272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080162401237058013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o0x80t @AnalyLain_01 隔壁+1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2079841832867860670",
+        "created_at": "2026-07-24T17:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080712229725368472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1711945664966582272",
+              "start": 0,
+              "username": "o0x80t"
+            },
+            {
+              "end": 21,
+              "id": "1752955223004573696",
+              "start": 8,
+              "username": "AnalyLain_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080712229725368472",
+        "in_reply_to_user_id": "1711945664966582272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080162401237058013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o0x80t @AnalyLain_01 隔壁+1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711945664966582272",
+        "conversation_id": "2079841832867860670",
+        "created_at": "2026-07-23T05:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080162401237058013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752955223004573696",
+              "start": 0,
+              "username": "AnalyLain_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080162401237058013",
+        "in_reply_to_user_id": "1752955223004573696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079841832867860670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnalyLain_01 我去 我在隔壁来找我玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1092,
+          "like_count": 2755,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 9687
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-11T03:24:03.000Z",
+        "description": "ZH/EN/JP, NO POLITIC, Undergraduate college student in Asia\n友善交友🥰",
+        "id": "1711945664966582272",
+        "location": "Beijing",
+        "name": "Space75",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068273732586745856/MCTLKHr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 127,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "o0x80t",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:21:25.000Z",
+        "description": "🌈08年出厂的杂鱼调教器哦齁齁❤️（呜哇我错了! qwq｜🏳️‍⚧️MTX｜含糖喵 (抗雄only🍥｜双鱼♓️ & INFP｜双向痊愈（不od不🚬｜贴贴请来济南😘｜4i是极好的😋｜小⭕️弱贝awa｜爱好：摄影📷  IT💽  术力口🎵｜乖巧听话  然而brat😚",
+        "id": "1752955223004573696",
+        "location": "济南",
+        "name": "林小北不是小杯杯🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076533945878118400/zKvlC1Y7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 372,
+          "like_count": 209,
+          "listed_count": 5,
+          "media_count": 60,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "AnalyLain_01",
+        "verified": false
+      }
+    ]
+  }
+}

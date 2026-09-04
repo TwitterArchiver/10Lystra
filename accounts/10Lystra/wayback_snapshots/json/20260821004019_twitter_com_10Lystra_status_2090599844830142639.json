@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2090529074943033707",
+    "created_at": "2026-08-21T00:40:19.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T01:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090599844830142639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2079818716184010753",
+          "start": 0,
+          "username": "fifteen0105ting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090599844830142639",
+    "in_reply_to_user_id": "2079818716184010753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090529074943033707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fifteen0105ting 賤畜活該得不到幸福。嘴臭傻逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2090529074943033707",
+        "created_at": "2026-08-21T00:40:19.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090599844830142639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2079818716184010753",
+              "start": 0,
+              "username": "fifteen0105ting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090599844830142639",
+        "in_reply_to_user_id": "2079818716184010753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090529074943033707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fifteen0105ting 賤畜活該得不到幸福。嘴臭傻逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079818716184010753",
+        "conversation_id": "2090529074943033707",
+        "created_at": "2026-08-20T19:59:06.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T20:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090529074943033707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090529074943033707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我亲爱的朋友如果我看到你过得不好，我会比你先落泪；如果你过得幸福，我会特别眼红嫉妒呀。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2090599844830142639",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1190,
+          "like_count": 2961,
+          "listed_count": 6,
+          "media_count": 394,
+          "tweet_count": 11085
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T06:41:53.000Z",
+        "description": "10後的一個小女孩，生活在一個亂七八糟的世界上，但是我仍然愛著這樣魔幻的世界^{ↀ▃ↀ}^好叭，其實有時候很厭世！喜歡看書喜歡科幻喜歡哲學喜歡一切我喜歡的事物。",
+        "id": "2079818716184010753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090531422218199177",
+        "name": "fifteen",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079818716184010753/1784745334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079911424797679616/iub7MKe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 26,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "fifteen0105ting",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080101226923090344",
+    "created_at": "2026-07-23T03:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080128195349614656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169796366869991425",
+          "start": 0,
+          "username": "15O1473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080128195349614656",
+    "in_reply_to_user_id": "1169796366869991425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080101226923090344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@15O1473 但是也不能假定所有人看见了别人的苦难都想去解决（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080101226923090344",
+        "created_at": "2026-07-23T03:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080128195349614656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169796366869991425",
+              "start": 0,
+              "username": "15O1473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080128195349614656",
+        "in_reply_to_user_id": "1169796366869991425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080101226923090344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@15O1473 但是也不能假定所有人看见了别人的苦难都想去解决（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169796366869991425",
+        "conversation_id": "2080101226923090344",
+        "created_at": "2026-07-23T01:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080101226923090344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/10lystra/status/2079749381259989500",
+              "start": 42,
+              "url": "https://t.co/2rPGUfiOmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080101226923090344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079749381259989500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假设说有一门学科是看不到两种苦难的，那这个「致郁」对象大概就不是自己，而是世界了。 https://t.co/2rPGUfiOmd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 1086,
+          "like_count": 2737,
+          "listed_count": 5,
+          "media_count": 363,
+          "tweet_count": 9608
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-06T02:16:44.000Z",
+        "description": "She/they丨Generative Pro-TRANS Transformer丨GNHT 2023.3.13丨ADHD丨Feminism丨Anarchism丨中文・日本語・English (poor) 丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuyutuki.org",
+                "end": 23,
+                "expanded_url": "https://fuyutuki.org/",
+                "start": 0,
+                "url": "https://t.co/svuPnDSqd3"
+              }
+            ]
+          }
+        },
+        "id": "1169796366869991425",
+        "location": "MyDeadBody",
+        "name": "冬月 チヤ",
+        "pinned_tweet_id": "2060661328336113954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878750404177166336/ein0t76C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1173,
+          "like_count": 73516,
+          "listed_count": 3,
+          "media_count": 604,
+          "tweet_count": 8829
+        },
+        "url": "https://t.co/svuPnDSqd3",
+        "username": "15O1473",
+        "verified": false
+      }
+    ]
+  }
+}

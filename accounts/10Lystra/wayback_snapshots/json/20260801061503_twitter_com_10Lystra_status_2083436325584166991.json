@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2083436325584166991",
+    "created_at": "2026-08-01T06:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083436325584166991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10lystra/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/10lystra/status/2083435593841746383",
+          "start": 18,
+          "url": "https://t.co/3HXi9jhiLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083436325584166991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083435593841746383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实际上我都自顾不暇了没必要想那么多 https://t.co/3HXi9jhiLv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083436325584166991",
+        "created_at": "2026-08-01T06:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083436325584166991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10lystra/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/10lystra/status/2083435593841746383",
+              "start": 18,
+              "url": "https://t.co/3HXi9jhiLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083436325584166991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083435593841746383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上我都自顾不暇了没必要想那么多 https://t.co/3HXi9jhiLv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083435593841746383",
+        "created_at": "2026-08-01T06:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083435593841746383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083435593841746383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人的成长就是绝望的发现顾及到所有人的感受本身就是一个伪命题，我们没有办法也没有义务顾及到所有人的感受。但这不等于我们可以刻意的轻视某些人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1116,
+          "like_count": 2839,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 9954
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

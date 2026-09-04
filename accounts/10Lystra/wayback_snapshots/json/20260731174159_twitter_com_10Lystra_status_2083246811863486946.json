@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2083203512117399911",
+    "created_at": "2026-07-31T17:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083246811863486946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "981535575130832896",
+          "start": 0,
+          "username": "armageddon_Qteu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083246811863486946",
+    "in_reply_to_user_id": "981535575130832896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083203512117399911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@armageddon_Qteu 好会拍！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083203497655504897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkGizibkAEFAnu.jpg",
+        "width": 852
+      },
+      {
+        "height": 909,
+        "media_key": "3_2083203497206616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkGix3aEAAtF6Z.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083203512117399911",
+        "created_at": "2026-07-31T17:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083246811863486946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "981535575130832896",
+              "start": 0,
+              "username": "armageddon_Qteu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083246811863486946",
+        "in_reply_to_user_id": "981535575130832896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083203512117399911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@armageddon_Qteu 好会拍！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083203497655504897",
+            "3_2083203497206616064"
+          ]
+        },
+        "author_id": "981535575130832896",
+        "conversation_id": "2083203512117399911",
+        "created_at": "2026-07-31T14:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083203512117399911"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "男娘"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XErtiQ7mnc",
+              "end": 75,
+              "expanded_url": "https://x.com/armageddon_Qteu/status/2083203512117399911/photo/1",
+              "media_key": "3_2083203497655504897",
+              "start": 52,
+              "url": "https://t.co/XErtiQ7mnc"
+            },
+            {
+              "display_url": "pic.x.com/XErtiQ7mnc",
+              "end": 75,
+              "expanded_url": "https://x.com/armageddon_Qteu/status/2083203512117399911/photo/1",
+              "media_key": "3_2083203497206616064",
+              "start": 52,
+              "url": "https://t.co/XErtiQ7mnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083203512117399911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1270,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天穿着小裙子出去玩啦，真的超级出片。就是胸有点大，稍微侧一点角度就不太可爱了 #男娘 #可爱的男孩子 https://t.co/XErtiQ7mnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1116,
+          "like_count": 2833,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 9932
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T14:14:51.000Z",
+        "description": "MTF|遇事喵喵喵｜记录日常，不喜欢勿扰\n关爱小药娘🍥🍥",
+        "id": "981535575130832896",
+        "location": "じゃーん岩本。日本人やで（元あるまげどん）",
+        "name": "🏳️‍⚧️葡萄🍇",
+        "pinned_tweet_id": "1027575377290354689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496587236249600/cK6y1O43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 15,
+          "like_count": 66,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "armageddon_Qteu",
+        "verified": false
+      }
+    ]
+  }
+}

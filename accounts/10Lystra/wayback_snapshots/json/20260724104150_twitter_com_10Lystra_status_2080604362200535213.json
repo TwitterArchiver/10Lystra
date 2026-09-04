@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2080294909337313385",
+    "created_at": "2026-07-24T10:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080604362200535213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2835757940",
+          "start": 0,
+          "username": "gorumosu"
+        },
+        {
+          "end": 24,
+          "id": "1490675894238986251",
+          "start": 10,
+          "username": "SayoriCat8964"
+        },
+        {
+          "end": 39,
+          "id": "1739437517772926976",
+          "start": 25,
+          "username": "Dandelion6238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080604362200535213",
+    "in_reply_to_user_id": "2835757940",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080294909337313385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gorumosu @SayoriCat8964 @Dandelion6238"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "16_2080294779695644672",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HN6xFIvbwAAbHvY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HN6xFIvbwAAbHvY.mp4"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2080294909337313385",
+        "created_at": "2026-07-24T10:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080604362200535213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2835757940",
+              "start": 0,
+              "username": "gorumosu"
+            },
+            {
+              "end": 24,
+              "id": "1490675894238986251",
+              "start": 10,
+              "username": "SayoriCat8964"
+            },
+            {
+              "end": 39,
+              "id": "1739437517772926976",
+              "start": 25,
+              "username": "Dandelion6238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080604362200535213",
+        "in_reply_to_user_id": "2835757940",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080294909337313385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gorumosu @SayoriCat8964 @Dandelion6238"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080294779695644672"
+          ]
+        },
+        "author_id": "2835757940",
+        "conversation_id": "2080294909337313385",
+        "created_at": "2026-07-23T14:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080294909337313385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ru7uFQiY3",
+              "end": 27,
+              "expanded_url": "https://x.com/gorumosu/status/2080294909337313385/photo/1",
+              "media_key": "16_2080294779695644672",
+              "start": 4,
+              "url": "https://t.co/8ru7uFQiY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080294909337313385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 38596,
+          "like_count": 2748,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "ポキッ https://t.co/8ru7uFQiY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 腰间盘突出复健中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "agteshdesu"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1089,
+          "like_count": 2745,
+          "listed_count": 5,
+          "media_count": 364,
+          "tweet_count": 9658
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-30T06:51:03.000Z",
+        "description": "ガールズバンドクライを中心に二次創作をしています。漫画とかネタ絵とか\n🎨Skeb（停止中）→https://t.co/A1j0El549c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@gorumosu",
+                "end": 69,
+                "expanded_url": "https://skeb.jp/@gorumosu",
+                "start": 46,
+                "url": "https://t.co/A1j0El549c"
+              }
+            ]
+          }
+        },
+        "id": "2835757940",
+        "name": "ごるもす",
+        "pinned_tweet_id": "2062504313776431126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998564158674288640/wKrEnYrT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16872,
+          "following_count": 294,
+          "like_count": 26065,
+          "listed_count": 78,
+          "media_count": 634,
+          "tweet_count": 18054
+        },
+        "url": "",
+        "username": "gorumosu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/双極性障害/宝宝@Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayoricat8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayoricat8964",
+                "start": 0,
+                "url": "https://t.co/sYom874rTF"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "pinned_tweet_id": "2079755765771026899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 1268,
+          "like_count": 151486,
+          "listed_count": 13,
+          "media_count": 1752,
+          "tweet_count": 22857
+        },
+        "url": "https://t.co/sYom874rTF",
+        "username": "SayoriCat8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "爱人@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "10Lystra"
+              }
+            ]
+          }
+        },
+        "id": "1739437517772926976",
+        "name": "尽",
+        "pinned_tweet_id": "1921504892352336027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275013014441989/90JFoO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 1002,
+          "like_count": 7098,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "Dandelion6238",
+        "verified": true
+      }
+    ]
+  }
+}

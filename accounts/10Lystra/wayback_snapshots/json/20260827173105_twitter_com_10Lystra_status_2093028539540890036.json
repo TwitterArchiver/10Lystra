@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093028529470365696"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2092940372960018450",
+    "created_at": "2026-08-27T17:31:05.000Z",
+    "display_text_range": [
+      10,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093028539540890036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I2LeIBK7Jd",
+          "end": 50,
+          "expanded_url": "https://x.com/10Lystra/status/2093028539540890036/photo/1",
+          "media_key": "3_2093028529470365696",
+          "start": 27,
+          "url": "https://t.co/I2LeIBK7Jd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093028539540890036",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093028529470365696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092940372960018450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 陪张前段时间在站前广场被偷拍的（ https://t.co/I2LeIBK7Jd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2093028529470365696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvuW7PW4AAVMdt.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2092940308162240512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQueHxQbYAA4mu7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093028529470365696"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2092940372960018450",
+        "created_at": "2026-08-27T17:31:05.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093028539540890036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I2LeIBK7Jd",
+              "end": 50,
+              "expanded_url": "https://x.com/10Lystra/status/2093028539540890036/photo/1",
+              "media_key": "3_2093028529470365696",
+              "start": 27,
+              "url": "https://t.co/I2LeIBK7Jd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093028539540890036",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093028529470365696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092940372960018450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 陪张前段时间在站前广场被偷拍的（ https://t.co/I2LeIBK7Jd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092940308162240512"
+          ]
+        },
+        "author_id": "1227603655903399936",
+        "conversation_id": "2092940372960018450",
+        "created_at": "2026-08-27T11:40:44.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092940372960018450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0QpP0yvTu3",
+              "end": 27,
+              "expanded_url": "https://x.com/K66cheng/status/2092940372960018450/photo/1",
+              "media_key": "3_2092940308162240512",
+              "start": 4,
+              "url": "https://t.co/0QpP0yvTu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092940372960018450",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092940308162240512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京站 https://t.co/0QpP0yvTu3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2093028539540890036",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1205,
+          "like_count": 3008,
+          "listed_count": 6,
+          "media_count": 405,
+          "tweet_count": 11454
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜含糖MTX天残党｜厨娘女仆 | \nINTJ-T｜瑶瑶@GK98815227｜梦瑶@baizhimengyao｜迪迪@BaitangToubao｜皮肤饥渴症终末期患者快和我贴贴｜缺爱｜喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "GK98815227"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "baizhimengyao"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "BaitangToubao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2092969403750989889",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227603655903399936/1632565817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6399,
+          "following_count": 4243,
+          "like_count": 28009,
+          "listed_count": 27,
+          "media_count": 1357,
+          "tweet_count": 18563
+        },
+        "url": "",
+        "username": "K66cheng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

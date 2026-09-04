@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2083578893349597342",
+    "created_at": "2026-08-01T17:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083608562735906841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893984432270475264",
+          "start": 0,
+          "username": "bailixing114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083608562735906841",
+    "in_reply_to_user_id": "1893984432270475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083578893349597342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailixing114514 毕竟是淀粉片（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2083578886693310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpb9Urb0AAh6HS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2083578893349597342",
+        "created_at": "2026-08-01T17:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083608562735906841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893984432270475264",
+              "start": 0,
+              "username": "bailixing114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083608562735906841",
+        "in_reply_to_user_id": "1893984432270475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083578893349597342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailixing114514 毕竟是淀粉片（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083578886693310464"
+          ]
+        },
+        "author_id": "1893984432270475264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083578893349597342",
+        "created_at": "2026-08-01T15:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:15:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083572291116613698",
+          "2083578893349597342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8bSMWAQz3",
+              "end": 50,
+              "expanded_url": "https://x.com/bailixing114514/status/2083578893349597342/photo/1",
+              "media_key": "3_2083578886693310464",
+              "start": 27,
+              "url": "https://t.co/C8bSMWAQz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083578893349597342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么色会发霉啊？\n难道霉菌也是小药娘?!\n😭😭😭😭 https://t.co/C8bSMWAQz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 1113,
+          "like_count": 2839,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 9972
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～|梗图真人喵！不是机器人！|同类蓝v互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "location": "浦島トンネル",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2017032358017532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 265,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "bailixing114514",
+        "verified": true
+      }
+    ]
+  }
+}

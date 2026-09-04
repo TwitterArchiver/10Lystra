@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2082654166779072965",
+    "created_at": "2026-07-30T02:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082657960824615007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082657960824615007",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082654166779072965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 🤭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2082654159439077376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcS7HNbIAAR3vC.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2082654166779072965",
+        "created_at": "2026-07-30T02:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082657960824615007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082657960824615007",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082654166779072965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 🤭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082654159439077376"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2082654166779072965",
+        "created_at": "2026-07-30T02:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082654166779072965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOiJ5ND83P",
+              "end": 29,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2082654166779072965/photo/1",
+              "media_key": "3_2082654159439077376",
+              "start": 6,
+              "url": "https://t.co/iOiJ5ND83P"
+            },
+            {
+              "display_url": "x.com/ayanami_rin0/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ayanami_rin0/status/2082536796496568463",
+              "start": 30,
+              "url": "https://t.co/YgpWdC6F6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082654166779072965",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082536796496568463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "irony https://t.co/iOiJ5ND83P https://t.co/YgpWdC6F6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1112,
+          "like_count": 2800,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 9833
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我的愛人是我的故土、我的歸宿，我的民族、我的祖國。@irisdesombres。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082637634422308865/gCmwleWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 188,
+          "like_count": 14844,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 10041
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": false
+      }
+    ]
+  }
+}

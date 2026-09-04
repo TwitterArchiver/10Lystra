@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081009549524516864"
+      ],
+      "media_source_tweet_id": [
+        "2081009551726506264"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2081265603860386260",
+    "created_at": "2026-07-26T06:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081265603860386260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2079399533856079872",
+          "start": 3,
+          "username": "princess_01011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/utnr0cbB2F",
+          "end": 74,
+          "expanded_url": "https://x.com/princess_01011/status/2081009551726506264/photo/1",
+          "media_key": "3_2081009549524516864",
+          "start": 51,
+          "url": "https://t.co/utnr0cbB2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081265603860386260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081009551726506264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @princess_01011: 想告诉跨儿姐妹们，这些只是基本项，不是什么加分项，更不是恩赐 https://t.co/utnr0cbB2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2081009549524516864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE7KN2awAAgXsD.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081009549524516864"
+          ]
+        },
+        "author_id": "2079399533856079872",
+        "conversation_id": "2081009551726506264",
+        "created_at": "2026-07-25T13:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081009551726506264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utnr0cbB2F",
+              "end": 54,
+              "expanded_url": "https://x.com/princess_01011/status/2081009551726506264/photo/1",
+              "media_key": "3_2081009549524516864",
+              "start": 31,
+              "url": "https://t.co/utnr0cbB2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081009551726506264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2411,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "想告诉跨儿姐妹们，这些只是基本项，不是什么加分项，更不是恩赐 https://t.co/utnr0cbB2F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081009549524516864"
+          ],
+          "media_source_tweet_id": [
+            "2081009551726506264"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2081265603860386260",
+        "created_at": "2026-07-26T06:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081265603860386260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2079399533856079872",
+              "start": 3,
+              "username": "princess_01011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utnr0cbB2F",
+              "end": 74,
+              "expanded_url": "https://x.com/princess_01011/status/2081009551726506264/photo/1",
+              "media_key": "3_2081009549524516864",
+              "start": 51,
+              "url": "https://t.co/utnr0cbB2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081265603860386260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081009551726506264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @princess_01011: 想告诉跨儿姐妹们，这些只是基本项，不是什么加分项，更不是恩赐 https://t.co/utnr0cbB2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 1101,
+          "like_count": 2763,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 9729
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "",
+        "id": "2079399533856079872",
+        "name": "公主病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 166,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": false
+      }
+    ]
+  }
+}

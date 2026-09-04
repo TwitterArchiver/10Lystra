@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093027536892571650"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "conversation_id": "2092994762542592173",
+    "created_at": "2026-08-27T17:27:08.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093027545553793530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071227667354140672",
+          "start": 0,
+          "username": "tkk27bb6967"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiPcNTzWcR",
+          "end": 52,
+          "expanded_url": "https://x.com/10Lystra/status/2093027545553793530/photo/1",
+          "media_key": "3_2093027536892571650",
+          "start": 29,
+          "url": "https://t.co/hiPcNTzWcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093027545553793530",
+    "in_reply_to_user_id": "2071227667354140672",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093027536892571650"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092994762542592173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tkk27bb6967 ai最起码语言的确很艺术了。。 https://t.co/hiPcNTzWcR"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092994762542592173].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092994762542592173",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092994762542592173"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2093027536892571650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvtdJmXsAInklj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093027536892571650"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "conversation_id": "2092994762542592173",
+        "created_at": "2026-08-27T17:27:08.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093027545553793530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071227667354140672",
+              "start": 0,
+              "username": "tkk27bb6967"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiPcNTzWcR",
+              "end": 52,
+              "expanded_url": "https://x.com/10Lystra/status/2093027545553793530/photo/1",
+              "media_key": "3_2093027536892571650",
+              "start": 29,
+              "url": "https://t.co/hiPcNTzWcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093027545553793530",
+        "in_reply_to_user_id": "2071227667354140672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093027536892571650"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092994762542592173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkk27bb6967 ai最起码语言的确很艺术了。。 https://t.co/hiPcNTzWcR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2093027545553793530",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1205,
+          "like_count": 3008,
+          "listed_count": 6,
+          "media_count": 404,
+          "tweet_count": 11453
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T13:45:28.000Z",
+        "description": "🏳️‍⚧️transfemboy🏳️‍⚧️\n❤️🧡💛💚💙💜🩵🩷🤍🩷🩵\n\n（femboy指的是立场fem和性别表达无关）\n（性别表达偏向世俗意义的男性化）\n\ncn娇娇，he or she/audhd/纯血直男/非单意识体，成员共用账号所以存在左右脑互搏的情况\n\n杨响是我最爱的女儿（我的tulpa），她的小名是锵锵",
+        "id": "2071227667354140672",
+        "is_identity_verified": false,
+        "location": "淘坤坤de梦幻之逼",
+        "most_recent_tweet_id": "2092966201425309712",
+        "name": "沉睡小男仆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071227667354140672/1785226715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087146323879555072/ZSV_oUzi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 166,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2288
+        },
+        "url": "",
+        "username": "tkk27bb6967",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

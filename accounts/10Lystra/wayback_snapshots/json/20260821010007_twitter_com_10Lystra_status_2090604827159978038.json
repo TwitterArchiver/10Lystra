@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2090496096124485806",
+    "created_at": "2026-08-21T01:00:07.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090604827159978038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090604827159978038",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090496096124485806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 真的是補償嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090496091103846400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLvHnKWYAAqXeG.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1861,
+        "media_key": "3_2090496091099688960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLvHnJW8AAr5yM.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2090496096124485806",
+        "created_at": "2026-08-21T01:00:07.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090604827159978038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090604827159978038",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090496096124485806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 真的是補償嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090496091103846400",
+            "3_2090496091099688960"
+          ]
+        },
+        "author_id": "1840008766135103488",
+        "conversation_id": "2090496096124485806",
+        "created_at": "2026-08-20T17:48:03.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090496096124485806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wA3tkzpVJX",
+              "end": 113,
+              "expanded_url": "https://x.com/nande198900/status/2090496096124485806/photo/1",
+              "media_key": "3_2090496091103846400",
+              "start": 90,
+              "url": "https://t.co/wA3tkzpVJX"
+            },
+            {
+              "display_url": "pic.x.com/wA3tkzpVJX",
+              "end": 113,
+              "expanded_url": "https://x.com/nande198900/status/2090496096124485806/photo/1",
+              "media_key": "3_2090496091099688960",
+              "start": 90,
+              "url": "https://t.co/wA3tkzpVJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090496096124485806",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090496091103846400"
+          },
+          {
+            "media_key": "3_2090496091099688960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 995,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是想要生活在一个被公权力平等对待的世界\n\n但是各国的公权力一直认为应该补偿性对待女性，翻译过来就是要剥削男人\n\n古老的赎罪卷\n\n不要怪我们的极端、我们是在反击说我们有原罪的人 https://t.co/wA3tkzpVJX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2090604827159978038",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 1190,
+          "like_count": 2961,
+          "listed_count": 6,
+          "media_count": 394,
+          "tweet_count": 11092
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊- 蓝v互关必回 - He/him Femboy/boy. 🤍RT 4 RT - 男娘捏- 🇨🇳🇨🇭",
+        "id": "1840008766135103488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090604196559028579",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2053170473484370330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840008766135103488/1748133063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022830944953212929/1PF9XsE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30931,
+          "following_count": 4298,
+          "like_count": 10960,
+          "listed_count": 106,
+          "media_count": 1841,
+          "tweet_count": 25262
+        },
+        "url": "",
+        "username": "nande198900",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
