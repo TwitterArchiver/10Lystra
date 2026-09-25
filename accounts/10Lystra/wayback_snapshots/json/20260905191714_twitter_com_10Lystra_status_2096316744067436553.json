@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2096307843477733437",
+    "created_at": "2026-09-05T19:17:14.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096316744067436553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449853213974528",
+          "start": 0,
+          "username": "xiaojiangnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096316744067436553",
+    "in_reply_to_user_id": "2041449853213974528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096307843477733437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojiangnie 七月份来过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2096307832769728512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReU3gAb0AAo7mS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2096307843477733437",
+        "created_at": "2026-09-05T19:17:14.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096316744067436553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449853213974528",
+              "start": 0,
+              "username": "xiaojiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096316744067436553",
+        "in_reply_to_user_id": "2041449853213974528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096307843477733437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojiangnie 七月份来过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096307832769728512"
+          ]
+        },
+        "author_id": "2041449853213974528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096307843477733437",
+        "created_at": "2026-09-05T18:41:52.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096307843477733437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vFiNSjUznB",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaojiangnie/status/2096307843477733437/photo/1",
+              "media_key": "3_2096307832769728512",
+              "start": 13,
+              "url": "https://t.co/vFiNSjUznB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096307843477733437",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096307832769728512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日刷新，青岛荆棘兔喵～ https://t.co/vFiNSjUznB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2096316744067436553",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1204,
+          "like_count": 3020,
+          "listed_count": 6,
+          "media_count": 404,
+          "tweet_count": 11563
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:36:14.000Z",
+        "description": "咱其实不爱吃小孩呀喵/hrt🍥2026.3.28 已炸柜（第三天炸柜极速版)/出厂日期2009.12.17/偏天赋一点天生雌高喵～/蓄发中喵/出院开心ing喵/互fo私信喵/神经病学研究ing喵/目前临床诊断:伴有精神病性的重症抑郁发作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaojiangnie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaojiangnie",
+                "start": 0,
+                "url": "https://t.co/GQwOKrlE1c"
+              }
+            ]
+          }
+        },
+        "id": "2041449853213974528",
+        "is_identity_verified": false,
+        "location": "青岛市",
+        "most_recent_tweet_id": "2096307843477733437",
+        "name": "小蒋吃小孩🍥🏳️‍⚧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449853213974528/1777889048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041457265644036096/RG8FA8Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 392,
+          "like_count": 5961,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/GQwOKrlE1c",
+        "username": "xiaojiangnie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2094461474752078024",
+    "created_at": "2026-09-01T08:19:57.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094701782848897323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024565021171470336",
+          "start": 0,
+          "username": "FabrizioFauno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094701782848897323",
+    "in_reply_to_user_id": "2024565021171470336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094461474752078024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FabrizioFauno 麦卡干啥？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2094461469546991616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREFnBAXUAA2586.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2094461474752078024",
+        "created_at": "2026-09-01T08:19:57.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094701782848897323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024565021171470336",
+              "start": 0,
+              "username": "FabrizioFauno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094701782848897323",
+        "in_reply_to_user_id": "2024565021171470336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094461474752078024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FabrizioFauno 麦卡干啥？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094461469546991616"
+          ]
+        },
+        "author_id": "2024565021171470336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733773885045276672",
+              "name": "Nicolas Tagliafico"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774074619404288",
+              "name": "Nicolas Otamendi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774180567539712",
+              "name": "Rodrigo de Paul"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774600127946752",
+              "name": "Leandro Paredes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "894210979881394177",
+              "name": "Alexis Mac Allister"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1037634523821834240",
+              "name": "Scaloni, Lionel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733773885045276672",
+              "name": "Nicolas Tagliafico"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774074619404288",
+              "name": "Nicolas Otamendi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774180567539712",
+              "name": "Rodrigo de Paul"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774600127946752",
+              "name": "Leandro Paredes"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "894210979881394177",
+              "name": "Alexis Mac Allister"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Coach like 'Bill Belichick'",
+              "id": "93",
+              "name": "Coach"
+            },
+            "entity": {
+              "id": "1037634523821834240",
+              "name": "Scaloni, Lionel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733773885045276672",
+              "name": "Nicolas Tagliafico"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774074619404288",
+              "name": "Nicolas Otamendi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774180567539712",
+              "name": "Rodrigo de Paul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774222305038337",
+              "name": "Lionel Messi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774600127946752",
+              "name": "Leandro Paredes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "894210979881394177",
+              "name": "Alexis Mac Allister"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1285942425861545984",
+              "name": "Sports figures"
+            }
+          }
+        ],
+        "conversation_id": "2094461474752078024",
+        "created_at": "2026-08-31T16:25:03.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094461474752078024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X83MV8oXTK",
+              "end": 296,
+              "expanded_url": "https://x.com/FabrizioFauno/status/2094461474752078024/photo/1",
+              "media_key": "3_2094461469546991616",
+              "start": 273,
+              "url": "https://t.co/X83MV8oXTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094461474752078024",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2094461469546991616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨🇦🇷 BOMBA EN ARGENTINA. \n\nTras la decisión de Lionel Messi de retirarse de la Selección, Rodrigo De Paul, Leandro Paredes, Nicolás Otamendi, Nicolás Tagliafico y Alexis Mac Allister también han decidido dar un paso al costado.\n\nLionel Scaloni también dejaría su cargo. Una generación histórica llega a su fin. 💔🏆\n\nFin de una era."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3177,
+          "impression_count": 4303582,
+          "like_count": 39530,
+          "quote_count": 928,
+          "reply_count": 2257,
+          "retweet_count": 3122
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇦🇷 BOMBA EN ARGENTINA. \n\nTras la decisión de Lionel Messi de retirarse de la Selección, Rodrigo De Paul, Leandro Paredes, Nicolás Otamendi, Nicolás Tagliafico y Alexis Mac Allister también han decidido dar un paso al costado.\n\nLionel Scaloni también dejaría su cargo. Una https://t.co/X83MV8oXTK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2094701782848897323",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1207,
+          "like_count": 3019,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 11522
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2079224245763112960/awarWRPQ_bigger.jpg",
+          "description": "Duelbits",
+          "url": "https://twitter.com/Duelbits",
+          "user_id": [
+            "1225097874658222080"
+          ]
+        },
+        "created_at": "2026-02-19T19:21:38.000Z",
+        "description": "Cuenta parodia | BYTS COMP |\nPartnered with @Duelbits",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "Duelbits"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fabriziofauno.com",
+                "end": 23,
+                "expanded_url": "https://fabriziofauno.com",
+                "start": 0,
+                "url": "https://t.co/PYfyMnVftz"
+              }
+            ]
+          }
+        },
+        "id": "2024565021171470336",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094679085293146605",
+        "name": "Fauno",
+        "pinned_tweet_id": "2094461474752078024",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024565021171470336/1786634347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087923424605700096/2xO8ZI8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85794,
+          "following_count": 449,
+          "like_count": 17586,
+          "listed_count": 65,
+          "media_count": 3237,
+          "tweet_count": 9506
+        },
+        "url": "https://t.co/PYfyMnVftz",
+        "username": "FabrizioFauno",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

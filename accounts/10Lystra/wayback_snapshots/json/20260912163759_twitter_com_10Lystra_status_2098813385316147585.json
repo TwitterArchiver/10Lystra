@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2098794472998076723",
+    "created_at": "2026-09-12T16:37:59.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098813385316147585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "957544663275028481",
+          "start": 0,
+          "username": "SuBanXia1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098813385316147585",
+    "in_reply_to_user_id": "957544663275028481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098794472998076723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuBanXia1120 小学吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2098794472998076723",
+        "created_at": "2026-09-12T16:37:59.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098813385316147585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957544663275028481",
+              "start": 0,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098813385316147585",
+        "in_reply_to_user_id": "957544663275028481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098794472998076723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuBanXia1120 小学吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957544663275028481",
+        "conversation_id": "2098794472998076723",
+        "created_at": "2026-09-12T15:22:50.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:21:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098794219389526196",
+          "2098794472998076723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098794472998076723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我姐和我妈让我下周去接我侄子上下学\n我都不敢说话\n我妈：你接个孩子不说话不就行了，说个普通话温柔一点不就行了\n我：我要是被鉴跨了我侄子是不是要喜提“我的人妖舅舅”了🤯🤯🤯\n他一直叫我小姨的，不知道开智之后怎么看待我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2098813385316147585",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1205,
+          "like_count": 3023,
+          "listed_count": 6,
+          "media_count": 404,
+          "tweet_count": 11610
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。接PAI —Charee中介的陪同，SRS手术陪同日记https://t.co/HLSHXOnt8E。陪同请直接联系tg@subanxia1120。聊天门槛🚪50",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 75,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 52,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2098794472998076723",
+        "name": "苒🦊木狐（接PAI陪同）",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/957544663275028481/1662378070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17950,
+          "following_count": 904,
+          "like_count": 6306,
+          "listed_count": 56,
+          "media_count": 751,
+          "tweet_count": 4842
+        },
+        "url": "",
+        "username": "SuBanXia1120",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

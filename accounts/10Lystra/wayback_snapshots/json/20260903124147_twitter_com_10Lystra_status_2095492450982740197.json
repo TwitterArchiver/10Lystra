@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1692075579850563584",
+    "conversation_id": "2094501888339427688",
+    "created_at": "2026-09-03T12:41:47.000Z",
+    "display_text_range": [
+      36,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095492450982740197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056547558462480384",
+          "start": 0,
+          "username": "Eliserette"
+        },
+        {
+          "end": 23,
+          "id": "1830677273525264387",
+          "start": 12,
+          "username": "metalmeat_"
+        },
+        {
+          "end": 35,
+          "id": "1596416860752207872",
+          "start": 24,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095492450982740197",
+    "in_reply_to_user_id": "2056547558462480384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095335105325850746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eliserette @metalmeat_ @Longlinlon 好想给你这个账号存档"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2094501888339427688",
+        "created_at": "2026-09-03T12:41:47.000Z",
+        "display_text_range": [
+          36,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095492450982740197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056547558462480384",
+              "start": 0,
+              "username": "Eliserette"
+            },
+            {
+              "end": 23,
+              "id": "1830677273525264387",
+              "start": 12,
+              "username": "metalmeat_"
+            },
+            {
+              "end": 35,
+              "id": "1596416860752207872",
+              "start": 24,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095492450982740197",
+        "in_reply_to_user_id": "2056547558462480384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095335105325850746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eliserette @metalmeat_ @Longlinlon 好想给你这个账号存档"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056547558462480384",
+        "conversation_id": "2094501888339427688",
+        "created_at": "2026-09-03T02:16:33.000Z",
+        "display_text_range": [
+          34,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095335105325850746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830677273525264387",
+              "start": 0,
+              "username": "metalmeat_"
+            },
+            {
+              "end": 21,
+              "id": "1692075579850563584",
+              "start": 12,
+              "username": "10Lystra"
+            },
+            {
+              "end": 33,
+              "id": "1596416860752207872",
+              "start": 22,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095335105325850746",
+        "in_reply_to_user_id": "1830677273525264387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095016399374799122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@metalmeat_ @10Lystra @Longlinlon 永远不要和药娘们争论，他们只会认为自己是对的。看到是同类无论对方的行为是多么逆天也只会无脑为其辩护。真的，不要和他们任何人扯上关系"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2095492450982740197",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 1209,
+          "like_count": 3020,
+          "listed_count": 6,
+          "media_count": 404,
+          "tweet_count": 11543
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T01:28:57.000Z",
+        "description": "地狱的烈焰不熄，因至高的审判从未止息",
+        "id": "2056547558462480384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095414128408207563",
+        "name": "𝓐𝓵𝓲𝓮𝓼",
+        "pinned_tweet_id": "2094063202460197093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056547558462480384/1787512800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091616501157826560/wMTCN7UW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 110,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "Eliserette",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-02T18:40:54.000Z",
+        "description": "",
+        "id": "1830677273525264387",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095476364589883721",
+        "name": "metalmeat",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998828958310346752/OD6OJ1V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 112,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "metalmeat_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2094507016563880126",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2481,
+          "like_count": 204488,
+          "listed_count": 7,
+          "media_count": 1402,
+          "tweet_count": 14911
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
