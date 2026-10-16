@@ -1,0 +1,713 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107662054635028480"
+      ],
+      "media_source_tweet_id": [
+        "2107662141457314076"
+      ]
+    },
+    "author_id": "1692075579850563584",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1415604701358219264",
+          "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1415604701358219264",
+          "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226234080788481",
+          "name": "Argentina"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1415604701358219264",
+          "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226234080788481",
+          "name": "Argentina"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      }
+    ],
+    "conversation_id": "2107787164625039773",
+    "created_at": "2026-10-07T10:56:35.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T11:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107787164625039773"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "AD10S"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2495199115",
+          "start": 3,
+          "username": "Argentina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zKNVwKT3XJ",
+          "end": 123,
+          "expanded_url": "https://x.com/Argentina/status/2107662141457314076/photo/1",
+          "media_key": "3_2107662054635028480",
+          "start": 100,
+          "url": "https://t.co/zKNVwKT3XJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107787164625039773",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2107662054635028480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4630
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107662141457314076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Argentina: #AD10S 🐐\n\n𝙔 𝙜𝙪𝙖𝙧𝙙𝙤 𝙚𝙣 𝙢𝙞𝙨 𝙤𝙟𝙤𝙨 𝙩𝙪 𝙪́𝙡𝙩𝙞𝙢𝙖 𝙢𝙞𝙧𝙖𝙙𝙖\n𝙈𝙚 𝙫𝙤𝙮 𝙚𝙨𝙥𝙚𝙧𝙖𝙣𝙙𝙤 𝙡𝙖 𝙥𝙧𝙤́𝙭𝙞𝙢𝙖 𝙟𝙪𝙜𝙖𝙙𝙖 https://t.co/zKNVwKT3XJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2107662054635028480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT_reMkXQAAP7nS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107662054635028480"
+          ],
+          "media_source_tweet_id": [
+            "2107662141457314076"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          }
+        ],
+        "conversation_id": "2107787164625039773",
+        "created_at": "2026-10-07T10:56:35.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107787164625039773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "AD10S"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2495199115",
+              "start": 3,
+              "username": "Argentina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKNVwKT3XJ",
+              "end": 123,
+              "expanded_url": "https://x.com/Argentina/status/2107662141457314076/photo/1",
+              "media_key": "3_2107662054635028480",
+              "start": 100,
+              "url": "https://t.co/zKNVwKT3XJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107787164625039773",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2107662054635028480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4630
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107662141457314076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Argentina: #AD10S 🐐\n\n𝙔 𝙜𝙪𝙖𝙧𝙙𝙤 𝙚𝙣 𝙢𝙞𝙨 𝙤𝙟𝙤𝙨 𝙩𝙪 𝙪́𝙡𝙩𝙞𝙢𝙖 𝙢𝙞𝙧𝙖𝙙𝙖\n𝙈𝙚 𝙫𝙤𝙮 𝙚𝙨𝙥𝙚𝙧𝙖𝙣𝙙𝙤 𝙡𝙖 𝙥𝙧𝙤́𝙭𝙞𝙢𝙖 𝙟𝙪𝙜𝙖𝙙𝙖 https://t.co/zKNVwKT3XJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107662054635028480"
+          ]
+        },
+        "author_id": "2495199115",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226234080788481",
+              "name": "Argentina"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1415604701358219264",
+              "name": "Tokio 2020: Argentina en los Juegos Olímpicos 🇦🇷"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Con un gol de Julián Álvarez y dos más de Messi, el equipo albiceleste venció este martes 3-0 a Jamaica en el Red Bull Arena de New Jersey, como parte de los partidos amistosos camino al Mundial de Qatar 2022. \n\nRevive toda la acción a través de Tweets de medios y periodistas detectados por un algoritmo:",
+              "id": "1574897731151093760",
+              "name": "Argentina vence a Jamaica y suma 35 partidos consecutivos invicta 🇦🇷⚽️"
+            }
+          }
+        ],
+        "conversation_id": "2107662141457314076",
+        "created_at": "2026-10-07T02:39:47.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T03:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107662141457314076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "AD10S"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKNVwKT3XJ",
+              "end": 108,
+              "expanded_url": "https://x.com/Argentina/status/2107662141457314076/photo/1",
+              "media_key": "3_2107662054635028480",
+              "start": 85,
+              "url": "https://t.co/zKNVwKT3XJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107662141457314076",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2107662054635028480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 851,
+          "impression_count": 171081,
+          "like_count": 25959,
+          "quote_count": 154,
+          "reply_count": 92,
+          "retweet_count": 4630
+        },
+        "reply_settings": "everyone",
+        "text": "#AD10S 🐐\n\n𝙔 𝙜𝙪𝙖𝙧𝙙𝙤 𝙚𝙣 𝙢𝙞𝙨 𝙤𝙟𝙤𝙨 𝙩𝙪 𝙪́𝙡𝙩𝙞𝙢𝙖 𝙢𝙞𝙧𝙖𝙙𝙖\n𝙈𝙚 𝙫𝙤𝙮 𝙚𝙨𝙥𝙚𝙧𝙖𝙣𝙙𝙤 𝙡𝙖 𝙥𝙧𝙤́𝙭𝙞𝙢𝙖 𝙟𝙪𝙜𝙖𝙙𝙖 https://t.co/zKNVwKT3XJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆猫猫玩偶🥰@dandelion6238 |妹妹@strf_9040c|好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "is_identity_verified": false,
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "most_recent_tweet_id": "2107787164625039773",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692075579850563584/1698142604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1195,
+          "like_count": 2988,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 11631
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-14T22:28:45.000Z",
+        "description": "Cuenta oficial de la Selección Argentina. \n\nFan Page: /AFASeleccionArgentina\n\nInstagram: /afaseleccion\n\nYouTube: /afaseleccion",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afa.com.ar",
+                "end": 23,
+                "expanded_url": "http://afa.com.ar",
+                "start": 0,
+                "url": "https://t.co/qIQ3AlTjys"
+              }
+            ]
+          }
+        },
+        "id": "2495199115",
+        "is_identity_verified": false,
+        "location": "Argentina",
+        "most_recent_tweet_id": "2107678552108007792",
+        "name": "🇦🇷 Selección Argentina ⭐⭐⭐",
+        "pinned_tweet_id": "2094452536354767141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2495199115/1606341699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604558315471753219/esZSkuhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6144398,
+          "following_count": 64,
+          "like_count": 1112,
+          "listed_count": 5537,
+          "media_count": 64374,
+          "tweet_count": 78718
+        },
+        "url": "https://t.co/qIQ3AlTjys",
+        "username": "Argentina",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
